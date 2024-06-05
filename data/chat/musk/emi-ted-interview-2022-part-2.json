@@ -1,0 +1,391 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/10/01/ted-interview-2022-part-2/",
+  "speakers": [
+    {
+      "id": "chris_anderson",
+      "name": "Chris Anderson"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "chris_anderson",
+      "text": "If AI were to take down Earth, we need a plan B. Let’s shift our attention to space. We spoke last time we talked about reusability, and you had just demonstrated that spectacularly for the first time. Since then, you’ve gone on to build this monster rocket, Starship, which kind of changes the rules of the game in spectacular ways. Tell us about Starship."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Starship is extremely fundamental. The holy grail of rocketry or space transport is full and rapid reusability. This has never been achieved. The closest that anything has come is our Falcon 9 rocket, where we are able to recover the first stage, the boost stage, which is probably about 60% of the cost of the vehicle or of the whole launch. Maybe 70%. And we’ve now done that over 100 times.\nSo with Starship, we will be recovering the entire thing. At least that’s the goal. And moreover, recovering it in such a way that it can be immediately re-flown. Whereas with Falcon 9, we still need to do some amount of refurbishment to the booster and to the fairing nose cone. But with Starship, the design goal is immediate re-flight. You just refill propellants and go again. This is gigantic. Just as it would be in any other mode of transport."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And the main design is to basically take 100 plus people at a time, plus a bunch of things that they need, to Mars. So, first of all, talk about that piece. What is your latest timeline? One, for the first time, a Starship goes to Mars, presumably without people, but just equipment. Two, with people. Three, the sort of, okay, 100 people at a time. Let’s go."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. Well, just to put the cost thing into perspective. The expected cost of Starship putting 100 tons into orbit is significantly less than what it did cost to put our tiny Falcon 1 rocket into orbit. Just as the cost of flying a 747 around the world is less than the cost of a small airplane. You know, a small airplane that was thrown away. So it’s really pretty mind-boggling that the giant thing cost way less than the small thing. So it doesn’t use sort of exotic propellants or things that are difficult to obtain on Mars. It uses methane as fuel and it’s primarily oxygen – sort of roughly 77, 78% oxygen by weight. And Mars has a CO2 atmosphere and has water ice, which is CO2 plus H2O, so you can make CH4 methane and O2 oxygen on Mars."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Presumably, one of the first tasks on Mars will be to create a fuel plant that can create the fuel for the return trips of many Starships."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. And actually, it’s mostly going to be an oxygen plant, because it’s 78% oxygen, 22% fuel. But the fuel is a simple fuel that is easy to create on Mars and in many other parts of the solar system. So basically… And it’s all propulsive landing, no parachutes, nothing thrown away. It has a heat shield that’s capable of entering on Earth or Mars. We could even potentially go to Venus, but you don’t want to go there. Venus is hell, almost literally. But you could… It’s a generalized method of transport to anywhere in the solar system because the point at which you have propellant depo on Mars, you can then travel to the asteroid belt, and to the moons of Jupiter, and then to Saturn and ultimately, anywhere in the solar system."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. Your main focus and SpaceX’s main focus is still Mars. That is the mission. That is where most of the effort will go? Or are you imagining a much broader array of uses even in the coming, you know, the first decade or so of uses of this? Where we could go, for example, to other places in the solar system to explore… perhaps NASA wants to use the rocket for that reason?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. NASA is planning to use a Starship to return to the Moon, to return people to the Moon. And so we’re very honored that NASA has chosen us to do this. But I’m saying it’s a general solution to getting anywhere in the greater solar system. It’s not suitable for going to another star system, but it is a general solution for transport anywhere in the solar system."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Before it can do any of that, it’s got to demonstrate it can get into orbit around Earth. What’s your latest advice on the timeline for that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s looking promising for us to have an orbital launch attempt in a few months. So we’re actually integrating the… we’ll be integrating the engines into the booster for the first orbital flight starting in about a week or two. And the launch complex itself is ready to go. So assuming we get regulatory approval, I think we could have an overall launch attempt within a few months."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And a radical new technology like this, presumably there is real risk on those early attempts."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, like, I mean, the joke I make all the time is that excitement is guaranteed. Success is not guaranteed, but excitement certainly is."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But the last I saw on your timeline, you’ve slightly put back the expected date to put the first human on Mars till 2029, I want to say?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, so let’s see. I mean, we have built a production system for Starship. So, we are making a lot of ships and boosters."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "How many are you planning to make actually?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re currently expecting to make a booster and a ship roughly every… well, initially, roughly every couple of months, and hopefully by the end of this year, one every month. So it’s giant rockets, and a lot of them. Just talking in terms of rough orders of magnitude, in order to create a self-sustaining city on Mars, I think you will need something on the order of a thousand ships. And we just need a Helen of Sparta, I guess, on Mars."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "This is not in most people’s heads."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The planet that launched a thousand ships."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "That’s nice. But this is not in most people’s heads, this picture that you have in your mind. There’s basically a two-year window. You can only really fly to Mars conveniently every two years. You are picturing that during the 2030s, every couple years, something like 1,000 Starships take off, each containing 100 or more people. That picture is just completely mind-blowing to me. That sense of this armada of humans going to…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, like “Battlestar Galactica,” the fleet departs."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And you think that it can basically be funded by people spending maybe a couple hundred grand on a ticket to Mars. Is that price about where it has been?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think, if you say like, what’s required in order to get enough people and enough cargo to Mars to build a self-sustaining city. And it’s where you have an intersection of sets of people who want to go because I think only a small percentage of humanity will want to go and can afford to go or get sponsorship in some manner. That intersection of sets, I think, needs to be a million people or something like that.\nAnd so it’s what can a million people afford or get sponsorship for, because I think governments will also pay for it, and people can take out loans. But I think at the point at which you say, okay, like, if moving to Mars costs are, for argument’s sake, $100,000, then I think, you know, almost anyone can work and save up and eventually have $100,000 and be able to go to Mars if they want. We want to make it available to anyone who wants to go.\nAnd it’s very important to emphasize that Mars, especially in the beginning, will not be luxurious. It will be dangerous, cramped, difficult, hard work. It’s kind of like that Shackleton ad for going to the Antarctic, which I think is actually not real, but it sounds real, and it’s cool.\nIt’s sort of like, the sales pitch for going to Mars is, “It’s dangerous, it’s cramped. You might not make it back. It’s difficult. It’s hard work.” That’s the sales pitch."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. “You will make history”."
+    },
+    {
+      "role": "elon_musk",
+      "text": "“But it will be glorious”."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. So on that kind of launch rate, you’re talking about over two decades, you could get your million people to Mars, essentially. Whose city is it? Is it NASA’s city, is it SpaceX’s city?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s the people of Mars’ city. The reason for this… I mean, I have to say, like, I feel like well, why do this thing? I think this is important for maximizing the probable lifespan of humanity or consciousness. Human civilization could come to an end for external reasons, like a giant meteor, or super volcanoes, or extreme climate change, or World War III, or, you know, any one of a number of reasons. But the probable life span of civilizational consciousness as we know it, which we should really view as this very delicate thing, like a small candle in a vast darkness. That’s what appears to be the case. We’re in this vast darkness of space, and there’s this little candle of consciousness that’s only really come about after four and a half billion years. And it could just go out."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I think that’s powerful, and I think a lot of people will be inspired by that vision. So the reason you need the million people is because there has to be enough people there to do everything that you need to survive."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Really, like, the critical threshold is, if those ships from Earth stop coming for any reason, does the Mars city die out or not? And so we have to pass… you know, people talk about like, the sort of, the great filters, the things that perhaps… you know, we talk about the Fermi Paradox, and where are the aliens? Well, maybe there are these various great filters that the aliens didn’t pass and so they eventually just ceased to exist. And one of the great filters is becoming a multi-planet species. So we want to pass that filter. And I’ll be long dead before this is, you know, a real thing, before it happens. But I’d like to at least see us make great progress in this direction."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Given how tortured the Earth is right now, how much we’re beating each other up, shouldn’t there be discussions going on with everyone who is dreaming about Mars to try to say, we’ve got a once in a civilizations chance to make some new rules here? Should someone be trying to lead those discussions to figure out what it means for this to be the people of Mars’ city?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think ultimately, this will be up to the people of Mars to decide how they want to rethink society. Yet there’s certainly risk there, and hopefully, the people of Mars will be more enlightened and will not fight amongst each other too much. I mean, I have some recommendations, which people of Mars may choose to listen to or not. I would advocate for more of a direct democracy, not a representative democracy, and laws that are short enough for people to understand. And where it is harder to create laws than to get rid of them."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Coming back a bit nearer term. I’d love you to just talk a bit about some of the other possibility space that Starship seems to have created. So given, suddenly, we’ve got this ability to move 100 tons plus into orbit. So we’ve just launched the James Webb Telescope, which is an incredible thing. It’s unbelievable."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exquisite piece of technology."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Exquisite piece of technology. But people spent two years trying to figure out how to fold up this thing. It’s a three-ton telescope."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We can make it a lot easier if you’ve got more volume and mass."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Well, but let’s ask a different question which is, how much more powerful a telescope could someone design based on using Starship, for example?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Roughly, I would say, it’s probably an order of magnitude more resolution if you’ve got 100 tons and 1,000 cubic meters volume, which is roughly what we have."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And what about other exploration through the solar system? I mean, I’m, you know…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Europa is a big question mark."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. So there’s an ocean there, right? And what you really want to do is to drop a submarine into the ocean."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, maybe there’s like some squid civilization, cephalopod civilization, under the ice of Europa. That would be pretty interesting."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I mean, Elon, if you could take a submarine to Europa, and we see pictures of this thing being devoured by a squid, that would honestly be the happiest moment of my life."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Pretty wild, yeah."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "What other possibilities are out there? Like, it feels like if you’re going to create 1,000 of these things, they can only fly to Mars every two years. What are they doing the rest of the time? It feels like there’s this explosion of possibility that I don’t think people are really thinking about."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I don’t know. We’ve certainly got a long way to go. As you alluded to earlier, we still have to get to orbit. And then, after we get to orbit, we have to really prove out and refine full and rapid reusability. That’ll take a moment. But I do think we will solve this. I’m highly confident we will solve this at this point."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Do you ever wake up with the fear that there’s going to be this Hindenburg moment for SpaceX where…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’ve had many Hindenburg… well, we’ve never had Hindenburg moments with people, which is very important. Big difference. We’ve blown up quite a few rockets. There’s a whole compilation online that we put together and others put together. It’s showing rockets are hard. I mean, the sheer amount of energy going through a rocket boggles the mind. So, you know, getting out of Earth’s gravity well is difficult. We have a strong gravity and a thick atmosphere. And Mars, which is less than 40%, it’s like 37% of Earth’s gravity and has a thin atmosphere. The ship alone can go all the way from the surface of Mars to the surface of Earth. Whereas getting to Mars requires a giant booster and orbital refilling."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "So, Elon, as I think more about this incredible array of things that you’re involved with, I keep seeing these synergies, to use a horrible word, between them. You know, for example, the robots you’re building from Tesla could possibly be pretty handy on Mars, doing some of the dangerous work and so forth. I mean, maybe there’s a scenario where your city on Mars doesn’t need a million people. It needs half a million people and half a million robots."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And that’s a possibility. Maybe the Boring Company could play a role helping create some of those subterranean dwelling spaces that you might need. Back on planet Earth, it seems like a partnership between Boring Company and Tesla could offer an unbelievable deal to a city to say, we will create for you a 3D network of tunnels populated by robo-taxis that will offer fast, low-cost transport to anyone. You know, full self-driving may or may not be done this year. And in some cities, like, somewhere like Mumbai, I suspect won’t be done for a decade."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Some places are more challenging than others."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But today, with what you’ve got, you could put a 3D network of tunnels under there."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, if it’s just in a tunnel that’s a solved problem, basically."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Exactly, full self-driving is a solved problem. So, to me, there’s amazing synergy there. With Starship, you know, Gwynne Shotwell talked about by 2028 having from city to city, you know, transport on planet Earth."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, this is a real possibility. The fastest way to get from one place to another, if it’s a long distance, is a rocket. It’s basically ICBM\n(Intercontinental Ballistic Missile)\nwith land landing, delete the nuke."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But it has to land… Because it’s an ICBM, it has to land probably offshore because it’s loud."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it is loud."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "So why not have a tunnel that then connects to the city with Teslas?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that would be cool."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And Neuralink. I mean, if you’re going to go to Mars, having a telepathic connection with loved ones back home, even if there’s a time delay…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "These are not intended to be connected, by the way, but there certainly could be some synergies, yeah."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Surely there is a growing argument that you should actually put all these things together into one company and just have a company devoted to creating a future that’s exciting and let a thousand flowers bloom. Have you been thinking about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, it is tricky because Tesla is a publicly traded company, and the investor base of Tesla and SpaceX, and certainly Boring Company and Neuralink, are quite different. Boring Company and Neuralink are tiny companies. Tesla got 110,000 people, SpaceX, I think, is about 12,000 people, Boring Company and Neuralink are both under 200 people. So they’re little, tiny companies, but they probably get bigger in the future. They will get bigger in the future. It’s not that easy to sort of combine these things."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Traditionally, you’ve said that for SpaceX especially, you wouldn’t want it public because public investors wouldn’t support the craziness of the idea of going to Mars or whatever."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, making life multi-planetary is outside of the normal time horizon of Wall Street analysts, to say the least."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I think something’s changed, though. What’s changed is that Tesla is now so powerful and so big, and throws off so much cash, that you actually could connect the dots here. Just tell the public that x billion dollars a year, whatever your number is, will be diverted to the Mars mission. I suspect you’d have massive interest in that company. And it might unlock a lot more possibility for you, no?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I would like to give the public access to ownership of SpaceX. But the overhead associated with public company is high. I mean, as a public company, you’re just constantly sued. It does occupy like a fair bit of, you know, time and effort to deal with these things."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right, but you would still only have one public company. It would be bigger and have more things going on. But instead of being on four boards, you’d be on one."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m actually not even on the Neuralink or Boring Company boards. And I don’t really attend the SpaceX board meetings. We only have two a year, and I just stop by and chat for an hour. So, the board overhead for a public company is much higher."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. I think some investors probably worry about how your time is being split, and they might be excited by that. Anyway, I just woke up the other day thinking, just, there are so many ways in which these things connect. And you know, just the simplicity of that mission, of building a future that is worth getting excited about, might appeal to an awful lot of people. Elon, you’re reported by Forbes and everyone else as now, you know, the world’s richest person."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s not a sovereign. You know, I think it’s fair to say that if somebody is like the king or de facto king of a country, they’re wealthier than I am."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But it’s just harder to measure. But what people do… so $300 billion. I mean, your net worth on any given day is rising or falling by several billion dollars. How insane is that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s bonkers, yeah."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I mean, how do you handle that psychologically? There aren’t many people in the world who have to even think about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I actually don’t think about that too much. The thing that is actually more difficult, and that does make sleeping difficult, is that every good hour, or even minute, of thinking about Tesla and SpaceX has such a big effect on the company that I really try to work as much as possible, you know, to the edge of sanity, basically. Because Tesla’s getting to the point where – probably will get to the point later this year – where every high-quality minute of thinking is a million dollars impact on Tesla. Which is insane. I mean, the basic, you know, if Tesla’s doing sort of $2 billion a week, let’s say, in revenues, sort of $300 million a day, seven days a week, you know, it’s…"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "If you can change that by 5% in an hour’s brainstorm, that’s a pretty valuable hour."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, there are many instances where a half-hour meeting… I was able to improve the financial outcome with the company by $100 million in a half-hour meeting."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "There are many other people out there who can’t stand this world of billionaires. Like, they are hugely offended by the notion that an individual can have the same wealth as, say, a billion or more of the world’s poorest people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If they examined sort of… I think there’s some axiomatic flaws that are leading them to that conclusion. For sure, it would be very problematic if I was consuming, you know, billions of dollars a year in personal consumption. But that is not the case. In fact, I don’t even own a home right now. I’m literally staying at friends’ places. If I travel to the Bay Area, where most of Tesla’s engineering is, I basically rotate through friends’ spare bedrooms. I don’t have a yacht. I really don’t take vacations. It’s not as though that my personal consumption is high. I mean, the one exception is a plane. But if I don’t use the plane than I have less hours to work."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I mean, I personally think you have shown that you are mostly driven by really quite a deep sense of moral purpose. Like, your attempts to solve the climate problem have been as powerful as anyone else on the planet that I’m aware of. And I actually can’t understand… personally, I can’t understand the fact that you get all this criticism from the left about, “Oh my God, he’s so rich.” That’s disgusting. When climate is their issue, philanthropy is a topic that some people go to. Philanthropy is a hard topic. How do you think about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think if you care about the reality of goodness instead of the perception of it, philanthropy is extremely difficult. SpaceX, Tesla, Neuralink and The Boring Company are philanthropy. If you say philanthropy is love of humanity, they are philanthropy. Tesla is accelerating sustainable energy. This is a love of… philanthropy. SpaceX is trying to ensure the long-term survival of humanity with a multi-planet species. This is love of humanity. You know, Neuralink is to help solve brain injuries and existential risk with AI. Love of humanity. Boring Company is trying to solve traffic, which is hell for most people, and that also is love of humanity."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "How upsetting is it to you to hear this constant drumbeat of, “Billionaires, my God, Elon Musk, oh, my God”? Like, do you just shrug that off, or does it actually hurt?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, at this point, it’s water off a duck’s back."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Elon, I’d like to, as we wrap up now, just pull the camera back and just think… you’re a father of seven surviving kids, and…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, I’m trying to set a good example because the birthrate on Earth is so low that we’re facing civilizational collapse unless the birthrate returns to a sustainable level."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Yeah, you’ve talked about this a lot, that depopulation is a big problem. And people don’t understand how big a problem it is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, population collapse is one of the biggest threats of the future of human civilization. And that is what’s going on right now."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "What drives you on a day-to-day basis to do what you do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I guess, like, I really want to make sure that there is a good future for humanity and that we’re on a path to understanding the nature of the universe, the meaning of life, why are we here, how did we get here? And in order to understand the nature of the universe and all these fundamental questions, we must expand the scope and scale of consciousness. Certainly, it must not diminish or go out, or we certainly wouldn’t understand this. I would say I’ve been motivated by curiosity more than anything, and just a desire to think about the future and not be sad, you know."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And are you? Are you not sad?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m sometimes sad. Mostly I’m feeling I guess, relatively optimistic about the future these days. There are certainly some big risks that humanity faces. I think the population collapse is a really big deal that I wish more people would think about. Because the birth rate is far below what’s needed to sustain civilization at its current level. And, yeah, there’s obviously… we need to take action on climate sustainability, which is being done. And we need to secure the future of consciousness by being a multi-planet species. We need to address the… essentially, it’s important to take whatever actions we can think of to address the existential risks that affect the future of consciousness."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "There’s a whole generation coming through who seem really sad about the future. What would you say to them?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think if you want the future to be good, you must make it so. Take action to make it good. And it will be."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Elon, thank you for all this time. That is a beautiful place to end. Thanks for all that you’re doing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re welcome."
+    }
+  ]
+}

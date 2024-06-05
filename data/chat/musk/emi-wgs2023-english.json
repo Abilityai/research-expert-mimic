@@ -1,0 +1,159 @@
+{
+  "src": "https://elon-musk-interviews.com/2023/03/17/wgs2023-english/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "mohammad_al_gergawi",
+      "name": "Mohammad Al Gergawi"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "Good morning."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Good to see you, Elon. It’s been almost six years where I sat with you here on this platform with a great audience. It was your first trip to Dubai with your family. I hope you enjoyed it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it was wonderful. I very much enjoyed it. I see my head is gigantic on the stage. My head has grown larger since we last met."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Is it because of Twitter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I don’t know, perhaps. Twitter is certainly quite the roller coaster."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Elon, you know, it’s been six years. Within six years, we’ve seen tremendous things since our last conversation. We’ve seen the pandemic, Russian Ukrainian War, development of ChatGPT, you launched Starship, you recently also acquired Twitter. Can I ask you this question: Why you bought Twitter? Why didn’t you create your own platform? Maybe it was cheaper for you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I thought about creating something from scratch, but I thought Twitter would perhaps accelerate progress versus creating something from scratch by 3 to 5 years. I think we are seeing just a tremendous technology acceleration. You know, 3 to 5 years is actually worth a lot. I mean, I was a little worried about the direction and the effect of social media on the world and especially Twitter. I thought it was very important for there to be a maximally trusted sort of Digital Public Square where people within countries and internationally can communicate with the least amount of censorship allowed by law. Obviously, that varies a lot by jurisdiction.\nBut I think, in general, social media companies should adhere to the laws of countries and not try to put a thumb on the scale beyond the laws of the countries. I think this is something that is probably agreeable to the legislators and to the people of most countries. So that’s the general idea. It’s just to reflect the values of the people as opposed to imposing the values of essentially San Francisco and Berkeley, which are somewhat of a niche ideology as compared to the rest of the world. But Twitter was, I think, doing a little too much to impose a niche ‘San Francisco-Berkeley’ ideology on the world. I thought it was important for the future of civilization to try to correct that thumb on the scale, if you will, and just have Twitter more accurately reflect, like I said, the values of the people of Earth. That’s the intention, and hopefully we’ll succeed in doing that."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "But how do you see Twitter say, five years down the road? What’s your vision for this platform? What should it do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you know, I have this sort of long-term vision of something called X.com from way back in the day, which is sort of like an everything app where it’s just maximally useful. It does payments, provides financial services, provides information flow, really anything digital. It also provides secure communications. You know, I think [the goal of x.com] is to be as useful as possible, as entertaining as possible, and a source of truth. If you want to find out what’s going on and what’s really going on, then you should be able to go on the X app and find out. So it’s sort of a source of truth and a maximally useful system. And Twitter is essentially an accelerant to that sort of maximally useful everything app."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "If you look at Twitter today… I mean, it’s a platform. Sometimes there is a lot of misinformation on Twitter. Sometimes I don’t feel comfortable because there is this negativity between nations, between people, between different ethnic groups – that is the same thing. How are you going to fix this issue where you are in a mission for humanity to get them together?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think there’s something that we’re putting a lot of effort into called “Community Notes”. It’s currently just in English, but we will be expanding it to all languages. That is, I think, quite a good way to assess the truth of things where it’s the community itself, basically the people of Earth, who are basically not exactly voting but competing to provide the most accurate information. So it’s sort of a competition for truth. I think it’s a very powerful concept to have a competition for truth.\nBecause, like, what is truth? Because what may be true to some, may not be viewed as true to others. But you want to have the closest approximation of that. So I think the Community Notes thing is very powerful. I think we are trying to have as many organizations and people and institutions verified as being legitimately those people and organizations is important, and to have the organizational affiliation clearly identified so that if you want to find out if somebody’s actually… if an account is actually from a member of parliament or a journalist or if let’s say, a Twitter handle actually belongs to, say, Disney corporation or something like that, you can go on Twitter and it’s sort of an identity layer of the Internet. You can confirm that is, in fact, the case.\nI think once you’ve got these interlocking sort of identities, it’s actually very hard to be deceptive in that case. And it’s also, you have a reputation to protect at that point. So I think then people are far more likely to be measured in their response and will be more reasonable since they have reputational value at that point. So these are some of the ideas that I have, and you know I’m not saying that for sure it will succeed or that it’s going to be perfect. But I am confident that it will, over time, head in a good direction. And I think that the evidence for that will be, do people find it useful?\nAs we’re measuring sort of the total user minutes, but not just user minutes, unregretted user minutes, which I think that that’s the key figure of merit. For example, TikTok has a very high usage. But I often hear people say: “Well, I spent two hours on TikTok, but I regret those two hours.” I’m not trying to knock TikTok, but it’s just we don’t want that to be the case with Twitter. We want to say like, ‘okay, you spent half an hour on Twitter, but you found it to be useful and entertaining and a good thing in your life.’ And ultimately be a force for good for civilization – that’s the aspiration."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Thank you. Elon, we have over 150 governments within the World Government Summit, global leaders. They have eight billion customers, their citizens. How can governments use Twitter better to serve their citizens?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think, generally, I would recommend really communicating a lot on Twitter. And I think it’s good for people to speak in their voice as opposed to how they think they should speak. Sometimes people think, ‘I should speak in this way that is expected of me,’ but it ends up sounding somewhat at times stiff and not real. You know, like, if you read a press release from a corporation, it just sounds like propaganda. I would encourage CEOs and companies and legislators and ministers and so forth to speak authentically. If there’s, say, a particular policy, to explain it. I think there’s sometimes a concern about criticism. But I think, at the end of the day, having some criticism is fine. It’s really not that bad.\nI’m constantly attacked on Twitter, frankly. And I don’t mind. You have to be somewhat thick-skinned, I suppose, at times, because they really try and twist the knife. But I think, just like I said, as a forum for communication, it’s great. I would just encourage more communication and, like I said, to sort of speak in an authentic voice. Like sometimes, people will have someone else be their sort of Twitter manager or something like that. And I think people should just do their own tweets. Sometimes you make a mistake or something. It’s fine. But I think doing your own tweets, just like you would give a talk here or have a meeting at a summit, that’s the way to do it. To actually do the tweets yourself and convey the message that you want directly.\nOne thing I should say: I know this is called the “World Government Summit”, but I think we should be maybe a little bit concerned about actually becoming too much of a single world government, if I may say that. We want to avoid creating a civilizational risk by having, frankly – this may sound a little odd – too much cooperation between governments. If you look at history and the rise and fall of civilizations: really, all throughout history, civilizations have risen and fallen. But it hasn’t meant the doom of humanity as a whole because they’ve been all these separate civilizations that were separated by great distances.\nWhile Rome was falling, Islam was rising. So you had, you know, the sort of caliphate doing incredibly well while Rome was doing terribly. And that actually ended up being a source of preservation of knowledge and many scientific advancements. So I think we want to be a little bit cautious about being too much of a single civilization because if we are too much of a single civilization, then the whole thing may collapse.\nI’m obviously not suggesting war or anything like that. But I think we want to be a little bit wary of actually cooperating too much. It sounds a little odd. But we want to have some amount of civilizational diversity such that if something does go wrong with some part of civilization that the whole thing doesn’t collapse, and humanity keeps moving forward."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Thank you. I hear you, I agree and disagree with you at a certain point. I think, you know, it’s today people they don’t fight with swords anymore. I mean, they have nuclear weapons. so if there is this conflict, the whole human civilization will be gone. And what we are trying to do here at the Emirates actually is to do exactly what you are saying. We have 180 nationalities, we have every single race, every single religion, and we are trying to create a model that shows the world that it doesn’t matter who you are, what’s your color, what’s your religion, where you’re from: Humanity can live in peace and harmony."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, that would be good."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "My last question… I’ll go to Twitter again, then we’ll move out of Twitter if you allowed us. I mean, you’ve been running Twitter as the chairman, as the owner, as the CEO, and that takes a lot of time. Did you identify a CEO, and when you are going to hire him?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think I need to stabilize the organization and just make sure it’s in a financially healthy place and that the product roadmap is clearly laid out. So I’m guessing probably towards the end of this year would be a good timing to find someone else to run the company because I think it should be in a stable position at the end of this year."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Elon, if we move to other subjects: At the summit here we have speakers who speak about the state of the world, geopolitical state of the world for the next ten decades, state of the economy of the world, you know, now and in the next ten years. If I ask you about the state of technology, if you can elaborate a bit and brief us: How do you see technology in the next ten years from now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s see, ten years…  It’s always difficult to predict technology with precision, especially over a ten-year time frame when it is changing so much. There’s obviously the transition to sustainable energy with solar, wind, batteries, and electric vehicles. If you look at the percentage growth from that, that is a very high percentage growth, although… Because of the massive industrial base of the current fossil fuel economy – even if all cars were 100% electric production immediately, it would take 20 years to replace the fleet. This is still something that is quite gradual. It’s measured in at least 30-40 years type of time frame.\nOn a more sort of near-term time frame, I think artificial intelligence is something we need to be quite concerned about and really be attentive to the safety of AI. You mentioned ChatGPT earlier. I played a significant role in the creation of OpenAI. Essentially at the time I was concerned that Google was not paying enough attention to AI safety, and so I, with a number of other people, created OpenAI. Although initially, it was created as an open-source nonprofit, and now it is closed source and for profit. I don’t have any stake in OpenAI anymore, nor am I on the Board, nor do I control it in any way. But ChatGPT, I think, has illustrated to people just how advanced AI has become. Because AI has advanced for a while, it just didn’t have a user interface that was accessible to most people. So what really ChatGPT has done is just put an accessible user interface on AI technology that has been present for a few years. And there are much more advanced versions of that that are coming out.\nSo I think we need to regulate AI safety, frankly. Because think of any technology which is potentially a risk to people, like if it’s an aircraft or cars or medicines, and we have regulatory bodies that oversee the public safety of cars and planes and medicine. I think we should have a similar sort of regulatory oversight for artificial intelligence because it is, I think, actually a bigger risk to society than cars or planes, or medicine. This may slow down AI a little bit, but I think that that might also be a good thing. The challenge here is that government regulatory authorities tend to be set up in reaction to something bad that happened.\nSo if you look at, say, aircraft or cars… you know, the cars were unregulated in the beginning, aircraft were unregulated, but they had lots of airplane crashes, and in some cases, manufacturers that were cutting corners, and a lot of people were dying. The public was not happy about that, and so they established a regulatory authority to improve safety. And now commercial airliners are extremely safe. In fact, they’re safer than if you were to drive somewhere. The safety per mile of a commercial airliner is better than a car. And cars are also extremely safe compared to where they used to be.\nBut if you look at, say, the introduction of seat belts: The auto industry fought the introduction of seat belts as a safety measure for 10 or 15 years before finally the regulators made them put seat belts in cars. That greatly improved the safety of cars. And then airbags were another big improvement in safety.\nMy concern is that with AI, if something goes wrong, the reaction might be too slow from a regulatory standpoint. If I’d say: “What are the biggest risks to the future of civilization?”, it’s AI. But AI is both positive and negative and has great promise, great capability, but also with that comes great danger. Just like with nuclear physics, you had nuclear power generation but also nuclear bombs. I think we should be quite concerned about it, and we should have some regulation of what is fundamentally a risk to the public."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Let me move to another subject, Elon: Education. I mean, you have your own philosophy about education. With AI, education might change dramatically. Can you tell us briefly about your philosophy of education? And number two: Do we need 12 years of schooling and four years of university?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "With respect to education, I think, in general, some things that we could do to make it more compelling would be to explain to children why we are teaching a particular subject. The human mind is evolved to really forget anything that it deems unimportant. In fact, human memory is really quite bad relative to, say, the memory of your phone. Your phone can remember the entire contents of an encyclopedia down to the last letter and pixel. But human memory is terrible by comparison. The mind is constantly trying to forget things, actually. But if you explain why a subject is being taught, that will then establish relevance and is much more likely to result in motivation for kids. And also, if you teach knowledge especially in the sciences as solutions to a problem, it’s much more effective.\nLet’s say you’re trying to understand an internal combustion engine, it’s actually better to take that apart and then say: “Okay, what tools do we need to take it apart? We need a wrench, and screwdriver, and various other things to take it apart.” Then you understand the reason for the tools. And so for mathematics and physics is like tools in engineering. If you teach to the problem, then you establish the relevance of the tools. Then it’s actually much easier to remember mathematics and physics because they help explain how the world works as opposed to teaching them without explaining why. Instead of teaching to the problem, currently, we teach to the tool. It would be like having a course on screwdrivers or a course on wrenches but not understanding why you’re learning about screwdrivers and wrenches.\nI think this is really quite a fundamental principle that should be applied in education. I think sometimes we do teach classes that children do not find useful, and where the answer to the ‘why’ is actually not going to be a very good answer. Most people do not find advanced mathematics useful and are unlikely to find it useful in their life. Or the elements that they do find useful could be taught very quickly as general principles.\nI also think that critical thinking is something that should be taught to children at a relatively young age. It’s effectively like a mental firewall to really think about when somebody tells you something is it cogent, is it true? Or what is the probability that it is true? So that you can be taught to reject things that are untrue or are more likely to be untrue and favor things that are more likely to be true. Critical thinking is very helpful for people to learn."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "So is it 12 years of schooling you are with, or without 12 years?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Twelve years is a long time, I suppose. I mean, humans just do take a long time to mature, so there’s emotional maturity, physical maturity, and mental maturity that is happening simultaneously with the education. I suppose it could be done in ten years, perhaps it does not need 12. But then, is someone mature at age 16? They’re more likely to be mature at age 18. So I guess 12 years is probably not bad. We probably don’t need an additional four or five or six years in college or university, that seems probably excessive. I think we could probably shave a few years off and be fine."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Kids would love it, by the way. Social media: We spend so many hours on social media. I mean, the average sometimes in certain countries is three, four hours on social media. And sometimes, when we go to our kids, we see them spending also long hours. Do you have any rules for your kids, I mean, how much they can spend on social media?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve fairly not tried to restrict social media for my kids, although that might have been a mistake, depending on which kid it is. I mean, they’ve really been programmed by Reddit and YouTube, I’d say. More than anything else, by Reddit and YouTube. I think probably I would limit social media a bit more than I have in the past and take note of what they’re watching because I think, at this point, they’re being like programmed by some social media algorithm which you may or may not agree with. I think one probably needs to supervise children’s use of social media and be wary of them getting programmed by some algorithm written in Silicon Valley, which may or may not be what you want."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Elon, you’ve been working very hard. I mean, since six years ago we met… you look much younger, by the way, than six years ago."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, thanks. You look great, too."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "But I know that you’ve been working for almost 20 hours a day, you sleep on the sofa in the office, maybe Twitter office, Tesla office. You told me once when I was with you at Tesla’s office. How do you balance your life? I mean, with this stress, with so many different… you know, you’re on so many different companies parallel. How do you balance it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I should point out that a 20-hour workday is relatively unusual and rather painful. I do sleep six hours a night, and if I sleep less than six hours a night, I find that I might be awake longer, but I get less done. But I do work a ridiculous amount relative to most people, and that is pretty much seven days a week and mostly from when I wake up to when I go to sleep. I’m not suggesting this is good for everyone, and I think, frankly, I would like to work a bit less than that.\nLike I say, Tesla went through some very difficult times, where it was on the ragged edge of survival, and really, if I didn’t give it everything I got, the company could have easily gone bankrupt. It was really on the verge of bankruptcy for quite a while. I don’t mean to suggest complacency at this point, but it does require much less work to operate Tesla now versus the 2017-2019 time frame. Now it’s not at mortal risk of survival, it’s achieved economies of scale that make it not on the ragged edge of survival.\nSpaceX also has a strong team and is able to make a lot of progress even if I spend less time there. It does help when I spend time there, but it keeps making progress even if I don’t.\nTwitter is still somewhat of a startup in reverse, and so there’s a lot of work required here to get Twitter to a sort of a stable position and, like I said, to really build the engine of software engineering at Twitter and really have a great product roadmap and the people in place to implement that product roadmap. And so, it is not my intention to work like crazy. I mean, I think I’d be comfortable with a mere 80-hour workweek. That would be fine. That is what I would aspire to."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Thank you. We are running out of time. I have one last question I have to ask you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Three UFOs have been shot, one over Alaska, Lake Huron, and Canada. Alien? No alien?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t think it’s aliens, no. I do find the whole question of aliens a very interesting one, what is typically called the Fermi Paradox, which is: If the universe is really as old as science seems to think it is, where are the aliens? Have we really been around for 13.8 billion years? If so, shouldn’t there be aliens all over the place? The crazy thing is I’ve seen no evidence of alien technology or alien life whatsoever, and I’d think I’d know. You know, at SpaceX, we do a lot. I don’t think anyone knows more about space than me, or at least space technology.\nBut I think it’s actually a troubling thing if there are no aliens as well. What that actually could mean then is that civilization and consciousness is like a tiny candle in a vast darkness, and a very vulnerable tiny candle that could easily get blown out. We should therefore take great care with what may very well be this tiny candle in a vast darkness and make sure that it does not go out. And that we send the light of consciousness beyond Earth and do everything we can to ensure that the light of consciousness does not go out."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Elon, we run out of time. Thank you very much, and hopefully to see you next year with us here in the Emirates with your family."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sounds good. And thanks so much again for having me."
+    },
+    {
+      "role": "mohammad_al_gergawi",
+      "text": "Thank you, we’ll see you. Bye-bye."
+    }
+  ]
+}

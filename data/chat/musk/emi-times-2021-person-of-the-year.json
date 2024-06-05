@@ -1,0 +1,75 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/12/18/times-2021-person-of-the-year/",
+  "speakers": [
+    {
+      "id": "edward_felsenthal",
+      "name": "Edward Felsenthal"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "starting_with_space",
+      "name": "Starting with space"
+    }
+  ],
+  "messages": [
+    {
+      "role": "edward_felsenthal",
+      "text": "What’s more important – rockets or cars? Actually, that’s a good first question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I guess they are both important. I guess, my career is Mars and cars."
+    },
+    {
+      "role": "edward_felsenthal",
+      "text": "Mars and cars."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We need to transition to sustainable energy and become a spacefaring civilization."
+    },
+    {
+      "role": "edward_felsenthal",
+      "text": "Starting with space: Why haven’t you gone… you know, Bezos went up, Branson went up. Do you want to go up? Is that on your to-do list in 2022? Or how do you think about that yourself?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I might go up at some point. I mean, there is an underlying philosophy by which I aspire to guide my actions, and that is to take that sort of actions that maximizes the probability that the future is good and hopefully not to pave the road to hell with good intensions. The point of SpaceX is to help make humanity a spacefaring civilization and ultimately a multi-planet species; so is to expand the scope and scale of consciousness and ultimately to better understand what questions to ask about the answer which is the universe."
+    },
+    {
+      "role": "edward_felsenthal",
+      "text": "Switching to risk in the context of Tesla and autopilot, auto driving. I mean, one of our competitors had a big piece on that this weekend and that it’s not all the way thought through… you know, back to risk – how do you think about… obviously that’s not zero risk either. You’re paving the way in that area?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Autonomy just is an incredibly important innovation because people spend many hours a week – ultimately, you know, many months of their lives probably in cars and stuck in traffic. And then there’s a lot of people dying in auto accidents. So, worldwide there is about a million deaths per year, the vast majority which are due to driver error. So, if we had autonomy, that would potentially save on the order of a million lives per year. And there’s about ten million serious accidents where there is a permanent injury per year. So, it’s one of the things where… you’re not going to get rewarded necessarily for lives that you saved, but you will definitely be blamed for lives that you don’t save. Somebody said to me at the beginning to pursue autonomy… he said that even if you saved 90% of lives, the 10% you don’t save are going to sue you."
+    },
+    {
+      "role": "edward_felsenthal",
+      "text": "Other people are worried about democracy, the future of democracy, the state of democracy, part of that …"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We have democracy?\n(laughs)"
+    },
+    {
+      "role": "edward_felsenthal",
+      "text": "I don’t know. Are you? My question is, are you worried about democracy?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Where?"
+    },
+    {
+      "role": "edward_felsenthal",
+      "text": "Here. First start here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it’s going to be okay in the grand scheme of things, you know. It’s easy to complain, but I mean, the fact of the matter is this is the most prosperous time in human history. But people’s expectation always adjusts to how are good things get; people’s expectations will always kind of recalibrate to how things are. But … it’s like, okay, is there really some point in history where you would rather be? And by the way, have you actually read history? It wasn’t great. So I think we should be probably happier with the way things are than maybe sometimes people are…"
+    }
+  ]
+}

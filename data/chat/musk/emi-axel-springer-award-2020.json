@@ -1,0 +1,399 @@
+{
+  "src": "https://elon-musk-interviews.com/2020/12/11/axel-springer-award-2020/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "mathias_döpfner",
+      "name": "Mathias Döpfner"
+    },
+    {
+      "id": "if_somebody_said",
+      "name": "If somebody said"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "That was fun."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Glad that you’ve enjoyed it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s like a ride. I mean, I think you could take money for this. This is great. It really makes a difference to have these two screens and those angle changes. That felt great, like a Disney ride.\nMathias Döpfner: Elon, apart from this special trip to Mars this evening, when do you think, realistically, human beings will land on Mars for the first time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I feel fairly confident about six years from now. The Earth-Mars-synchronization occurs roughly every 26 months. We had one this year, the summer, and that means in roughly about two years, there will be another one, and then two years after that. I think six years from now, I’m highly confident if we get lucky, maybe four years, and then we want to try to send an uncrewed vehicle there in two years."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "When will your first trip to orbit take place?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. Possibly in two or three years. I am (… 12:38) concerned with developing the technology that can enable a lot of people to go to Mars and make life multi-planetary and have a base on the Moon, a city on Mars. I think it’s important that we strive to have a self-sustaining city on Mars as soon as possible. I mean, I’m optimistic about the future on Earth, but it’s important to have life insurance for life as a whole."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Is it going to be a business, kind of tourism in orbit, or is it more a kind of plan B if things on Earth do not develop as well."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not exactly a plan B, it’s more that – I think there are two aspects to this. One is that we want to have a future that is inspiring and exciting. And what are the things that you find inspiring and exciting about the future? I think one, a future where we are a space-faring civilization and out there among the stars. I think that every kid gets excited about that. You don’t even need to teach them. It’s like instinctive. And so it’s very important for us to have reasons to be excited about life. Like when you wake up in the morning, it can’t just be about problems. I know everyone in this room deals with a lot of tough problems. But you know, it’s got to be more than that. I think a future where you say, hey, even if it’s not you, that’s going to be people out there, we are going to have a base on the Moon, we are going to have a city on Mars, maybe go further to the moons of Jupiter and everything. I think that’s a very exciting future. And then (…14:17)"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "And you seriously want to be buried on Mars?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just not on impact. I mean, we are all going to die someday, so if you are going to die someday, I’m like, okay, buried on Mars or on Earth, I’m like, Mars sounds cool, born on Earth, died on Mars, that’s, you know, if you’ve got the choice."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Two years ago, we had a conversation with Jack Ma, and we spoke about Jeff Bezos’s plans with regard to orbit, and he said, well, let Jeff Bezos take care of the orbit, I take care of the Earth. You seem to take care of both."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, basically, Tesla is about to try to make sure that things are good for the future on Earth, and then SpaceX is about a good future beyond Earth, basically. And so obviously, we have to have sustainable energy both consumption and production of energy. Like Tesla does solar panels and batteries. I think that’s one of the keyways to have sustainable energy generation, and also the batteries are useful for wind power. And then you need to consume that via (… 15:37) by electric vehicles. I look at these things, say, if you look back from the future and say what’s the fundamental good of Tesla, I would say it probably should be assessed by how many years did Tesla accelerate the advent of sustainable energy. That’s how I would measure the goodness of Tesla in that way. And then for SpaceX, it’s like, okay, to what degree did we improve the probability of humanity to be a space-faring civilization."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "I remember very well the year 2014 when we were hosting the Golden Steering Wheel here at Axel Springer, and you got the award for lifetime achievement. And I was sitting in the first row with the then very successful and famous CEO of a very big German car company. I asked him while you were on stage, ‚Isn’t this guy dangerous for you? I mean, this looks really serious.‘ And he said, ‚Oh no, don’t worry. First of all, the whole idea of electric driving is never going to be a mass market. Second, these guys in Silicon Valley, they have no clue about engineering and about building really beautiful and great cars. So we don’t have to worry.‘ By then, Tesla’s market cap was 23 billion, today it’s 536 billion US dollars. The market cap of VW then was 86, and today it’s 77. And you are with Tesla two and a half times bigger than BMW, VW, and Daimler."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I even said the stock is too high. So, what am I supposed to do? The stock is too high. A long time, when it was like at 800 dollars pre-split, but they don’t listen to me, you know, I tell you. And SEC is complaining again."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Is it a serious option to buy one of the incumbents, one of the big car companies, for you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think we are definitely not going to launch a hostile take-over, so I suppose if there was someone –"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "But a friendly one?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If somebody said: Hey, we think it would be a good idea to merge with Tesla, we certainly would have that conversation. But we don’t want to have a hostile take-over sort of situation."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Did you feel a lot of complacencies these days that the incumbents then let you feel that you are, I mean, a kind of hopeless disrupter, but they know how to do it, or were they very polite and nice to you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do you mean back then or –"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Back then. Today everybody is super nice."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, no, super-nice, I would not say, no. It’s difficult to characterize their responses as super nice. They used a lot of adjectives. I don’t think that any of them were positive. We really tried hard to convince a lot of companies. Honestly, I was in so many panels, but generally, the sentiment that was expressed that you mentioned earlier was pretty much universal. Especially back in 2008 or 2007, like when we first unveiled the Roadster in 2007. I mean basically they just said, well, you are basically a bunch of fools. Generally, they were saying like who’s starting a car company is crazy, you’re going to lose all your money. I was like, I think I probably will lose all my money, I agree, it isn’t like that I thought it would be successful. I thought we had maybe a 10% chance of success. So, then people would say it’s going to fail, you’re going to lose everything. And I was like, yeah, probably true, what else is new?"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "A couple of years ago, we saw each other in America. A guy asked you on a panel when autonomous driving will be approved, and you said I do not care so much when it is going to be approved. I care more when human beings in cars will be forbidden. And then the guy said, this is unrealistic; this is never going to happen. In cars, people want to do something actively. And then you said, well, a hundred years ago nobody could imagine an elevator without a lift boy. Today nobody could imagine a lift with a lift boy. So, when is autonomous driving really, really going to happen and when are you able to do it, and when is it going to be approved?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, just between us?"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Yeah, it’s a very discrete circle here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "First of all, I’m not against people driving, to be clear. I think people will drive cars basically as far into the future as I can imagine. It’s just that it’s going to be increasingly unusual to drive your own car. And, well, it’s fun to drive a well-handling car on a winding road in a beautiful train – of course, that’s fun. But it’s not fun to drive a car in terrible gridlocked traffic. Going through extreme traffic, that’s no fun driving a car. I think people are unlikely to most of the time want to commute and drive themselves. People are typically spending an hour and half a day, maybe two hours on average driving, especially let’s say like California or something (… 21:11) is very common. And some people will actually commute like three hours a day, sometimes it’s pretty crazy.\nIf say fast forward to like ten years from now, almost all cars will have full autonomy capability. All new cars produced. It’s about two billion cars and trucks in the existing fleet, and new vehicle production is about five percent of the fleet size, so about a hundred million. So even the point which all cars are autonomous, it will still take 20 years to replace all the cars assuming that the number of cars and trucks in the fleet stays constant. (… 22:00) ten years from now, I say the vast majority of cars are electric, like maybe 70, 80% or more, and almost all cars autonomous. Electric autonomy is the absolute in the future, no question. It’s just a question of when.\nThen like I said, as soon as people think that that means the global fleet gets replaced instantly, I say, no, we have to go 20 years beyond that point before – 20 years from the point which all new cars are electric, then the fleet will be replaced. So many people are used to like mobile phones and that kind of thing is like a two-year or three-year replacement rate, but cars are a much more expensive asset to longer life.\nAnyway, to actually answer your question, I’m extremely confident of achieving full autonomy and releasing it to the Tesla customer base next year. There is an uncertain period of time for how long regulatory approval will take. But I think if you are able to accumulate billions of kilometers of autonomous driving, then it’s difficult to argue. And look at the accident rate when the car is autonomous versus non-autonomous. And in fact, our statistics already show a massive difference when the car is on Autopilot or not on Autopilot. The safety is much greater, even with the current Autopilot software."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "And we are discussing level 5 autonomy, so really full autonomy?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Will Europe lag behind, or will it be approved here at the same time like America or China?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s hard to say exactly when it will be approved. Our customers already know this, but the EU regulators are the most conservative. And I don’t know if people want that to be the case or not. Our customers are sort of unhappy about it. They only meet every six months. Maybe meet more often – I don’t know. But I think at least some jurisdictions will allow full self-driving the next year."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Okay. Exactly a year ago, you were announcing in this very building that you are planning to build a new site near Berlin."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "And a couple of months later in June, you’ve started, you want to finish it by July next year. We did a little tour this morning. It’s impressive how advanced it is, and it’s almost unbelievable. Germany, particularly Berlin, is not world-famous for finishing construction sites in time and in budget. So you have created a kind of Anti-Berlin-Airport-Project. Why Berlin? Why did you go to Germany and to Berlin to get that big project done?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. Well, first of all, I’m actually a big fan of Germany. I love Germany. It’s great. I have a lot of friends, German friends, and I think Berlin is a very fun city. There’s also from a location standpoint, like say, young people can live in apartments at a reasonable price in the city of Berlin. But if somebody has got a family, they can still have an affordable house. So it’s a good location offering good living for people of all ages and incomes."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Berlin’s mayor once said, „Berlin is poor but sexy.“ Is it that what attracted you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Berlin is not that poor, but it’s definitely sexy."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Could you imagine –"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean we’re going to have like – when we open the – you are all invited by the way – when we have the opening for Giga Berlin, we’re going to have just a big party. We’re going to have like start off from the day we have more sort of family music and then gradually get more hardcore and then go midnight techno till dawn."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Do you plan to spend more time in Berlin yourself or want to partly live here?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In fact, yes, I will be spending a lot of time here."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Where do you sleep tonight?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Tonight, in the factory."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "In the factory?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, technically a conference room in the factory."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "You sleep in a conference room in the not finished factory tonight."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it gives me a good feel for what’s going on."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Alone, or…?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I assume so. Is this an invitation?"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Okay. Elon, you have so many projects. It’s not only Tesla or SpaceX. It’s Neuralink, it’s the Boring Company, so many things and we discussed last time – I asked you what is the most important project or the most important topic for you to deal with in the foreseeable future. And you said that is truly the role that A.I. is going to play in our society. Could you explain why and why that is a big opportunity but also seems to worry you?\nElon Musk: Well, I mean, humans have been the smartest creature on earth for a long time, and that is going to change with what’s typically called artificial general intelligence. So this is, say, an A.I. that is smarter than a human in every way. It could even simulate a human. This is something we should be concerned about. I think there should be government oversight of A.I. developments, especially super-advanced A.I. Anything that is a potential danger to the public, we generally agree that this should have government oversight to ensure that the public safety is taken care of."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Because you feel that one day mankind could serve the machines and not the other way around?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Honestly, when I see people on their phones, I think we’re already serving the machine. It’s like everyone’s answering the questions. Every time you do a search or add information, you’re sort of building this digital group mind. The advent of artificial general intelligence is called the singularity for a reason because, just like a black hole, which is a singularity, it’s difficult to predict what will happen. So, it’s not as though the advent of A.G.I. is necessarily bad, but bad is one of the possible outcomes."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "And when is the singularity in the definition of Ray Kurzweil going to happen?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think you’re saying he is predicting 2025. I think that is reasonably accurate."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "And how can it be avoided that it is then more a threat for humanity than an opportunity? Is it a question of governance so that there’s not too much power in one or in a few hands? Or how would you make sure that it goes in the right direction?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we should have a government oversight just like we do have government oversight and regulation of cars and aircraft and food and pharmaceuticals. These are all – there are regulators that oversee these developments to ensure public safety. And I think digital superintelligence would also be potentially a public safety risk, and so it should be – I think it’s very important for regulators to keep an eye on that."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Who should own the data by then?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think everyone should own their own data like individuals who own their data. And they certainly shouldn’t be tricked by some terms and conditions of a website, and suddenly you don’t own your data. That’s crazy. Who reads those terms and conditions anyway?\nBut I think it’s just like we wouldn’t let people develop a nuclear bomb in the backyard just for the hell of it, you know. That seems crazy. Digital superintelligence, I think, has the potential to be more dangerous than a nuclear bomb. We should just – somebody should be keeping an eye. We can’t have the inmates running the asylum here."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Which is a global issue because if we do well, but China has other rules and a different regulatory framework – that is another challenge."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is one of the rebuttals I get from those developing A.I., and Tesla is also developing a form of A.I. with self-driving, but it’s a very narrow form of A.I. just like the car is not going to wake up one day and take over the world. But the rebuttal I get is like, well, you know, China is going to have unfettered A.I. development. So, if we have regulations and that slows us down, then China will have it. And I’m like, look, from my conversations with government officials in China, they are quite concerned about A.I. as well, and the fact that they’re probably more likely to have a good oversight than I think other countries."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "What is the biggest challenge ahead of us? In general, not only with regard to A.I., what is the biggest problem that needs to be solved?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What’s the biggest threat to humanity’s future or something? Well, A.I. is certainly one of the biggest risks. It could be the biggest risk. I think we need to watch out about the population collapse. This is somewhat counterintuitive to most people. They think that (… 32:23) so many humans, maybe too many humans. But that’s just because they live in a city. If you’re an aircraft and look down, they say if you dropped a cannonball, how often would you hit a person? Basically never. In fact, there’s stuff falling in from space all the time. Natural meteorites, old rocket stages, all the time. But nobody worries about it. Because the actual – in fact, there’s a good, a cool website called „Wait But Why“ and it’s got Tim Urban, like he actually just did the math and all humans on Earth could fit in the city of New York on one floor. We don’t even need the upper floors. That’s actually the cross-section of humans as seen from Earth is extremely tiny. Basically vanishingly small, almost nothing.\nSo, we need to watch out about population collapse. Low birth rate, I think, is a big risk, and it’s also not exactly top secret. You can go and look at Wikipedia, you know, birth rate. This is definitely the civilization ends with a whimper, not a bang because it would be a sad ending where the average age becomes very high and really the youth are effectively de facto enslaved to take care of the old people. This is not a good way to end."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Do you have any new projects dealing with these topics that you’ve just addressed?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I’m trying to set a good example on the kid front."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Six kids."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. For now."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "How much time do you spend with them?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I spend about as much time as they want to spend with me. Well, one is a baby, and the others are 14 and 16 teenagers. They don’t usually want to hang out with their parents that much, you know. We just had Thanksgiving weekend, so all the kids were over. If they want to spend more time with me – actually, I asked them, „Are you sure you don’t want to hang out more?“ and they’re like, „No.“ So I think it’s probably the right amount then since they don’t want to hang out more.\nI think we really should take this seriously, the population collapse, artificial intelligence, obviously sustainable energy is important. The faster we transition to sustainable energy, the less of a gamble we’re taking with climate. I think there’s going to be a lot of breakthroughs on the medical front, particularly around the synthetic mRNA. Ultimately you can basically do anything with the synthetic RNA, DNA. Really, it’s like a computer program. I mean, I think with enough effort that’s not too crazy, you could probably stop aging, reverse it if you want. You can basically do anything. You can turn someone into a freaking butterfly if you want with the right DNA sequence. I mean, caterpillars do it."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "But your project Neuralink is, in a way, empowering human intelligence versus artificial intelligence. That’s the purpose of it. Is that correct?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so Neuralink – in the short to medium term, Neuralink is really just going to help cure brain injuries, and brain and spine injuries. It’s like if somebody’s – in fact, our first implant of devices in humans will be for quadriplegics, tetraplegics allowing them to control a computer or a phone just using their mind. You can imagine like if Stephen Hawking could just talk and at normal speed or even faster than normal speed."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Looking back for the last thousands of years, what is the most important invention of mankind so far?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In the past thousand years, I guess –"
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Millions."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, millions. I think language, being able to talk and express concepts, this is probably the biggest, invention of humanity’s language."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "It’s an answer that we like very much in the publishing (… 37:01)."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. You know writing is just incredible. Writing really made a big difference. Gutenberg, that guy Gutenberg, he really knew what he’s doing."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "You have one thing in common with Nikola Tesla, that’s a photographic memory. Is that only a gift of sometimes a burden because you memorize too much?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I have a photographic memory in some respects."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "(… 37:23)?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "For technical stuff, I have a very good memory for a human. You know, computers are much better at memory. Computers are really good at memory."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Why is music so important for you? Techno music in particular?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it’s pretty fun. I think it’s – you know, you want to, I don’t know, feel maximum human. When people have like sort of a rave and good music it can be like maximum human. You want to really feel – like what really gets you to feel. I think that having fun with friends and crazy dancing is fun."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Perhaps your love for techno music is the secret reason why you are building big projects in Berlin."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Honestly, that’s a significant factor."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Okay, Elon, last question. You celebrated your 30th birthday with a masked ball in Venice. For your 40th birthday, I was told you had a fight with a Samurai sword fighter. What is your plan for your 50th birthday next year?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, my 40th birthday was in Venice. It was technically a post-apocalyptic masked ball. Because you know after the apocalypse how much clothing do you really have. It’s probably going to be a little ragged, a little burnt, you know."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "No plans for the 50th?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, 50th, hm? The half-century party. I have to think of something. Usually go with some kind of crazy theme. The party where I ended up wrestling with the world champion, which, by the way, also caused me to burst a disc in my neck. So five minutes of glory for five years of pain. That really hurt. That party was Victorian Japanese Steampunk. That was cool. I have to think of something for the half-century party."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "You have a little time to think about it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Hey, being on Earth for a half century, that’s okay, I’m still alive, wow, cool."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Okay. One very last question. When I asked you what is the meaning of life during a dinner –"
+    },
+    {
+      "role": "elon_musk",
+      "text": "42."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "– you said after a while, well, probably this wonderful French cheese. Could you please explain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I was just saying that you want to take a moment to appreciate things in life, and the sensations. Food is incredible. Like there are just so many good things that you can experience, some of them cost nothing really. You know, you have a walk in nature or just a nice meal, and it’s like wow, that’s pretty great, you know. And we should take a moment to appreciate these little things, the big things. The things that move your heart. I think that’s probable the meaning of life as close as definition as I can think."
+    },
+    {
+      "role": "mathias_döpfner",
+      "text": "Thank you very much, Elon."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right."
+    }
+  ]
+}

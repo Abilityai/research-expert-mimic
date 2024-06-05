@@ -1,0 +1,467 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/06/23/ted-interview-2022-at-giga-texas-part-1/",
+  "speakers": [
+    {
+      "id": "chris_anderson",
+      "name": "Chris Anderson"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "chris_anderson",
+      "text": "Elon Musk, great to see you. How are you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Good, how are you?"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I mean, we’re here at the Texas Gigafactory, the day before this thing opens. It’s been pretty crazy out there. Thank you so much for making time on a busy day."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re welcome."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I would love you to help us, kind of, cast our minds, I don’t know, 10, 20, 30 years into the future, and help us try to picture what it would take to build a future that’s worth getting excited about. You’ve often said that. The last time you spoke at Ted, you said that that was really just a big driver. You know, you talk about lots of other reasons to do the work you’re doing, but fundamentally, you want to think about the future and not think that it sucks."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. I think in general, you know, there’s a lot of discussion of like this problem or that problem. A lot of people are sad about the future, and they’re pessimistic. I think this is not great. I mean, we really want to wake up in the morning and look forward to the future. We want to be excited about what’s gonna happen. Life cannot simply be about sort of solving one miserable problem after another."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "So, if you look forward 30 years, you know, the year 2050 has been labeled by scientists as this, kind of, almost like this doomsday deadline on climate. There’s a consensus of scientists, a large consensus of scientists, who believe that if we haven’t completely eliminated greenhouse gases, or offset them completely by 2050, effectively, we’re inviting climate catastrophe. Do you believe there is a pathway to avoid that catastrophe? And what would it look like?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I am not one of the doomsday people, which may surprise you. I actually think we’re on a good path. But at the same time, I want to caution against complacency. So, so long as we are not complacent, as long as we have a high sense of urgency about moving towards a sustainable energy economy, then I think things will be fine. I can’t emphasize that enough, as long as we push hard and are not complacent, the future is gonna be great. Don’t worry about it. I mean, worry about it. But if you worry about it, ironically, it will be a self-unfulfilling prophecy.\nThere are three elements to a sustainable energy future. One is obviously sustainable energy generation, which is primarily wind and solar. There’s also hydro, geothermal. I’m actually pro-nuclear. I think nuclear is fine. And it’s going to be primarily solar and wind as the primary generators of energy. The second part is you need batteries to store the solar and wind energy because the sun doesn’t shine all the time, the wind doesn’t blow all the time. So, this needs a lot of stationary battery packs. And then you need electric transport, electric cars, electric planes, boats. And then ultimately, it’s not really possible to make electric rockets, but you can make the propellant used in rockets using sustainable energy."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, ultimately, we can have a fully sustainable energy economy. And it’s those three things: solar/wind, stationary battery pack, electric vehicles. So then, what are the limiting factors on progress? The limiting factor really will be battery cell production. That’s going to really be the fundamental rate driver. And then whatever the slowest element of the whole lithium-ion battery cells supply chain from mining, and the many steps of refining to ultimately creating a battery cell and putting it into a pack – that will be the limiting factor on progress towards sustainability."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "All right, so we need to talk more about batteries. Because the key thing that I want to understand, like, there seems to be a scaling issue here that is kind of amazing and alarming. You have said that you have calculated that the amount of battery production that the world needs for sustainability is 300 terawatt-hours of batteries."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s very rough numbers, and I certainly would invite others to check our calculations because they may arrive at different conclusions. But in order to transition, not just current electricity production but also heating and transport, which roughly triples the amount of electricity that you need, it amounts to approximately 300 terawatt-hours of installed capacity."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "We need to give people a sense of how big a task that is. I mean, here we are at the Gigafactory. You know, this is one of the biggest buildings in the world. What I’ve read – and tell me if this is still right – is that the goal here is to eventually produce 100 gigawatt-hours of batteries here a year."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We will probably do more than that. But yes, hopefully we get there within a couple of years."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. But I mean, that is one…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "0.1 terawatt-hours."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But that’s still 1/100 of what’s needed. How much of the rest of that 100 is Tesla planning to take on, let’s say, between now and 2030, 2040, when we really need to see the scale-up happen?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, these are just guesses. So please, people shouldn’t hold me to these things. It’s not like this is like some… what tends to happen is I’ll make some like, you know, best guess, and then people, in five years, there’ll be some jerk that writes an article: “Elon said this would happen. And it didn’t happen. He’s a liar and a fool.” It’s very annoying when that happens. These are just guesses. This is a conversation. I think Tesla probably ends up doing 10% of that. Roughly."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Let’s say 2050 we have this amazing, you know, 100% sustainable electric grid made up of some mixture of the sustainable energy sources you talked about. That same grid probably is offering the world really low-cost energy, isn’t it, compared with now. And I’m curious about, like, are people entitled to get a little bit excited about the possibilities of that world?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "People should be optimistic about the future. Humanity will solve sustainable energy. It will happen if we are, you know, continue to push hard. The future is bright and good from an energy standpoint. And then, it will be possible to also use that energy to do carbon sequestration. It takes a lot of energy to pull carbon out of the atmosphere, just because in putting it in the atmosphere, it releases energy. So now, you know, obviously, in order to pull it out, you need to use a lot of energy. But if you’ve got a lot of sustainable energy from wind and solar, you can actually sequester carbon. You can reverse the CO2 parts per million of the atmosphere and oceans.\nAnd also, you can really have as much freshwater as you want. Earth is mostly water. We should call Earth water. It’s 70% water by surface area. Now, most of that is seawater, but it’s like, we just happened to be on the bit that’s land."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. And with energy, you can turn seawater into…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "…irrigating water or whatever water you need."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. At very low cost. Things will be good."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Things will be good?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And also, there’s other benefits to this non-fossil fuel world where the air is cleaner and…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly. Because, like, when you burn fossil fuels, there’s all these side reactions and toxic gases of various kinds and sort of little particulates that are bad for your lungs. There’s all sorts of bad things that are happening that will go away, and the sky will be cleaner and quieter. The future is going to be good."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I want us to switch out to think a bit about artificial intelligence. But the segue there… you mentioned it, how annoying it is when people call you up for bad predictions in the past. So I’m possibly going to be annoying now. But I’m curious about your timelines, and how you predict, and how come some things are so amazingly on the money and some aren’t. So, when it comes to predicting sales of Tesla vehicles, for example, I mean, you’ve kind of been amazing. I think in 2014, when Tesla had sold that year 60,000 cars, you said, “2020, I think we will do half a million a year.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we did almost exactly half a million."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "You did almost exactly half a million. You were scoffed in 2014 because no one since Henry Ford, with the Model T, had come close to that kind of growth rate for cars. You were scoffed and you actually hit 500,000 cars – 510,000 or whatever produced. But five years ago, last time you came to TED, I asked you about full self-driving, and you said, “Yep, this very year, I am confident that we will have a car going from LA to New York without any intervention.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I don’t want to blow your mind, but I’m not always right."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "(laughs) But what’s the difference between those two? Why has full self-driving in particular been so hard to predict?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, the thing that really got me, and I think it’s gonna get a lot of other people, is that there are just so many false dawns with self-driving, where you think you’ve got the problem, have a handle on the problem, and then it, nope, turns out, you just hit a ceiling. Because if you were to plot the progress, the progress looks like a log curve. It’s like a series of log curves. So, most people don’t know what a log curve is, I suppose."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Show the shape with your hands."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It goes up, you know, sort of a fairly straight way, and then it starts tailing off, and you start getting diminishing returns. And you’re like, “Uh oh, it was trending up, and now it’s sort of curving over.” And you start getting to these, what I call local maxima, where you don’t realize basically how dumb you were. And then it happens again. And ultimately… these things, you know, in retrospect, they seem obvious. But in order to solve full self-driving properly, you actually have to solve real-world AI.\nBecause you say, like, what are the road networks designed to work with? They’re designed to work with a biological neural net, our brains, and with vision, our eyes. And so, in order to make it work with computers, you basically need to solve real-world AI and vision. We need cameras and silicon neural nets in order to have self-driving work for a system that was designed for eyes and biological neural nets. You know, I guess when we put it that way, it’s quite obvious that the only way to solve full self-driving is to solve real-world AI and sophisticated vision."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "What do you feel about the current architecture? Do you think you have an architecture now where there is a chance for the logarithmic curve not to tail off any anytime soon?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, admittedly, these may be infamous last words, but I actually am confident that we will solve it this year. That we will exceed… if you say, like, what is the probability of an accident, at what point do you exceed that of the average person?"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we will exceed that this year."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "What are you seeing behind the scenes that gives you that confidence?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re almost at the point where we have a high-quality unified vector space. In the beginning, we were trying to do this with image recognition on individual images. But if you look at one image out of a video, it’s actually quite hard to see what’s going on without ambiguity. But if you look at a video segment of a few seconds of video, that ambiguity resolves.\nThe first thing we had to do is, we tie all eight cameras together, so they’re synchronized so that all the frames are looked at simultaneously and labeled simultaneously by one person – because we still need human labeling. So that at least they’re not labeled at different times by different people in different ways. It’s sort of a surround picture. Then a very important part is to add the time dimension. You’re looking at surround video, and you’re labeling surround video. And this is actually quite difficult to do from a software standpoint. We had to write our own labeling tools and then create auto-labeling software to amplify the efficiency of human labelers because it’s quite hard to label a video.\nIn the beginning, it was taking several hours to label a 10-second video clip. This is not scalable. So basically, what you have to have is, you have to have surround video, and that surround video has to be primarily automatically labeled with humans just being editors of making slight corrections to the labeling of the video and then feeding back those corrections into the future auto labeler, so you get this flywheel eventually where the auto labeler is able to take in vast amounts of video, and with high accuracy automatically label the video for cars, lane lines, drive space,…"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "What you’re saying is that you think that… I mean, the result of this is that you’re effectively giving the car a 3D model of the actual objects that are all around it. It knows what they are, and it knows how fast they are moving. And the remaining task is to predict what the quirky behaviors are that, you know, when a pedestrian is walking down the road with a smaller pedestrian that maybe that smaller pedestrian might do something unpredictable or like things like that… that you have to build into it before you can really call it safe."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You basically need to have memory across time and space. What I mean by that is… the memory can’t be infinite because it’s using up a lot of computer’s RAM, basically. So you have to say, how much are you going to try to remember? It’s very common for things to be occluded. If you’re talking about, say, a pedestrian walking past a truck where you saw the pedestrian start on one side of the truck, then they’re occluded by the truck, you would know intuitively, okay, that pedestrian is gonna pop out the other side most likely…"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "A computer doesn’t know it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "…so you do just slow down."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "A skeptic is gonna say that every year for the last five years, you’ve kind of said, well, no, this is the year, we’re confident that it will be there in a year or two or, you know, like, it’s always been about that far away. But we’ve got a new architecture, and now you’re seeing enough improvement behind the scenes to make you not certain but pretty confident that this, by the end of this year, what in most, not in every city, in every circumstance, but in many cities and circumstances, basically the car will be able to drive without interventions safer than a human."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, I mean, the car currently drives me around awesome most of the time with no interventions. And we have over 100,000 people in our full self-driving beta program. So you can look at the videos that they posted online."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I do."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, great."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Some of them are great, and some of them are a little terrifying. I mean, occasionally, the car seems to sort of like veer off and scare the hell out of people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s still a beta."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "It’s still beta. But behind the scenes, looking at the data, you’re seeing enough improvement to believe that a this-year timeline is real."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, that’s what it seems like. I mean, we could be here talking again in a year, like, well, another year went by, and it didn’t happen. But I think this is the year."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "In general, when people talk about Elon time, I mean, it sounds like you can’t just have a general rule that if you predict that something will be done in six months, actually, what we should imagine is it’s going to be a year, or it’s like 2x, or 3x. It depends on the type of prediction. Some things, I guess, things involving software, you know, AI, whatever, are fundamentally harder to predict than others. Is there an element that you actually deliberately make aggressive prediction timelines to drive people to be ambitious? And without that, nothing gets done?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I generally believe, in terms of internal timelines, that we want to set the most aggressive timeline that we can. Because there’s sort of like a law of gaseous expansion for schedules, where whatever time you set, it’s not going to be less than that. It’s very rare that it’ll be less than that.\nAs far as our predictions are concerned, what tends to happen in the media is that they will report all the wrong ones and ignore all the right ones. Or, you know, when writing an article about me – I’ve had a long career in multiple industries. If you list my sins, I sound like the worst person on Earth. But if you put those against the things I’ve done right, it makes much more sense. So essentially, the longer you do anything, the more mistakes that you will make cumulatively. Which, if you sum up those mistakes, will sound like I’m the worst predictor ever.\nBut for example, for Tesla vehicle growth, I said, I think we’d do 50%, and we’ve done 80%. But they don’t mention that one. I mean, I’m not sure what my exact track record is on predictions. They’re more optimistic than pessimistic, but they’re not all optimistic. Some of them are exceeded probably more or later. But they do come true. It’s very rare that they do not come true. It’s sort of like, you know, if there’s some radical technology prediction, the point is not that it was a few years late, but that it happened at all. That’s the more important part."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "So that’s it feels like at some point in the last year, seeing the progress on that the Tesla AI understanding the world around it led to a kind, an aha moment at Tesla. Because you really surprised people recently when you said probably the most important product development going on at Tesla this year is this robot Optimus."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Many companies out there have tried to put out these robots, they have been working on them for years. And so far, no one has really cracked it. There’s no mass adoption robot in people’s homes. There are some in manufacturing, but I would say that no one’s kind of really cracked it. Is it something that happened in the development of full self-driving that gave you the confidence to say, you know what, we could do something special here?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. So, you know, it took me a while to sort of realize that in order to solve self-driving, you really needed to solve real-world AI. At the point at which you solve real-world AI for a car, which is really a robot on four wheels, you can then generalize that to a robot on legs as well. The two hard parts, I think… like obviously, companies like Boston Dynamics have shown that it’s possible to make quite compelling, sometimes alarming robots. So, from a sensors and actuators standpoint, it’s certainly been demonstrated by many that it’s possible to make a humanoid robot.\nThe things that are currently missing are enough intelligence for the robot to navigate the real world and do useful things without being explicitly instructed. So, the missing things are basically real-world intelligence and scaling up manufacturing. Those are two things that Tesla is very good at. We basically just need to design the specialized actuators and sensors that are needed for humanoid robot. People have no idea. This is going to be bigger than the car."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Let’s dig into exactly that. I mean, in one way, it’s actually an easier problem than full self-driving because instead of an object going along at 60 miles an hour, which if it gets it wrong, someone will die, this is an object that’s engineered to only go at what, three or four or five miles an hour."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, walking speed, basically."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And so, a mistake…  there aren’t lives at stake, there might be embarrassment at stake."
+    },
+    {
+      "role": "elon_musk",
+      "text": "As long as AI doesn’t take it over and murder us in our sleep or something."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But let’s talk about… I think the first applications you’ve mentioned are probably going to be manufacturing. But eventually, the vision is to have these available for people at home."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Correct."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "If you had a robot that really understood the 3D architecture of your house and knew where every object in that house was, or was supposed to be, and could recognize all those objects – I mean, that’s kind of amazing, isn’t it? Like the kind of thing that you could ask a robot to do would be what? Like, tidy up?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. Make dinner, I guess, mow the lawn."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Take a cup of tea to grandma and show her family pictures."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. Take care of my grandmother and make sure… yeah, exactly."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "It could obviously recognize everyone in the home, could play catch with your kids?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean, obviously, we need to be careful, it just doesn’t become a dystopian situation. I think one of the things that’s going to be important is to have a localized ROM chip on the robot that cannot be updated over the air. Where if you, for example, were to say, “Stop, stop, stop,”… if anyone said that, then the robot would stop, you know, type of thing. And that’s not updatable remotely. I think it’s gonna be important to have safety features like that."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Yeah, that sounds wise."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And I do think there should be a regulatory agency for AI. I’ve said this for many years. I don’t love being regulated. But I think this is an important thing for public safety."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Let’s come back to that. But I don’t think many people have really sort of taken seriously the notion of, you know, a robot at home. I mean, at the start of the computer revolution Bill Gates said there’s gonna be a computer in every home. And people at the time said, “Yeah, whatever, who would even want that.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "(…) in our pocket?"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Do you think there will be basically like in, say, 2050 or whatever, a robot in most homes is what there will be, and people…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think there probably will."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "…will love them and count on them? You have your own butler, basically."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you will have your sort of buddy robot probably, yeah."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "I mean, how much of a buddy? How many applications do you thought is that? You know, can you have a romantic partner, a sex partner, lover?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s probably inevitable. I mean, I did promise the internet that I’d make catgirls. We could make a robot catgirl."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Be careful what you promise the internet."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So yeah, I guess it’ll be whatever people want really, you know."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "What sort of timeline should we be thinking about of the first models that are actually made and sold?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you know, the first units that we intend to make are for jobs that are dangerous, boring, repetitive, and things that people don’t want to do. And, you know, I think we’ll have like an interesting prototype sometime this year. We might have something useful next year, but I think, quite likely within at least two years. And then we’ll see rapid growth year over year of the usefulness of the humanoid robots and decrease in cost and scaling up production."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Initially just selling to businesses, or when do you picture you’ll start selling them where you can buy your parents one for Christmas, or something?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’d say in less than ten years."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Help me on the economics of this. So, what do you picture the cost of one of these being?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think the cost is actually not going to be crazy high. Like less than a car. Initially, things will be expensive because it’ll be new technology at low production volume. The complexity and cost of a car is greater than that of a humanoid robot. So I would expect that it’s going to be less than a car, or at least equivalent to a cheap car."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "So even if it starts at 50k, within a few years, it’s down to 20k, or lower or whatever. And maybe for home, they’ll get much cheaper still. But thinking about the economics of this, if you can replace a $30,000, $40,000-a-year worker, which you have to pay every year, with a one-time payment of $25,000 for a robot that can work longer hours, a pretty rapid replacement of certain types of jobs. How worried should the world be about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I wouldn’t worry about the sort of putting people out of a job thing. I think we’re actually going to have, and already do have, a massive shortage of labor. So I think we will have not people out of work, but actually still a shortage of labor, even in the future. But this really will be a world of abundance. Any goods and services will be available to anyone who wants them. It will be so cheap to have goods and services, it will be ridiculous."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "And presumably, it should be possible to imagine a bunch of goods and services that can’t profitably be made now but could be made in that world, courtesy of legions of robots."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It will be a world of abundance. The only scarcity that will exist in the future is that which we decide to create ourselves as humans."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Okay, so AI is allowing us to imagine a differently powered economy that will create this abundance. What are you most worried about going wrong?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like I said, AI and robotics will bring out what might be termed the age of abundance. Other people have used this word. And this is my prediction: it will be an age of abundance for everyone. I guess the dangers would be the artificial general intelligence or digital superintelligence decouples from a collective human will, and goes in a direction that, for some reason, we don’t like. Whatever direction it might go. That’s sort of the idea behind Neuralink, is to try to more tightly couple collective human will to digital superintelligence. And also, along the way, solve a lot of brain injuries and spinal injuries and that kind of thing. So even if it doesn’t succeed in the greater goal, I think it will succeed in the goal of alleviating brain and spine damage."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "So the spirit there is that if we’re going to make these AIs that are so vastly intelligent, we ought to be wired directly to them so that we ourselves can have the superpowers more directly. But that doesn’t seem to avoid the risk that those superpowers might turn ugly in an unintended way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I think it’s a risk. I agree. I’m not saying that I have some certain answer to that risk. I’m just saying like maybe one of the things that would be good for ensuring that the future is one that we want is to more tightly couple the collective human world to digital intelligence. The issue that we face here is that we are already a cyborg if you think about it. The computers are an extension of ourselves. And when we die, we have, like, a digital ghost. You know, all of our text messages and social media, emails. It’s quite eerie, actually, when someone dies, and everything online is still there.\nBut you say like, what’s the limitation? What is it that inhibits a human machine symbiosis? It’s the data rate. When you communicate, especially with the phone, you’re moving your thumbs very slowly. So you’re like moving your two little meat sticks at a rate that’s maybe 10 bits per second, optimistically, 100 bits per second. And computers are communicating at the gigabit level and beyond."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Have you seen evidence that the technology is actually working? That you’ve got a richer, sort of, higher bandwidth connection, if you like, between external electronics and a brain than has been possible before?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, the fundamental principles of reading neurons, sort of doing read-write on neurons with tiny electrodes, have been demonstrated for decades. It’s not like the concept is new. The problem is that there’s no product that works well that you can go and buy. It’s all sort of in research labs, and there’s always like some cords sticking out of your head, and it is quite gruesome. It’s really, there’s no good product that actually does a good job and is high bandwidth and safe and something actually that you could buy and would want it to buy.\nBut the way to think of the Neuralink device is kind of like a Fitbit or an Apple Watch. That’s where we take out a sort of a small section of skull about the size of a quarter, replace that with what in many ways really is very much like a Fitbit, Apple Watch, or some kind of smartwatch thing. But with tiny wires, very, very tiny wires. Wires so tiny, it’s hard to even see them. And it’s very important to have very tiny wires so that, when they’re implanted, they don’t damage the brain."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "How far are you from putting these into humans?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, we have put in our FDA application to aspirationally do the first human implant this year."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "The first uses will be for neurological injuries of different kinds."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But rolling the clock forward and imagining when people are actually using these for their own enhancement, let’s say, and for the enhancement of the world, how clear are you in your mind as to what it will feel like to have one of these inside your head?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I do want to emphasize we’re at an early stage. And so it really will be many years before we have anything approximating a high bandwidth neural interface that allows for AI human symbiosis. For many years, we will just be solving brain injuries and spinal injuries. For probably a decade. This is not something that will suddenly… one day, we will have this incredible sort of whole-brain interface. It’s going to be, like, at least a decade of really just solving brain injuries and spinal injuries. And I really think you can solve a very wide range of brain injuries, including severe depression, morbid obesity, sleep, potentially schizophrenia, like a lot of things that cause great stress to people. Restoring memory in older people…"
+    },
+    {
+      "role": "chris_anderson",
+      "text": "If you can pull that off, that’s the app I will sign up for. Please hurry, actually."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, the emails that we get at Neuralink are heartbreaking. I mean, they’ll send us just tragic, you know, where someone was sort of in the prime of life, and they had an accident on a motorcycle, and someone who’s 25, you know, can’t even feed themselves. And this is something we could fix."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "But you have said that AI is one of the things you’re most worried about and that Neuralink may be one of the ways where we can keep abreast of it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, there’s this short-term thing, which I think is helpful on an individual human level, with injuries. And then the long-term thing is an attempt to address the civilizational risk of AI by bringing digital intelligence and biological intelligence closer together. I mean, if you think of how the brain works today, there’s really kind of two layers to the brain. There’s the limbic system and the cortex. You’ve got the kind of animal brain where… it’s kind of like the fun part, really."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "It’s where most of Twitter operates, by the way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, we’re… I think Tim Urban said this, we’re like somebody’s, you know, stuck a computer on a monkey. We’re like, if you gave a monkey a computer, that’s our cortex, but we still have a lot of monkey instincts what we then try to rationalize as, “No, it’s not a monkey instinct. It’s something more important than that.” But it’s often just really a monkey instinct. We’re just monkeys with a computer stuck in our brain.\nSo, even though the cortex is sort of the smart, or the intelligent part of the brain, the thinking part of the brain, people are quite… I have not yet met anyone who wants to delete their limbic system or their cortex. They’re quite happy having both. Everyone wants both parts of their brain. And people really want their phones and their computers, which are really the tertiary, the third part of your intelligence.\nIt’s just that it’s… the bandwidth, the rate of communication with that tertiary layer is slow. It’s just a very tiny straw to this tertiary layer, and we want to make that tiny straw a big highway. I’m definitely not saying that this is going to solve everything. It’s something that might be helpful. And worst-case scenario, I think we solve some important brain injury, spinal injury issues, and that’s still a great outcome."
+    },
+    {
+      "role": "chris_anderson",
+      "text": "Right. Best case scenario, we may discover new human possibility, telepathy, you’ve spoken of, in a way, a connection with a loved one, you know, full memory, and much faster thought processing maybe. All these things. It’s very cool."
+    }
+  ]
+}

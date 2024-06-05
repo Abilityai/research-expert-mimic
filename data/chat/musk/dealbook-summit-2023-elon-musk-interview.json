@@ -1,0 +1,1651 @@
+{
+  "src": "https://www.rev.com/blog/transcripts/dealbook-summit-2023-elon-musk-interview-transcript",
+  "speakers": [
+    {
+      "id": "speaker_1",
+      "name": "Speaker 1"
+    },
+    {
+      "id": "andrew_ross_sorkin",
+      "name": "Andrew Ross Sorkin"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "speaker_1",
+      "text": "Please welcome Andrew Ross Sorkin and his guest, CEO of Tesla, CEO of SpaceX, chief engineer and CTO of X, Elon Musk."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Good evening, everybody. Thank you so much for being with us throughout the day. And I couldn’t be more pleased to sit with Elon Musk as our final interview of this remarkable time we’ve all had together. He doesn’t need much of an introduction, but I want to say a couple things. He’s the richest person in the world."
+    },
+    {
+      "role": "elon_musk",
+      "text": "What?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "He may very well be the most-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "For now."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "… consequential individual in the world right now. He runs the most innovative companies in the world, Tesla, SpaceX, Starlink, which is part of that Neuralink, The Boring Company, X, and X.AI. And he’s disrupted each of these lanes. He’s moved at breakneck speeds, but he’s facing a storm of controversy in the process.\nHe joins us today following a visit, as you all know so well, and we discussed earlier, on Monday to Israel where he met with the prime minister there and the president of Israel. And we’re going to talk about everything. And my hope is that we can talk about how he thinks about his influence, about his power, about all of it, and we’re going to talk about innovation and everything else. I want to say just two other things real quick."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "We met each other for the first time 16 years ago."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s a long time."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It’s been a long time. And-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oldest kids were three."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "When we first met, I think you were just about to deliver your first Roadster. I don’t think you had yet. Larry Page was still waiting to get one."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s a bit like 2007."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "2007, 2008. And I remember-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Roadster was a little bit 2008."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I remember going back to the newsroom and saying, “I think I just met the next Steve Jobs.” And I’m going to hold to that, I’m going to hold to that. But a lot has happened between when I first met you and now. You came to DealBook."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s been boring, that’s for sure. Wait, actually, technically I do have a boring company."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "2012, you came to DealBook and sat on this stage and we’re thrilled to have you back, but there’s been so much that’s happened between now and then and there’s been so much that’s happened in the past week, week and a half. And a lot of folks, and I want to tell you this, a lot of folks called me up and said, you really going to host Elon Musk here? Can you believe what he just said on X?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No idea what this Twitter thing is you keep talking about."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Should you platform him? That’s what they said. Should you platform him? Then I said that I think that it’s our role and I know you have issues with journalists."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I have a platform."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I know you have an issue with journalists oftentimes, but I said it’s our role to have conversations and to inquire and sometimes even interrogate ideas and I’m hoping we can do that. So I want to start just so we can begin this conversation and just level set, take us through everything that happened if you could."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Everything?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "No, over the past week and a half."
+    },
+    {
+      "role": "elon_musk",
+      "text": "How long have you got?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "We’ve got the time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You send out a post or an X or a tweet. I don’t know what you want to describe it as."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m trying to change… When things were just 140 characters, it made sense to call them a tweet because a bunch of little bit chirping, but point in which you can put three-hour videos on, it’s a very long tweet."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "So here we are."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is more descriptive I think."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And at some point, I don’t know where you were, but you write in responding to another tweet, “This is the actual truth,” and it’s set off a firestorm of criticism all the way to the White House, and then you make this trip to Israel. You have advertisers who’ve left the platform, people calling you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the trip to Israel is independent of… It wasn’t some apology tour. I want to be clear. That was-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let’s talk about that. But just take us back to the moment at which you write that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Trip to Israel is independent of… It wasn’t in response to that at all."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "We’ll do Israel in just a moment."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And I have no problem being hated by the way."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I hear you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Hate away."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, but you know what, let’s go straight to that then for a second. Because there is an idea and you could say that-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it’s a real weakness to want to be liked, a real weakness. I do not have that."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you this then. There’s a difference between saying, I don’t care if anyone likes me or they hate me. But given your power and given what you have amassed and the importance you have, I would think you want to be trusted. I would think maybe you don’t need to be liked or hated, but trusted matters. If X is going to become a financial platform where people are going to put their money, where the government’s going to give you money for rockets, people are going to get into the cars. They need to ultimately decide that you are… They don’t have to say that they love you, but that you are ultimately a decent and good human being."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean, I think I am, but I’m certainly not going to do some sort of tap dance to prove to people that I am. So as for trust, I mean I think we break that down in a few ways. If you want satellites sent to orbit reliably, SpaceX will do 80% of all mass to orbit this year. China will do 12%. The rest of the world will do eight. That includes Boeing, Lockheed, and everyone else. So the track record of the rocket is the best by far of anything. You could hate my guts. You could not trust me. It is irrelevant. The rocket track record speaks for itself. With respect to Tesla, we make the best cars. Whether you hate me, like me or indifferent, do you want the best car or do you not want the best car? So I will certainly not pander. And Jonathan, the only reason I’m here is because you are a friend. What was my speaking fee?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You’re not making any… First of all, I’m Andrew, but-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, sorry."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It’s okay. Second of all, we’ve known each other for a very long time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve spoken. Yes.\nListen, what I’m trying to illustrate is that sometimes I say the wrong thing."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I think there are a lot of people who are tired, but let me go back."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. No. You should hear the sketches that SNL wouldn’t post, by the way. Those are really good."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And I would say unfortunately, or fortunately or unfortunately, whatever friendship we have, not great. We don’t talk that much, but let me ask you this. It’s true. That’s true."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Where am I?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Doesn’t return the phone calls."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m here because you’re a friend, not because I’m being payable because I need any validation or anything, is that we’ve been friends for 16 years and I promise you I’d be here and that’s why I’m here."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, I appreciate you being here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not for any other reason."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But let me ask you this then. Go at it. Just tell me what happened. You write this tweet that says that this is the actual truth. People read that tweet and they say Elon Musk is an antisemite, that he is riling up this base. You’re hearing it from, as I said, the White House. You’re hearing it from Jewish groups all over. I think Jonathan Greenblatt from the ADL is here. There’s lots of people who say this. And by the way, it’s not just that-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Did you read the whole thing?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I did. And that’s why I want to ask you that-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The responses."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Excuse me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I said more?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "More responses?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I said more than what you just read."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "No, there was absolutely more, but I’ll tell you the thing that struck me. And I’m an American Jew, it wasn’t just the people who had that view. It was actually people who really are antisemites who said, oh my goodness, go Elon. This is fabulous. And that actually was the thing that really set me back. I said to myself, what’s going on here? And I want to know how you felt about that in that moment when you saw all of this happening."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Well, first of all, I did clarify almost immediately what I meant. I would say that that was… If I could go back and say I should in retrospect not have replied to that particular person, and I should have written in greater length as to what I meant. I did subsequently clarify it in replies, but those clarifications were ignored by the media. And essentially I handed a loaded gun to those who hate me. And arguably to those who are antisemitic. For that, I’m quite sorry. That was not my intention. So I did post on my primary timeline to be absolutely clear that I’m not an antisemitic and that I, in fact, if anything am , and the trip to Israel was planned before any of that happened. It was neither here nor there. Do you see this thing? Do you know what it is?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I do. Because I actually followed your entire trip to Israel. Why don’t you tell everybody"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It says bring them home. The hostages. It was given to me by the parents of one of the hostages. And I said I would wear it as long as there was a hostage story remaining. And I have."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "What was that trip like? And obviously you know that there’s a public perception and you’re clarifying this now, but there’s a public perception that that was part of a apology tour, if you will. This had been said online. There was all of the criticism, there was advertisers leaving. We talked to Bob Iger today-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I hope they stop. Don’t advertise."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You don’t want them to advertise?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "What do you mean?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If somebody’s going to try to blackmail me with advertising, blackmail me with money, go fuck yourself."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Go fuck yourself. Is that clear? I hope it is. Hey, Bob, if you’re in the audience."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, let me ask you then."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s how I feel. Don’t advertise."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "How do you think then about the economics of X. If part of the underlying model, at least today, and maybe it needs to shift. Maybe the answer is it needs to shift away from advertising. If you believe that this is the one part of your business where you will be beholden to those who have this view-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "GFY."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I understand that. But there’s a reality too, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. No, no."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I mean, Linda right here, and she’s got to sell advertising."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. So no, totally. So actually what this advertising boycott is going to do, it is going to kill the company."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And do you think that the-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "And the whole world will know that those advertisers killed the company and we’ll document it in great detail."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But those advertisers I imagine are going to say, they’re going to say, we didn’t kill the company."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, yeah. They’re going to say-\nTell to earth."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But they’re going to say, Elon, that you killed the company because you said these things and that they were inappropriate things and that they didn’t feel comfortable on the platform. Right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s what they’re going to say. And let’s see how earth responds to that."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay. Then this goes back to-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’ll both make our cases and we’ll see what the outcome is."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "What are the economics of that for you? I mean, you have enormous resources, so you can actually keep this company going for a very long time. Would you keep it going for a long time if there was no advertising?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, if the company fails because of an advertised boycott, it will fail because of an advertised boycott, and that will be what bankrupted the company, and that’s what everybody on earth will know."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "What do you think… Then of this goes back to the idea of trust, though."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’ll be gone and it’ll be gone because of an advertised boycott."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But you recognize that some of those people are going to say that they didn’t feel comfortable on the platform. And I just wonder and ask you, and think about that for a second-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Tell it to the judge."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But the judge is going to be-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The judge is the public."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And you think that the public is going to say that Disney is making a mistake. And they’re going to boycott Disney."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They already are."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, there are some that are for lots of different reasons. But this goes to actually the interesting of power and leverage."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let the chips fall where they may. Let the chips fall where they may."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Can I ask why that is the approach, and I ask it because you’ve been-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What approach?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, you’ve been very particular about, I mean the approach to Tesla. When you think about the engineering involved in that, the approach to SpaceX, the approach to some of the stuff you’re doing with AI has been very specific. There’s not a let the chips fall where they may approach to those businesses, I don’t think."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. We focus on making the best products and Tesla has gotten to where it’s gotten with no advertising at all."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I understand that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Tesla currently sells twice as much in terms of electric vehicles, as rest of electric car makers in the United States combined. Tesla has done more to help the environment than all other companies combined. Would be fair to say that therefore as a leader of the company, I’ve done more for the environment than any single human on earth."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "How do you feel about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "How do I feel about that?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Yeah, no, I’m asking you personally how you feel about that because we’re talking about power and influence and-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m saying what I care about is the reality of goodness, not the perception of it. And what I see all over the place is people who care about looking good while doing evil, fuck them. Okay?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you this because I think part of this, by the way, there’s some people who said, look, owning X to begin with has just created problems, that you’ve created so many amazing things that are changing our world. And I know you want to make X this fabulous town square free speech platform, but that unto itself, that has created such a distraction of all of these things. This is the conversation we’re having. We’re not talking, at least yet, and we will on Tesla. You have your cyber truck deliveries tomorrow and everything else that you’re doing, but is there any-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, it will be the biggest product launch of anything by far on earth this year."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Is there any part of you though that just says, you know what, I just shouldn’t have done this. Or maybe I should sell it or give it away or do something else with the X piece of it, given the propensity for some of the things that you do and say on that platform to create these issues."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Of all the posts I’ve done on the platform, I think there might be 30,000 or something like that, right? Once in a while I’ll say something foolish and I have. And I would certainly put that comment that you’ve said the actual truth among perhaps one of the most foolish, if not the most foolish thing I’ve ever done on the platform. And I did do my best to clarify afterwards that I certainly do don’t mean anything antisemitic in that. The nature of the criticism was simply that the Jewish people have been persecuted for thousands of years. There is a natural affinity therefore for persecuted groups. This has led to the funding of organizations that essentially promote any persecuted group or any group with the perception of persecution. This includes radical Islamic groups. Everyone here has seen the massive demonstrations for Hamas in every major city in the west. That should be jarring. Well, a number of those organizations received funding from prominent people in the Jewish community. They didn’t expect that to happen. But if you generically without condition sort of fund… If you fund persecuted groups in general, some of those persecuted groups unfortunately want your annihilation. And what I meant by that, when I subsequently clarified is that it’s unwise to fund organizations that support groups that want your annihilation. Is this coming across clearly it at this point?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Yes, it is. My question to you though is-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think logically this makes a lot of sense."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Is there any part of you… Just tell me what happens though once all of this happens."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s say you fund a group and that group supports Hamas who wants you to die. Perhaps you should not fund them, right?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But you do."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Thank you."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You do appreciate that when you wade into these very delicate waters, at these very delicate times, that it can create a real, as it created headlines for the past two weeks and economic impact. I’m just so curious in your brain when you see all this happening, are you sitting there going, oh my God, I stepped in it. I wish I didn’t do that. Are you saying screw them? I hate these people. Why are they after me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "All of that. Yeah, all of that. I mean, look, I’m sorry for that tweet or post. It was foolish of me. Of the 30,000, it might be literally the worst and dumbest post that I’ve ever done. And I try to do my best to clarify six ways to Sunday. But at least I think over time it’ll be obvious that in fact, far from being antisemitic, I’m in fact and all the evidence in my track record would support that."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you this though. There are people who say crazy things on X as you know, maybe you think they’re crazy, maybe they’re not."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The aspiration for X is to be the global town square. Now, if you were to walk down to let’s say Times Square, do you occasionally hear people saying crazy things?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Yes, but they don’t have the megaphone, right? And that’s the conundrum. They can only say it to the 50 or a hundred people that are standing there in Times Square."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, look, the joke I used to make about old Twitter was it was like giving everyone in the psych ward a megaphone. So I’m aware that things can get promoted that are negative beyond the sort of circle of somebody simply screaming crazy things in Times Square, which happens all the time. Actually, it’s pretty rare for something frankly that is hateful to be promoted. It’s not that it never happens, but it’s fairly rare. I mean, I would encourage people to look for those that use the system. When you look at the feed that you receive, how often is it hateful? And over time, has it gotten more or less hateful? I would say that if you look at the X platform today versus a year ago, I think it is actually much better. I mean, what is your personal experience?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Are you surprised?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m just curious. You use this-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I use the platform religiously. I would admit to being an addict. And I use the for you, and I will say… Now, the problem is because I’m a journalist, I go looking for stuff. I’m just saying. And I also think the algorithm for me personally, because I’m looking for stuff also is feeding me others things."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is actually a challenge in that sometimes people will say, why is it showing me posts from this person that I hate? And we’re like, well, did you interact a lot with this person that you hate? Well, yes. Well therefore thinks that you want to interact more with this person that you hate. That’s like a reasonable-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you kind of want to have an argument-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "When you tweet-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Post."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Post, let’s say post, when you post-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Listen, anyone can come up with a better word, that would be great."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "When you post though-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "But the least bad word I can think of is post."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "When you post though, are you trying to rile up either a base or an audience? Do you recognize the power you have in that? And also by the way, not just rile up one side of it, but also rile down, which is to say, as I said, there are people who are demonstrably anti-semitic on the site who I get Jew boy things and all sorts of things that come my way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "For a while they thought I was Jewish, so I get it too."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But no, but the question-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "My name is Super George."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Do you ever think to yourself, you know what, I’m going to go online and I’m going to say these people, I condemn these people that are on my site saying these things. Because-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I have said-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You say, I’ve condemned anti-antisemitism, but do you ever go-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I said condemn… I literally posted, “I condemn antisemitism in all its forms.” That is a, I believe, literal post that I made. I mean, I’m like, listen, if I can get out the thesaurus, if you, and we could-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you a different question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You compose it, I’ll post it."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay. Let me ask you this. You were on a podcast about a month ago, and you said something that struck me and it struck me as accurate. It came out of your mouth, so hopefully it is. But I’m hoping we go deep on this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just because it came out of my mouth does not mean it’s true. ."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "No. But you said, “My mind is a storm. I don’t think most people would want to be me. They may think they want to be me, but they don’t know. They don’t understand.” What did you mean by that? Your mind being a storm. I have known you for quite some time, I think it is a bit of a storm."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Yeah. It as much as a weather metaphor makes sense. My mind often feels like a very wild storm. I have a fountain of ideas. I have more ideas than I could possibly execute, so I have no shortage of ideas. Innovation is not the problem. Execution is the problem. I’ve got a million ideas. I’ve got an entire design for an electric supersonic vertical takeoff jet, but if I just can’t do that as well. I’ve had that for 10 years. There’s a million things."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Is your storm a happy storm?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It’s not a happy storm?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Tell us about that. Because I think that actually, when people try to really understand you, I think that a lot of this comes from some other place and I want to talk about that. Where do you think that is?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We need a psychiatrist couch here or something. I think to some degree, I was born this way and then I was amplified by a difficult childhood, frankly. But I can remember even in happy moments when I was a kid, that it just feels like there’s just a rage of forces in my mind constantly. Now, this productively manifests itself in technology and building things for the most part. And I think on balance, the output has been very productive. I think the results, as we discussed earlier with SpaceX, Tesla, PayPal which is still going today, the first internet company that I started. In fact, the first internet company I started, Zipto, was funded by a New York Times Company, Hearst, Knight Ritter."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Yep. I remember."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And we wrote some of the software for the New York Times website and we helped bring online several hundred newspapers that previously were only in print. Now, this is in the ’90s, which at this point is like, I’m like a grandpa basically. The ’90s and internet feels like a pre-Cambrian era when there were only sponges. Anyway, I feel like a lot of productive things have been done. And you can also look at Tesla as being many companies in one. Like if the Tesla supercharging network were its own company, it would be a Fortune 500 company by itself, just the supercharging system. We also make the cells, we build the power electronics and the powertrain from scratch. We have the most innovative structural design, the largest castings ever used. We have the best manufacturing technology at Tesla, better manufacturing technology than companies that have been doing it for 100 years. So these demons of the mind are, for the most part, harnessed to productive ends."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay. So let me ask a question about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That doesn’t mean… Once in a while they go wrong."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And this is a question I think a lot of people are always trying to figure out about, not just you, but sometimes themselves. Meaning what is driving all of this? You’re doing all of these things. Do you think that you would be as successful, whatever success is, if it wasn’t being driven by some… I think that there’s something you’re trying to prove either to yourself or to somebody. I don’t know. We’re all trying to prove something."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Prove to who."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Maybe I’m trying to prove it to my mother. I don’t know."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. If I were to describe my philosophy, it is a philosophy of curiosity. I did have this existential crisis when I was around 12, about what’s the meaning of life? Isn’t it all pointless? Why not just commit suicide? Why exist? I read the religious texts. I read the philosophy books. That, especially the German philosophy books, made me quite depressed frankly. Want you not read Schopenhauer Nietzsche as a teenager. But then I read Douglas Adams’ Hitchhiker’s Guide to the Galaxy, which is a book on philosophy in the form of humor. And the point that Adamus was making there was that we don’t actually know what questions to ask. That’s why I said that, the answer is 42. Basically earth’s a giant computer and it came up with the answer 42. But then to actually figure out what the question is, that’s the actual hard part. And I think this is generally true also in physics. At the point at which you can properly frame the question, the answer is actually the easy part.\nSo my motivation then was that, well, my life is finite, really a flash in the pan on a galactic timescale. But if we can expand the scope and scale of consciousness, then we are better able to figure out what questions to ask about the answer that is the universe. And maybe we can find out the meaning of life or even what the right question to ask is. Where do we come from? Where are we going? Where are the aliens? Are there aliens? These questions, is there new physics to discover? Because there seems to be some real questions around dark matter and dark energy. So the purpose of SpaceX is to extend life beyond earth on a sustained basis, so that we can at least pass one of the Fermi Great Filters, which is that of being a single-planet civilization.\nIf we are single-planet civilization, then we are simply waiting around for some extinction event, whether that is manmade or natural. But if you’re a single-planet civilization, eventually something will happen to that planet and you will die. If you’re a multi-planet civilization, you’ll live much longer. Also, multi-planet civilization, that’s the natural stepping stone to being a multi-stellar civilization and being out there among the stars. So now, this I think has two… This is not simply a defensive motivation, but it is also one where that gives meaning, man’s search for meaning."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Can I ask you a different-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. Let me finish this philosophy point, even though it may seem rather esoteric, it may resonate with a few people. We must get past this Fermi Great Filter of being a single-planet civilization. And if we do that, we are more likely to understand the nature of the universe and what questions to ask. If you believe in the philosophy of curiosity, then I think you should support this ambition. Being a multi-planet species is more than simply life insurance for life collectively. That’s a defensive reason. But I think also that life has to be more than simply solving one sad problem after another. There have to be reasons for you wake up in the morning and you’re happy to be alive. There have to be reasons that you have to say, why are you excited about the future? What gives you hope? And if you aren’t sure, ask your kids. And I think the idea of us being a space-faring civilization and being out there among the stars is incredibly inspiring and exciting and something to look forward to. And there need to be such things in the world."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you a different question about confidence. We were having a conversation here earlier about people and where people get their confidence from. Some people have great insecurity, other people have great confidence. And I was thinking about you, because you have a very interesting history where people have told you over and over again that you’re wrong."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, sometimes they’re right."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, sometimes they are. But I would say that when it comes to Tesla, when it came to SpaceX, people told you that you were crazy, you were out of your mind, this was never going to happen."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "This was never going to work."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Yes."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And so the reason I ask you this though is now, when people say, you’re wrong, this isn’t right, do you look at that and say, you know what, that’s a red flag for me because I’ve been told so often that I’m wrong and I know I’m right because I’ve had that experience? Or are there people in your life when they say, you know what, this is not right. Do you know what I’m saying?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think what you trying to say is that, do I at this point think because I’ve been right so many times for others who said I’m wrong, that now I best believe I’m right when, in fact, I’m wrong?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You did very well. What do you think?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I’m right. So yeah, no, look, here’s the thing. Physics is unforgiving. Physics is unforgiving. I have these various little sayings that I’ve come up with, that physics is the law and everything else is a recommendation."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "In the sense that you can break any law made by humans, but try breaking a law made by physics. That’s much more difficult. So if you are wrong and persist in being wrong, the rockets will blow up and the cars will fail. So we’re not trying to figure out what flavor of ice cream is the best flavor of ice cream. There’s 1,000 things that can happen on a rocket flight, and only one of them gets the rocket to orbit. And so being wrong results in failure when dealing with physical objects."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But that’s the interesting part. So now you’ve built these great companies that physically, the physics of them are enormously successful. So successful arguably, that you have leverage over everybody else. Nobody else can do Starlink. Nobody else can get the rockets in space, yet Amazon and Jeff Bezos are trying, but they haven’t yet."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I hope he does."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You hope he does?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Yeah. I actually agree with a lot of Jeff’s motivations. Let me put it this way, if there was a button I could press that would delete Blue Origin, I wouldn’t press it. So I think it’s good that he’s spending money on making rockets too. I’d suggest perhaps he spend more time on it, but it’s up to him. I should make a point here. So nothing any of my companies have done has been to stifle competition. In fact, we’ve done the opposite. So at Tesla, we have open sourced our patents. Anyone can use our patents for free. How many companies do you know who’ve done that? Can you name one? I can’t. At SpaceX, we don’t use patents. Once in a while we’ll file a patent just so some patent troll doesn’t cause trouble. But we’ve done nothing anti-competitive. We’ve done nothing to stop our competitors."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I’m not suggesting you are."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I just want to clarify for the audience, because some companies have done anti-competitive things. I think the strange thing, the unusual thing about SpaceX and Tesla is that we’ve done things that have helped our competition. So at Tesla, we have made our supercharger system open access. We’ve made our charger technology available for free to the other manufacturers. No walled garden. We could have put a wall up, but instead we invited them in."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "The reason I mentioned this though, is because you’ve had the success in the physical physics world, you now have these very difficult decisions that have huge impacts on the world that are not physical decisions at all. They’re decisions of the mind. They’re decisions that you and others have to make. And there’s a question whether you should be making these decisions at all. And I think about it in the context of Starlink. Obviously there was the report about how it’s being used in Ukraine and the Russia war. There’s questions about Taiwan, whether Taiwan should use it or will use it. I believe they’re not right now, because they’re worried that at some point maybe the Chinese will tell you that they have leverage over you and you’re going to have to turn that off. These are very difficult decisions and I’m so curious how you think about that. And not just the decisions, the fact that you have that power."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it’s important for the audience to understand that the reason I have these powers is not because of some anti-competitive actions. It’s simply because we’ve executed very well."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Oh, I’m not dismissing that. I think there’s so many people, by the way, who are huge supporters of what you’ve created."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There are other satellites out there, you know?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But they’re not as good as yours."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Right."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And we can maybe make the same argument of cars and everything else. But as a result, that gives you enormous leverage."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "With the exception of, by the way, these advertisers who aren’t on X in every other instance, everybody needs you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They use our product if it’s better, then use somebody else’s product if their other product’s better."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And I accept that, and maybe one day somebody else will create a better product."
+    },
+    {
+      "role": "elon_musk",
+      "text": "How is it a bad thing to make better products than other companies?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, and I want to just go back to the Starlink piece it though, because that has sort of a geopolitical ramification in terms of your power and how you think about that specific power, and then the power that the U.S government might have, either over you or not over you, the power that Chinese government might have over you or not over you, and how those things get used."
+    },
+    {
+      "role": "elon_musk",
+      "text": "What are you suggesting?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I’m asking the question around this very idea of how these satellites are going to be used, whether you think that you should have control of them, whether the government should have control of them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do you trust the government?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, there’s a lot of people who don’t trust the government."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But then this goes back to the trust of you, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like I said, we’re not the only company who has communication satellites. Our satellites are just much better than theirs. So it’s not like we have a monopoly, we just have the best product?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Do you feel anybody has leverage over you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think at the end of the day, if we make bad products that people don’t want to use, then the users will vote with their resources and use something else."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me pivot the conversation for a second."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Certainly, my company’s overseen by regulators. Since SpaceX, Starlink, Tesla are overseen by cumulatively over 100 regulators, and actually more than that, a few hundred regulators because you’ve got, we’re in fifty-five countries. If you sum up all the times that I had an argument with regulators, of hundreds of regulators over decades, it can sound really terrible, except but they forgot to mention that there were 10 million regulations we complied with and only five that I disagreed with. But they list all the five and it sounds like, wow, this guy’s a real maverick. I’m like, yeah, but what about the 10 million we complied with?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "One related thing on this and the leverage of countries and things over you and regulators. X is this free-speech platform. You do business in China, lots of business in China. That’s an important part of your business, I imagine."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it’s not SpaceX."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "How do you think about the leverage that the Chinese have over you, and do they have leverage over you? And how do you feel about, some people would say, is it hypocritical for you to be doing business in China, or frankly in other countries as it relates to X and other things that don’t follow this free speech path that you have espoused?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The best that the X platform can do is adhere to the laws of any given country. Do you think there’s something more we could do than that?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I think it would be very hard, but I just wonder, given the sort of strong, philosophical approach that you’ve been vocal about, whether you say to yourself, maybe I shouldn’t be doing business in that country?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, first of all, Starlink and SpaceX do no business in China whatsoever. Tesla has one of four factories, four vehicle factories in China. And China is, I don’t know, a quarter of our market or something like that. So it’s a quarter of the market of one company. The same is true, by the way, of all the other car companies. They also have something on that order of a quarter of their sales in China. So if that’s a problem for Tesla, it’s a problem for every car company. I think one has to be careful about not conflating the various companies. Because I can only do things that are within the bounds of the law, I cannot do beyond that. My aspiration is to do as much good as possible and to be as productive as possible within the bounds of what is legal. More than that, I cannot do."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I want to pivot and talk about AI for a moment. We had Jensen Huang here, who’s a big fan of yours, as you know."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Jensen’s awesome."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Talked about bringing you the first box, by the way, with Ilya, interestingly enough, back in 2016, I think."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. There’s a video of Jensen and me unpacking the first AI computer at OpenAI."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "So I’m so curious what you think of what’s just happened over the past two weeks. While you were dealing with this other headline, series of headlines, there was a whole other series of headlines at OpenAI. What did you think? You founded it, co-founded it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Co-founded it, yeah. Well, the whole arc of OpenAI, frankly is a little troubling, because the reason for starting OpenAI was to create a counterweight to Google and DeepMind, which at the time had two-thirds of all AI talent and basically infinite money and compute. And there was no counterweight. It was a unipolar world. And Larry and Paige and I used to be very close friends, and I would stay at his house, and I would talk to Larry into the late hours of the night about AI safety. And it became apparent to me that Larry did not care about AI safety. I think perhaps the thing that gave it away was when he called me a speciest for being pro-humanity, as in a racist, but for species. So I’m like, “Wait a second, what side are you on, Larry?” And then I’m like, okay, listen, this guy’s calling me a speciest. He doesn’t care about AI safety. We’ve got to have some counterpoint here because this seems like we could be, this is no good.\nSo OpenAI was actually started, and it was meant to be open source. I named it OpenAI after open source. It is in fact a closed source, super closed. It should be renamed super closed source for maximum profit AI. Because this is what it actually is. Fay loves irony. In fact, a friend of mine says, the way to predict outcomes is the most ironic outcome is the most… It’s like his Occam’s razor, the simplest explanation is most likely. And my friend Jonah’s view is that the most ironic outcome is the most likely. And that’s what’s happened with OpenAI. It is gone from an open source foundation, a 5123, to suddenly it’s like a $90 billion for-profit corporation with closed source. So I don’t know how you go from here to there."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know how you get … Is this legal? I’m like, “That’s legal?”"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "So as you saw Sam Altman get ousted by somebody you know, Ilya, and Ilya was a friend of yours, you brought him there, your relationship with Larry Page effectively broke down over you recruiting him away, I think."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s correct. Larry refused to be friends with me after I recruited Ilya."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And so here’s Ilya, apparently, saying something is very wrong."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we should be concerned about this because I think Ilya actually has a strong moral compass. He really sweats it over questions of what is right. And if Ilya felt strongly enough to want to fire Sam, well, I think the world should know what was that reason."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Have you talked to him?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve reached out, but he doesn’t want to talk to anyone."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Have you talked to other people behind the scenes? Is this is all happening?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve talked to a lot of people. I’ve not found anyone who knows why. Have you?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I think we are all still trying to find out."
+    },
+    {
+      "role": "elon_musk",
+      "text": "One of two things is, either it was a serious thing and we should know what it is or it was not a serious thing and then the board should resign."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "What do you think of Sam Altman?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I have mixed feelings about Sam. The ring of power can corrupt, and he has the ring of power. So I don’t know. I think I want to know why Ilya felt so strongly as to fire Sam. This sounds like a serious thing. I don’t think it was trivial. And I’m quite concerned that there’s some dangerous element of AI that they’ve created."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Discovered."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You think they’ve discovered something."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’d be my guess."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Where are you with your own AI efforts relative to where you think OpenAI is, where you think Google is, where you think the others are?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "On the AI front, I’m in somewhat of a quandary here because I’ve thought AI could be something that would change the world in a significant way since I was in college, 30 years ago. Now, the reason I didn’t go build AI right from the get-go was because I was uncertain about which edge of the double-edged sword would be sharper, the good edge or the bad edge.\nSo I held off on doing anything on AI, could’ve created, I think, a leading AI company, and OpenAI actually is that, because I was just uncertain, if you make this magic genie, what will happen, whereas I think building sustainable energy technology is much more of a single-edged sword that is single-edged good, making life multi-planetary, I think single-edged good, installing mostly single-edged good, giving people better connectivity to people that don’t have connectivity or it’s too expensive, I think is very much a good thing. Sonic was instrumental, by the way, in halting the Russian advance, and the Ukrainians said so. So I think, with AI, you’ve got the magic genie problem. You may think you want a magic genie, but once that genie’s out of the bottle, it’s hard to say what happens."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "How far are we away from that genie being out of the bottle, do you think, or you think it’s already out?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The genie is certainly poking its head out."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "The AGI, the idea of artificial general intelligence, given what you now are working on yourself, and you know how easy or hard it is to train, to create the inferences, to create the weights, I hope I’m not getting too far in the weeds of just how this works, but those are the basics behind the software end of this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s funny, all these weights, they’re just basically numbers in a common separated value file, and that’s our digital god, the CSP file. I found that funny, but that’s literally what it is. So I think it’s coming pretty fast."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You famously have admitted to overstating how quickly things will happen, but how quickly do you think this will happen?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you say smarter than the smartest human at anything?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Yep."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It may not be then quite smarter than all humans, well, machine-augmented humans, because people have got computers and stuff. There’s a higher bar, but you say it’s more than any … can write as good a novel as, say, JK Rowling, or discover new physics, or invent new technology, I would say that we’re less than three years from that point."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you a question about XAI and what you’re doing because there’s an interesting thing that’s different, I think, about what you have relative to some of the others, which is you have data, you have information, you have all of the stuff that everybody in here has put on the platform to sort through, and I don’t know if everybody realized that initially. What is the value of that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Data is very important. You could say data is probably more valuable than gold."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But then maybe you have the gold in X in a different way, in a way, again, that I don’t know if the public appreciates what that means."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, X might be the single best source of data. People click on more links to X than anything else on earth. Sometimes people think Facebook or Instagram is a bigger thing, but actually, there are more links to X than anything. This is public information. You can Google it."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay, let me ask you a-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "So it is where you would find what is happening right now on earth at any given point in time. The whole OpenAI drama played out, in fact, on the X platform. Google certainly has a massive amount of data, so does Microsoft, but it is one of the best sources of data."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Can I ask you an interesting IP issue, which I think is actually something I can say, as somebody who’s in the creator business and journalistic business and whatnot, where I care about copyright? So one of the things about training on data has been this idea that these things are not being trained on people’s copyrighted information. Historically, that’s been the concept."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s a huge lie."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Say that again?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "These AIs are all trained on copyrighted data, obviously."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "So you think it’s a lie when OpenAI says that this is … None of these guys say they’re training on copyrighted data."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s a lie."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It’s a lie, straight up."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, straight up lie."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "100%. Obviously, it’s been trained on copyrighted data."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay. So let me ask a second question, which is, all of the people who have been uploading-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s one every minute here."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "All of the people who have been uploading articles, the best quotes from different articles, videos to X, all of that can be trained on. And it’s interesting because people put all of that there and those quotes have historically been considered fair use, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "People are putting those quotes up there. And individually, on a fair use basis, you’d say, “Okay, that makes sense,” but now, there are people who do threads, and by the way, there may be multiple people who’ve done an article that has 1,000 words. Technically, all 1,000 words could’ve made it onto X somehow. And effectively, now, you have this remarkable repository, and I wonder how you think about that, again, and how you think the creative community and those who were the original IP owners should think about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know, except to say that, by the time these lawsuits are decided, we’ll have digital God. So I’d ask digital God at that point. These lawsuits won’t be decided before, on a timeframe that is relevant."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Is that a good thing or a bad thing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s that … I don’t know if it’s actually a real Chinese thing or not, but may you live an interesting time is apparently not a good thing, but personally, I would prefer to live in interesting times, and we live in the most interesting of times. For awhile there, I was really getting demotivated and losing sleep over the threat of AI danger, and then I finally became fatalistic about it and said, “Well, even if I knew annihilation was certain, would I choose to be alive at that time or not?” And I said, “I probably would choose to be alive at that time because it’s the most interesting thing, even if there’s nothing I could do about it.” So then basically, a fatalistic resignation helped me sleep at night because I was having trouble sleeping at night because of AI danger.\nNow, what to do about it? I’ve been the one banging the drum the hardest, by far the longest, or at least one of longest for AI danger, and these regulatory things that are happening, the single biggest reason they’re happening is because of me."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Do you think they’re ever going to get their arms around it? We talked to the Vice President this afternoon. She said she wants to regulate it. People have been trying to regulate social media for years and have done nothing, effectively."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, there’s regulation around anything which is a physical danger, a danger to the public. So cars are heavily regulated, communications are heavily regulated, rockets and aircraft are heavily regulated. The general philosophy about regulation is that, when something is a danger to the public, that there needs to be some government oversight. So I think, in my view, AI is more dangerous than nuclear bombs and we regulate nuclear bombs. You can’t just go make a nuclear bomb in your backyard. I think we should have some kind of regulation with AI. Now, this tends to cause the AI accelerationist to get up in arms because they think AI is heaven, basically."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But you typically don’t like regulation. You’ve pushed back on regulators, for the most part, in the world of Tesla and so many instances where we read articles about you pushing back on the regulators. I’m so curious why, in this, instance now you own one of these businesses."
+    },
+    {
+      "role": "elon_musk",
+      "text": "As I said a moment ago, one should not take what is viewed in the media as being the whole picture. There are literally hundreds, this is not an exaggeration, say, there are probably 100 million regulations that my companies comply with and there are probably five that we don’t. And if we disagree with some of those regulations, it’s because we think the regulation that is meant to do good doesn’t actually do good."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But that’s an interesting thing because-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not defying regulations for the sake of defiance."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "The question, if there are laws and rules, whether the idea is that you’re making the decision that the law and the rule shouldn’t be the law and the rule and then … right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I’m saying you’re fundamentally mistaken, and it should be obvious that you’re mistaken. My company’s automotive is heavily regulated. We would not be allowed to put cars on the road if we did not comply with this vast body of regulation. Now, you could fill up the stage with, literally six foot high, the regulations that you have to comply with to make a car. You could have a room full of phone books. That’s how big the regulations are. And if you don’t comply with all of those, you can’t sell the car. And if we don’t comply with all the regulations for rockets or for Starlink, they shut us down.\nSo in fact, I am incredibly compliant with regulations. Now, once in awhile, there’ll be something that I disagree with. The reason I would disagree with it is because I think the regulation, in that particular case, in that rare case, does not serve the public good. And therefore, I think it is my obligation to object to a regulation that is meant to serve the public good, but doesn’t. That’s the only time I object, not because I seek to object. In fact, I’m incredibly rule-following."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you a separate question, a social-media-related question. We’ve been talking about TikTok today ahead of the election."
+    },
+    {
+      "role": "elon_musk",
+      "text": "TikTok is-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "What do you think of TikTok? Do you think it’s a national security threat?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t use TikTok."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Say that again, you don’t?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t personally use it, but for teenagers and people in their 20s, they seem almost religiously addicted to TikTok. Some people will watch TikTok for two hours a day. I stopped using TikTok when I felt the AI probing my mind and it made me uncomfortable, so I stopped using it. And in terms of antisemitic content, TikTok is rife with that. It has the most viral antisemitic content by far."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But do you think the Chinese Government is using it to manipulate the minds of Americans?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Is that something that you think we should worry about? You have different states that are trying to ban it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t think this is some Chinese Government plot, but the TikTok algorithm is entirely AI-powered. So it is really just trying to find the most viral thing possible. It’s what is going to keep you glued to the screen. That’s it. Now, on sheer numbers, there are on the order of two billion Muslims in the world, and I think a much smaller number of Jewish people, 20 million, something, many orders of magnitude fewer. So if you just look at content production, just on sheer numbers basis, this is going to be overwhelmingly antisemitic, just on a numbers basis."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you a political question, and I’ve been trying to square this one in my head for a long time. In the last two or three years, you have moved decidedly to the right, I think."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Have I?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, we can discuss this. I think that you have been espousing and promoting a number of Republican candidates and others. You’ve been very frustrated with the Biden Administration over, I think, unions and feeling like they did not respect what you’ve created."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, doing nothing to provoke the Biden Administration, they held an electric vehicle summit at the White House and specifically refused to let Tesla attend. This was in the first six months of the administration. And we inquired, we’re like, “We literally make more electric cars than everyone else combined. Why are we not allowed? Why are you only letting Ford, GM, Chrysler, and UAW, and you’re specifically disallowing us from the EV summit at the White House?” We had done nothing to provoke them. Then Biden went on to add insult to injury and publicly said that GM was leading the electric car revolution. This was in the same quarter that Tesla made 300,000 electric cars and GM made 26. Does that seem fair to you?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But tell me this, then. It doesn’t seem fair. And I’ve asked repeatedly, you’ve probably seen me-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "And by the way, I had a great relationship with Obama. So this was not a-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But then there’s this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I voted for Obama. I stood in line for six hours to shake Obama’s hand. Okay?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay. So let me just ask on a personal level, I can see it in your face, this hurt you personally."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And it hurt the company, too, and it was an insult to … Tesla has 140,000 employees. Half of them are in the United States. Tesla has created more manufacturing jobs than everyone else combined."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "So let me ask this, then. You’ve devoted at least the last close to 20 years of your life, if not more, to the climate, climate change, trying to get Tesla off the ground, in part to improve climate. You’ve talked about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, a real right-wing motive."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Repeatedly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "God, far right, if anything."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "No, I understand that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a reverse psychology, next level."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well, no, but here’s then the question, which is how do you square the support that you have given … I believe you were at a fundraiser for Vivek Ramaswamy, for example, who says that the climate issue is a hoax, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I disagree with him on that."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But I would think that that would be such a singular issue for you. I would think that the climate issue would be such a singular issue for you that, actually, it would disqualify almost anybody who didn’t take that issue seriously."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I haven’t endorsed anyone for president. I wanted to hear what Vivek had to say because I think that some of the things he says, I think, are pretty solid. He’s concerned about government overreach, about government control of information. The degree to which old Twitter was basically a sock puppet of the government was ridiculous. So it seems to me that there’s a very severe violation of the First Amendment in terms of how much control the government had over old Twitter, and it no longer does.\nSo there’s a reason for the First Amendment. The reason for the First Amendment, for freedom of speech, is because the people that immigrated to this country came from places where there was not freedom of speech. And they were like, “You know what? We got to make sure that that’s constitutional,” because where they came from, if they said something, they’d be put in prison or something bad would happen to them. And freedom of speech, you have to say, when is it relevant? It’s only relevant when someone you don’t like can say something you don’t like or it has no meaning. And as soon as you throw in the towel and concede to censorship, it is only a matter of time before someone censors you. And that is why we have the First Amendment."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Could you see yourself voting for President Biden, if it’s a Biden-Trump election, for example?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think I would not vote for Biden."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You’d vote for Trump."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not saying I’d vote for Trump, but this is definitely a difficult choice here."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Would you vote for Nikki Haley? Nikki Haley, by the way, wants all social media names to be exposed, as you know."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I think that’s outrageous. I’m not going to vote for some pro-censorship candidate. Like I said, I think you have to consider that there’s a lot of wisdom in these amendments, I mean, the constitution, and a lot of things that we take for granted here in the United States that don’t even exist in Canada. There’s no constitutional right to freedom of speech in Canada and there’s no Miranda rights in Canada. People think you have the right to remain silent. You don’t, actually, in Canada. I’m half Canadian, I can say these things, I suppose. So the freedom of speech is incredibly important, even when people … And like I said, it’s actually especially important, in fact, it is only relevant, when people you don’t like can say things you don’t like. they’re meaningless."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You think, right now, the Republican candidates or the Democrats are more inclined … This is where you go to, I assume, to woke and anti-woke and the mind virus issue that you’ve talked about. Which party do you think is more pro freedom of speech, given all the things you’ve seen? Because we also see DeSantis preventing people from reading certain things. Maybe you think that’s correct."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Look, we actually are in an odd situation here where, on balance, the Democrats appear to be more pro-censorship than the Republicans, and that used to be the opposite. It used to be left position was freedom of speech. I believe, at one point, the ACLU even defended the right of someone to claim that they were Nazi or something like that. So the left was freedom of speech is fundamental. My perception, perhaps it isn’t accurate, is that the pro-censorship is more on the left than the right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "… We certainly get more complaints from the left than the right, let me put it that way. But my aspiration for the X platform is that it is the best source of truth, or the least inaccurate source of truth. And while I don’t know of you will believe me or not, but I think honesty is the best policy, and I think that the truth will win over time.\nAnd we’ve got this great system, and it’s getting better, called Community Notes, which is fantastic I think at correcting falsehoods, or adding context. In fact, we make a point of not removing anything, but only adding context. Now that context could include that this is completely false and here’s why. And no one is immune to this. I’m not immune to it. Advertisers are not immune to it. In fact, we’ve had Community Notes, which has caused us some loss in advertising. Speaking of loss in advertising revenue. If a community note… If there’s false advertising, the Community Note will say, “This is false and here is why.”\nThere’s one specific example that is public knowledge, so I’ll mention it, which is at one point Uber had this ad which said, “Earn like a boss.” And it was community noted. “If by boss you mean $12 and forty-seven cents an hour.” This did cause at least a temporary suspension of advertising from Uber."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I got to ask you a question that might make everybody in the room uncomfortable or not uncomfortable. It goes to the free speech issue. The New York Times company and the New York Times newspaper, it appeared over the summer to be throttled."
+    },
+    {
+      "role": "elon_musk",
+      "text": "What did?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "The New York Times?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, we do require that everyone has to buy a subscription, and we don’t make exceptions for anyone. And I think if I want the New York Times, I have to pay for a subscription, and they don’t give me a free subscription. So I’m not going to give them a free subscription."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But were you throttling the New York Times, relative to other news organizations, relative to everybody else? Was it specific to The Times?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "They didn’t buy a subscription. By the way, it only cost like $1000 a month. So if they just do that, then they’re back in the saddle."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But you are saying that it was throttled?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I’m saying-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I mean was there a conversation that you had with somebody you said, ” Look, I’m unhappy with The Times. They should either be buying the subscription, or I don’t like their content or whatever.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Any organization that refuses to buy a subscription is not going to be recommended."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But then what does that say about free speech? And what does that say about amplifying certain voices-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Free speech is not exactly free, it costs a little bit."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But that’s an interesting-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s like in South Park where they say, “Freedom isn’t free, it costs a buck O’ five.” Or whatever. But it’s pretty cheap. Okay? Low cost freedom."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I got a couple more questions for you. You’re headed back to Texas after this-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Freedom-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "To launch the Cybertruck."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It’s going to be a big launch, but I wanted to ask you right now more broadly just about the car business and what you see actually happening, and specifically the government put in place lots of policies, as you know, to try to encourage more EVs. And one of the things that’s happened uniquely is you have now a lot of car companies saying, “Actually this is too ambitious for us. These plans are too ambitious.” 4,000 dealers… I don’t know if you saw just yesterday, sent a letter to the White House saying, “This has gone too far, you’re going too far.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is EV?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It was, “This is going too fast, too far.” And that there’s not enough demand. Underneath all this is this idea that maybe there’s not enough demand for EVs. That the American public has not bought into… I mean they bought into it with your company, but they haven’t bought into it broadly enough."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think if you make a compelling electric car, people will buy it. No question about it. I mean electric car sales in China are gigantic. That’s by far the biggest category, and I think that would be the case… I mean it’s worth noting, so probably the best reputation of that is that the Tesla model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Is there another car company that you think is doing a good job with EVs?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think the Chinese car companies are extremely competitive. By far our toughest competition is in China. So I mean there’s a lot of people who are out there who think the top 10 car company’s is going to be Tesla followed by nine Chinese car companies. I think they might not be wrong. So China is super good at manufacturing, and the work ethic is incredible. So if we consider different leagues of competitiveness at Tesla, we consider the Chinese league to be the most competitive. And by the way, we do very well in China because our China team is the best in China."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "How worried are you that the unionization effort that just took place, well, I shouldn’t say effort, but the new wages and the like at GM and Ford, that they’re coming for you? And they are coming for you. What is that going to mean to you and your business?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean I think it’s generally not good to have an adversarial relationship between people on the line, one group at the company and another group. In fact, I disagree with the idea of unions, but perhaps for a reason that is different than people may expect, which is I just don’t like anything which creates kind of a lords and peasants sort of thing. And I think the unions naturally try to create negativity in a company, and create a sort of lords and peasants situation.\nThere are many people at Tesla who have gone from working on the line to being in senior management. There is no lords and peasants. Everyone eats at the same table. Everyone parks in the same parking lot. At GM there’s a special elevator for only for senior executives. We have no such thing at Tesla.\nAnd the thing is that I actually know the people on the line, because I worked on the line and I walked the line and I slept in the factory and I worked beside them. So I’m no stranger to them. And there are actually many times where I’ve said, “Well, can’t we just hold a union vote?” But apparently a company is not allowed to hold a union vote, so it has to be somehow called for, but the unions can’t do it. So I said, “Well let’s just hold a vote and see what happens.”\nThe actual problem is the opposite. It’s not that people are trapped at Tesla building cars. The challenge is, how do we retain great people to do the hard work of building cars when they have six other opportunities that they can do that are easier? That’s the actual difficulty, is that building cars is hard work and there are much easier jobs. And I just want to say that I’m incredibly appreciative of those who build cars, and they know it.\nSo I don’t know, maybe we’ll be unionized. I say if Tesla gets unionized it will be because we deserve it and we failed in some way. But we certainly try hard to ensure the prosperity of everyone. We give everyone stock options. We’ve made many people who are just working the line who didn’t even know what stocks were, we’ve made the millionaires."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "We’re going to run out of time. Final couple of quick questions. When do you have the time to tweet or to post? I actually think about it all the time. As I said, I use it-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "well. I have to go to the bathroom sometimes."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I use it all the time. Meaning, if we were to open up our phones and look at the screen time, what does yours look like?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, about every three hours, I make a trip to the lavatory."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And that’s the only time you do this? Seems like you’re on there a lot."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I mean there’ll be brief moments between meetings. I mean obviously, I have 17 jobs and no, I guess technically it’s work at this point."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It is, but I’m thinking just in terms of your mind share. I mean, by the way, there’s a lot of people who should be working who are on this app."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Technically posting on Twitter or X is work. It does count as work. So there’s that. But no, I mean I think I’m on… Well I guess usually, probably I’m on for longer than I think I am."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I know, but do you think that’s five hours a day, four hours?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you look at the screen time of a number of hours per week, sometimes that’s a scary number. It’s probably, I don’t know, it’s a little over an hour a day, or something like that."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Just an hour a day? If we really looked at this together. Do you have your phone with you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "You want to look?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Okay, here we go. You ready? Screen time in general?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, screen time. Sometimes this is a scary number though."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I know, that’s why I thought…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I just got a new phone, so I think this is not accurate. It’s one minute. Pretty sure it’s more than that. Wait, it’s over the week. There we go."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Yeah, go to the week."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, so it’s still wrong. It’s more than four minutes. I just got a new phone, so this is not accurate. It literally says four minutes."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "New phone? Tim Cook sent you that phone?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "New phone. ."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I should ask, by the way I just mentioned Tim Cook. Do you feel like you’re going to have to have a battle with him eventually? Is that the next fight over the app store?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The idea of making a phone… What do you mean like-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "No, no, no."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The app store?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "The app store. Are you going to make a phone? Sam Altman’s apparently thinking about making a phone with Johnny Ive."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I don’t think there’s a real need to make a phone. I mean, if there’s an essential need to make a phone, I’ll make a phone, but I’ve got a lot of fish to fry. So I mean I do think there’s a fundamental challenge that phone makers have at this point because you’ve got basically a black rectangle. How do you make that better?"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "So do you want to do that? What does that look like in Elon’s head?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, that’s literally… Yeah, good phrase, in the head. A neural link."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Well there we go. We need to touch that before it’s over."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The best interface would be a neural interface directly to your brain. So that would be a neural link."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "How far are we, do you think from that, and how excited or scary does that seem to be? And we read these headlines obviously, about monkeys who died, as you know, what should we think about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, actually this is… The USDA inspector who came by Neuralink facilities literally said in her entire career she has never seen a better animal care facility. We are the nicest to animals that you could possibly be, even to the rats and mice, even though they did the plague and everything. So it is like monkey paradise.\nSo the thing that gets conflated is that there were some terminal monkeys, where, this is actually several years ago, where the monkeys were about to die and we’re like, okay, we’ve got an experimental device. It’s a kind of thing which you would only put on a monkey that’s about to die. And then now the monkey died, but it didn’t die because of the Neuralink, it died because it had a terminal case of cancer or something like that.\nNeuralink has never caused the death of a monkey, to the best… Unless they’re hiding something from me, it’s never caused death of a monkey. And in fact, we’ve now had monkeys with Neuralink implants for two, three years and they’re doing great. And we’ve even replaced the Neuralink twice and we’re getting ready to do the first implants, hopefully in a few months. The only implementations of Neuralink I think are unequivocally good. Speaking of the double-edged sword, I think these early implementations are single-edged sword, because the first implementations will be to enable people who have lost the brain-body connection to be able to operate a computer or a phone faster than someone who has hands that work. So you can imagine if Stephen Hawking could communicate faster than someone who had full-body functionality, how incredible that would be. Well, that’s what this device will do, and we should have proof of that in a human, hopefully in a few months.\nIt already works in monkeys and works quite well with monkeys that can play video games just by thinking. So in the next application after dealing with tetraplegics and quadriplegics is going to be vision. Vision is the next thing. So it’s like if somebody has lost both eyes, or the optic nerve has failed, basically where they have no possibility of having some ocular correction. That would be the next thing for Neuralink, is a direct vision interface. And in fact, then you could be like Geordi La Forge from Star Trek. You could see in any frequency, actually you could see in radar if you want."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Two final questions, and then we’re going to end this conversation, which I think has taken everybody inside the mind of Elon Musk today-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not as well as Neuralink will though."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "It actually goes to self-driving cars and vision and everything else. And I asked this question of Pete Buttigieg transportation secretary, it’s actually something you retweeted. So I wanted to ask you the same question. There’s a big question about autonomous vehicles and the safety of them, but there’s also a question about when it will be politically palatable in this country for people to die in cars that are controlled by computers. Which is to say we have 35, 40,000 deaths every year in this country. If you could bring that number down to 10,000, 5,000, that might be a great thing. But do we think that the country will accept the idea that 5,000 people, that your family might have perished in a vehicle as a result, not of a human making a mistake, but of a computer?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Well, first of all, humans are terrible drivers. So people text and drive, they drink and drive, they get into arguments, they do all sorts of things in cars that they should not do. So it’s actually remarkable that there are not more deaths than there are. What we’ll find with computer driving is, I think probably an order of magnitude reduction in deaths.\nAnd the US has actually far fewer deaths per capita than the rest of the world. If you go worldwide, I think there’s something close to a million deaths per year due to automotive accidents. So I think computer driving will probably drop that by 90% or more. It won’t be perfect, but it’ll be 10 times better."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And do you think that the public will accept that? Do you think the government will accept that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, in large numbers, it will simply be so obviously true that it really cannot be denied."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "And what do you think, I know we’ve talked about the timeline before, and I know people have criticized you for putting out timelines that may not have come true just yet, but what do you think it really is? And by the way, do you feel, do you ever say to yourself, oh, I shouldn’t have said that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure, of course. Wait, I shouldn’t have said that. So yeah, I’m optimistic about… I think I’m naturally optimistic about time scales, and if I was not naturally optimistic, I wouldn’t be doing the things that I’m doing. I mean, I certainly wouldn’t have sold a rocket company or electric car company if I didn’t have some sort of pathological optimism, frankly.\nSo as you pointed out, many people said that it would fail. And in fact, actually I agreed with them. I said, “Yes, it probably will fail.” And they’re like, “Hmm, okay.” But I thought SpaceX and Tesla had less than a 10% chance of success when we started them. So yeah, anyway. But the self-driving thing is, I’ve been optimistic about it, but we’ve certainly made a lot of progress. If anybody has tried, has been using the sort of full self-driving beta, the progress every year has been substantial.\nIt’s really now at the point where in most places it’ll take you from one place to another with no interventions. And the data is unequivocal that supervised full self-driving is somewhere around four times safer or maybe more, than just a human driving by themselves. So I can certainly see it coming. Actually, really-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But do you think it’s another five or 10 years? I mean, people say-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, no, no, definitely not. Definitely not."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Do you feel like investors have invested in something that hasn’t happened yet? Is that fair to them? And that’s the other question that people have about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean I think they’ve all, with rare exception, thought it wasn’t happening. So they were investing, despite thinking, they’re very clear that they don’t think it’s real. So they’re not saying, “Oh, we just believe everything Elon says, hook, line, and sinker.” But the thing is that, I mean, it would be a fair criticism of me to say that I’m late, but I always deliver in the end."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Let me ask you a final question. I took note of this. It was November 11th and you took to Twitter and you wrote only two words. You said amplify empathy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Right."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I was taken aback by that, given all the things that have been going on in the world. Do you remember what you were thinking?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think it’s quite literally-"
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "I understand it, but what was going on? Why did you write that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I was encouraging people to amplify empathy, literally. I tend to be quite literal."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "But was there something that had happened, that you had seen that you said to yourself, I want to say that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think I was talking to some friends, and we all agreed that we should try to amplify empathy. And so I wrote amplify empathy."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "If you wanted an unvarnished look inside the mind of Elon Musk, I think you just saw it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Look, sometimes it’s pretty simple."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Elon Musk, thank you very, very much for the conversation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. Thank you."
+    },
+    {
+      "role": "andrew_ross_sorkin",
+      "text": "Appreciate it very, very much. Thank you. Thank you so much. Here, take that with you for a second."
+    }
+  ]
+}

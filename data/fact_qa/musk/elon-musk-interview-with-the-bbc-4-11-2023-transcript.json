@@ -1,0 +1,127 @@
+[
+  {
+    "fact": "Elon Musk tried to turn one of Twitter's buildings into a homeless shelter.",
+    "src": "Elon Musk (00:51:08): We tried to turn into a homeless shelter but building management group, well, the owner rejected it.",
+    "question": "What was one of the alternative uses you suggested for one of Twitter's buildings?"
+  },
+  {
+    "fact": "Elon Musk shut down one of Twitter's service centers, which caused significant technical issues.",
+    "src": "Elon Musk (00:52:19): Well, shutting down one of our service centers was quite difficult because it turns out there were, I thought the service centers were redundant, but there were in fact a lot of things that were hard coded to this one server center. And so when we shut it down and we actually, it was quite catastrophic.",
+    "question": "What major technical issue did you face after shutting down one of Twitter's service centers?"
+  },
+  {
+    "fact": "Elon Musk sold a lot of Tesla stock to finance the Twitter deal.",
+    "src": "Elon Musk (00:20:54): I sold a lot of Tesla stock to close this deal. I did not want to sell the Tesla stock.",
+    "question": "How did you finance the acquisition of Twitter?"
+  },
+  {
+    "fact": "Twitter's staff was reduced from around 7,800 to about 1,500 under Elon Musk's leadership.",
+    "src": "Elon Musk (00:53:01): I think we’re around 1,500 people at this point. And there was I think 7,800.",
+    "question": "By how much did the number of Twitter employees decrease during your time as owner?"
+  },
+  {
+    "fact": "Elon Musk refuted the claim that his father owned an emerald mine.",
+    "src": "Elon Musk (01:01:20): No, but he never owned an emerald mine. This is total bullshit.",
+    "question": "What claim about your father's business ventures did you refute?"
+  },
+  {
+    "fact": "Elon Musk implemented the Community Notes feature on Twitter to combat misinformation.",
+    "src": "Elon Musk (00:26:38): And we also have given a lot of attention to community notes, which corrects, with community itself, corrects misinformation. It’s been very effective.",
+    "question": "What feature did you implement on Twitter to help correct misinformation?"
+  },
+  {
+    "fact": "Elon Musk emphasizes the importance of free speech on Twitter.",
+    "src": "Elon Musk (00:23:03): Free speech is meaningless unless you allow people you don’t like to say things you don’t like. Otherwise it’s irrelevant.",
+    "question": "What is your stance on free speech and its significance on Twitter?"
+  },
+  {
+    "fact": "Elon Musk appointed his dog Floki as the CEO of Twitter.",
+    "src": "Elon Musk (00:49:24): I already have. I keep telling you, I’m not the CEO of Twitter. My dog is the CEO of Twitter.",
+    "question": "Who did you humorously name as the CEO of Twitter?"
+  },
+  {
+    "fact": "Elon Musk aims to create 'X the everything app' starting with Twitter.",
+    "src": "Elon Musk (01:25:47): Like I said, my goal is to create X the everything app. That’s the goal. It’s what we’re working towards.",
+    "question": "What is your long-term vision involving Twitter?"
+  },
+  {
+    "fact": "Elon Musk reduced Twitter's data centers from three to two.",
+    "src": "Elon Musk (00:11:16): We’re also doing it with two data centers instead of three. So we used to have three data centers. We shut down one of them.",
+    "question": "How many data centers did you reduce Twitter's operations to?"
+  },
+  {
+    "fact": "Twitter was tracking to lose over $3 billion a year when Elon Musk acquired it.",
+    "src": "Elon Musk (00:18:01): At the point in which the transaction closed, Twitter was tracking to lose over $3 billion a year, and had $1 billion in the bank. So that’s four months to death.",
+    "question": "How much was Twitter projected to lose annually at the time of acquisition?"
+  },
+  {
+    "fact": "Elon Musk sold a significant amount of Tesla stock to finance the Twitter acquisition.",
+    "src": "Elon Musk (00:20:54): I sold a lot of Tesla stock to close this deal. I did not want to sell the Tesla stock.",
+    "question": "What did you sell to finance the acquisition of Twitter?"
+  },
+  {
+    "fact": "Twitter usage reached all-time highs under Elon Musk's leadership.",
+    "src": "Elon Musk (01:03:56): Well, we have all time high usage, so I don’t think it has been.",
+    "question": "What achievement did Twitter reach in terms of usage under your leadership?"
+  },
+  {
+    "fact": "Elon Musk claims that previous Twitter management ignored bots to inflate user growth numbers.",
+    "src": "Elon Musk (00:25:54): Previously, previous management turned a blind eye to the bot because their bonuses were tied to user growth.",
+    "question": "What reason did you give for the previous management ignoring bots on Twitter?"
+  },
+  {
+    "fact": "Elon Musk believes that any social media without paid verification will become irrelevant.",
+    "src": "Elon Musk (01:18:33): My opinion is that any social media organization that does not insist on paid verification will be worthless.",
+    "question": "What is your opinion on the necessity of paid verification for social media?"
+  },
+  {
+    "fact": "Elon Musk implemented changes to verification and introduced long-form tweets and videos on Twitter.",
+    "src": "Elon Musk (00:11:52): We’ve also added long form tweets, you can now post videos up to two hours.",
+    "question": "What new features did you introduce on Twitter related to tweets and videos?"
+  },
+  {
+    "fact": "Elon Musk has a beta test account on Twitter but no burner accounts.",
+    "src": "Elon Musk (01:15:43): I do have a second account at this point because I need to test the app before it goes out so it’s like a beta test account. But no, I don’t have a burner or anything like that.",
+    "question": "Do you have any burner accounts on Twitter?"
+  },
+  {
+    "fact": "Elon Musk's father never owned an emerald mine, contrary to some claims.",
+    "src": "Elon Musk (01:01:20): No, but he never owned an emerald mine. This is total bullshit.",
+    "question": "What claim about your father's business ventures do you refute?"
+  },
+  {
+    "fact": "Twitter usage surpassed 8 billion user minutes per day.",
+    "src": "Elon Musk (00:09:58): We’re seeing some all-time highs in terms of total user time. So we passed 8 billion user minutes per day, which is a lot of user minutes.",
+    "question": "How many user minutes per day did Twitter surpass under your leadership?"
+  },
+  {
+    "fact": "Elon Musk sometimes sleeps in the library at Twitter's office.",
+    "src": "Elon Musk (00:09:20): I sometimes sleep in the office. In the library.",
+    "question": "Where do you sometimes sleep when staying overnight at Twitter's office?"
+  },
+  {
+    "fact": "Elon Musk reduced Twitter's compute capability by shutting down one of its data centers.",
+    "src": "Elon Musk (00:11:16): We’re also doing it with two data centers instead of three. So we used to have three data centers. We shut down one of them.",
+    "question": "How many data centers did you reduce Twitter's operations to?"
+  },
+  {
+    "fact": "Elon Musk believes in the importance of feedback and does not block users on Twitter.",
+    "src": "Elon Musk (00:40:16): I don’t turn replies off, and I actually got rid of… I removed my entire block list, so I don’t block anyone either.",
+    "question": "What is your stance on blocking users and receiving feedback on Twitter?"
+  },
+  {
+    "fact": "Elon Musk faced significant revenue drops and increased costs at Twitter post-acquisition.",
+    "src": "Elon Musk (00:18:43): Revenue dropped from 4.5 billion to 3. And expenses went from 4.5 to 6, creating a $3 billion negative cash flow situation.",
+    "question": "What financial challenges did you face at Twitter after acquiring it?"
+  },
+  {
+    "fact": "Elon Musk increased the transparency of Twitter's algorithms by open-sourcing them.",
+    "src": "Elon Musk (00:12:27): And we’ve open-sourced the algorithms. So there’s transparency about what tweets get shown, what content gets shown versus not.",
+    "question": "What did you do to increase transparency about how tweets are shown on Twitter?"
+  },
+  {
+    "fact": "Elon Musk aims for Twitter to serve as a Digital Town Square for all political persuasions.",
+    "src": "Elon Musk (00:22:27): Twitter should be a town square that gives equal voice to the whole country. And ideally the whole world.",
+    "question": "What is your vision for Twitter in terms of serving political discourse?"
+  }
+]

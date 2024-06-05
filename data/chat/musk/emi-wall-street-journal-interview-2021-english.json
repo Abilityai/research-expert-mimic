@@ -1,0 +1,343 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/12/17/wall-street-journal-interview-2021-english/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "joanna_stern",
+      "name": "Joanna Stern"
+    },
+    {
+      "id": "bal_das",
+      "name": "Bal Das"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "Hi."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Hi, Elon, how are you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Good. How are you?"
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Pretty good. Pretty good. Thank you so much for being here. And by here, I mean,…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "…here, electronically (…)"
+    },
+    {
+      "role": "joanna_stern",
+      "text": "And where are you right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m at the Tesla Giga Texas factory that we’re about to complete. So yeah, what you see behind me is the factory, basically. We have the office space and the factory kind of together. I think this is kind of important that we don’t have ivory tower management or engineering and that the management/engineering is as close to the factory as possible, so you can see what’s going on in the factory and stay grounded."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "All right, well, I’m in the ivory tower here with in front of a lot of CEOs and a live audience here in Washington, DC. And we are also joined by lots of people all over the internet; we are streaming this to wsj.com, Twitter, and YouTube. We have a very brief amount of time, only 30 minutes. But I’m very excited to talk about a wide range of things. I want to start with talking about our world, the world we currently live in, then I want to move to the future of the world and then talk a little bit about your world. We’ll start right here in Washington, DC, where everyone is talking about the infrastructure plan and the bill. And I wanted to ask you, say, tomorrow, you get a phone call from Joe Biden, and he says…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "(laughs)\nI think that’s unlikely, but sure…"
+    },
+    {
+      "role": "joanna_stern",
+      "text": "You know, he just gives you a call. And he says: “You know, I haven’t been talking a lot about Tesla lately. But, you know, what do you need from this bill? What are your needs?” What do you answer him?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Um, well, if I have to be totally frank, I don’t know, if we… at least no one at Tesla has actually brought up whether they care about this bill or not. I think if this bill happened or didn’t happen, I don’t know… we don’t think about it at all, really."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It might be better… honestly, it might be better if the bill doesn’t pass. Because we’ve spent so much money. You know, it’s like, the federal budget deficit is insane. It’s like $3 trillion federal expenditures, or 7 trillion federal revenue (…) 4 trillion. That’s a $3 trillion difference in… if this was a company, it would be a $3 trillion loss. So I don’t know if we should be adding to that loss. That seems pretty crazy. Someone’s got to give; you can’t just spend $3 trillion more than you own every year and don’t expect something bad to happen. I think this is not good.\nIf I may elaborate on that – the deficit is more than 3 trillion when you look at the future obligations. So it’s 7 trillion of current expenditures. But it’s much more than that. If you look at future obligations for Social Security, Medicare, and so forth – we’re running this incredible deficit. Someone’s gonna give. I don’t know. This can’t keep going."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Well, Mitch McConnell said something similar. That wasn’t not as extreme as you. But just… okay, let’s say his follow-up question is: “Okay, Elon, you don’t think we need to spend anything on the infrastructure?” If he says to you: “What is the biggest improvement we can make to the US infrastructure?” What do you say?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we generally could have better airports, better highways. And, you know, especially in cities that are congested, we’ve got to do something to deal with the extreme traffic, which I think is some combination of double deckering freeways and building tunnels. But if we don’t do something, we will be stuck in traffic forever. And as autonomous vehicles come to the fore, and it’s easier to drive without going through the pain of having to drive yourself – which is absolutely coming and will be one of the biggest transformations ever in human civilization – there will be more cars on the road, and the traffic will get much worse.\nAnd so we really need to do some combination of tunnels and/or like a double deckering freeways. I’m not a big believer in flying cars. They’re basically helicopters with wheels. And people don’t want the skies to be swarming with helicopters. So it’s tunnels and double deckering freeways. We don’t have a traffic problem in suburbs; we have a traffic problem on freeways because they’re just too small and did not anticipate the size of the urban environments that we currently experience. So yeah, but I don’t see a strong effort in this direction."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Well, I want to come back to autonomous vehicles, but wanted to just stay a little bit more on the role of government. You said at this conference actually a year ago that you think government should really just be hands-off when it comes to innovation. Though with this bill, there is a lot of support for EVs. And it could be the biggest change that we’ve seen throughout the country in terms of the infrastructure of EVs, and it helps Tesla. What do you think the role of government should be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think the role of government should be that of like a referee, but not a player on the field. Generally, government should, I think, just try to get out of the way and not impede progress. I think that there’s a general problem, not just in the US, but in most countries where the rules and regulations keep increasing every year. Rules and regulations are immortal; they don’t die. Occasionally you see some law with a sunset provision. But really, otherwise, the vast majority of rules and regulations live forever.\nAnd so, if more rules and regulations are applied every year, and it just keeps growing and growing, eventually, it just takes longer and longer, and it’s harder to do things. And there’s not really an effective garbage collection system for moving rules and regulations. And so, gradually, this hardens the arteries of civilization, where you’re able to do less and less over time. So I think the government should be really trying hard to get rid of rules and regulations that perhaps had some merit at some point but don’t have merit currently. But there’s very little effort in this direction. This is a big problem."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "And I also want to come back to this later; I know that you do have some other stance on sort of AI and what the rules and regulations we should have on that. But right now, you’re sitting in a Tesla factory. Where/how are you spending your time these days between the split between SpaceX and Tesla?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s about even between SpaceX and Tesla. It depends on, you know, what is the kind of crisis of the moment. So some weeks will be more Tesla, more SpaceX. But I work a lot; I work seven days a week and put in some pretty crazy hours. But it really depends on where I’m needed most. Like, basically just, I triage the tasks and try to do the things that are most useful or where I’m most needed. It varies from one week to the next.\nBut just going back to that infrastructure bill for a second, because some of the criticism of Tesla is like, hey, Tesla gets all these subsidies. But it’s worth noting that for the vehicle purchase tax credit – the $7,500 – Tesla stopped getting that like two years ago, whereas everyone else, I think, except for GM, still gets the $7,500 tax credit. So all of our sales this year, and last year, had nothing to do with the tax credit because we’re no longer eligible because we’ve made so many electric cars.\nTesla has made roughly two-thirds of all the electric cars in the United States. I’m not sure if most people are aware of that. So Tesla has made basically twice as many electric vehicles as the rest of the industry combined. And we don’t need the $7,500 tax credit. I would say, honestly, I would just can this whole bill. Don’t pass it. That’s my recommendation."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "What about the support though for the charging network? There are part of this bill…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not necessary."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "No?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I mean, you know, do we need support for gas stations? We don’t. So there’s no need for support for a charging network. I would delete it. Bleep."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Okay, all right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m literally saying get rid of all subsidies. But also for oil and gas."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "If you think about also how this affects your competitors, is that impact how some of your views on this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Um, I mean, maybe they need it, I don’t know. But I think just generally, I’m in favor of deleting subsidies. I mean, when we started Tesla, there were no EV subsidies at all, and gasoline was super cheap. We did not anticipate any subsidies. That came later. And the $7,500 tax credit came as a result not of Tesla activity but of General Motors lobbying for it. So, you know, I would just say, just delete them all."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Alright. But there’s some other good things in this bill, some would argue. I mean, a lot of money you’re marked for R&D. Would you want to put that toward something?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Okay. All right. All right, we’re gonna move on from the bill because I think we get what you are saying on it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "In general, if you don’t cut government spending, something really bad is going to happen. This is crazy. Our spending is so far in excess of revenue; it’s insane. Like, you could zero out all billionaires in the country… there’s almost like anti billionaire bs. Well, if you’d zero out all the billionaires, you still wouldn’t solve the deficit."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Alright, I’ll ask you another question around the billionaire BS. Say, tomorrow – we’ve talked – you get the phone call from President Biden. Next day, actually, we decide we elect you to Congress; somehow, this happens. You’re now working on tax bills; you’re working on tax policy. How do you tax someone like you? How do you tax billionaires?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, first of all, I pay a lot of tax. I mean, my marginal tax rate is like 53%. So that’s not trivial. And then obviously, there’s like, you know, asset base taxes, the sales tax and everything else. There’s also the estate tax. In generally, I think the estate tax is a good tax. Like, if you think of assets beyond a certain level that are far beyond, let’s say, somebody’s ability to consume, then, at a certain point, really what you’re doing is capital allocation. It’s not money for personal expenditures; what you’re doing is capital allocation.\nAnd it does not make sense to take the job of capital allocation away from people who have demonstrated great skill in capital allocation and give it to an entity that has demonstrated very poor skill in capital allocation, which is the government. I mean, you could think of the government, essentially, as a corporation in the limit. The government is simply the biggest corporation with a monopoly on violence. And where you have no recourse. So, how much money (…) entity?"
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Can you explain the last part quickly? And then I want to move on to some product stuff."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure, I can talk for a bit longer if you’d like than the half an hour, if you’re worried about getting through other questions."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "I hear we have nobody else joining us."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, the government is a corporation in the limit. It is the most corporate thing; it is maximum corporation. But it’s also monopoly. And also is the only one that’s allowed legally to do violence. So, why would you want to give a corporation with no competition, that can’t even really go bankrupt, more money? Now, it’s not as though I think the government shouldn’t exist or that there are not good things that the government can do or things that are necessary for the government to do.\nFor example, a science program’s where we send a probe to Mars, and the value of that is… it’s a small amount of value for all citizens, but it would be inefficient to sort of go and collect, you know, $10 from every citizen for a Mars probe. And therefore, it’s better to have the government do something like a heavy science program, rather than try to collect small amounts of money from everyone.\nSo I’m not somebody who is sort of an extreme libertarian and thinks the government should not do anything. I just think we should minimize what the government does because the government’s efficiency at spending is just going to be lower than a competitive commercial company by a lot.\nIf you look at, say, East Germany versus West Germany, or North Korea versus South Korea, and you look at GDP per capita of East and West Germany or North and South Korea, the difference is gigantic. And that’s just the difference between East and West Germany, you know, it’s like a random line was drawn basically, depending on where the Red Army was and where the Allied troops were. And East Germany’s productivity was at least five times worse than West Germany’s. And it’s not like West Germany was like some bastion of capitalism; they were quite socialist, really. So there may be as much as an order of magnitude difference between the efficiency of a competitive private company versus the government."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "I’m going to shift away from government and come back to your world. Just thinking about sort of how you juggle Tesla and SpaceX, and you’ve said along the way that the workload at Tesla is quite a lot. Have you – and I know now you could regain the chairman position – have you thought about that? Have you thought about that? Have you thought about your title and your position there right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, it’s interesting that these titles… you know that there’s actually only three titles that actually mean anything for a corporation. It’s President, Secretary, and Treasurer, and technically they could be the same person. And all these other titles are just basically made up. So CEO is a made-up title, CFO is a made-up title, General Counsel is a made-up title; they don’t mean anything."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "I think in a room of CEOs… how do we feel about that? Yep."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It was like obviously just somebody’s marketing experiment."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "So I guess I’ll be (…) direct. Are you considering stepping down as CEO? Would you transfer being chairman and think about being chief product officer? I mean, since CEO title doesn’t matter anyway."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I changed my title to Technoking. And by the way, this is a formal SEC filing. I’m legally – or whatever – Technoking. I just did that as kind of like a joke just to show that these titles don’t mean a lot. You can see what is actually really legally necessary if you fill out the form for creating a C Corp. And then you see it’s President, Treasurer, and Secretary. I need a director, too, but that’s basically it. And then all these other, you know, Chief whatever Officer are basically just made up."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Is the Tesla Bot in the running for any of these titles?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not yet; it’s maybe in the future."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "But speaking of the Tesla Bot, I know you’ve talked about the importance of creating this bot for the future of AI. Tell me a little bit about where you’re at with this project and what we can expect in the next coming months."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Um well, with the Tesla autopilot and full self-driving, we’re effectively, I think, creating the most advanced practical AI for navigating the real world. And you can also think of Tesla as like the world’s biggest robot company or semi-sentient robot company. The car is kind of a robot on four wheels. And so then we could probably take that same technology and put it in a humanoid robot and have that robot be useful.\nAnd yeah, so essentially, to have the humanoid part, we need to develop some custom actuators and sensors, and then essentially use the Tesla full self-driving autopilot, or just, generally speaking, real-world navigation AI in the humanoid robot. I think this could be quite profound. I don’t know exactly when we will get this right, but we will get it right."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "And you said also that it will solve some labor issues. What are some things that you envision this bot doing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it has the potential to be a generalized substitute for human labor over time. The economy, the foundation of the economy is labor, and capital equipment is essentially distilled labor. So I was talking to a friend of mine actually, to say, you know, just like what should we optimize for? And what he said was gross profit per employee, fully considered to get into the supply chain and that. The fundamental constraint is labor. There are not enough people.\nI can’t emphasize this enough; there are not enough people. And I think one of the biggest risks to civilization is the low birth rate and the rapidly declining birth rate. And yet so many people, including smart people, think that there are too many people in the world and think that the population is growing out of control. It’s completely the opposite. Please look at the numbers. If people don’t have more children, civilization is going to crumble. Mark my words."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Is this why you have so many children?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m trying to set a good example. Yeah, gotta practice what I preach."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "I won’t ask you to predict how many more children you’re going to have tonight. I want to move on to some future talk. And that’s part of where I’m going with this Tesla Bot. I am not as good at Twitter as you are. But people on Twitter are asking me what’s going to happen on 12/9. Can you tell me what’s going to happen on 12/9?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nothing as far as I know. I don’t know where this came from. This is just one of those memes that came out of nowhere. But as far as I know, nothing. But maybe something will happen that I’m not aware of."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "All right. So I want to ask now a little bit farther out in the future and into 2022. And we can’t get to all your future projects. But I thought a fun way to do this might be I’m going to name some of the projects and then give you 60 seconds, and you tell me what your plan is in 2022 to move that project along and what we can expect from it. But 60 seconds, you only get 60 seconds."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "You’re gonna do it? Alright, here we go. So the first one is – hold on, I think I know how to work this Apple watch, alright – 60 seconds and Cybertruck."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Cybertruck. Cybertruck is gonna be an incredible product. I think it may be our best product ever… I think it probably will be. It has a lot of new technology, so it’s a hard car to make, but it will be awesome. And I think I’ve said before, you know, we’re aiming for volume production in 2023. I will provide a more detailed part updates at the Tesla earnings call early next year. I wish it could be sooner, but that’s most likely when it happens. It’ll be something really special. You know, like just one of those kind of rare products that happens once in a while that’s really special."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Okay, that was about 60 seconds. I don’t know what’s going on with my watch, but we’re on Cybertruck. Right now, we’re on to Neuralink. So, the big question is, in 2022, how are you pushing that project along? What happens?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Neuralink is working well in monkeys, and we’re also doing just a lot of testing and just confirming that it’s very safe and reliable and that the Neuralink device can be removed safely. People may have seen the demo that we published earlier this year with the video of a monkey playing the video game Pong telepathically using the Neuralink in its brain. It’s completely wireless, charges inductively. Basically, the monkey looks completely normal and yet is playing a video game telepathically, which is, I think, quite profound.\nWe hope to have this in our first humans, which will be people that have severe spinal cord injuries like tetraplegics, quadriplegics next year, pending FDA approval. I should say our standards for implanting that device are substantially higher than what the FDA requires, just as our standards for safety with Tesla are much higher than what the US government requires. And I’ve taken a little more than 60 seconds."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Yes, I’m about to cut you off."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Because I think that’s something pretty cool. And I do want to say that I… – emphasis on cautiously optimistic about this – I think we have a chance with Neuralink of being able to restore full body functionality to someone who has a spinal cord injury. Meaning I think we have a chance – I emphasize ‘a chance’ – of being able to allow someone who cannot walk or use their arms to be able to walk again."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "I can’t really cut you off when you’re talking about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a super big deal. I don’t want to raise hopes unreasonably, yet I’m increasingly convinced that this can be done."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Alright, so the last one is Starship."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Because there’s a lot happening in 2022 on Starship, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Starship is a hard, hard, hard, hard project. This is the biggest rocket ever made. It will have thrust and mass double that of a Saturn 5, which is the largest rocket to reach orbit and is intended to be fully and rapidly reusable. This is a profound… if we are successful with this, which I think we will be, but I don’t know if we’ll be there in 2022 – I hope so. This is a profound revolution in access to orbit. There has never been a fully reusable orbital launch vehicle.\nThis is the holy grail of space technology. It is the fundamental breakthrough that is necessary for humanity to become a spacefaring civilization. Yeah, this absorbs more of my mental energy than probably any other single thing. But it is so preposterously difficult that there are times where I wonder whether we can actually do this."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "If you had to summarize very quickly, what is so hard about it? For just a normal person to understand – what is so hard about it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, this will take a lot more than 60 seconds."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "But now I’m so interested."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, well. Okay. Okay. I am overdue for doing a Starship update. So we live on a planet where the gravity is actually very strong. We actually live on the densest planet in the solar system. Our atmosphere is very thick. And what this comes down to is that, you know, a typical orbital rocket might be able to put about 2% of its liftoff mass into orbit. And then this is what smart people trying hard, maybe 2.5% then. And no rocket, the best of my knowledge, has ever gotten above 4% of its liftoff mass to orbit.\nSo in order to make a rocket fully reusable, you’ve got to basically create a rocket that can do about 4%, if not more than 4%, of its lift-off mass to orbit, which hasn’t happened before. So that means you have to have basically A+’s across the board, incredibly efficient engines, incredibly efficient structure. You do need scale because there are some efficiencies of scale. That’s why our Starship is so gigantic. Because for example, the brain of the rocket really weighs about the same if it’s a small rocket or a big rocket. So with a big rocket, you get to have the avionics be basically around down to 0% or will be inconsequential in the mass of the vehicle.\nYeah, then you need to make incredibly light heat shield. And just, there’s so many things that need to be done to have both the booster and the upper stage be reusable. Insanely difficult. (…) Many super smart people have tried to do this before, and no one has succeeded. And most of the time, they’ve just given up partway through. But if full and rapid reusability can be achieved, it reduces the cost of access to orbit by a factor of 100 or more.\nIt’s like an aircraft. Imagine if an aircraft or car or any form of transport was not reusable. Imagine if you had to buy a new plane every time you flew. That would make every flight insanely expensive. Or a car – if you had to get a new car every time you drove somewhere, that would be unbelievably expensive as opposed to simply refueling it. So we’ve got to get rockets to the point where we simply refuel the rocket, and we don’t throw it away.\nWith Falcon 9, we’ve managed to make the booster reusable and the fairing/nosecone reusable, but not the upper stage. So we’ve made, I think, the most progress in reusability that has ever been done. But with Starship, we’re hoping to make the whole thing reusable. This is profound like says this is the difference between humanity being a single planet species and a multi-planet species. It’s really that big of a deal."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "All right, Elon. They’re running the clock down on me. So I want to ask you one last question. And we’ll try to go to at least one or two audience questions. I wanted to ask you a little bit about humor. You’re a pretty funny guy. You show it on Twitter a lot. You’ve hosted SNL. And I’m wondering how that plays into your management style. I mean, would your co-workers say you’re funny? Is this something you’re sort of bringing to the office now? Has it helped with managing your teams?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I think I’m funny. I find my jokes funny.\n(laughs)\nI don’t know. I guess, yeah… I do crack a lot of jokes. They don’t all land. But I am aspirationally funny. I mean, we try to have a good sense of humor at the office, too."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Elon, I also wanted to ask… lately on Twitter, and you’ve been poking fun at people for their age quite a bit. And I wanted to have a sense of, do you not plan to age? And what is your… how are you combating aging? Is there some secret technology we don’t know about that you’ve got?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I am not aware of any secret technologies to combat aging. And, I mean, I don’t know if we should really try to live for a super long time. I think it is important for us to die. Because, you know, most of the times people don’t change their mind, they just die. And so, if we live forever, then we might become a very ossified society where new ideas cannot succeed. But I’m not poking fun at age. I’m just saying, you know, if we’ve got people in very important positions that have to make decisions that are critical to the security of the country, then they need to have sufficient presence of mind and cognitive ability to make those decisions well, because the whole country’s depending on them."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Well, I thought you might say psychedelics were your way of not aging. But I would like to just got… if there’s anyone’s got one or two questions for this guy?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "(laughs)\nI don’t think dropping acid makes you age less. I think it actually makes you age more, not less."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "All right, any? Okay. Well, Elon, thank you so much for being with us here tonight. Ah, there is a question. Sorry, I did not see any hands up."
+    },
+    {
+      "role": "bal_das",
+      "text": "Oh, thank you. Bal Das from BGD Holdings. I’d be very interested… first, let me thank you for what you’re doing in terms of your breakthrough for humanity. But I am curious about your views on China and the United States, just on a free-flowing basis, if you want to share a few thoughts."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, I think we’re at an interesting point in history, where the United States has been the world’s largest economy for as long as anyone can remember. You know, I think US became the largest economy, I don’t know, probably 120, 130 years ago. And there’s nobody that old really anymore who can remember a time when the United States is not the world’s biggest economy. Now, we’re heading towards a situation where China is going to be probably having an economy two to three times the size of the United States. And so that’s just a different world.\nI do think there are a lot of people in the government in China who kind of grew up with China being a small economy and maybe who feel like China was pushed around a lot. But they haven’t fully appreciated the fact that China really is going to be the big kid on the block. And if you’re going to be the big kid on the block, then you can really be pretty chill about things, you know, you don’t have to worry about like, other countries are not really a threat to you if you’re by far the biggest kid on the block.\nAnd so I’d say that’s kind of an important mindset change. Hopefully, that, you know, trying to go through is just… just think, if you’re the biggest kid… like, how would you want the biggest kid on the block to behave? And now, if you are going to be the biggest kid on the block, then wouldn’t you want to behave like you would have wanted the biggest kid on the block to behave? I think that’s pretty important.\nI mean, overall, I think Tesla has a good relationship with China. I don’t mean to endorse everything that China does. Anyone I know wouldn’t say he endorsed everything the United States does. Or any country. But overall, I think we are headed to an interesting, a different world. And I hope that we can remember that we’re all human beings. And let’s just try to have as positive a relationship as possible and work towards mutual prosperity of humanity as a whole."
+    },
+    {
+      "role": "joanna_stern",
+      "text": "Well, Elon, thank you so much for being here tonight, or where you are. And thank you, everybody. And I hope to see you next year."
+    }
+  ]
+}

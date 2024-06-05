@@ -1,0 +1,195 @@
+{
+  "src": "https://elon-musk-interviews.com/2023/04/28/master-plan-3/",
+  "speakers": [
+    {
+      "id": "zach_kirkhorn",
+      "name": "Zach Kirkhorn"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "drew_baglino",
+      "name": "Drew Baglino"
+    }
+  ],
+  "messages": [
+    {
+      "role": "zach_kirkhorn",
+      "text": "Good afternoon, everyone. Good afternoon. My name is Zach Kirkhorn. I lead finance here at Tesla. And welcome to our Investor Day. For those of you here in the audience at our global headquarters in Austin, Texas, we welcome you. Thank you for being here, and thank you for traveling in. For those joining us virtually, thank you for being a part of the day today.\nAs we reflect back on the history of the company, there’s been distinct phases of product advancement, technology, innovation, and rapid volume growth, the most recent of which has been the global expansion and localization of the Model Y program. And so today, we want to talk about the future. We don’t want to talk about this quarter or next quarter. We want to go further out into the future.\nAnd we’ve divided today’s presentation into three parts. The first of which we’re going to go macro. What does it take to convert Earth to sustainable energy generation and use? The second, we want to talk about Tesla’s contribution to that global need. We’re going to go function by function through the company. You’ll meet our entire leadership team. And we’re going to get into the details of what those teams are doing as part of the broader goal. And then, in the third part, we’re going to bring it back up and talk about what this all means for the company as a whole.\nSo before we get started, statements made in this presentation are forward-looking statements that are subject to risks and uncertainties. More details can be found in our written materials. So with that, let’s get started. Part one, Elon Musk and Drew Baglino."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Alright, Master Plan Part 3. So, as Zach was mentioning, the thing we wanted to convey, probably more importantly than anything else that we’re talking about here, is that there is a clear path to a sustainable energy Earth. It doesn’t require destroying natural habitats. It doesn’t require us to be austere and stop using electricity and sort of be in the cold or anything. The story – and I think that this holds together quite well, and we’ll be actually publishing detailed white paper with all of our assumptions and calculations – is that there is a clear path to a fully sustainable Earth with abundance.\nIn fact, you could support a civilization much bigger than Earth. Much more than the 8 billion humans could actually be supported sustainably on Earth. And I’m just often shocked and surprised by how few people realize this. Most of the smart people I know actually don’t see this clear path. They think that there’s not a path to a sustainable energy future, or at least there’s not one that is sustainable at our current population, or that would have to resort to extreme measures. None of this is true. So we’re going to walk through the calculations for how to create a sustainable energy civilization."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "To set the stage today, our energy economy, let’s be honest, it’s dirty and it’s wasteful. Over 80% of global energy, primary energy, comes from fossil fuels, and only 1/3 of that global energy actually ends up delivering useful work or heat. This is the problem statement, but we’re here to talk about the solution."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Some of this I’m going to elaborate because there’s a very wide range of technical expertise out there from people who are like, you know, whatever, level 9 wizards in the subject to people who do not do engineering at all. If you have a gasoline car, less than a third, and maybe only 25%, of the energy in the gasoline is converted into motion, and the rest is turned into waste heat that doesn’t do any good at all. And there’s a lot of energy required even to get the oil out of the ground, to refine the oil, and to transport the gasoline to the gas station.\nWhen you look at all that for a typical gasoline car, less than 20%, fully considered, of the energy from the oil actually goes into motion. So when we see people doing calculations for what does it take to create a sustainable energy Earth, they assume that the same energy amount is required for an electrified civilization versus a combustion civilization. This is not true. Because most of the energy of combustion is waste heat."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And even to get the fuel to combustion in the first place and get it to the end use, there’s a lot lost along the way. I mean, this is the primary energy consumption, 165 petawatt hours a year. Petawatt hour is a trillion kilowatt hours, so it’s a large amount of energy. But the nice thing about an electrified economy – there’s a better way, we’re going to talk about it – is that through end-use efficiency and through efficiency along every step of the way, actually, the total energy use halves. So, one of the most enabling aspects of electrifying everything is that the sustainable energy economy is that much easier to accomplish. It’s actually half the problem statement of the fossil fuel economy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And we’re being conservative here. It could be better than a half. But we’re trying to have assumptions that are reasonable and not overly optimistic, in fact, slightly pessimistic. It’s really better than half, but just say for… it’s easy to make the argument that we need half as much energy with an electric economy versus a combustion economy."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "So, how the master plan works? You want to talk…?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The thing that is needed in a very large scale that is not currently present is a vast amount of battery energy storage. Our rough calculations are that this is about 240 terawatt hours, or 240,000 gigawatt hours. This is a lot of batteries, but it is actually a very achievable amount. We’ll go into details on that. So that’s a combination of electric vehicles and stationary storage. If you’ve got solar or wind, you’ve got to store the energy when the wind is not blowing or the sun is not shining. We’re assuming sort of an eight-to-one ratio of stored energy to power, so 30 terawatts of power. Our actual capital expenditure calculation for manufacturing investment is more like 6 trillion, but we made it higher to make it 10 trillion."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And this is across mining, refining, battery factories, recycling, vehicle factories, all the things that we’re going to talk about needing to invest in to build this sustainable energy economy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Now, if you look at the total world economy, it’s just under 100 trillion. If this was spread out, say over ten years, it would be 1% of the global economy. Over 20 years, it would be half a percent of global economy. This is not a big number relative to the global economy. As Drew mentioned, you need about half as much energy with an electric economy versus a combustion economy.\nAnd in terms of wind and solar, how much land would be used? It’s less than 0.2% of the land area of Earth. Generally, people don’t realize quite how much energy is reaching us from the sun. It’s roughly a gigawatt per square kilometer. And, you know, the sun doesn’t shine all the time. But if you multiply that by, say, four to get the continuous power, four or five, then that gives you the land area of solar. And you can put wind and solar often in the same place. So in places that currently have wind, you can have solar there, and you double your energy."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "You can also put wind offshore. It doesn’t even need to be on land. So wind is even more flexible."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You could put solar offshore, too. Earth is 70% water. Anyway, the point is that with a pretty, really a remarkably small amount of Earth’s land area, we can go fully sustainable."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And the resources and raw materials exist to support this transition. We’ll go through that in detail. But we do not see any insurmountable resource challenges at all. In fact, in the end, we should be mining less ore to accomplish this economy than we currently do with the fossil fuel economy. We’re going to talk through that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just to emphasize that again, the electrified economy will require less mining than the current economy does. Less. Not more."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "So, this is the plan. And now, we’ll get into a little more of the details of the plan. Basically, five areas of work. First, renewable power, the existing grid; second, switch to electric vehicles; third, switch homes’, businesses’ and industry’s heating to heat pumps; fourth, high temp heat delivery and storage for high temp industrial and chemical processes and a little bit of green hydrogen in there for chemical processes that need hydrogen; and finally sustainably fuel planes and boats. These are the five areas, and we’re going to go into detail on all of them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "My personal opinion is that as we improve the energy density of batteries, you’ll see all transportation go fully electric, with the exception of rockets – that’s awkward. But you can make the fuel with CO2 and water, so you can make methane with CO2 and water."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "In fact, that with just electricity."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly. In fact, on Mars – we hopefully get there at some point – the atmosphere is CO2, and there’s water ice throughout Mars, so you can take the CO2 and H2O and turn that into CH4, which is methane and oxygen. So ultimately, even rockets can be electrified."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "So first, repowering the existing grid with renewables. And this is going to be a consistent theme. You’ll see our estimates for the number of terawatt hours, terawatts, and trillions of investment at the bottom of the page. You know, this is already actively occurring in front of us. 60% of the generation added to the US grid was solar in 2022. And actually, on a year-on-year basis, solar deployment is growing 50%, year on year, as of 2022. So, this is a serious upswing, and if we continue this trend, this is going to be behind us before we even know it.\nSecond, switching to electric vehicles. Again, 21% reduction in fossil fuel use by doing this alone. Obviously, Tesla was heavily engaged in this activity as well, along with many others. Overall, EV production grew 59% year on year in 2022. And EVs hit an amazing 10% market share. I mean, it’s an awesome milestone. I’m super excited to see that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is obviously happening very rapidly. And I think really all cars will go to fully electric and autonomous. And so riding a non-autonomous gasoline car, it’s going to be analogous riding a horse and using a flip phone. That’s basically going to be the situation."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "We actually took a somewhat conservative assumption here in terms of how many batteries are required, because the more the fleet is autonomous, the smaller the fleet needs to be just from a utility rate basis. So, we’re not accounting for all of those benefits or really much of those benefits at all in this number. And what does this fleet look like? You know, just a rough view from our perspective. Of course, we could be wrong but you can see this sort of breakdown of the fleet by millions of vehicles. Our goal is to do 20 million electric vehicles a year."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Fewer vehicles will be needed, at least passenger vehicles, with autonomy. There is some debate as to what that number is. But it’s a number less than the number of vehicles needed today. There’s roughly 2 billion cars and trucks in operation in the world today."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "So, what we show here is actually, I think, only 1.4 billion or so. So, a smaller fleet. And the numbers out here in this presentation are around 85 million vehicles a year produced. Just to give you a sense of how we’re thinking about this. Again, we’re going to put all these assumptions up online and encourage people’s thoughts."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So we’re basically heading rapidly towards an electric autonomous future."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Exciting. One of the reasons why EVs are so enabling is this: end-use efficiency. Tesla Model 3 is four times more efficient from the well to wheel than a Toyota Corolla. And that’s all about the efficiency of getting the electricity into the car in a sustainable energy economy, and then how efficient the car is in transferring that stored energy to motion on the road when compared to the engine in the Toyota Corolla, and all the, you know, extraction, refining, transmission, distribution of the gasoline to the Toyota Corolla.\nAnd this is a fun reference: Model 3 can drive over a mile on the energy it takes to boil a pot of water for pasta, and then it can drive another mile on the energy it took to cook the pasta. That pasta is one pound, and Model 3 is like 4000 pounds. Just to give you a sense of just like, it really doesn’t use a lot of energy to move a Model 3, that 4,000-pound object, down the road."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Also, heat is a lot more energy than motion."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. But people, you know, just boil a pot of water and don’t even think about it. It’s just interesting how efficient these guys are. Next, switching to heat pumps in homes, businesses, and industry. You know, right now heat pumps meet 10% of building heating needs, install rates growing 10% year on year. It really needs to accelerate. Heat pumps can serve heat applications up to 200°C in businesses and industry. And from an investment perspective, as you can see on this page, it’s actually the lowest-hanging fruit in terms of displacing fossil fuels.\nYou might be saying: “Well, what exactly is a heat pump?” So, heat pumps don’t create heat. They move heat. When you think about like the natural gas furnace in your house, it is generating heat itself. But what the heat pump is doing is actually moving heat from outside of your house into your house. They’re just an air conditioner or a refrigerator in reverse. We’re surrounded by heat pumps, they’re all over this factory, they’re in your house.\nAnd all this really is about bringing them to displace all the fossil fuel heating in all the homes, businesses, and in the industry that we can. From an end-use efficiency perspective, it’s a three times reduction in the total energy required to heat these buildings. So, a real obvious thing to do."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, heat pumps. They’re in our cars now as default. And at some point, we might make a heat pump for our home."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, maybe. Next, a little bit more detail on electrifying high temp sort of industrial chemical process. So over 50% of industrial heat is greater than 400°C. Cement, steel, fertilizers, chemicals, plastics, metals refining all need, like, 1,500°C, so we need a solution here. Ultimately, it’s purpose-built equipment that enables electrification. Carbon graphite is stable up to 2,800°C. There’s other options in the 1,500°C range like silicon carbide and other materials.\nSo, the idea here is, you create and store heat when renewable power is available. If this is a sustainable energy economy, renewable energy is intermittent. Peak of the day, you’ve got more generation than you need. You make a bunch of heat then, and then you transfer that heat into the industrial process 24 hours a day, using the stored heat you created when the sun\n(was shining)\nor the wind was blowing. That’s the concept here.\nAnd then, on the hydrogen side, we also need green hydrogen to decarbonize metals and chemical refining processes. This is things like ammonia, making steel, you know, there’s roughly 120 million tonnes of hydrogen source from fossil fuel today to do these things. And hydrogen can also directly replace coal, which is currently used in a ton of steel production, through a process called directly reducing iron. You can replace blast furnaces with a hydrogen-reducing direct reduced iron furnace. And this is the way to eliminate fossil fuels from these aspects of the economy and the CO2 associated with them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Some of this, there’s room to disagree, but some amount of hydrogen is needed for industrial processes. My personal opinion is that hydrogen will not be used meaningfully in transport and shouldn’t be. If you’re going to use a chemical fuel, you should use CH4, not H2. But it’s not useless if it’s needed for industrial processes and can be produced just by splitting water essentially."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "I mean, that’s something that’s been done for decades and decades. This is not rocket technology. And lastly, a small part of the pie, but a necessary part of the pie, is sustainably fueling planes and boats. Shipping accounts for 3% of global CO2. It’s ripe for electrification. Even with lithium iron phosphate long-haul ships can be fully battery-powered. So that’s a great opportunity to electrify.\nEnergy density is a little bit harder for planes. But short haul is doable today. With some improvements, we’ll get long-haul underway. But even in the meantime, we can leverage sustainable aviation fuels produced and stored using excess renewable electricity. There’s a lot of work going on in this space."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, to really get long-range aircraft and long-range shipping to use lithium-ion, you need to redesign the ship and the plane to take advantage of the fact that it is a new source of energy. It’s a different architecture. Like with an electric car, you wouldn’t just take a gasoline car and stick a battery in it. That’s very suboptimal.\nIt’s much more efficient to have the battery be the structure of the car and make it mass efficient and optimized for batteries. If that’s done with aircraft, you can get long-range aircraft with cells at around 450 watt-hours per kilogram, which you can buy right now, actually. It’s expensive, but I think the price will come down."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "So, when we stack up all of these efforts, we end up with the numbers we shared at the beginning of the presentation: 30 terawatts, 240 terawatt hours, $10 trillion.\nAnd you may be saying like: “I need some context. Is this feasible?” Spoiler alert, it’s entirely feasible. Just looking at it from a growth rate perspective, how much do we need to grow the deployment of these technologies? We’re talking about only a 3x growth rate in solar and wind deployment. Solar is already growing at a breakneck pace, as is wind. This gap is going to be closed really quickly. When we look at the electric vehicles, they have to grow 11x. Well, they grew 60% year on year last year. That growth rate is also going to close pretty darn. That gap is going to close pretty quickly as well.\nAnd lastly, storage. You know, Tesla’s energy storage business has grown at 65% CAGR\n(compound annual growth rate)\nsince 2016. The global energy storage businesses is accelerating pace as well. I mean, all these gaps are going to close, especially as this momentum of the transition to sustainable energy accelerates. And, of course, our goal on this page is 20 million EVs per year and one terawatt hour of stationary storage per year, basically, as soon as we can.\nAnd then, what about this investment? How do I have a reference point on this investment? Elon mentioned it’s 10% of one year’s world GDP. Another way of thinking about it is, how does it compare to what we invested last year in the fossil fuel infrastructure. And it’s 60% of that investment. So actually, building this sustainable energy economy is less than extending the fossil fuel economy from a year-over-year investment basis. So, very doable.\nWhen we look towards, does this fit on the planet? Absolutely. Less than 0.2% of land. As a reference point: the total land area intensively farmed today is 12.5% of all land. So I mean, you drive around, you see some farms, but you don’t see them everywhere. This is an order of magnitude, more than order of magnitude difference between farming and what we’re talking about for sustainable energy land."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It doesn’t need to displace farmland, or forests, or jungle, or any kind of ecological preserve. It can be used in very sparsely populated desert regions."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Barren areas, areas that are just not really fit for development or otherwise use. I mean, 0.2% can fit into a lot of places."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s essentially no meaningful ecological impact. In fact, transition to a sustainable energy economy would result in a substantial reduction in current ecological impact."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "That’s a great way to put it. And what about on the mineral extraction side? So, this is a cartoon that sort of gives you a sense for all the ore and the extracted minerals that are coming out of the earth every year.\nIt’s about 68 giga tons. So, each truck has a giga ton. What does this look like when we’re in a sustainable energy economy? Looks like that. Fossil fuel extraction disappears, we replace it with the materials required to fulfill the sustainable energy economy. It actually reduces. Now, it’s not to say that we don’t need to continue to bring out, mining, and refining specific materials for the sustainable energy economy. We do. But the investment and mass flows are all very achievable, just looking at what is already happening on the planet. This is nothing out of scale of what has been done and is already being done. And then, we calculate it on a element by element basis.\nThe resources are there to support the transition. This is cumulative demand to move in a sustainable energy economy direction until 2050, relative to USGS resources today. We’re not breaking the resource bank for any of these materials.\nAnd then, when we look at what really happens as we move forward, history teaches the more we look, the more we find. What people think happens is: “Oh, there’s this many resources? Next year, there’s going to be less because we’re going to extract them.” What actually happens is, as we extract resources, we find more.\nAnd you can see on the right what has actually occurred with the key materials to the sustainable energy economy. Since 2000, as the sustainable energy economy has been growing, and Tesla has been growing, and all the industries around us have been growing, the actual resource availability has increased, not decreased."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There seems to be quite a bit of confusion about lithium. Lithium is extremely common, is one of the most common elements on Earth. There is no country that has monopoly on lithium or even close to it. There’s enough lithium ore in the United States to electrify all of Earth. If the United States was the only place producing lithium, there’s enough domestic material to electrify Earth. It’s very common. The limiting factor is the refining of the lithium into battery-grade lithium hydroxide or lithium carbonate. That’s the actual limiting factor."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And the same is true for these other materials. And again, these are not like crazy technologies. It’s just the investments need to be made. And the investments, they’re not gigantic. They just need to happen."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Right. Nickel is maybe of them all the trickiest one to solve. But as we showed with the graph there, maybe you need like 30% of the world’s known nickel reserves."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And the nickel reserves have actually grown."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, there’s more, exactly. And you only need nickel for basically aircraft, long-range boats, and very long-range cars or trucks. But the vast majority of the heavy lifting for electrification will be iron-based cells. Iron is actually literally the most common element on Earth. So – trivial point – if you say like, what is Earth made of? By mass, it is made of iron more than anything else, and second, oxygen, and then everything else after that. So basically, a muddy rust ball is what Earth is. You’re definitely not going to run out of iron. There’s so much iron, it’s insane."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And ultimately, you know, this resource extraction, we go through this effort, we build these batteries, and then we recycle these batteries – so ultimately, we’re doing this to build this sustainable energy economy. But the maintenance amount of ore that we require is really an order of magnitude less because of recycling. So, in the end, a sustainable energy economy is within our reach. And we should accelerate it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is really the main message of today, and I really wanted today to be not just about Tesla investors who own stock, but really anyone who is an investor in Earth. And what we’re trying to convey is a message of hope and optimism. Optimism that is based on actual physics and real calculations. It’s not wishful thinking. Earth can and will move to a sustainable energy economy and will do so in your lifetime. Thank you."
+    }
+  ]
+}

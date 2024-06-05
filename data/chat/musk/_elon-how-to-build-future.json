@@ -1,0 +1,239 @@
+{
+  "src": "https://www.scribd.com/document/324130713/Elon-Musk-interview-transcript-How-to-Build-the-Future",
+  "speakers": [
+    {
+      "id": "interviewer",
+      "name": "Interviewer"
+    },
+    {
+      "id": "elon",
+      "name": "Elon"
+    }
+  ],
+  "messages": [
+    {
+      "role": "interviewer",
+      "text": "Today we have Elon Musk. Elon, thank you for joining us."
+    },
+    {
+      "role": "elon",
+      "text": "Thanks for having me."
+    },
+    {
+      "role": "interviewer",
+      "text": "So, we want to spend the time today talking about your view of the future and what people should work on. To start off, could you tell us, you famously said, when you were younger, there were five problems that you thought were most important for you to work on. If you were 22 today, what would the five problems that you would think about working on be?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, first of all, I think if somebody is doing something that is useful to the rest of society, I think that's a good thing. Like, it doesn't have to change theworld. If you make something that has high value to people... And frankly, even if it's something, if it's like just a little game or some improvement in photo sharing or something, if it has a small amount of good for a large number of people, It hink that's fine. Stuff doesn't need to change the world just to be good. But in terms of things that I think are most like to affect the future of humanity, I think AI is probably the single biggest item in the near-term that's likely to affect humanity. So, it's very important that we have the advent of AI in a good way. It's something that, if you could look into the crystal ball and to the future, you would like that outcome because it is something that could go wrong, as we've talked about many times. And so, we really need to make sure it goes right. So that's AI,working on AI and making sure it's great future. That's the most important thing, It hink, right now, the most pressing item. Then, I would say anything to do with genetics. If you can actually solve genetic diseases, if you can prevent dementia or Alzheimer's or something like that with genetic reprograming, that would be wonderful. So I think genetics might be the sort of second most important item. And then, I think, having a high-bandwidth interface to the brain. We're currently bandwidth-limited. We have a digital tertiary self in the form of out email capabilities, our computers, phones, applications. We're practically superhuman. But we're extremely bandwidth-constrained in that interface between the cortex and that tertiary digital form of yourself. And helping solve that bandwidth constraint would be, I think, very important in the future as well. Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "So one of the, I think, most common questions I hear ambitious young people ask is, \"I want to be the next Elon Musk. How do I do that?\" Obviously, the next Elon Musk will work on very different things than you did. But what have you done or what did you do when you were younger that you think sort of set you up to have a big impact?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, first of all, I should say that I do not expect to be involved in all these things. So, the five things that I thought about at the time in college, so quite along time ago, 25 years ago, making life multi-planetary, accelerating the transmission to sustainable energy, the Internet broadly speaking, and then genetics, and AI. I didn't expect to be involved in all those things. Actually, at the time in college, I sort of thought helping with electrification of cars was how it would start out. That's actually what I worked on as an intern was advanced ultra-capacitors, to see if there would be a breakthrough relative to batteries for energy storage in cars. And then, when I came out to go to Stanford, that's what I was going to be doing my grad studies on was working on advanced energy storage technologies for electric cars. And I put that on hold to start an Internet company in '95 because there does seem to be a time for particular technologies when they're at a steep point in the inflection curve. And I didn't want to do a PHD atStanford and watch it all happen. I wasn't entirely certain that the technology I'd be working on would succeed. You can get a doctorate on many things that ultimately do not a have practical bearing on the world. And I really was just trying to be useful. That's the optimization. It's like, \"What can I do that would actually be useful?\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you think people that want to be useful today should get PhDs?"
+    },
+    {
+      "role": "elon",
+      "text": "Mostly not."
+    },
+    {
+      "role": "interviewer",
+      "text": "What is the way to be useful?"
+    },
+    {
+      "role": "elon",
+      "text": "Some yes, but mostly not."
+    },
+    {
+      "role": "interviewer",
+      "text": "How should someone figure out how they can be most useful?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, I think you make some estimates of, whatever this thing is that you're trying to create, what would be the utility delta compared to the current state of the art times how many people it would affect. So that's why I think having something that makes a big difference but affects sort of small to moderate number of people is great, as is something that makes even a small difference but affects a vast number of people. Like, the area under the curve."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah, the area under the curve."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, exactly. I mean, the area under the curve would actually be roughly similar for those two things, so it's actually really about just trying to be useful and matter."
+    },
+    {
+      "role": "interviewer",
+      "text": "When you're trying to estimate probability of success, so this thing will be really useful, good area under the curve...I guess to use the example ofSpaceX, when you made the go-decision that you were actually going to do that,this was kind of a very crazy thing at the time."
+    },
+    {
+      "role": "elon",
+      "text": "Very crazy. For sure. They were not shy of saying that. But I agreed with them that it was quite crazy. Crazy...if the objective was to achieve the best risk-adjusted return, starting off a company is insane. But that was not my objective. I'd soon come to a conclusion that if something didn't happen to improve rocket technology, we'd be stuck on earth forever. And the big aerospace companies had just had no interest in radical innovation. All they wanted to do was try tomake their old technology slightly better every year. And in fact, sometimes it would actually get worse. Particularly in rockets, it was pretty bad. In '69 we were able to go to the moon with the Saturn 5. And then the space shuttle could onlytake people to low-earth orbit. And then the space shuttle retired. And that trend basically trends to zero. People sometimes think technology just automatically gets better every year but actually it doesn't. It only gets better if smart people work like crazy to make it better. That's how any technology actually gets better. By itself, technology, if people don't work at it, actually will decline. Look at the history of civilizations,many civilizations. Look at, say, ancient Egypt, where they were able to build these incredible pyramids and then they basically forgot how to build pyramids. And even hieroglyphics. They forgot how to read hieroglyphics. Or if you look atRome and how they were able to build these incredible roadways and aqueduct sand indoor plumbing, they forgot how to do all of those things. There are many such examples in history. So I think we should always bear in mind that entropy is not on your side."
+    },
+    {
+      "role": "interviewer",
+      "text": "One thing I really like about you is you are unusually fearless and willing to go in the face of other people telling you something is crazy. And I know a lot of pretty crazy people. You still stand out. Where does that come from or how do you think about making a decision when everyone tells you, \"This is a crazy idea?\" Where do you get the internal strength to do that?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, first of all I'd say I actually think I feel fear quite strongly. So it's not as though I just have the absence of fear. I feel it quite strongly. There are just times when something is important enough that you believe in it enough that you do it in spite of fear."
+    },
+    {
+      "role": "interviewer",
+      "text": "So, speaking of important things."
+    },
+    {
+      "role": "elon",
+      "text": "It's like, people shouldn't think, well, \"I feel fear about this and therefore I shouldn't do it,\" it's normal to feel fear. Like, you'd have to have something mentally wrong with you if you don't feel fear."
+    },
+    {
+      "role": "interviewer",
+      "text": "So, you just feel it and let the importance of it drive you to do it anyway?"
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. You know, actually something that can be helpful is fatalism, to some degree. If you just accept the probabilities, then that diminishes fear. When starting SpaceX, I thought the odds of success were less than 10% and I just accepted that actually probably I would just lose everything. But that maybe would make some progress. If we could just move the ball forward, even if we died, maybe some other company could pick up the baton and keep moving it forward, so we'd still do some good. Yeah, same with Tesla. I thought the odds ofa car company succeeding were extremely low."
+    },
+    {
+      "role": "interviewer",
+      "text": "What do you think the odds of the Mars colony are at this point, today?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, oddly enough, I actually think they're pretty good."
+    },
+    {
+      "role": "interviewer",
+      "text": "So when can I go? If I can come back, I want to come back."
+    },
+    {
+      "role": "elon",
+      "text": "I hope I'm not in some realm of self-delusion here. But look at it this way: at this point, I'm certain there is a way. I'm certain that success is one of possible outcomes for establishing a self-sustaining Mars colony, a growing Mars colony. I'm certain that is possible. Whereas until maybe a few years ago, I was not sure that success was even one of the possible outcomes. In terms of having some meaningful number of people going to Mars, I think this is potentially something that can be accomplished in about 10 years. Maybe sooner, maybe nine years. Indeed to make sure that SpaceX doesn't die between now and then and that I don't die, or if I do die, that someone takes over who will continue that."
+    },
+    {
+      "role": "interviewer",
+      "text": "You shouldn't go on the first launch."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, exactly. The first launch will be robotic anyway."
+    },
+    {
+      "role": "interviewer",
+      "text": "I want to go, except for the Internet latency."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, the internet latency would be pretty significant. Mars is roughly 12 light minutes from the sun and Earth is 8 light minutes. So, the closest approach to Mass is four light minutes away. The furthest approach is 20. A little more because you can't sort of talk directly through the sun."
+    },
+    {
+      "role": "interviewer",
+      "text": "Speaking of really important problems, AI. You have been outspoken about AI. Could you talk about what you think the positive future for AI looks like and how we get there?"
+    },
+    {
+      "role": "elon",
+      "text": "Okay, I mean I do want to emphasize that this is not really something that I advocate or this is not prescriptive. This is simply, hopefully, predictive. Because you will hear some say, well, like this is something that I want to occur instead of this is something I think that probably is the best of the available alternatives. The best of the available alternatives that I can come up with, and maybe someone else can come up with a better approach or better outcome, is that we achieve democratization of AI technology. Meaning that no one company or small set of individuals has control over advanced AI technology. I think that's very dangerous. It could also get stolen by somebody bad, like some evil dictator or country could send their intelligence agency to go steal it and gain control. It just becomes a very unstable situation, I think, if you've got any incredibly powerful AI. You just don't know who's going to control that. So it's not that I think that the risk is that the AI would develop a will of its own right off the bat. I think the concern is that someone may use it in a way that is bad. Or even if they weren't going to use it in a way that's bad but somebody could take it from them and use it in a way that's bad, that, I think, is quite a big danger. So I think we must have democratization of AI technology to make it widely available. And that's the reason that obviously you, me, and the rest of the team created OpenAI was to help spread out AI technology so it doesn't get concentrated in the hands of a few. But then, of course, that needs to be combined with solving the high-bandwidth interface to the cortex."
+    },
+    {
+      "role": "interviewer",
+      "text": "Humans are so slow."
+    },
+    {
+      "role": "elon",
+      "text": "Humans are so slow. Yes, exactly. But we already have a situation in ourb rain where we've got the cortex and the limbic system... The limbic system is kind of a...I mean, that's the primitive brain. That's kind of like your instincts and whatnot. And the cortex is the thinking upper part of the brain. Those two seem to work together quite well. Occasionally, your cortex and limbic system will disagree, but they..."
+    },
+    {
+      "role": "interviewer",
+      "text": "It generally works pretty well."
+    },
+    {
+      "role": "elon",
+      "text": "Generally works pretty well, and it's like rare to find someone who...I've notfound someone wishes to either get rid of the cortex or get rid of the limbic system."
+    },
+    {
+      "role": "interviewer",
+      "text": "Very true."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, that's unusual. So I think if we can effectively merge with AI by improving the neural link between your cortex and your digital extension of yourself, which already, like I said, already exists, just has a bandwidth issue. And then effectively you become an AI-human symbiote. And if that then is widespread, with anyone who wants it can have it, then we solve the control problem as well, we don't have to worry about some evil dictator AI because we are the AI collectively. That seems like the best outcome I can think of."
+    },
+    {
+      "role": "interviewer",
+      "text": "So, you've seen other companies in their early days that start small and get really successful. I hope I never get this asked on camera, but how do you think OpenAI is going as a six-month-old company?"
+    },
+    {
+      "role": "elon",
+      "text": "I think it's going pretty well. I think we've got a really talented group at OpenAI."
+    },
+    {
+      "role": "interviewer",
+      "text": "Seems like it."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, a really talented team and they're working hard. OpenAI is structured as a 501(c)(3) non-profit. But many non-profits do not have a sense of urgency. It's fine, they don't have to have a sense of urgency, but OpenAI does because I think people really believe in the mission. I think it's important. And it's about minimizing the risk of existential harm in the future. And so I think it's going well. I'm pretty impressed with what people are doing and the talent level. And obviously, we're always looking for great people to join in the mission."
+    },
+    {
+      "role": "interviewer",
+      "text": "It looks like close to 40 people now. It's quite a lot. All right. Just afew more questions before we wrap up. How do you spend your days now? What do you allocate most of your time to?"
+    },
+    {
+      "role": "elon",
+      "text": "My time is mostly split between SpaceX and Tesla. And of course, I try to spend a part of every week at OpenAI. So I spend basically half a day at OpenAI most weeks. And then I have some OpenAI stuff that happens during the week.But other than that, it's really SpaceX and Tesla."
+    },
+    {
+      "role": "interviewer",
+      "text": "What do you do when you're at SpaceX and Tesla? What does your time look like there?"
+    },
+    {
+      "role": "elon",
+      "text": "Yes, it's a good question. I think a lot of people think I must spend a lot of time with media or on businessy things. But actually almost all my time, like 80% of it, is spent on engineering and design. Engineering and design, so it's developing next-generation product. That's 80% of it."
+    },
+    {
+      "role": "interviewer",
+      "text": "You probably don't remember this. A very long time ago, many,many, years, you took me on a tour of SpaceX. And the most impressive thing was that you knew every detail of the rocket and every piece of engineering that went into it. And I don't think many people get that about you."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. I think a lot of people think I'm kind of a business person or something, which is fine. Business is fine. But really it's like at SpaceX, Gwynne Shotwell is Chief Operating Officer. She manages legal, finance, sales, and general business activity. And then my time is almost entirely with the engineering team, working on improving the Falcon 9 and our Dragon spacecraft and developing the Mars Colonial architecture. At Tesla, it's working on the Model3 and, yeah, so I'm in the design studio, take up a half a day a week, dealing with aesthetics and look-and-feel things. And then most of the rest of the week is just going through engineering of the car itself as well as engineering of the factory. Because the biggest epiphany I've had this year is that what really matters is the machine that builds the machine, the factory. And that is at least two orders of magnitude harder than the vehicle itself."
+    },
+    {
+      "role": "interviewer",
+      "text": "It's amazing to watch the robots go here and these cars just happen."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. Now, this actually has a relatively lower level of automation compared to what the Gigafactory will have and what Model 3 will have."
+    },
+    {
+      "role": "interviewer",
+      "text": "What's the speed on the line of these cars?"
+    },
+    {
+      "role": "elon",
+      "text": "Actually our speed on the line is incredibly slow. I think we are...in terms of the extra velocity of vehicles on the line, it's probably about, including both X andS, it's maybe five centimeters per second. This is very slow."
+    },
+    {
+      "role": "interviewer",
+      "text": "And what would you like to get to?"
+    },
+    {
+      "role": "elon",
+      "text": "I'm confident we can get to at least one meter per second. So, a 20-fold increase."
+    },
+    {
+      "role": "interviewer",
+      "text": "That would be very fast."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. At least. I mean, I think quite a...one meter per second, just to put into perspective, is a slow walk or a medium-speed walk. A fast walk could be one and a half meters per second. And then the fastest humans can run over 10 meters per second."
+    }
+  ]
+}

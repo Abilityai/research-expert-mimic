@@ -1,0 +1,539 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/03/30/the-joe-rogan-experience-1470-elon-musk-iii-english/",
+  "speakers": [
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "joe_rogan",
+      "text": "Spanish flu, something that attacks the immune systems of healthy people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Like killing large numbers of young, healthy people, define that as a high mortality. This is at least practice for something like that. And I think there’s – this given – it’s just a matter of time, that there will be eventually some such pandemic."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think that in a sense, the one good thing that we might get out of this is the realization that this is a potential reality? That we got lucky in the sense? I mean people that didn’t get lucky and died, of course; I’m not disrespecting their death and their loss. But I’m saying overall, as a culture, as a human race, as a community, this is not as bad as it could have been. This is a good dry run for us to appreciate that we need far more resources dedicated towards understanding these diseases, what to do in the case of a pandemic, and much more money that goes to funding, treatments, and some preventative measures."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. And I think there’s a good chance; it’s highly likely, I think, coming out of this that we will develop vaccines that we didn’t have before for coronaviruses, other viruses, and possibly cures for these. And our understanding of viruses of this nature has improved dramatically because of the attention that it’s received. So there’s definitely a lot of silver linings here."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Potentially, if we act correctly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think there will be some silver linings here, no matter what. Hopefully, we can get more of silver linings than less."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So yeah, this is just kind of like a practice run for something that might in the future have a serious, like a really high mortality rate, and we kind of got to go through this without it being something that kills vast numbers of young, healthy people."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. When you made a series of tweets recently, I don’t remember the exact wording, but essentially you were saying, “Free America now.” Like, let’s open it back-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That is the exact wording."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That is it? Thank you. How much do you pay attention to the response to that stuff, and what was the response like? Did anybody go, “Hey man, what the fuck you doing?” Did anybody pull you aside?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, of course."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Who does that? Who gets to do that to you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, I certainly get that. There’s no shortage of negative feedback on Twitter."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh yeah. Twitter. Yeah, but I don’t read that. Do you read it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a war zone."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You do sometimes, though. Right? You do read it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, I scroll through the comments. Like I said, it’s a meme war zone. I mean, people knife you good and thorough."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s something I enjoy about it. Something about the freedom of expression that comes from all these people that do attack you. It’s like, if there was no vulnerability whatsoever, they wouldn’t attack you. And it’s like there’s something about these millions and millions of perspectives that you have to appreciate, even if it comes your way, even if the shit storm hits you in the face.\nYou got to appreciate, “Wow. How amazing is it that all these people do have the ability to express themselves?” I mean, you don’t necessarily want to be there when the shit hits you. You might want to get out of the way in anticipation of the shit storm, but the fact that so many people have the ability to reach out… – And I think it’s in a lot of ways a – I don’t want to say a misused resource – but it’s like giving monkeys guns.\nThey just start, “Da, da, da.” They start gunning down things that are in front of them without any realization of what they’re doing. They have a rock, they see a window, they throw it. “Whoo, look at that. I got Elon mad. Look at that. This guy got mad at me. I fucking took this person down on Twitter. I got this lady fired. Oh, the fucking business is going under because of Twitter Wars.” It seems like there’s something about it that’s this newfound thing that, I don’t want to say abuse, but just, I want to say that it’s almost like you hit the button and things blow up. You’re like, “Wow, what else can we blow up?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. I mean, I’ve been in the Twitter war zone for a while here, so…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Twitter war zone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It takes a lot to faze me at this point."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, that’s good too, right? Like you develop a thick skin."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. You can’t take it personally. A lot of these people don’t actually know you. It’s like if you’re fighting a war and there’s like some opposing soldier that shoots at you, it’s not like they hate you. They don’t even know you.  So just think of it like that. Like they have fire and bullets, whatever. But they don’t know you, so don’t take it personally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "There’s something interesting about it too. When you write something in 280 characters and they write something, it’s such a crude way. It’s like someone sending opposing smoke signals. They refute your smoke signals. It’s so crude. And especially when you’re talking about something like Neuralink. You’re talking about some future potential where you’re going to be able to express pure thoughts that get conveyed through some sort of a universal language with no ambiguity whatsoever versus tweets."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, there will always be some ambiguity, but tweets, it’s hard. But maybe there should be a sarcasm flag or something. Or a “just kidding” or-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It seems like it would take away some of the fun from people that know it’s sarcasm. Like if everybody knew that\nThe Onion\nwasn’t… – If you sent people articles, it was something about someone getting angry at an Onion article."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Wow, that’s amazing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You know what I mean? Where they don’t realize what it is. There’s something fun about that for everybody else."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think it’s pretty great. It might be the best news source."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you know who\nTitania McGrath\nis? Hilarious, it’s Andrew Boyle. He’s a British fellow. Brilliant guy who’s been on the podcast before, and he has this a fictional character, this a pseudonym Titania McGrath who’s like the ultimate social justice warrior."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Is this, like, a female avatar?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A female avatar that’s actually a computer conglomeration of a bunch of faces. It’s not really one person. So, one person can’t be a victim and be angry, but he’s sort of combined these faces to make this one perfect social justice warrior. But I recognized it early on before I met him that this was parody. This was just fun. And then I love reading the people that don’t recognize that. They get angry. And there’s a lot of people that just get really furious. There’s some fun to that. There’s some fun to the not picking up on the true nature of the signal."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I find Twitter quite engaging."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How do you have the time?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, it’s like five minutes every couple of hours type thing. It’s not like I’m sitting on it all day."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But even five minutes every couple hours, if those are bad five minutes, they might be bouncing around your head for the next 30."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you have to, like I said, take a certain amount of distance from… You read this and be like, “Okay, it’s bullets being fired by an opposing army.” Like I said, it’s not like they know you. Don’t take it personally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you feel the same way when CNN had that stupid shit about ventilators with you? I found that both confusing and-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. That was annoying."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It was annoying."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It was wrong."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But it’s also annoying as a person who reads CNN and wants to think of them as a responsible conveyor of the facts. I would like to think that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah. I don’t think CNN is that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I think it used to be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It used to be, yeah. What do you think’s the best source of just information out there?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a good question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s say you’re just the average citizen trying to just get the facts, figure out what’s going on. How to live your life and looking for what’s going on in the world. It’s hard to find something that’s good. Not trying to push some partisan angle, not doing sloppy reporting, and just aim it for the most number of clicks and trying to maximize ad dollars and that kind of thing. You’re just trying to figure out what’s going on. It’s like, I’m hard-pressed to where do you go?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t know. I don’t think there’s any pure form. My favorite places are the New York Times and the LA Times, and I don’t trust them a hundred percent. Because also, there’s individuals that are writing these stories. And that seems to be the problems, these individual biases, and these individuals… there’s purposely distorted perceptions, and then there’s ignorantly reported facts, and there’s so many variables. And you got to put everything through this filter of, “Where’s this person coming from? Do they have political biases? Did they have social biases? Are they upset  because of their own shortcomings? And are they projecting this into the story?” It’s so hard."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think maybe just trying to find individual reporters that you think are good and kind of following them as opposed to publication."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I go with whatever\nMatt Taibbi\nsays. I trust him more than anybody. Matt Taibbi is onto something. As far as investigative reporters in particular, the way he reported the savings and loan crisis, the way he reports everything. I just listened to him above most. He’s my go-to guy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. I’ll check it out."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, his Rolling Stone articles are amazing. His stuff on the savings and loan crisis, it’s just like, “What in the fuck?” And he’s not an economist by any stretch of the imagination. So he had to really deeply embed himself in that world to try to understand it and to be able to report on it. And also with a humorous flair.\nThere’s not that many of them. It’s hard. And not a location where like, we are no bullshit, Wearenobullshit.com, like the one place where you can say, “This is what we know, this is what we don’t know. This is what we think.” Not, “This person’s wrong, and here’s why.” Like, ah, God damn it. I can’t. You don’t know. There’s a lot of stuff that is open to interpretation.\nThis particular coronavirus issue that we’re dealing with right now seems to be a great illuminator of that very fact. Is that there’s so much data. And there’s so much that’s open to interpret. There’s so many things… because it’s all happening in real-time. Right? And particularly right now in California, we’re in stage two tomorrow, or Friday, two days from now. Stage two. Retail stores opening up. Things are changing. Like, no one knows the correct process that needs to take place to save the most amount of lives, but yet ensure that our culture and that our economy survives. It’s a lot of speculation and guessing. But if you go to certain places, they’ll tell you, “We know why, and we know this, and we know…” Oh, it’s hard."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, in general, I think we should be concerned about anything that’s a massive infringement on our civil liberties. So, you got to put a lot of weight on that. A lot of people died to win independence for the country and fight for the democracy that we have. And we should treasure that and not give up our liberties too easily. And I think we probably did that, actually."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, I like what you said when you said that it should be a choice and that to require people to stay home, require people to not go to work, and to arrest people for trying to make a living. This all seems wrong. And I think it’s a wrong approach. It’s an infantilization of the society. That daddy’s going to tell you what to do."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Fundamentally a violation of the constitution. Freedom of assembly, and it’s just, I don’t think these things stand up in court, really."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’re arresting people for protesting because they’re protesting and violating social distancing, and these mandates that tell people that they have to stay home."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. These would definitely not stand up if the Supreme court… It’s obviously a complete violation of rights."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And again, this is not in any way disrespecting the people who have died from this disease. That’s certainly a real thing to think of."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, it just should be if you’re at risk, you should not be compelled to leave your house or leave a place of safety, but if you’re not at risk, or if you are at risk and you wish to take a risk with your life, you should have the right to do that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And it seems like at this point in time, particularly, our resources would be best served protecting the people that are at risk versus penalizing the people that are not at high risk for living their life the way they did, particularly having a career, and making a living, and feeding your family, paying your bills, keeping your store open, keeping your restaurant open."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean, there’s a strong downside to this. So yeah, I just believe this is a free country. You should be allowed to do what you want as long as it does not endanger others."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But that’s the thing, right? This is the argument they will bring up. You are endangering others. You should stay home for the people that, even if you’re fine, even if you know you’re going to be okay, there’s certain people that will not be okay because of your actions.  They might get exposed to this thing that we don’t have a vaccine for, we don’t have a universally accepted treatment for, and then we need to… There’s two arguments, right?\nOne argument is we need to keep going, protect the weak, protect the sick, but let’s open up the economy. The other argument is stop placing money over human lives and let’s shelter in place until we come up with some sort of a decision and let’s figure out some way to develop some sort of a universal income, universal basic income plan, or something like that, to feed people during this time while we make this transition."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think there’s a, as I said, my opinion is if somebody wants to stay home, they should stay home. If somebody doesn’t want to stay home, they should not be compelled to stay home. That’s my opinion. If somebody doesn’t like that, well that’s my opinion. This notion, though, that you can just sort of send checks out to everybody and things will be fine is not true, obviously. There’s some people have this absurd view that the economy is like some magic horn of plenty. Like it just makes stuff. There’s just a magic horn of plenty, and the goods and services, they just come from this magic horn of plenty. And then if somebody has more stuff than somebody else, it’s because they took more from this magic horn of plenty. Now let me just break it to the fools out there.\nIf you don’t make stuff, there’s no stuff. Yeah. So, if you don’t make the food, if you don’t process the food, you don’t transport the food, medical treatment, getting your teeth fixed, there’s no stuff. They’ve become detached from reality. You can’t just legislate money and solve these things. If you don’t make stuff, there is no stuff, obviously. We’ll run out of the stores, run out of the… the machine just grinds to a halt."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But the initial thought on this virus, the real fear was that this was going to kill hundreds of thousands, if not millions of people, instantaneously in this country. It was going to do it very quickly if we didn’t hunker down if we didn’t shelter in place, if we didn’t quarantine ourselves, or lock down. Do you think that the initial thought was a good idea based on the perception that this was going to be far more deadly than it turned out to be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Maybe. Briefly, but I think if any kind of sensible examination of what happened in China would lead you to the conclusion that that is obviously not going to occur. This virus originated in Wuhan. There’s like, I don’t know, hundred thousand people a day leaving Wuhan. So, it went everywhere very fast throughout China, throughout the rest of the world, and the fatality rate was low."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Don’t you think though, it’s difficult to filter the information that’s coming out of China. To accurately, really get a real true representation of what happened. The propaganda machine is very strong. The World Health Organization appears to have been complicit with a lot of their propaganda."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The thing is that American companies have massive supply chains in China. Like Tesla, for example. We have hundreds of suppliers. Like tier one, two, three, four suppliers throughout China. So, we know if they are able to make stuff or not. We know if they have issues or not. China is back at full steam, and pretty much every US company has some significant number of suppliers in China. So you know if they’re able to provide things or not or if there’s a high mortality rate. Tesla has like 7,000 people in China. So, zero people died."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay. So that’s a real statistic that’s coming from…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You know those people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. We literally run a payroll. They are still there."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think there’s a danger of politicizing this? Where this becomes like opening up the country as Donald Trump’s, it’s his goal, and then anything he does, there’s people that are going to oppose it and come up with some reasons why he’s wrong, particularly in this climate, as we’re leading up to November and the 2020 elections. Do you think that this is a real danger in terms of public’s perception that Trump wants to open it up, so the knee-jerk oppose it because they oppose Trump?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think this has been politicized in both directions, really. Which is not great. But like I said (…1:25:54), I think there’s the question of where do civil liberties fit in this picture? And what can the government make you do, what can they make you not do, and what’s okay? And I think we went too far."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think it’s one of those things where once we’ve gone in this certain direction, it’s very difficult to make a correction? Make an adjustment to realize like, okay, we thought it was one thing. It’s not good, but it’s not what we thought it was going to be. It’s not what we feared, so let’s back up and reconsider, and let’s do this publicly and say we were acting based on the information that we had initially. That information appears to be faulty, and here’s how we move forward while protecting civil liberties while protecting what essentially this country is founded on, which is a very agreed-upon amount of freedom that we respect and appreciate."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. Well, I think we’re rapidly moving towards opening up the country. It’s going to happen extremely fast over the next few weeks. So, yeah. Something that would be helpful just to add from an informational level is when reporting Covid cases to separate out diagnosed with Covid versus had Covid like symptoms. Because the list of symptoms that could be Covid at this point is like a mile long. So, it’s hard to… if you’re ill at all, it’s like it could be cover it. So, just to give people better information. Definitely diagnosed with Covid or had Covid like symptoms. We’re conflating those two so that it looks bigger than it is. Then if somebody dies, was Covid a primary cause of the death or not? I mean, if somebody has Covid, gets eaten by a shark, we find their arm, their arm has Covid, it’s going to get recorded as a Covid death."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is that real?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Not that bad, but heart attacks, strokes-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You get hit by a bus."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Cancer."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you get hit by a bus, go to the hospital and die, and they find that you have Covid, you will be recorded as a Covid death."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Why would they do that, though?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, right now, the road to hell is paved with good intentions. I mean, it’s mostly paved with bad intentions, but there’s some good intentions in saving (…1:28:36) in there, too. And the stimulus bill that was intended to help with the hospitals that were being overrun with Covid patients created an incentive to record something as Covid that is difficult to say no to, especially if your hospital’s going bankrupt for lack of other patients. So, the hospitals are in a bind right now. There’s a bunch of hospitals, they’re furloughing doctors, as you were mentioning. If your hospital’s half full, it’s hard to make ends meet. So now you’ve got like, “If I just check this box, I get $8,000. Put them on a ventilator for five minutes, I get $39,000 back. Or, I got to fire some doctors.” So, this is a tough moral quandary. It’s like, what are you going to do? That’s the situation we have."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s the way out of this? What do you think is, if you had the president’s ear, or if people wanted to just listen to you openly, what do you think is the way out of this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s just clear up the data. Clear up the data. So like I said, somebody should be recorded as Covid only if somebody has been tested – has received a positive Covid test. Not if they simply have symptoms,  one of like a hundred symptoms. And then if it is a Covid death, it must be separated: Was Covid a primary reason for death, or did they also have stage three cancer, or heart disease, emphysema, and got hit by a bus and had Covid?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. I’ve read all this stuff about them diagnosing people as a Covid death despite other variables."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is not a question. This is what is occurring."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And where are you reading this from? Where are you getting this from?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The public health officials have literally said this. This is not a question mark."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. But this is unprecedented, right? If someone had the flu but also had a heart attack, they would assume that that person died of a heart attack."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. So this is unprecedented. Is this because this is such a popular – I don’t want to use that word the wrong way, but that’s what I mean – popular subject? And financial incentives."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. And like I said, this is not some sort of a moral indictment of hospital administrators. It’s just, they’re in a tough spot here. They actually don’t have enough patients to pay everyone without furloughing doctors and firing staff. They’re running potentially going bankrupt. So then they’re like, “Okay, well, the stimulus bill says we get all this money if it’s a Covid death.” I’m like, “Okay. They coughed before they died.” In fact, they’re not even diagnosed with Covid. They simply… If you had weakness, a cough, shortness of breath. Frankly, I’m not sure how you die without those things."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. There’s so many different things that you could attribute to Covid, too. There’s so many symptoms. There’s diarrhea, headaches, dehydration, cough."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. But to be clear, you don’t even need to have gotten a Covid diagnosis. You simply need to have had one of many symptoms and then have died for some reason, and it’s Covid. So, then it makes the death count look very high, and we’re then stuck in a bind because it looks like the death count’s super high and not going down like it should be. So then, we should keep whatever, keep the shelter in place stuff there, and keep people in their homes, confine people to their homes. So we need to break out of this. We’re stuck in a loop. And I think the way to break out of this loop is to have clarity of information."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The clarity of information will certainly help, but altering perceptions, public perception, from people that are basically in a panic. Well, at least a month ago, we’re clearly in a panic. I mean, when you look around April 5th, April 6th, people were really freaking out. But here we are, May, and May people are relaxing a little bit. They’re realizing like, “Hey, I actually know a couple of people that got it. It was just a cough,” and I know some people that got it where nothing happened."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I know a lot of people who got it. I know zero people who died, but I know a lot of people that got it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s not what we feared. We feared something much worse."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That is correct."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So the adjustment’s difficult to make. So you said, first of all, we need real data. We need-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just parse out the data. Don’t lump it all together. If you give people, just parse out the data better, clearer information about, like I said, was this an actual COVID diagnosis? Did they get the test, and the test came back positive, or do they just have some symptoms? Just parse those two out, and then parse out just, if somebody died, did they even have a Covid test, or did they just have one of many symptoms? How do you die without weakness? I don’t know. It’s impossible, basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Of course. Yeah, it’s a good point."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you’re going to die, you’re going to have shortness of breath, weakness, and you might cough a little."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So was it quantified? Was it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, did that person, did they actually have a Covid test, and the test came back positive? And then if they died, did they die where Covid was… It doesn’t have to be the main cause, but was it a significant contributor to their death, or was it not a significant contributor to the death?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. It’s not as simple as just because you had Covid; Covid killed you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Definitely not. I mean, people die all the time,  and they have like flu and other colds, and we don’t say that they died of those flu and other colds. It’s absurd."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, that’s what’s so weird about this. It’s so popular, and I use that word in a weird way, but it’s so popular that we’ve kind of forgotten people die of pneumonia every day. People die of… The flu didn’t take a break. “Oh, Covid got this. I’m going to sit this one out. I’m going to be on the bench. I’m going to wait until Covid’s done before I jump back into the game of killing people.” No, the flu is still here killing people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, every year in the world, several hundred thousand people die directly of the flu. Not tangentially."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "61,000 in this country last year."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And we’re only 5% of the world."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And then there’s cigarettes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, oh man, cigarettes. Cigarettes will really kill you."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a weird one, right? We’re terrified of this disease that was projected it could potentially kill 100,000 if not 200,000 Americans this year. But cigarettes kill 500,000, and you don’t hear a peep out of any politician. There’s no one running for Congress that’s trying to ban cigarettes. There’s no one running for Senate that wants to put some education plan in place, that’s going to stop cigarettes in their tracks."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, several years ago, or maybe longer, ten years ago, I helped make a movie called\nThank You for Smoking\n."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, I saw that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s crazy. Barbecuing your lungs is just bad news. It’s not good. Turning your lungs into smoked beef, not great. So yeah. Tylenol, by the way, also kills a lot of people."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What is the number for Tylenol every year?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not sure the exact number. But until the opioid crisis, I believe, Tylenol was the number one killer of all drugs. Because basically, if you get drunk and take a lot of Tylenol, acetaminophen, essentially, it causes liver failure. So people would like to get wasted and then have a headache and then pop a ton of Tylenol, it’s curtains."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Curtains is a funny word."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. But nobody’s raging against Tylenol."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. It’s weird. Acceptable deaths are weird. And that’s the slippery slope about these people shaming people for wanting to go back to work. “Other people are going to die.” Well, if you drive: Do you drive? Agree you should stop driving because people die from driving. So you definitely should fill up all the swimming pools because like 50 people die every day in this country from swimming. So let’s not swim anymore."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, water is really dangerous."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "We need to chop down all the coconut trees."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Stop water."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Coconuts kill 150 people every year. Cut down all the coconut trees. We need those people. It’s, at a certain point in time, it’s… Yeah, we’re vulnerable, and also, we have a finite existence no matter what."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We do. Nobody lives forever."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    }
+  ]
+}

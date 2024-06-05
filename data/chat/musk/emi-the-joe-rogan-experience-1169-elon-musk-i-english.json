@@ -1,0 +1,491 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/01/25/the-joe-rogan-experience-1169-elon-musk-i-english/",
+  "speakers": [
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "joe_rogan",
+      "text": "…four, three, two, one, boom. Thank you, thanks for doing this, man. I really appreciate it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Hey, you’re welcome."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s very good to meet you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nice to meet you, too."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Thanks for not lighting this place on fire.\n(That’s why…)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re welcome. That’s coming later."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How does one just in the middle of doing all the things you do – create cars, rockets, all this stuff you’re doing, constantly innovating – decide to just make a flamethrower? Where do you have the time for that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I wouldn’t put a lot of time in the flamethrower. This was an off-the-cuff thing and so we have sort of – it’s sort of a hobby company called ‘The Boring Company’ which started out as a joke, and we decided to make it real and digging a tunnel under L.A. Then other people asked us to dig tunnels, and so we said ‘yes’ in a few cases. And then we have a merchandise section that only has one piece of merchandise at a time. We started off with a cap, and there was only one thing. It was just ‘boringcompany.com/cap’ or ‘hat’, that’s it. Then we sold the hat’s limited edition. It just said ‘The Boring Company’.\nI’m a big fan of ‘Spaceballs’, the movie, and in ‘Spaceballs’ Yogurt goes through the merchandising section, and they have a flamethrower in the merchandising section of ‘Spaceballs’. “The kids love that one”. That’s the line when he pulls out the flamethrower. It’s like, we should do a flamethrower. So, we…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Does anybody tell you, does anybody go, ‘Elon, um, maybe for yourself. But selling a flamethrower. The liabilities, all the people you’re selling this device to. What kind of unhinged people are going to be buying a flamethrower in the first place? Do we really want to connect ourselves to all these potential arsonists?’"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s a terrible idea. Terrible. Shouldn’t buy one. I don’t… I said, “Don’t buy this flamethrower. Don’t buy it.” That’s what I said. But, still, people bought it. There’s nothing I can do to stop them. I could not stop them."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You build it, they will come."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I said, “Don’t buy it. It’s a bad idea.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How many did you make?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s dangerous. It’s wrong. Don’t buy it. And, still, people bought it. I just couldn’t stop them."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How many did you make?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "20,000."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And they are all gone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "In three – I think, four days? They were sold out in four days."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Are you going to do another run?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No, that’s it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I said we’ll do 20,000. We did 50,000 hats, and that was a million dollars; and I said, okay, we’ll sell something for 10 million, and that was 20,000 flamethrowers at 500 dollars each. They went fast."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How do you have the time to do that, though? I mean, I understand that it’s not a big deal in terms of all the other things you do. But how do you have time to do anything? I just don’t understand your time management skills."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I didn’t spend much time on this flamethrower. To be totally frank, it’s actually just a roofing torch with an air rifle cover. It’s not a real flamethrower."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Which is why it says, “Not a flamethrower”."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s why we were very clear. This is not actually a flamethrower. And also, we’re told that various countries would ban the shipping of it. But they would ban flamethrowers, so we vary to solve this problem; for all the customs agencies, we labeled it ‘not a flamethrower’."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did it work? Is it effective?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. I think so. Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So far."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. They said you cannot ship a flamethrower."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But you do so many different things – forget about the flamethrower – like, how do you do all that other shit like, how does one decide to fix L.A. traffic by drilling holes in the ground and who do you even approach with that? Like, when you have this idea, who do you talk to about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not saying it’s going to be successful or so, you know; it’s not like asserting that it’s going to be successful. But so far I have lived in L.A. for 16 years, and the traffic has always been terrible. And I don’t see any other ideas for improving the traffic. So, in desperation, we are going to dig a tunnel, and maybe that tunnel will be successful, and maybe it won’t.\n(short silence)"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m listening."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I’m not trying to convince you it’s going to work. Or anyone."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But you’re starting this though. This is actually a project you’re starting to implement. Right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I know. We’ve dug about a mile. It’s quite long. It takes a long time to walk it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Now, when you’re doing this, what is the ultimate plan? The ultimate plan is to have these in major cities and anywhere there’s mass congestion and just try it out in L.A. first?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s in L.A. because I mostly live in L.A. That’s the reason. It’s a terrible place to dig tunnels. This is one of the worst places to dig tunnels, mostly because of the paperwork. People think it’s about seismic. Actually, earth tunnels are very safe in earthquakes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Why is that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Earthquakes are essentially a surface phenomenon. It’s like waves on the ocean. If there’s a storm, you want to be in a submarine. So being in a tunnel is like being in a submarine. The way the tunnel is constructed is, it’s constructed out of these interlocking segments, kind of like a snake. It’s like a snake exoskeleton with double seals. And so, even when the ground moves, it’s able – the tunnel actually is able to shift along with the ground like an underground snake. And it doesn’t crack or break, and it’s extremely unlikely that both seals would be broken. It’s capable of taking five atmospheres of pressure. It’s waterproof, methane proof, or gas-proof of any kind, and meets all California seismic requirements."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, when you have this idea, who do you bring this to?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not sure what you mean by that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, when you’re implementing it – you’re digging holes in the ground – so you have to bring it to someone that lets you do it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There were some engineers from SpaceX who thought it would be cool to do this. And the guy who runs it day-to-day, Steve Davis, he’s a long-time SpaceX engineer; he’s great. Steve was like, I’d like to help make this happen, and I was like, cool. So, we started off with digging a hole in the ground.  It’s got like a permit for a pit, big pit, and just dug a big pit."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And you have to tell them what the pit’s for, or you just say ‘hey, we just want to dig a hole’."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I just filled out this form."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it was a pit in our parking lot."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But do you have to give them some sort of blueprint from your ultimate idea, and do they have to approve it? Like, how does that work?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We just started off with the pit."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They don’t really care about the existential nature of a pit. You just say, like, I want a pit. It’s a hole in the ground. Then we got the permit for the pit, and we dug the pit in like, I don’t know, three days, two, three days. Actually, I think two, 48 hours, something like that. Because Eric Garcetti was coming by for the Hyperloop; he was going to attend the Hyperloop competition, which is a student competition we have for who can make the fastest pod in the Hyperloop. And he was coming.\nThe finals were going to be on Sunday afternoon, and so Eric was coming by on Sunday afternoon. I was like, you know, we should take this pit and then show Eric. So, we – this was like Friday morning, and then – yeah, it was about a little over 40 hours later, we dug the pit. It was like when 24/7 – 48 straight hours, something like that. And dug this big pit, and we showed Eric the pit. Like, obviously it’s just a pit. But hey, a hole in the ground is better than no hole in the ground."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And what did you tell him about this pit? I mean, you just said this is the beginning of this idea."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "We’re going to build tunnels under L.A. to help funnel traffic better, and there you go? And they just go ‘okay’? We’ve joked around about this in the podcast before that, like, what other person can go to the people that run the city and go ‘hey, we’re going to dig some holes in the ground and put some tunnels in there’, and they go ‘oh yeah, okay’."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s just another hole in the ground. People dig holes in the ground all the time."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But my question is, I know how much time you must be spending on your Tesla factory, I know how much time you must be spending on SpaceX, and yet you still have time to dig holes under the ground in L.A. and come up with these ideas and then implement them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I got a million ideas."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m sure you do."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There is no shortage of that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I just don’t know how you manage your time. I don’t understand it. It doesn’t even seem humanly possible."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, I think people don’t understand totally what I do with my time. They think I’m a business guy or something like that. Like my Wikipedia page says ‘business magnate’."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What would you call yourself?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "A business ‘magnet’. Can someone please change my Wikipedia page to ‘magnet’?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’ll change it right now. It’s probably already changed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s locked. So, somebody has to be able to unlock it and change it to ‘magnet’. I want to be a magnet. No, I do engineering and manufacturing and that kind of thing. That’s like 80 % or more of my time."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Ideas and then the implementation of those ideas?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s like hardcore engineering, like designing things. Structural, mechanical, electrical, software, user interface, aerospace engineering."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But you must understand there’s not a whole lot of human beings like you. You know that, right? You’re an oddity to chimps like me."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re all chimps."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, we are."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re one notch. One notch above the chimp.\nJoe Rogan: Some of us are a little more confused. When I watch you doing all these things, I’m like, how does this motherfucker have all this time and all this energy and all these ideas, and then people just let him do these things."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Because I’m an alien."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s what I’ve speculated."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "(…11:24) on record saying this in the past, I wonder."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s true."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "If there was one, how, if it was like maybe an intelligent being that we created, you know, like some A.I. creature that’s superior to people, maybe just hang around with us for a little while, like you’ve been doing, and then fix a bunch of shit. Maybe that’s the way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I might have some mutation or something like that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You might. Do you think you do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Probably."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you wonder when you’re around normal people, your like, ‘hm’? Like, ‘what’s up with these boring, dumb motherfuckers?’ Ever?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "‘Not bad for a human.’ But, I think, we will not be able to hold the candle to A.I."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You scared the shit out of me when you talk about A.I. between you and Sam Harris. I didn’t even consider it until I had a podcast with Sam once."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, this was great."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "He made me shit my pants. Talking about A.I. I realized like, oh well, this is a genie that once it’s out of the bottle, you’re never getting it back in."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s true."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "There was a video that you tweeted about one of those Boston Dynamic robots, and you’re like,  in the future it’ll be moving so fast you can’t see it without a strobe light."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It could probably be that right now."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And no one’s really paying attention too much, other than people like you or people that are really obsessed with technology. All these things are happening, these robots. Did you see the one where PETA put out a statement that you shouldn’t kick robots?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s probably not wise."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "For retribution."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Their memory is very good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I bet it is. And it is getting better every day."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s really good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Are you honestly legitimately concerned about this? Is A.I. one of your main worries in regard to the future?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. It’s less of a worry than it used to be, mostly due to taking more of a fatalistic attitude."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Hm. So you used to have more hope. And you gave up some of it, and now you don’t worry as much about A.I. You’re like, this is just what it is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, pretty much, yes. But it’s not necessarily bad; it’s just, it’s definitely going to be outside of human control."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Not necessarily bad, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s not necessarily bad; it’s just outside of human control. Now, the thing that’s going to be tricky here is that it’s going to be very tempting to use A.I. as a weapon. In fact, it will be used as a weapon. So, the on ramp to serious A.I., the danger is going to be more humans using it against each other, I think, most likely. That will be the danger."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How far, do you think, we are from something that can make its own mind up whether or not something’s ethically or morally correct, or whether or not it wants to do something, or whether or not it wants to improve itself, or whether or not it wants to protect itself from people or from other A.I.? How far away from something that is really truly sentient?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, you could argue that any group of people… – like a company is essentially a cybernetic collective of people and machines. That’s what a company is. And then, there are different levels of complexity in the way these companies are formed. There are like a collective A.I. in the Google search where we’re all sort of plugged in as like nerds on the network, like leaves on a big tree. And we are all feeding this network with our questions and answers. We’re all collectively programming the A.I. And Google plus all the humans that connect to it are one giant cybernetic collective. This is also true of Facebook and Twitter and Instagram and all these social networks. They’re giant cybernetic collectives."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Humans and electronics all interfacing and constantly now, constantly connected."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, constantly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "One of the things that I’ve been thinking about a lot over the last few years is that one of the things that drives a lot of people crazy is how – how many people are obsessed with materialism and getting the latest greatest thing – and I wonder how much of that is… – well, lot of it is most certainly fueling technology and innovation. And it almost seems like it’s built into us, like, what we like and what we want that we’re fueling this thing that’s constantly around us all the time, and it doesn’t seem possible that people are going to pump the brakes.\nIt doesn’t seem possible at this stage; we’re constantly expecting a new cell phone, the latest Tesla update, the newest MacBook Pro, – everything has to be newer and better. And that’s going to lead to some incredible point. It seems like it’s built into us. It almost seems like it’s an instinct. That we’re working towards this, that we like it. Our job, just like the ants build the ants’ hill, our job is to somehow know how to fuel this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I made this comment some years ago, but it feels like we are the biological bootloader for A.I., effectively, we are building it.  And then we’re building progressively greater intelligence, and the percentage of intelligence that is not human is increasing. And eventually, we will represent a very small percentage of intelligence. But the A.I. is informed strangely by the human limbic system. It is in large part our\nid\nwrit large."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How so?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We mention all those things, the sort of primal drives. There’re all the things that we like and hate and fear; they’re all there on the internet. They’re the projection of our limbic system."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "(laughs)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s true."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I know, it makes sense. But thinking of it – I mean, thinking of corporations, and just thinking of just human beings communicating online through these social media networks is some sort of an organism that’s a – It’s a cyborg. It’s a combination of electronics and biology."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. In some measure, like, it’s to the success of these online systems. It’s sort of a function of how much limbic resonance they’re able to achieve with people. The more limbic resonance, the more engagement."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Whereas, like one of the reasons why probably Instagram is more enticing than Twitter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The limbic resonance."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You get more images, more video. It’s tweaking your system more."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you worry or wonder, in fact, about what the next step is? I mean, a lot of people didn’t see Twitter coming; you know, communicate with a 140 characters or 280 now, would be a thing that people would be interested in. Like it’s going to excel, it’s going to become more connected to us, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, things are getting more and more connected. They’re at this point constrained by bandwidth. Our input/output is slow, particularly output. Output got worse with thumbs.  You know, we usesd to have input with ten fingers; now, we have thumbs. But images are just, also, another way of communicating at high bandwidth. You take pictures, and you send pictures to people. That communicates far more information than you can communicate with your thumbs."
+    }
+  ]
+}

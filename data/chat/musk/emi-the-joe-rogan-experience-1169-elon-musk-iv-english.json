@@ -1,0 +1,931 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/02/09/the-joe-rogan-experience-1169-elon-musk-iv-english/",
+  "speakers": [
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "jamie",
+      "name": "Jamie"
+    }
+  ],
+  "messages": [
+    {
+      "role": "joe_rogan",
+      "text": "There’s no way to create some sort of a magnetic something or another that allows you to float?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Technically, yes. You could have a strong enough magnet, but that magnet would be so strong that you would create a lot of trouble."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It would just suck cars up into your car? Just pick up axles and shit?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, you’d have to repel off of either material on the ground or in a really nutty situation off of Earth’s gravitational field, and somehow make that incredibly light, but that magnet would cause so much destruction. You’d be better off with a helicopter."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, if there was some sort of magnet road, like, you have two magnets, and they repel each other; if you had some sort of a magnet road that was below you, and you could travel on that magnet road, that would work?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, you could have a magnet road."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A magnet road. Is that too ridiculous?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it would work. So, you could do that. I would not recommend it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "There’s a lot of things I don’t recommend."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I would super not recommend that. Not good. Not wise, I think."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, definitely not. It would cause a lot of trouble."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, you put some time and consideration into this other than — You know, instead, like, my foolishly rerendered thoughts.  So, you think that tunnels are the way to do it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, it will work, for sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’ll work?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And these tunnels that you’re building right now, these are basically just like test versions of this ultimate idea that you have?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, it’s just a hole in the ground."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. We played videos of it where your ideas…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s just a hole in the ground."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "… that you drop in that hole in the ground. There’s a sled on it, and the sled goes very fast, like 100 miles an hour plus."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it can go real fast. You can go as fast as you want. And then, if you want to go long distances, you can just draw the air out of the tunnel, make sure it’s real straight."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Draw the air out of the tunnel?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s sort of vacuum tunnel because the — And then, depending on how fast you want to go, you (… 1:13:15) these wheels, or you could use air bearings depending upon the ambient pressure in the tunnel, or you could maglev it if you want to go super fast."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, magnet road?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, underground magnet roads."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Underground magnet roads?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Otherwise, you’re going to really create a lot of trouble because there are metal things."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh. So, magnet road is the way to go, just underground."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you want to go really fast underground, you would be maglev in a vacuum tunnel."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Mag in a vacuum tunnel."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Magnetic levitation in a vacuum tunnel."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "With rocket launchers?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I would not recommend putting any…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Come on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "… exhaust gas in the tunnel."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, okay. I see what you’re saying because then the air will be gone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Because, then, the air will pump it out."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. You have to pump it out, and you probably have a limited amount of air in the first place. Like how much can you breathe? Do you have to pump oxygen into these cubicles, these tubes?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. We have a pressurized pod. It’d be like a little tiny underground spaceship, basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Like an airplane because you have air on airplanes. It’s not getting new air in."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It is."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It is?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You have like a little hole?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, they have a pump."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, it gets it from the outside?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow, I didn’t know that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s like the air’s — Airplanes have it easy because, essentially, you can — they’re pretty leaky, but-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Jesus."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, but as long as the air pump is working at a decent speed. I mean, they have backup pumps, sort of like, you know, three pumps, or four pumps, or something. And then, there’s like — It exhausts through the outflow valve and through whatever seals are not sealing quite right. Usually, the door doesn’t seal quite right on the plane. So, there’s a bit of leakage around the door.  But the pumps exceed the outflow rate. And then, that sets the pressure in the cabin."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Now, have you ever looked at planes and gone, „I can fix this.“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "„I just don’t have the time.“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I have a design for a plane."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A better design?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, probably. I think it is, yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Who have you talked to about this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve talked to friends."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Friends?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Friends and-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m your friend."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Girlfriends and-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You can tell me. What you got? What’s going on?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, the exciting thing to do would be some sort of electric vertical takeoff and landing, supersonic jet of some kind."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Vertical takeoff and landing meaning no need for a runway. Just shoot up straight in the air."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How would you do that? I mean, they do that in some military aircraft, correct?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. The trick is that you have to transition to level flight. And then, the thing that you would use for vertical takeoff and landing is not suitable for high-speed flight."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, you have two different systems? Vertical takeoff is one system?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve thought about this quite a lot. I’ve thought about this quite a lot.I guess, thinking about an electric plane is that you want to go as high as possible, but you need a certain energy density in the battery pack because you have to overcome gravitational potential energy. Once you’ve overcome gravitational potential energy, and you’re out at a high altitude, the energy use in cruise is very low.\nAnd then, you can recapture a large part of the gravitational potential energy on the way down. So, you really don’t need any kind of reserve fuel, if you will, because you have the energy of height, gravitational potential energy. This is a lot of energy.\nSo, once you can get high, like the way to think about a plane is it’s a force balance. So, the force balance — So, a plane that is not accelerating is a neutral force balance. You have the force of gravity, you have the lift force, you have the wings. Then, you’ve got the force of the whatever thrusting device, so the propeller, or turbine, or whatever it is. And you’ve got the resistance force of the air.\nNow, the higher you go, the lower the air resistance is.  Air density drops exponentially, but drag increases with the square, and exponential beats the square. The higher you go, the faster you will go for the same amount of energy. And at a certain altitude, you can go supersonic with less energy per mile, quite a lot less energy per mile than an aircraft at 35,000 feet because it’s just a force balance."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m too stupid for this conversation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It makes sense, though."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No, I’m sure it does.\nNow, when you think about this new idea of design, when you have this idea about improving planes, are you going to bring this to somebody and check this one out?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I have a lot on my plate."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. That’s what I’m saying. I don’t know how you do what you do now, but if you keep coming up with these. But it’s got to be hard to pawn these off on someone else either, like, „Hey, go do a good job with this vertical takeoff and landing system that I want to implement to regular planes.“."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The airplane, electric airplane, isn’t necessary right now. Electric cars are important. Solar energy is important. Stationary storage of energy is important. These things are much more important than creating electric supersonic (… 1:18:54). Also, the plane’s naturally — You really want that gravitational energy density for an aircraft, and this improving over time.\nSo, you know, it’s important that we accelerate the transition to sustainable energy. That’s why it matters whether electric cars happen sooner or later. You know, we’re really playing a crazy game here with the atmosphere and the oceans.\nWe’re taking vast amounts of carbon from deep underground and putting this in the atmosphere. This is crazy. We should not do this. It’s very dangerous. So, we should accelerate the transition to sustainable energy. I mean, the bizarre thing is that, obviously, we’re going to run out of oil in the long term. You know, we’re going to — There’s only so much oil we can mine and burn. It’s totally logical.  We must have a sustainable energy transport and energy infrastructure in the long term.\nSo, we know that’s the endpoint. We know that. So, why run this crazy experiment where we take trillions of tons of carbon from underground and put it in the atmosphere and oceans? This is an insane experiment. It’s the dumbest experiment in human history. Why are we doing this? It’s crazy."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think this is a product of momentum that we started off doing this when it was just a few engines, a few hundred million gallons of fuel over the whole world, not that big of a deal? And then, slowly but surely, over a century, it got out of control. And now, it’s not just our fuel, but it’s also, I mean, fossil fuels are involved in so many different electronics, so many different items that people buy. It’s just this constant desire for fossil fuels, constant need for oil without consideration of the sustainability."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, the things like oil, coal, gas, it’s easy money."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Have you heard about clean coal? The president’s been tweeting about it. It’s got to be real. CLEAN COAL, all caps. Did you see it? He used all caps. Clean coal."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you know, it’s very difficult to put that CO2 back in the ground. It doesn’t like being in solid form."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Have you thought about something like that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It takes a lot of energy."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Like some sort of a filter, giant building-sized filter sucks carbon out in the atmosphere? Is that possible?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, no, it doesn’t. It’s not possible."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nope, definitely not."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, we’re fucked?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, we’re not fucked. I mean, this is quite a complex question. The more carbon we take out of the ground and add to the atmosphere, and a lot of it gets permeated into the oceans, the more dangerous it is. Like I don’t think right — I think we’re okay right now. We can probably even add some more, but the momentum towards sustainable energy is too slow.\nLike there’s a vast base of industry, vast transportation system. Like there’s two and a half billion cars and trucks in the world. And the new car and truck production,  if it was a 100% electric, that’s only about 100 million per year. So, it would take — If you could snap your fingers and instantly turn all cars and trucks electric, it would still take 25 years to change the transport base to electric. It makes sense because how long does a car and truck last before it goes into the junkyard and gets crushed? About 20 to 25 years."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is there a way to accelerate that process, like some sort of subsidies or some encouragement from the government financially?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the thing that is going on right now is that there is an inherent subsidy in any oil-burning device. Any power plant or car is fundamentally consuming the carbon capacity of the oceans and atmosphere, or just say atmosphere for short. So, like, you can say, okay, there’s a certain probability of something bad happening past a certain carbon concentration in the atmosphere.\nAnd so, there’s some uncertain number where if we put too much carbon into the atmosphere, things overheat, oceans warm up, ice caps melt, ocean real estate becomes a lot less valuable, you know, if something’s underwater, but it’s not clear what that number is. But, definitely, scientists, it’s really quite — The scientific consensus is overwhelming. Overwhelming.\nI mean, I don’t know any serious scientist, actually zero, literally zero who don’t think, you know, that we have quite a serious climate risk that we’re facing. And so, there’s fundamentally a subsidy occurring with every fossil fuel burning thing, power plants, aircraft, car, frankly even rockets. I mean, rockets use up — you know, they burn. They burn fuel. But there’s just — you know, with rockets, there’s just no other way to get to orbit, unfortunately. So, it’s the only way.\nBut with cars, there’s definitely a better way with electric cars.  And to generate the energy, do so with photovoltaics because we’ve got a giant nuclear reactor in the sky called the sun. It’s great. It sort of shows up every day, very reliable. So, if you can generate energy from solar panels stored up with batteries, you can have energy 24 hours a day.\nAnd then, you know, you can send to the poles or near to the north with, you know, high voltage lines. Most of the northern parts of the world tend to have a lot of hydropower as well. But, anyway, all fossil fuel-powered things have an inherent subsidy, which is their consumption of the carbon capacity of the atmosphere and oceans.\nSo, people tend to think like why should electric vehicles have a subsidy, but they’re not taking into account that all fossil fuel-burning vehicles fundamentally are subsidized by the cost, the environmental cost to Earth, but nobody’s paying for it. We are going to pay for it, obviously. In the future, we’ll pay for it. It’s just not paid for now."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And what is the bottleneck in regards to electric cars, and trucks, and things like that? Is it battery capacity?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. You got to scale up production. You got to make the car compelling, make it better than gasoline or diesel cars."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Make it more efficient in terms of, like, the distance it can travel? You’re going to be fueling-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you’re going to be able to go far enough, recharge fast."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And your Roadster, you’re anticipating 600 miles. Is that correct?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, 600 miles."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is that right now? Like, have you driven one 600 miles now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. We could totally make one right now that would do 600 miles, but the thing is, it’s too expensive."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How much more so?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you know, just have a 200-kilowatt-hour battery pack, and you can go 600 miles as long."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right, versus what do you have now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "330-mile range. That’s plenty for most people."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "330-mile range. And what is that mean in terms of kilowatts?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, that would be for Model S, 100-kilowatt hour pack, will do about 330 miles, maybe 335. But some people have hypermiled it to 500 miles."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Hypermiled it? What does that mean?45 miles an hour or something?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, like 30 miles an hour or so. It’s like on level ground with — You pump the tires up really well, and go on a smooth surface, and you can go for a long time. But, you know, like definitely comfortably do 300 miles.This is fine for most people. Usually, 200 or 250 miles is fine. 300 miles is — You don’t even think about it, really."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is there any possibility that you could use solar power that solar-powered one day, especially in Los Angeles? I mean, as you said about that giant nuclear reactor, a million times bigger than Earth just floating in the sky. Is it possible that one day, you’ll be able to just power all these cars just on solar power? I mean, we don’t ever have cloudy days; if we do, there’s three of them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the surface area of a car is – without making the car look really blocky or having some-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Like a G wagon."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, and just like having like a lot of solar area, or like maybe like solar panels fold out, or something-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Like your E class. That’s what it needed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That E type?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, the Jaguar E type with a giant long hood, that could be a giant solar panel."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, at the beginning of Tesla, I did want to have this like unfolding solar panel thing. They’d press a button, and it would just like unfold these solar panels, and like charge/recharge your car in the parking lot. Yeah, we could do that, but I think it’s probably better to just put that on your roof."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right, yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And then, it’s be facing the sun all the time. Otherwise, your car could be in the shade. You know, it could be in the shade, it could be in a garage, or something like that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Didn’t the Fisker have that on the roof? The Fisker Karma New Generation for — I believe, it was only for the radio. Is that correct?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, but I think it could like recharge like two miles a day or something."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you laugh when they started blowing up when they get hit with water? Do you remember what happened?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "They got what?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, they had a dealership or-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The Fisker Karmas were parked-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Is that like that with a flood in Jersey?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes, when the hurricane came in, they got overwhelmed with water, and they all started exploding. There’s a fucking great video of it. Did you watch the video?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I didn’t watch the video, but I did see — It’s like some pictures of the aftermath."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "If I was you, I’d be naked, lubed up, watch that video, laugh my ass off. They all blow up. They got wet, and they blew up. That’s not good."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we made our battery waterproof, so that doesn’t happen. Actually-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Smart move."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, there was a guy in Kazakhstan that  — I think it was Kazakhstan – that he just boated through a tunnel, an underwater tunnel, like a flooded tunnel, and just turned the wheels to steer, and pressed the accelerator, and it just floated through the tunnel."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And he steered around the other cars. I mean, like-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s amazing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s on the internet."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What happens if your car gets a little sideways, like if you’re driving in snow? Like what if you’re driving, if you’re autopilot is on, and you’re in like Denver, and it snows out, and your car gets a little sideways, does it correct itself? Does that-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh yeah. It’s got great traction control."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But does it know how to like correct? You know how, like, when your ass end kicks out, you know, how to counter-steer?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, yeah. No, it’s really good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It knows how to do it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Whoa. So, like if you’re going sideways, it knows how to correct itself?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It generally won’t go sideways."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It won’t?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Why not?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It will correct itself before it goes sideways."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Even in black ice?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. There are videos where you can see that. The traction control system is very good. It makes you feel like Superman. It’s great. You feel like you can — Like it’s — It will make you feel like this incredible driver."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I believe it. Now, how do you program that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We do have testing on like an ice lake in Sweden."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And like Norway, and Canada, and a few other places."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Porsche does a lot of that too. They do-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "They did it as well."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They do a lot of their — They do some of their driver training school on these frozen surfaces. So, you’re just — The car is going sideways whether you like it or not. And you have to learn how to slide into corners and how to adjust."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Electric cars have really great traction control because the reaction time is so fast.So, with a gasoline car, you’ve got a lot of latency. It takes a while for the engine to react, but for electric motors, incredibly precise. That’s why you’re like — You imagine like if you had like a printer or something, you wouldn’t have a gasoline engine printer. That would be pretty weird. Or like a surgical device, it’s going to be an electric motor on the surgical device, on the printer. Gasoline engine’s going to be just chugging away. It’s not going to have the reaction time.\nBut to an electric motor,  it’s operating at the millisecond level. So, it can turn on and off traction within, like, inches of getting on the onus like, let’s say, you’re driving on a patch of ice, it will turn traction off, and then turn it on a couple of inches right after the ice, like a little patch of ice because in the frame of the electric motor, you’re moving incredibly slowly. You’re like a — you’re a snail. You’re just moving so slowly because it can see at a thousand frames a second. And so, it’s like, say ‘one Mississippi’, it just thought about at things a thousand times."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, it has realized that your wheels are not getting traction. It understands there’s some slippery surface that you’re driving on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And it makes adjustments in real-time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, in milliseconds."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That would be so much safer than a regular car."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, it is."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Just that alone, for loved ones, you’d want them to be driving your car."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. The-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m on board. Fuck motors. Dude, fuck regular motors."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The S, X, and 3 have the lowest probability of injury of any cars ever tested by the US government."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Whoa."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, this — Yeah, but it’s pretty fun. It’s pretty crazy. Like we — You know, people still sue us like they’ll have like some accident at 60 miles an hour where they’d like twisted an ankle, and they sue us. Like, they will be dead in another car, they still sue us."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But that’s to be expected, isn’t it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It is to be expected."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you take that into account with like the same sort of fatalistic, you know, undertones to sort of just go, „You’ve got to just let it go. This is what people do.“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I tell you I’ve got…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "This is what it is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "… quite a lot of respect for the justice system. Judges are very smart. And they see — they’ve — as like I haven’t… So far, I’ve found judges to be very good at justice because, like, what — and juries are good too. Like, they’re actually quite good. You know, people — You know, you read about like occasional errors in the justice system. Let me tell you, most of the time, they’re very good.\nYou know, the guy I mentioned who fell asleep in the car, and he rode over a cyclist. And that was what encouraged me to get autopilot out as soon as possible.  That guy sued us."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "He sued you for falling asleep?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I’m not kidding. He blamed it on the new car smell."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "He blamed him falling asleep on your new car smell? Does someone that’s a lawyer-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is a real thing that happened."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Somewhere is a lawyer that thought that through in front of his laptop before he wrote that up."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, he got a lawyer, and he sued us, and the judge was like, „This is crazy. Stop bothering me. No.“"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Thank God. Thank God there’s a judge out there with a brain."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I tell you, judges are very good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Some of them. What about that judge that sent all these boys up the river in Pennsylvania who was selling those kids out? You know about that story?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nope."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Judge was selling young boys to prisons. He was like literally-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, literally, under bribes for — He was-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Was this an elected judge?Because sometimes you have a judge that’s like actually a politician."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No, he was an elected judge. This is a very famous story."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "He’s in jail right now, I think, for the rest of his life. And he put away — He would take like a young boy who would do something like steal something from a store, and he would put them in detention for, you know, five years. Something ridiculous egregious. And they investigated his history. And they found out that he was literally being paid off.\n(\nto Jamie\n) Was it by private prisons? Is that what the deal was? There was some sort of — But, anyway, this judge is-"
+    },
+    {
+      "role": "jamie",
+      "text": "Actually, two judges."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Two judges?"
+    },
+    {
+      "role": "jamie",
+      "text": "Two judges. Kids for cash scandals, let’s call them.2008, yeah. Common pleas judges. So, I think they are elected."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And who was paying them? Someone — It was proven to the point where they’re in jail now that someone was paying them to put more asses in the seats in these private prisons."
+    },
+    {
+      "role": "jamie",
+      "text": "It’s like a million-dollar payment to put them in a youth centers builder."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A million-dollar payment?"
+    },
+    {
+      "role": "jamie",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do think it’s this private prisons thing that is creating a bad incentive."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s dark."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Right, yes. But, I mean, that judge is in prison."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Thank God."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, but for people who think perhaps the justice system consists entirely of judges like that, I want to assure you, this is not the case. The vast majority of judges are very good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I agree."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And they care about justice, and they could have made a lot more money if they wanted to be a trial lawyer. And instead, they cared about justice, and they made less money because they care about justice.  And that’s why they’re judges."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I feel that same way about police officers."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I feel like there are so many interactions with so many different people with police officers that the very few that stand out that are horrific, we tend to look at that like, „This is evidence that police are all corrupt.“ And I think that’s crazy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. Most police are very honest."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And like the military personnel that I know. They are very honorable, ethical people. And much more honorable and ethical than the average person. That’s my impression."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I agree. That’s my impression as well."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And that’s not to suggest that we be complacent and assume everyone is honest and ethical. And, obviously, if somebody is given a trusted place in society, such as being a police officer or a judge, and they are corrupt, then we must be extra vigilant against such situations and take action. But we should not think that this is somehow broadly descriptive of people in that profession."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I couldn’t agree more. I think there’s also an issue with one of the things that happens with police officers, prosecutors, and anyone that’s trying to convict someone or arrest someone is that it becomes a game. And in games, people want to win."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And sometimes, people cheat."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, yes. I mean, you know, if you’re a prosecutor, you should not always want to win. There are times when you should like, „Okay. I just should not want to win this case.“ And then, you know, like just pass on that case. Sometimes, people want to win too much. That is true.I think, also, it becomes tough. If you’re like a district attorney, you know, you tend to sort of see a lot of criminals. And then, your view of the world can get negative."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, have a negative — You know, you can have a negative view of the world because, you know, you’re just interacting with a lot of criminals. But, actually, most of society does not consist of criminals."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    }
+  ]
+}

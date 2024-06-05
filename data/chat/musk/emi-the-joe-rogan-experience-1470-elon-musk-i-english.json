@@ -1,0 +1,759 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/03/02/the-joe-rogan-experience-1470-elon-musk-i-english/",
+  "speakers": [
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "joe_rogan",
+      "text": "Welcome back."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Here we go again."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Great to see you, and congratulations."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Thank you."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You will never forget what is going on in the world when you think about when your child is born. You will know for the rest of this child’s life; you were born during a weird time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s for sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That is for sure. Probably the weirdest that I can remember."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, and he was born on May the fourth."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s hilarious, too. May, the fourth, be with him."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It has to be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Hopefully. I sure hope so."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Perfect."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I mean, that was the perfect day for you. How do you say the name? Is it a placeholder?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "First of all, my partner is the one that actually mostly came up with the name."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Congratulations to her."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. She’s great at names. I mean,  it’s just X, the letter X, and then the Æ is like pronounced ‘ash’. Yeah, and then A-XII is my contribution."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, why A-XII?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Archangel 12\n, the precursor to the SR-71. Coolest plane ever. True."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I agree with you. I don’t know. I’m not familiar with it. I know what the SR-71 is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The SR-71 came from a CIA program called Archangel. It’s the Archangel project."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh wow, what a dope-looking plane. Well, as a person who’s very much into aerial travel as you are, that’s perfect."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s pretty great."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Pretty great. Does it feel strange to have a child while this craziness is going? Does it feel like you’ve had children before? Is this any weirder?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, I think it’s better being older and having a kid. I appreciate it more. Yeah, babies are awesome."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They are pretty awesome."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’re awesome. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When I didn’t have any of my own, I would see other people’s kids, and I didn’t not like them, but I wasn’t drawn to them. But now, when I see little people’s kids, I’m like, Oh, I think of them as like these little love packages."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, little love bugs."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. It’s just you think of them differently when you see them come out and then grow and then eventually start talking to you, like your whole idea what a baby is, is very different."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Now, as you get older and get to appreciate it as a mature, fully formed adult, it must be really pretty wonderful."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Great. Wonderful. It’s great. But babies are awesome. Yeah, it’s great. Also, I’ve spent a lot of time on AI and neural nets and so you can sort of see the brain develop, which is … An AI neural net is trying to simulate what a brain does, basically. You can sort of see it learning very quickly. You know, it’s just wow."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You’re talking about the neural net; you’re not talking about an actual baby."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t talk about an actual baby."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But both of them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. The word neural net comes from the brain. It’s like a net of neurons. Humans are the original gangster of the neural net."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a great way to put it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When you’re programming artificial intelligence where you’re working with artificial intelligence art, are they specifically trying to mimic the developmental process of a human brain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In a lot of ways. There’s some ways that are different. An analogy that’s often used is like we don’t make a submarine swim like a fish, but we take the principles of hydrodynamics and apply them to the submarine."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’ve always wondered as a layperson, do you try to achieve the same results as the human brain but through different methods? Or do you try to copy the way a human brain achieves results?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, the essential elements of an AI neural net are really very similar to a human brain neural net. Yeah. It’s having the multiple layers of neurons and, you know,\nbackpropagation\n. All these things are what your brain does. You have a layer of neurons that goes through a series of intermediate steps to ultimately cognition, and then it’ll reverse those steps and go back and forth and go all over the place. It’s interesting. Very interesting."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, I would imagine. The thought of programming something that is eventually going to be smarter than us that one day it’s going to be like:  “Why did you do it that way?” When artificial intelligence becomes sentient, they’re like: “Oh, you tried to mimic yourself. This is so much better process. Cut out all this nonsense.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like I said, there are elements that are the same but just like an aircraft does not fly like a bird."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It doesn’t flap its wings, but the wings, the way the wings work and generate lift is the same as a bird."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Now you’re in the middle of this strange time where you’re selling your houses. You say you don’t want any material possessions, and I’ve been seeing all that, and I’ve been really excited to talk to you about this. Because it’s an interesting thing to come from a guy like yourself. Like why are you doing that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m slightly sad about it, actually."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "If you’re sad about it, why are you doing it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think possessions kind of weigh you down, and they’re kind of an attack vector. They’ll say, “Hey, billionaire, you’ve got all this stuff.” Well, now I don’t have stuff now. What are you going to do?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Attack vector meaning like people targeted."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Interesting, yeah. But you’re obviously going to, so you’re going to rent a place?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay, and get rid of everything except clothes?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I said almost everything, so it’s like…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Keep a couple of Teslas."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Kind of have to, to test product and stuff. You know, there’s things that have sentimental value, for sure are keeping those. I mean, what’s the worst that could happen? I mean, I’m fine."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, you can always buy more stuff if you don’t like it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I suppose so."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, I mean from the money that you sell all your stuff, you can buy new stuff. Do you feel like people define you by the fact that you’re wealthy and that they define you in a pejorative way?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "For sure. I mean not everyone, but for sure, in recent years, ‘billionaire’ has become pejorative like that’s a bad thing. Which I think doesn’t make a lot of sense in most cases. If you basically organized a company… How does this wealth arise? If you organize people in a better way to produce products and services that are better than what existed before, and you have some ownership in that company, then that essentially gives you the right to allocate more capital. There’s a conflation of consumption and capital allocation.\nTake Warren Buffet, for example, and to be totally frank, I’m not his biggest fan, but you know, he does like have full allocation, and he reads a lot of annual reports of companies and all the accounting, and it’s pretty boring really. He’s trying to figure out does Coke or Pepsi deserve more capital?\nI mean it’s kind of a boring job if you ask me. It’s still a thing that’s important to figure out. Like, which is a company deserving of more or less capital. Should that company grow or expand? Is it making products and services that are better than others or worse? If a company is making compelling products and services, it should get more capital, and if it’s not, it should get less or go out of business."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, there’s a big difference, too, between someone who’s making an incredible amount of money designing and engineering fantastic products versus someone who’s making an incredible amount of money by investing in companies or moving money around in the stock market or doing things along those lines. It’s a different thing and to put them all in the same category seems it’s very simple. As you pointed out, it’s an attack vector."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, for sure. I do think, in the United States especially, there’s an over-allocation of talent in finance and law. Basically, too many smart people go into finance and law. This is both a compliment and a criticism. We should have, I think, fewer people doing law and fewer people doing finance and more people making stuff."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, that would certainly be better for all involved if they made better stuff."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. Manufacturing used to be highly valued in the United States, and these days it’s not. It’s often looked down upon, which I think is wrong."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Well, I think that people are kind of learning that particularly  because of this whole pandemic and this relationship that we have with China, that there’s a lot of value in the making things and in the making things here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Somebody’s got to do the real work. You know, like, making a car, it’s an honest day’s living, that’s for sure. Making anything, really, or providing a valuable service like providing good entertainment, good information, these are all valuable things to do. Yeah, there should be more of it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you have a moment where – is this something that this idea of getting rid of your material possessions – is it something that built up over time, or did you have a moment of realization where you realized that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I’ve been thinking about it for a while. You know, part of it is I have a bunch of houses, but I don’t spend a lot of time in most of them. That doesn’t seem like a good use of assets. Somebody could probably be enjoying those houses and get better use of them than me."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Don’t you have Gene Wilder’s house?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s amazing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s awesome."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. It’s exactly what you’d expect."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you request that the buyer not fuck it up?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s a requirement."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, a requirement? That’s a good requirement."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "In that case in that house."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’ll probably sell for less, but still, I don’t care."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, he’s a legend. He’d want his soul, he’d want his essence in the building."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And it’s there."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a real quirky house, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What makes you say it’s there? What do you get out of it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, all the cabinets are like handmade, and they’re like odd shapes, and there’s like doors to nowhere and strange corridors and tunnels and odd paintings on the wall. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you ever live in it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s very quirky. I did live in it briefly, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But why do you buy houses? If you own all these houses, do you just get bored and go ‘I think I’d like to have that’?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I had one house, and the Gene Wilder house is right across the road from me from my main house. It was going to get sold and then torn down and turned into, you know, be a big construction zone for three years. I was like, whoa, I think I’ll buy it and preserve the spirit of Gene Wilder and not have a giant construction zone.\nThen I started having some privacy issues where people would just come to my house and start climbing over the walls and stuff. Then I bought some of the houses around my house, and then I thought at one point, you know, it’d be cool to build a house. I acquired some properties at the top of Somera Road, which has got a great view, and I was like, okay, well there’s a bunch of sort of small older houses, they’re going to get torn down, anyway. I was like, well, if I collect these little houses, then I can build something, I don’t know, artistic, like a dream house type of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s a dream house for Elon Musk? Like some Tony Stark type shit?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, definitely. Yeah. You got to have the dome that opens up with the stealth helicopter and that kind of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "For sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Fuck yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Definitely. But then I was like, man, does it really make sense for me to spend time designing and building a house and I’d be real, you know, get a like OCD on the little details and the design, or should I be allocating that time to getting us to Mars? I should probably do the latter. Like what’s more important? Mars or a house? I’m like Mars. Okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is that really how you think? Like, I’d be better off planning on a trip to Mars or getting people to Mars?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, yeah, definitely. I mean, you can only do so many things."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. Well, I don’t know how you do what you do anyway. I don’t understand how you can run The Boring Company, Tesla, SpaceX, all these different things you’re doing constantly. I don’t understand. I mean, you explained last time you were here how you sort of allocate your time and how hectic it is and insane. I still don’t… the productivity is baffling. It just doesn’t make sense how you can get so much done."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think I do have high productivity, but even with that, there’s still some opportunity cost of time and allocating time to building  a house, even if it was a really great house, it still is not a good use of time relative to developing the rockets necessary to get us to Mars and helping solve sustainable energy. SpaceX and Tesla are by far the most amount of brain cycles. The Boring Company does not take… it’s like less than 1% of brain cycles. And then Neuralink, which is, I don’t know, maybe it’s like 5% and then…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "5%? That’s a good chunk."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a good chunk. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "We were talking about that last time, and you were trying to figure out when it was actually going to go live when it’s actually going to be available. Are you testing on people right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, we’re not testing on people yet, but I think it won’t be too long. I think we may be able to implant a neural link in less than a year in a person, I think."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When you do this, is there any tests that you have to do before you do something like this to see what percentage of people’s bodies are going to reject these things? Is there a potential for rejection?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a very low potential for rejection. I mean, you can think of it like people put in heart monitors and things for epileptic seizures and\ndeep brain stimulation\n, obviously like artificial hips and knees and that kind of thing. The probability of… I mean, it’s well known what will cause rejection and what will not. It’s definitely harder when you’ve got something that is sort of reading and writing neurons that’s generating a current pulse and reading current pulses. That’s a little harder than, say, a passive device, but it’s still very doable. There are people who have primitive devices in their brains right now."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What kind of devices?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like deep brain stimulation provided for Parkinson’s, it has really changed people’s lives in a big way, which is kind of remarkable because it kind of like zaps your brain. It’s like kicking the TV type of thing. You think like, man, kicking the TV shouldn’t work."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It does sometimes. The old TVs."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It did."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "My grandpa used to slap the top."
+    },
+    {
+      "role": "elon_musk",
+      "text": "For sure. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It would work sometimes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so this deep brain stimulation implanted device is in the brain that has changed people’s lives for the better fundamentally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, let’s talk about what you can talk about to what Neuralink is because the last time you were here, you really couldn’t discuss it. Then there was, I guess, a press release or something that sort of outlined…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh yeah, sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, that had happened quite a bit after the last time you were here. What exactly is it? How do you do – what happens if someone ultimately does get a neural link installed? What will take place?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, for version one of the device, it would be basically implanted in your skull. It would be flush with your skull, so you basically take out a chunk of skull, put the Neuralink device in there. You’d insert the electrode threads very carefully into the brain, and then you stitch it up, and you wouldn’t even know that somebody has it. It can interface basically anywhere in your brain. It could be something that helps cure, say, eyesight, like returns your eyesight even if you’ve lost your optic nerve type of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. Hearing… – Pretty much anything that…- It could, in principle, fix almost anything that is wrong with the brain. It could restore limb functionality, so if you’ve got an interface into the motor cortex and then an implant that’s like a microcontroller and near muscle groups, you could then create sort of a neural shunt that restores somebody who is a quadriplegic to full functionality. Like, they can walk around and be normal."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, maybe slightly better."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Slightly better?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Over time, yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You mean with future iterations?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like the, you know, ‘\nSix Million Dollar Man\n’.  Although these days, that doesn’t sound like much."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right, that’s pretty cheap. ‘Six Billion Dollar Man’."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The hole would be small. How big would the hole be that you have to drill and then replace with this piece? It’s only one hole?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah, the device we’re working on right now is about, it’s about an inch in diameter. Your skull is pretty thick, by the way."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Mine is for sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It might actually, literally. I mean, if you’re a big guy, your skull is actually fairly thick. A skull is like seven to 14 millimeters."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Mines probably a couple of inches."
+    },
+    {
+      "role": "elon_musk",
+      "text": "A half inch. Half inch thick skull. Yeah, that’s a fair bit of like… We’ve got quite a coconut going on here. It’s not like some eggshell."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh yeah, I believe you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you basically implant the device."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It would be like a one inch square? One inch in diameter, so an inch circle?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, think like a smartwatch or something like that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay, so you take this one inch diameter like ice fishing, right? You ever go ice fishing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, but I’d like to."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s great. It’s really fun. so you basically take an auger, and you drill through the surface of the ice, and you create a small hole, and you can dunk your line in there. This is like that. You’re ice fishing on the top of your skull, and then you cork it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, and you replace that, say, one inch diameter piece of skull with the Neuralink device, and that has a battery and a Bluetooth and an inductive charger. Then you also insert the electrodes. The electrodes are very carefully inserted with a robot that we developed. It’s very carefully putting in the electrodes and avoiding any veins or arteries, so it doesn’t create trauma."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Through this one inch diameter device, electrodes would be inserted, and they will find their way…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like tiny wires, basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And they’ll find their way to specific areas of the brain to stimulate?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, you literally put them where they’re supposed to go."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, okay. How long will these wires be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, they usually go in like, depending on where it is, like two or three millimeters."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They just find the spots?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then you put the device in, and that replaces the little piece of skull that was taken out. Then you stitch up the hole, and it will just look like a little scar, and that’s it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Would this be replaceable or reversible? Like if someone can’t take it anymore? “I’m too smart; I can’t take it.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you can totally take it out."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Besides restoring limb function and eyesight and hearing, which are all amazing, is there any cognitive benefits that you anticipate from something like this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean you could for sure…- I mean, basically it’s a generalized sort of thing for fixing any kind of brain injury in principle, or if you’ve got like severe epilepsy or something like that. It could just sort of stop the epilepsy from occurring. It could detect it in real-time and then fire a counter pulse and stop the epilepsy.\nI mean, there’s a whole range of brain injuries. Like if people get a stroke, they could lose the ability to speak, and that could also be fixed. If you’ve got stroke damage or you lose, say, muscle control over part of your face or something like that. And then, when you get older, you tend to… – if you get like Alzheimer’s or something like that, then you lose memory, and this could help you with restoring your memory and that kind of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Restoring memory… – and what is happening that’s allowing it to do that? Like the wires, these small wires are stimulating these areas of the brain. Is it that the areas of the brain are losing some sort of electrical force? What is happening?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The thing is it’s like a bunch of circuits, and there’s some circuits that are broken, and we can fix those circuits. It’s a substitute for those circuits."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A specific frequency will go through this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is the process figuring out how much or how little has to be,  how much these areas of the brain have to be juiced up?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, there’s still a lot of work to do. When I say we’ve got a shot at probably putting in a person within a year, that’s exactly what I mean. I think we have a chance of putting it into one and having them be healthy and restoring some functionality that they’ve lost."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The fear is that eventually, you’re going to have to cut the whole top of someone’s head off and put a new top with a whole bunch of wires if you want to get the real turbocharged version. The P100D of brain stimulation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, ultimately, if you want to go with full AI symbiosis, you’ll probably want to do something like that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Symbiosis is a scary word when it comes to AI."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s optional."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I would hope so."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s just, I mean, once you enjoy the\nDoctor Manhattan\nlifestyle, once you become a god seems very unlikely you’re going to want to go back to being stupid again. I mean, you literally could fundamentally change the way human beings interface with each other."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. You wouldn’t need to talk."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m so scared of that, but so excited about it at the same time. Is that weird?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think this is one of the paths to think like what are… Like AI is getting better and better. Now let’s assume it’s sort of like a benign AI scenario. Even in a benign scenario, we’re kind of left behind. We’re not along for the ride. We’re just too dumb."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "How do you go along for the ride? It’s, like, if you can’t beat them, join them. We’re already a cyborg to some degree, right? Because you’ve got your phone, you’ve got your laptop, your electronic devices. Today, if you don’t bring your phone along, it’s like you have missing limb syndrome. It feels like something’s really missing. We’re already partly a cyborg or an AI symbiote, essentially.\nIt’s just that the data rate to the electronics is slow. Especially output, like you’re just going with your thumbs. I mean, like, what’s your data rate? Optimistically, a hundred bits per second. That’s being generous. Now the computer can communicate at a hundred terabytes. Certainly, you know, gigabits are trivial at this point.\nBasically, your computer could do things a million times faster. At a certain point, it’s like talking to a tree. Okay? This is boring. You talk to a tree – it’s not very entertaining. If you can solve the data rate issue, especially output, but input, too, then you can improve the symbiosis that is already occurring between man and machine."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, you can improve it – when you said you won’t have to talk to each other anymore. We used to joke around about that. I’ve joked around about that a million times in this podcast that one day in the future, there’s going to come a time where you can read each other’s minds. You’ll be able to interface with each other in some sort of a nonverbal, non-physical way where you will transfer data back and forth to each other without having to actually use your mouth to make noises."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly, so when you… Like what happens when you, let’s say you’ve got some complex idea that you’re trying to convey to somebody else, and how do you do that? Well, your brain spends a lot of effort compressing a complex concept into words, and there’s a lot of loss, information loss that occurs when compressing a complex concept into words. Then you say those words, and those words are then interpreted, then they’re decompressed by the person who is listening. They will, at best, get a very incomplete understanding of what you’re trying to convey. It’s very difficult to convey a complex concept with precision because you’ve got compression, decompression,  you may not even have heard all the words correctly and so communication is difficult. What we have here is a failure to communicate.\nCool Hand Luke\n."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes. Great movie."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, great one."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "There’s an interpretation factor, too. Like you can choose to interpret certain series of words in different ways, and they’re dependent upon tone, dependent upon social cues, even facial expressions, sarcasm. There’s a lot of variables."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sarcasm is difficult."
+    }
+  ]
+}

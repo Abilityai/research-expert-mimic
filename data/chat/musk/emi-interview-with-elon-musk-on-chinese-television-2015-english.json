@@ -1,0 +1,427 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/03/15/interview-with-elon-musk-on-chinese-television-2015-english/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "interviewer",
+      "name": "Interviewer"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "If you can translate that into a product that people can experience and that they like, and that delights them, then that’s a good measure of the success of the product, you know. So I really like the fact that when people buy a car that they experience delight. And for many people, they’ve told me it’s like the best product they’ve ever bought, and it made them happy. And there was one person who said, like, whenever they feel sad, they can just go to the garage and look at the car, and it makes them happy. I was like, that’s cool. That’s really cool."
+    },
+    {
+      "role": "interviewer",
+      "text": "So what actually made them happier?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s what they told me – the car."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. But what’s your explanation behind this? Why could this make people happier?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s pretty, it’s a beautiful car. It does a few things. Like when you approach the car, it senses that you’re coming, and the handles extend, and it kind of prepares for you to come, and it’s almost like a pet."
+    },
+    {
+      "role": "interviewer",
+      "text": "But do you still have that kind of freshness when you use the car yourself? Or you have been used to that and lost the excitement?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, in my case, it’s a little tricky because I am always looking for what’s wrong. In order to make the car better, I always have to be actually thinking very critically. And so when I see the car, I see all the things that I think need to be fixed to make it better. And so it’s certainly easy to lose the sense of wonder or just see the flaws. But it’s a difficult thing to reconcile because if you want to make something better, then you must analyze it for the flaws. But then that kind of prevents the enjoyment of it. It’s a difficult dichotomy.\n(01:52 – 02:17)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "It seems that you believe in the fact that we’re all going to drive electric cars, and maybe someday only by computers, not by human beings. Do you still believe in that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think it’s fairly clear that, to me, at least, that all transport will go fully electric. It’s better for the world from an environmental standpoint and from an economic standpoint if we transition to electric transport sooner. It will help with pollution and global warming and all that stuff. And I do think we’re headed towards an age of autonomous transport where you know, you just summon the car with your phone or something and then get in, and you just tell the computer where you want to go, and it takes you there. It’s gonna happen very quickly, I think maybe in four or five years."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah, but how do you react to some, you know, the public opinions, skepticism? Because it seems a lot of people are watching you and say, well, let’s see how far this can go."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I suppose there’s skepticism about anything new, that’s normal. And I mean, I’m not expecting that people will just believe me. But I think if you look at generally my predictions, they’re more often correct than they’re not. I mean, I’m really just talking about five years. You know, we’ll have affordable electric cars that go long ranges, and they will be autonomous.\n(03:50 – 05:23)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "(refers to the sequence shown before)\nHow do you see that contradiction? How could you reconcile it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not exactly a contradiction because I always say it’s important for civilization to be a multi-planet species. So it’s not like an escape from Earth, and then we will leave Earth and try to go to Mars or something like that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Why don’t we concentrate on saving the planet instead of, you know, having the back door open?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I do think that 99% of our efforts should be focused on Earth. And really, 99.9% of our effort is focused on Earth. But I do think it’s worth saying: ‘Okay, let’s take 1% and try to establish a self-sustaining city on Mars and make life multi-planetary.’ And I think there’s a couple of good reasons for that. First of all, there’s always the possibility that there could be some terrible thing that happens on Earth that we maybe don’t anticipate. If you look at the fossil record and the fact that there’ve been five major extinction events in the last 500 million years, and what happened to the dinosaurs. They used to be here; they’re not around anymore. So that’s kind of the defensive argument. And then there’s what I call maybe the inspiration argument, the excitement. Building a city on Mars would just be this incredible adventure, that there be things in life that are exciting and inspiring that when you wake up in the morning, you’re like, yes, I’m glad to be alive. And I think having this great adventure would be like that."
+    },
+    {
+      "role": "interviewer",
+      "text": "You know, there’s a proverb in Chinese called (… 06:53). Two thousand years ago, there was a man who spent the whole day worrying about what if the heaven falls down? Everyone laughed at him and said, you know, why can’t you be concerned about something more pragmatic, basically. So you are the guy who is worrying about maybe another, you know, Millennials away that we need to move to another planet?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it’s not moving to another planet. It’s being multi-planet. We’re still going to be on Earth, but we’ll have Mars too. And we want to become a spacefaring civilization and a multi-planet species and ultimately be out there exploring the stars. I think that’s a much more exciting future than a future where we are forever confined to Earth until some eventual extinction event.\n(07:33 – 08:00)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "You basically taught yourself a lot of things in computer programming as a child, and after, taking physics and economics in college. You taught yourself automotive technologies, and then rocketry, battery technology, and so on and so forth. What’s the motivation behind all this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I basically learn whatever I need to learn to accomplish an objective. And I think actually most people could do this. But they often self limit. People are capable of more than they think. But I mean, what I’ve found is if you simply read a lot of books and talk to people, you can learn almost anything."
+    },
+    {
+      "role": "interviewer",
+      "text": "But was reading also an escape or rescue to you as a boy? In school, I’ve learned that you’re kind of the youngest in the class and bullied sometimes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s true."
+    },
+    {
+      "role": "interviewer",
+      "text": "So what was reading to you at that time?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, this is, of course, back in the days before the video games, and TV wasn’t very good either. And I was actually for quite a while the youngest and the smallest in class. And my parents moved a lot, so I went through six different schools, so it was difficult to make friends, and then one year and then you’d be in a new school the next. So books certainly were something that I found comforting, and I would read all the time, just all the time, you know, morning to night.\n(09:36 – 09:55)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "elon_musk",
+      "text": "And generally sort of the fantasy sci-fi genre I found most interesting. And I mean, I also read a lot of the philosophers and religious texts and that kind of thing and a lot of nonfiction as well; read the encyclopedia. And in fact, I remember when I was just in elementary school, I was reading about ion engines. And I thought they were super cool. And now we’re launching satellites with ion engines."
+    },
+    {
+      "role": "interviewer",
+      "text": "But how about real figures in history? You know, is that Newton or Einstein, so and so forth? Did you make up your mind to be someone great, someone, who can leave a legacy in history for all humanity?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I never thought so. Actually, when I was a kid, I didn’t know what I would do when I grew up. I just wanted to be involved in things that were on the cutting edge, the fun things that were affecting the future of the world. But I didn’t think anything great would happen at all.\n(10:56 – 11:26)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "(refers to the sequence shown before)\nWere you certain about what you would achieve?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, in fact, I expected to fail."
+    },
+    {
+      "role": "interviewer",
+      "text": "‘I expected to fail’ – but you still went ahead and do it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The reason I expected to fail was because most companies fail. So if 90% plus companies fail, and I have no track record of making companies work, then I mean, basically, the most likely outcome is failure. But I didn’t think it was super risky because I talked to my professor and said that I was going to try to start an internet company. And that would probably not work. And would you mind if I came back to class if it didn’t work? He said: “Sure. No problem.”"
+    },
+    {
+      "role": "interviewer",
+      "text": "And where did the original investment come from? Your own pocket money, or financed by your mother?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Well, I had about $3,000 and a computer. And then my brother came and joined, and he had about I think $5,000. And then another friend of ours came, he had $6,000. So really, this is not a lot. And in the beginning, we didn’t have enough money to rent an apartment and an office. So the office was actually cheaper. So we slept in the office. And we thought maybe it was more impressive to have an office; you can’t have people come to an apartment. But at night, we would just sleep on the couch in the office, and then we would go to the YMCA to shower. And in the very beginning, we only had one computer, so the website only worked during the day because at night, I was programming software."
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, I mean, your brother and a friend joined you, but you were ready to fail. How did you convince them to join you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, they thought we would fail, too."
+    },
+    {
+      "role": "interviewer",
+      "text": "How did that work out?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It worked out pretty well in the end. I mean, we ended up growing the business, and it ended up getting sold for about 300 million dollars.\n(13:31 – 13:56)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "So when a young man suddenly – God, you know – 10s of millions and then a billion… – Were you blown away for a while at least?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you bet. Absolutely. It was kind of exciting."
+    },
+    {
+      "role": "interviewer",
+      "text": "What did you do with that money? What was it like to have a check like that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that was awesome. In fact, they mailed a check, and there’s just a check in the mail, which is kind of crazy because it’s this giant check in the mail.\n(14:25 – 14:40)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "(refers to the sequence shown before)\nYeah, that was one of the craziest things you did?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, well, I was with Peter Thiel, one of my co-founders of PayPal. We were actually just driving up Sand Hill Road. We were going to visit Michael Moritz at Sequoia Capital. And Peter asked me, like, so what can this car do? And then the famous last words I said: “Watch this.” And I floored and did a lane change, and the back wheels broke loose, and the car spun around. And then we hit the embankment and knocked the car into the air, which continued spinning like a discus, like three feet in the air – bam – landed going the original direction – it was like in a movie – and blew out the suspension and I drove to the side of the road. I was like, holy cow. That was crazy. After that, I took driving lessons on the McLaren because it’s a difficult car to drive."
+    },
+    {
+      "role": "interviewer",
+      "text": "Are you a very prudent driver nowadays?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think I’m a fairly prudent driver. Yes.\n(15:40 – 16:17)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "elon_musk",
+      "text": "(refers to the sequence shown before)\nBut I had a tough choice there. Because I could either provide all of the money for SpaceX or all of the money for Tesla, and then increase the chance that one of them would survive, or I have to split the money. But if I split the money, then maybe both will die. You can imagine like, it’s almost like if you had two children, and you have only so much food -What do you do?"
+    },
+    {
+      "role": "interviewer",
+      "text": "So, what was the choice?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I split it."
+    },
+    {
+      "role": "interviewer",
+      "text": "So, at that closest moment of a failure, what did you say to yourself? Can I survive this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I…"
+    },
+    {
+      "role": "interviewer",
+      "text": "You didn’t question yourself."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. I mean, the difficulty is that in those situations, like there’s so much responsibility that you have to the employees and to the investors who have come along, so I would have been really disappointed if I would not have been able to keep my responsibility to have the company survive."
+    },
+    {
+      "role": "interviewer",
+      "text": "You said you almost had a nervous breakdown. Where did the tenacity or the resilience come from?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I remember the closest I ever came to a nervous breakdown. I never thought I was someone who, you know – I thought nervous breakdowns, that’s ridiculous. Why would people have such a thing? But I remember waking up on the Sunday before Christmas in 2008 and thinking like: “Damn, this is the closest I’ve ever gotten.” And it was looking pretty grim. Because at that point, even though the fourth launch of SpaceX had succeeded, we were still running out of money because we had three failures and only one success – still not enough. And then the financing round for Tesla had not closed, and we had only two days, maybe three… I think it was like two or three days maybe, to close it before Christmas. So I was like: “Man, this could be a really bad end of the year. Maybe both companies will fail.”"
+    },
+    {
+      "role": "interviewer",
+      "text": "Did you cry or scream?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I didn’t."
+    },
+    {
+      "role": "interviewer",
+      "text": "Smashing the apartment?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. But sleep was difficult.\n(18:45 – 18:53)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "elon_musk",
+      "text": "(refers to the sequence shown before)\nI wasn’t expecting that they\n(NASA)\ncall. Actually, I thought they were on vacation because it was so close to Christmas. You know, I thought – it was only a few days before Christmas. So I thought, well, there’s no way they’re going to call. They must have gone home for the year.\n(19:06 – 19:11)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "elon_musk",
+      "text": "But they called, and they said that SpaceX had this $1.4 billion contract."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was your reaction to that piece of news?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, I said, I love you. Which I don’t think is a normal response for NASA contracting officers. That was good. And then a few days later, we closed the Tesla financing round on the last hour of the last day when it was possible, which was 6 pm Christmas Eve 2008.\n(19:48 – 20:15)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "So failures are not the most terrible things; however, you have to learn from it and react to it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. When you’re building something new, there’s going to be mistakes. And it’s important to recognize those mistakes, acknowledge them, and take corrective action. And the success of a company is very much more about how quick are you to fix the mistakes – not, will you make mistakes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Or admit the mistakes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. And if you see the difference between a startup that is successful and one that is not, and it is because the successful one – they both made mistakes – but the successful one recognizes the mistakes, fix them very quickly. And the unsuccessful one tries to deny that the mistakes exist."
+    },
+    {
+      "role": "interviewer",
+      "text": "No, extremely smart people are sometimes quite arrogant because they believe in what they believe in, right. And so when they face criticism, it’s less likely to admit, you know, they can make mistakes. Was that in your case?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I learned when I was studying physics that… – in physics, you’re taught to always question yourself, you’re taught to always assume that you’re wrong, not to assume that you’re right. And you have to prove yourself not wrong. And so I think that that physics framework is really where I learned it, and it’s very effective for learning counterintuitive things that aren’t obvious."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’re very famous for saying that failure is actually an option. And if you’re not failing, that means you’re not innovative."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s not like that I like failure. I mean, who likes failure – it’s terrible. But if you only do things that are certain to succeed, then you’re only going to be doing very obvious things.\n(21:50 – 22:03)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "Being innovative can be a very exciting life. Doing business sometimes requires persistence, sometimes it could be very boring. Do you have the same fun from innovation as from business, running a business? Or would you rather be just an innovator, engineer, instead of a business owner?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I’d love to just do innovation work and just do engineering. But you raise a good point. Because, you know, a lot of life in general, any job, there’s like, you have to do your chores. You know, there’s…"
+    },
+    {
+      "role": "interviewer",
+      "text": "…nobody else can do that for you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah, I think to be successful at almost anything, you have to do the tough stuff as well as the enjoyable stuff; you have to do the boring stuff, as well as the non-boring stuff. And if you don’t do your chores, then bad things will happen. But if they don’t do the things that they don’t like to do, then the company will be in trouble. Basically, it’s more fun to cook the meal than to clean the dishes. Okay, but you need to clean the dishes."
+    },
+    {
+      "role": "interviewer",
+      "text": "You need to do both."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, you need to do both, exactly."
+    },
+    {
+      "role": "interviewer",
+      "text": "So, what are some of the ideas that excite you today? Because there are so many brilliant ideas around the world. How could you keep focused on the things you’re doing instead of being distracted by so many other good ideas?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s a lot of opportunity in electrification of cars, of aircraft, and of boats, and I think there’s a particular opportunity for a supersonic vertical takeoff and landing electric jet. That’s something I’d love to do at some point in the future if time allows.\n(23:41 – 24:44)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "(refers to the sequence shown before)\nAnd also, even machines are taking a lot of functions away from us, there are still functions that we have to, you know, deliver ourselves, for example, fatherhood. So how would you educate your five boys?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, I created a little school."
+    },
+    {
+      "role": "interviewer",
+      "text": "What kind of school? Could you describe it to us?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. I mean, it’s small, it’s only got 14 kids now, and it’ll have 20 kids and in September. It’s called ‘Ad Astra’, which means ‘to the stars’. That’s maybe a bit different from most other schools is that there aren’t any grades, there’s no like, grade one, grade two, grade three type of thing. And making all the children go in the same grade at the same time, like an assembly line. You know, because some people love English or languages, some people love math, some people love music, and they have different abilities at different times. It makes more sense to cater the education to match their aptitudes and abilities. Like, that’s one principle.\nAnother is that it’s important to teach problem-solving or teach to the problem, not to the tools. So this would be like, let’s say, you’re trying to teach people about how engines work. A more traditional approach would be to say, we’re going to teach you all about screwdrivers and wrenches, and you’re gonna have a course on screwdrivers, a course on wrenches and all these things. That’s a very difficult way to do it. A much better way would be like, here’s the engine. Now let’s take it apart. How we’re going to take it apart? Oh, you need a screwdriver. That’s what the screwdriver is for. You need a wrench? That’s what the wrench is for. And then the very important thing happens, which is that the relevance of the tools becomes apparent."
+    },
+    {
+      "role": "interviewer",
+      "text": "So all your five boys in that school?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Until when? This is from preschool?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. The school is only one year old. They like it."
+    },
+    {
+      "role": "interviewer",
+      "text": "They like it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "And you want to keep them away from regular schools?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I just didn’t see that the regular schools… they weren’t doing the things that I thought should be done. Like, you know, those two principals, they weren’t adhering to those principles. So I thought, well, let’s see what we can do. Maybe creating a school will be better. And actually, I hired a teacher from the school they were at, who also agreed with me that there was a better way to do it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Have they surprised you in a way of their innovative thinking?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it seems to be going pretty well. I mean, the kids really love going to school. I think that’s a good sign. You know, I mean, I hated going to school when I was a kid; it was torture. So the fact that they actually think vacations are too long as they want to go back to school… Yeah, exactly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, there are so many young people, the millennial generation, who want to start up their own company with the, you know, the accessibility of the internet and such a big market here in China. What’s your advice for them? Because sometimes, they will easily go to the daydreaming part or the wishful thinking part. What’s the balance between imagination and, you know, pragmatism, basically?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do think that in terms of creating a company, what Edison said, which was like, ‘it’s 1% inspiration, 99% perspiration’, is true. So, a lot of it in creating a company is execution. You start off with an idea, and that idea is mostly wrong. And then you adapt that idea and keep refining it. And you listen to criticism. Some criticism you discard – you try to discard the wrong criticism – try to listen to the correct criticism, and then engage in sort of recursive self-improvement, in constantly refining it and making it better.\nAnd you have to work super hard – that’s very important. And then just keep iterating on a loop, which says, am I doing something useful for other people? Because that’s what a company is supposed to do. You know, a company is just a group of people gathered together to produce a product or service. And a company should only exist if that product or service is truly useful to customers.\n(29:03 – 29:15)\nA documentary sequence about Elon Musk in Chinese, translation not available"
+    },
+    {
+      "role": "interviewer",
+      "text": "I guess, you know, you’re not going to be running Tesla all the time. What’s the next step for you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I certainly I’ll be running Tesla and SpaceX into the foreseeable future. And, you know, key goal with Tesla is to be able to make an affordable, great electric car, a sort of third-generation car. Because you can only change the world for electric cars if people can afford to buy a great electric car. Affordable electric cars are not great, and the great electric cars are not affordable. We need great electric cars that are affordable. So that’s the goal with Tesla. And with SpaceX, it’s a bit of a longer-term goal because we need to make reusability work with rockets. That’s fundamental to improving the cost of spaceflight by a factor of 100. And then we need to make the rockets really big and be able to send large amounts of people and cargo to Mars. And right now, nobody’s been to Mars. So this is a very tall hill to climb."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you want to be one of those to try the trip?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’d like to. I mean, I’ll go as long as I think SpaceX will be okay without me. Then I’ll go to Mars."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you feel there’s a kind of destiny for you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sometimes I feel like, but I mean, I don’t know if there’s any merit to that feeling?"
+    },
+    {
+      "role": "interviewer",
+      "text": "What are the rules that you want to live by? Because it seems that you have broken many rules. But what are some of the rules that you will abide by?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I want to be useful. And I want to be able to look back and say that my actions had a good effect on the world."
+    },
+    {
+      "role": "interviewer",
+      "text": "Wonderful. Thank you so much, Elon. Thank you for your time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Thanks for having me. I really enjoyed the conversation."
+    }
+  ]
+}

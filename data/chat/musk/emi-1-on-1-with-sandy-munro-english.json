@@ -1,0 +1,383 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/02/16/1-on-1-with-sandy-munro-english/",
+  "speakers": [
+    {
+      "id": "sandy_munro",
+      "name": "Sandy Munro"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "sandy_munro",
+      "text": "Hey, boys and girls, we got a special treat for you today. I’ve gotten the opportunity to meet with Mr. Elon Musk, and today we’re going to talk a little bit about his aspirations. We luckily got a tour through the program here at Brownsville. And I just see it says “Boca Chica, Gateway to Mars” (\nshows a bottle with the text on it\n). It’s kind of really exciting. I was really, really happy that I got the chance to see the product that’s being manufactured here, these rockets.\nIt’s spectacular the way they’re doing it, and it’s totally different than anything I’ve seen with rocket production at any other company. With that, I’d like to introduce Mr. Musk, and I guess we’ll… maybe you could answer two questions or actually talk. I’d rather hear from you than talk. I’ve been doing a lot of talking lately, and I’ve had criticisms in the past of, you know…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Were you talking too much in an interview or something?"
+    },
+    {
+      "role": "sandy_munro",
+      "text": "No, I wasn’t in an interview. It was when I did my reports, and it was what it was. And even on the Model 3 we have, I wanted to show you the gaps which are on one side but not on the other. I don’t understand how that can happen."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But I thought your criticisms were accurate."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "So, I’ve got a question. We’ve been traveling all over the place, and we have a sticker on the side of the car that says, “Munro Live”. And people are coming up and showing us their car and telling us about their experiences with the Tesla. These guys are really deep into loving this thing. And it doesn’t matter whether it’s that eight-year-old or six-year-old kid, they came up “Hey, mister, are you Sandy Munro?”\nPeople know, and they’re deeply involved in the Tesla. And yet, for some reason or other, we have a couple of little problems with our car, and then I see another car, and it’s a perfect build. If I would have had that – any kind of comment or response or whatever from that would be greatly appreciated."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it took us a while to kind of iron up the production process, especially during a production ramp. If friends come up and ask me, “When should I buy a Tesla?” I’m like, well, either buy it right at the beginning or when the production reaches a steady state. But during that production ramp, it’s super hard to be in vertical climb mode and get everything right on the little details. It’s just a super difficult thing. If you really want things to be ideal, it’s actually very early cars or once the production is leveled off. That’s when it’s going to be best."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "We noticed that – we have a 21, a Model 3 21 – and ours had the little problems, but at the end of the day this guy’s car was fabulous (\nshows video sequence\n), the painture was spectacular. But the paint was a big deal. But now, this other car I saw – and it was a Model 3 with a white interior, which I personally think is the better color; we got black – but that thing was absolutely pristine perfect. That’s as good as anybody could possibly do. I just don’t understand it. Mine was built this month, his was a month later, mine had problems, his is perfect."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we actually did improve gap and paint quality quite a bit towards the end of last year, even in the course of December. We were able to really focus on it and improve it a great deal. One of the things that was happening when we were ramp (… 03:51) from production was the paint wasn’t necessarily drying enough. If you go faster, you just discover these things. If we knew them in advance, we’d fix them in advance. But you ramp the line, and then the paint that had an extra sort of minute to dry or two minutes or whatever now doesn’t have the two minutes, and so it was more prone to have issues. This is one example.\nProduction is hell. The real thing that, I think, is unique for cars, for Tesla, is achieving volume production. Any American start-up car company – I think, Tesla is the first to achieve volume production in a hundred years, basically. I think Chrysler was the last one. Prototypes are relatively speaking easy, and they’re also fun. Prototypes are easy and fun, and then reaching volume production  with a reliable product at an affordable price is excruciatingly difficult."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "You’ve done a good job. I’ve seen the difference between the one we had in 2018, then the Model Y, which was the first – I never recommended anybody else’s. But the Model Y, when we tore that down, people were coming up “Hey, which one should I buy?” and I said that I’m not into doing that, but if I’m going to buy an electric car – and we’ve seen everybody’s, I mean we’ve torn everybody’s electric car apart – If I was going to tell somebody to buy one and he had to have one I would suggest the Model Y. And lots of people did that.\nThis one, this Model 3 we’ve got, this may be the second one that I’m going to suggest. You can either have one of these two and then I won’t have to worry about you coming back and telling me there’s something wrong with my skull or something. They both work really well.\nAnd I have to tell you, we’ve gone about almost 6,000 whatever – I can’t remember – 6,000 plus miles so far in a couple of days, in a few days. And the seats in your car are phenomenal, absolutely phenomenal. I can’t say enough about them. I drive a Jeep Wrangler, and if I had to sit in that seat for an hour, I had to get a chiropractor and probably surgery. These seats – we were sitting in them for hours and hours and hours and hours, and there’s no fatigue. They’re brilliant. And you make them yourself."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. What we are really trying to do there with the seat is – we put a lot of effort into this – minimize any peaks and any pressure peaks. It evens out the pressure. If your butt hurts, it’s basically going to be because there’s some part of the seat that is producing a pressure peak. And that’s going to just cut off your circulation and make your butt hurt. But there have been quite a few iterations, in fact.\nThe early Model S’s had probably the worst seat of any car I’ve ever sat in. I called it the ‘stone toadstool’. If you wanted to sit on this stone toadstool, that was the early Model S’s seats. If you sat on it long enough, your butt would wear in eventually. Because your butt can repair itself, and the seat cannot. Eventually, it would be acceptably comfortable, but it would be a very difficult wearing process. We tried to go from stone toadstool to something that feels great. So that you can sit in for a long time and it’s still comfortable. That was a long journey and a lot of effort."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, it paid off. As I said, we do a lot of work on different things, and I would say without a question of a doubtthat that seat is in my estimation for my body and one that is the best seat on the planet. There’s nothing better than that. And a lot of the\nOEMs\n, they don’t want to make seats because they say that’s something that should be outsourced. I believe that anything you touch, anything that you’re going to interface with, has to be made in-house because that’s your profound knowledge."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely, and you can iterate on it and keep making it better. This particular seat, it has improved quite a lot from the early production of Model 3 to the present day. One of the breakthroughs actually was, Franz von Holzhausen had a seat that the studio had done, and I sat in that seat and was like: “Wow, this seat’s great. Let’s figure out how to get a production seat to feel like a bespoke handmade hand-tailored seat without costing a ton of money.” It’s very difficult to do that if you’re working with a supplier."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, near impossible because they got to get it cranked out and moving and quickly, and then what they want to do is they want to take the underpinnings – those weldments or castings if they haven’t gone that far – they want to use those over and over and over again for everybody and so consequently every seat may look different on the outside but inside probably not so much.\nThat’s good stuff. But I have to tell you about the best stuff. We had the beta autopilot system, and we did have problems.  But the problems weren’t with your system. They were with the roads. Either they don’t paint in certain areas, or they paint right in the center. So, how are we going to let legislation to make it so that things are consistent between states. In the old days, it probably didn’t make much difference, but now we’re moving into self-driving."
+    },
+    {
+      "role": "elon_musk",
+      "text": "For self-driving, even when the road is painted completely wrong and a UFO lands in the middle of the road, the car still cannot crash and still needs to do the right thing. What really matters, the prime directive for the autopilot system is don’t crash. That really overrides everything.\nNo matter what lines say or how the road is done, the thing that needs to happen is minimizing the probability of impact while getting you to a destination conveniently and comfortably. But the prime directive, absolute priority is to minimize the probability of injury to yourself or to anyone on the road, pedestrians, or anything like that. It can’t be dependent on the road markings being correct or anything like that. It has to be ‘no matter what, it’s not going to crash’."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, I still think that the road commissions in my eye better shape up because, as I said, Cory and I had an issue, and luckily, I got out of it. But what happened was they painted all kinds of lines all over the place. There was an old off-ramp and a new off-ramp and a bunch of cones and some flashing red lights. I have no idea; if I had to take that thing, a newer had to take it, I would be totally confused as to what to do where.\nBut when the car came into it, the lines are telling it ‘Go here,’ and that scared the living daylights out of me. If we would have crashed, if it would have been somebody – I used to race, and I can get out of stuff, and even though I’m old, I’m kind of agile – but if we had crashed, the press would have instantly said that it was all your fault. In essence, the fault lies in this massive mess that we were trying to keep up with, and then quite frankly, I stopped driving in the right-hand lane. That was it. I mean, the car wants you to keep going back there because it wants you to follow the rules…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You can change that. It’s a setting."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Oh, really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "You’ll have to show us that because I don’t like that one. But it’s following the rules, and that’s great. But you have to have the roads at the same thing. I want to make sure that we’ve got this on tape or on whatever, not tape, but video, because I’m guaranteeing you somebody is going to screw up somewhere, and people have to know it’s the road that can bugger the things up as well as your autopilot thing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It would certainly be helpful to have roads with accurate markings and everything. But like I said, really, for self-driving, it’s got to be even if somebody tries to trick the car, they do not succeed in tricking the car. Because, you know, people will do weird things, so it’s got to maintain safety no matter what and don’t let yourself get tricked."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Maybe that’s the best segue ever because what I want to do is, I wanted to talk about, John – (\nto Cory\n) what’s John’s last name? The guy that gave us a ride. Okay, I’ll just say John – he gave us a ride, and we taped it. And you can hear me going – you know, my voice went up about three octaves, I was so excited, Cory said he’s got a sore ear from me giggling or whatever.\nI’ve sat in F18s; I didn’t fly them, but I was sat in them, and I saw how everything was supposed to work on the ground. I flew a C17 through a simulator. I know what you can do and what you can’t do with autopilot. And I never ever seen anything quite like what you’ve got in the new self-driving thing. This is just absolutely brilliant. This should get into the marketplaces as fast as possible.\nIt’s accurate; it’s much more accurate than what we have in the Model 3. It’s kind of aggressive because if there’s a hole, it will find that hole. It makes left-hand turns, which I’ve heard from everybody can’t be done. I mean these are the things that – this will save more lives than  airbags, seat belts, and anything else that anybody’s ever gotten."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s correct."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "I was so impressed; I couldn’t believe it. I have some videotape, and I just asked you to use it. I want to put that out. I want the rest of the world to know what the new standard is. Because in the auto world, some people are going to win, some people are going to lose, and some are going to fade away. The more they fade away, the worse it’s going to be for the general population. But I’m telling you, that system – I don’t know who it developed or how it developed, but that is absolutely (… 15:36)."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We developed the hardware and the software. We’ve got a very talented team that we bought from scratch at Tesla for autopilot software and autopilot hardware. We’ve just got really a lot of talented people."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Can I ask you a technical question? How many lines of code is in that thing? A bazillion? A trillion?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t think that lines of code are necessarily a metric of goodness."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, maybe. But I mean it’s so intuitive, either that or it’s AI and its cognitive knowledge or something. I don’t know."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Generally, I would consider lines of code to be – like, a large number of lines of code to be bad, not good. In fact, I generally give two points for deleting a line of code, one point for adding a line of code. When you have neural nets – there’s a whole lot of statistics going on, basically, a lot of dot products. The lines of code become especially not a figure merit for when you’ve got a lot of complex neural nets operating. You have a lot of matrix math. We haven’t actually counted it, but I mean, it’s maybe – I don’t know – a few hundred thousand lines of code."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Really, a few hundred thousands. That’s amazing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’d like it to be less."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Your philosophy about getting rid of lines of code – I have a philosophy about getting rid of parts. The more parts you get rid of – In fact, a long time ago, when I counted up the number of things in the wheel area, I said this should all be one part."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I totally agree."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Yeah, you got it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, I can tell you how that problem arose. First of all, you can generally see the errors, the organizational structure errors; they manifest themselves in the product. The wheelhouse areas of the body – there was a lot of engineering done, and there were a lot of right answers to the wrong question. Somebody would say something like, “What’s the best material to make this little section of the body out of, and what’s the right material to make this little section?” And I think we’ve got probably the best material science team in the world at Tesla. Actually, a lot of them also just do work at SpaceX as well."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "I know, I’m coming to that question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The engineers would ask what’s the best material for this purpose, best for that, and they got, like, 50 different answers. And they’re all true individually, but they were not true collectively. When you try to join all these dissimilar metal, dissimilar alloys, you have galvanic corrosion, you got to have better seal, and you’ve got gaps that you’ve got to seal, and you’ve got to join these things, and some of them need to be joined with rivets, some need to be joined with spot welds, some need to be joined with resin or with resin and spot welds.\nFrankly, it looks like a sort of a bit of a Frankenstein situation when you look at it all together. I can’t emphasize enough the nightmare of sealing in between the gaps. That might be the most painful job in the whole factory, spackling on the sealant. There’s like a little error with curing the sealant or like just somebody who’s been working for several hours makes a slight mistake, then you’ve got an MBH issue because you’ve got a little hole and you’ve got a leak issue. This is terrible.\nI mean, you can muscle through it, and we have, but it’s just way better to have a single piece casting. Then you don’t have any gaps, no sealant, you don’t have dissimilar metals, and you can reduce the size of the body shop dramatically. So, just having the rear body castings for Model Y  allowed us to reduce the body shop by 30%. There are roughly a thousand robots on the Model 3 body line, which by the way is also not a figure of merit. You want fewer things, not more. We got rid of 300 robots, just for that rear body casting. When we go to the front body casting, we’ll get rid of another 300 robots."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "I don’t know if you – well, you probably don’t have time for my stuff – but I have in my shop for 15 years a rear casting, a center casting, and a front casting to make a car."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I totally agree."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Thousands of engineers and, I mean, big-time executives walk by it. “Hey, have you ever thought of doing this?” “Oh, you know, Sandy…” And they don’t do it. They don’t do it because they got this body shop, and because they’ve continuously hung their hat on this thing, they figured, this is the way it should go. But when you came up, I’ll tell you; I’m very disappointed. I thought I was going to see a single piece casting in a Model 3 as well. I thought you were going to shoot the two and then glue it together. But that’s all right. I’m getting over it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "At some point, we’ll probably switch to a single piece casting. I think we need to get the Texas factory and the Berlin factory going. We do have an issue. It’s hard to change the wheels on a bus when it’s going 80 miles an hour down the highway. Model 3 was most of our volume. Model Y will exceed Model 3. We just need basically an opportunity to kind of redo the factory without blowing up the cash flow of the company."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "I understand; you’ve got a lot of stuff in place. So, we’re looking forward to seeing what’s going to happen in Berlin. That’s what I’m really, really interested in because, quite frankly, you’re a lot closer to the casting companies. And Germany has fabulous tool makers. So, I’m expecting to see lots of good stuff out of that. Are you going to have – or maybe you don’t want to talk about that – but are you going to have three castings then or just two?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, effectively, there’ll be a rear casting, a front casting, and then the center will be a structural pack. Structural pack is an important thing that I’ve been wanting to do since the beginning of the company. But it was always tough because it’s a coupled problem. And when you’re in a sort of high-speed R&D, you often want to decouple the problems so you can try to solve electrical issues in the battery, and you’re trying to solve structural issues, and if you bring them together, then it’s hard. You’re putting the whole company at risk, basically.\nBut now, since we have Model 3 and Model Y in production, and we have a new factory that’s getting built, this is our opportunity to say, okay, now we’re going to do a coupled problem where we’re going to combine the battery pack and basically the body chassis, the primary structure. And we’re going to transfer shears through the cans of the cells and just do shear transfer, which gives you a super stiff, real great moment of inertia.\nIt’s like a carbon – they do this with carbon fiber and composite sandwich like have an aluminum honeycomb with (… 23:42) carbon face sheets, and you get incredible shear transfer loss, a great moment of inertia; you get a real stiff big plate. Getting dual use of the cells – so, the cells become structure. And that’s like a point I was trying to make at the Battery Day presentation. But I think a lot of people didn’t quite understand why that’s such an important thing.\nThe cells today in every car are carried like a sack of potatoes. They actually have a negative structural value. They don’t serve to aiding the structure of the car, and they have to be isolated from the rest of the car, so it’s isolated from vibration and shock loads and that kind of thing. You’ve got to put mass into isolating the cells. Because otherwise, they will bang against the side of the battery casing, and that’s not good. But by essentially bonding the cells in there and where the bonding foam serves as both an adhesive and fire retardant. Basically, you get two bows with one stone."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "So, multifunctional designs is something I really try  and get my – the companies that I work with – I try and get them to do that. We got a ton of people right after your battery show saying: “Oh, you can’t do this, you can’t do that.” So, we made one up, made it with woodblocks, and went and said, this is what’s going to be, and then I talked a little bit about what the effect is and the loading and transfer of loading, and how much safer and stronger this is going to be, and on and on.\nI think it’s the highest rated show we’ve ever put out. I’m just explaining why this is such a good idea because you got people designing cars all over the planet, and they’re telling me why it’s not a good idea. And I’m saying, “Tell me again, I mean, really, you’re an engineer?” This is the kind of stuff that really needs to have happened."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it’s helpful to show and tell, because if you say, you know, shear transfer, using a steel (… 25:58) for shear transfer between upper and lower face sheets, what does that actually mean. Well, let’s show you. This is what happens if you’ve got just a little floppy sheet, or you just have a limited number of stringers for shear transfer. You can see it’s still quite bendy. But as soon as you have a whole bunch of cans or honeycomb or anything like that and you bond an upper and lower face sheet, it gets crazy stiff. You just put them together like one thing’s floppy, and the other thing is stiff as hell.\nAnd that’s really what you want. This will also give, like, the torsional rigidity won’t be much better. So, if you’re trying to improve the ride and feel of the car, you say, like, what’s the frequency of this car. Is it like a real bendy spring, or is it tight? The feeling of, like, is this car tight, really – if people don’t understand, why does this car feel better than the other cars. Because your natural frequency is high, and you’ve got good torsional rigidity.\nAnd then another factor is what is your polar moment of inertia. Basically, to what degree is the mass group towards the center as opposed to spread out towards the outside. You can see this with an ice skater. If an ice skater holds arms out, you rotate slowly, brings arms in, rotate fast. That’s what meant by polar moment of inertia. Can you rotate this car fast? You can if you bring the mass to the center."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Quite frankly, we’ve had lots of people discussing the pros and cons here, but to me, you were saying: well, we got two for one – but you really got three for one, because now you’ve got body stiffness that’s gone up and all the other stuff that’s going along with it. On top of that, you’ve got – when people say, well, what’s it’s like to drive the car because again we’ve stopped in lots of different places and I tell them if you get a 7 series BMW and drive that that’s what you’re basically getting. It’s the same sort of a suspension feel as that, and you’re not muscling anything around. Everything is tight and perfect. And tight’s good.\nWhen you go to those three structural members, I mean, if you put a body on top of that, it’s going to be a perfect build. As a guy who had to work in body shops and as a guy who used to make molds and dyes and whatnot, it’s really difficult to take a whole bunch of pieces and glue them together, and there’s no, nothing right, I’m just using fixtures (…28:40)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you have a whole bunch of separate parts and each of them has got a given tolerance, even if that tolerance is tight and it could be, like, 0.2-millimeter tolerance, but you got, like, 50 parts. Okay, now –"
+    },
+    {
+      "role": "sandy_munro",
+      "text": "And you multiply them together. You can’t win."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Exactly. You’re going to also have just variants between cars. That’s for sure one of the reasons why it’s best to just combine the parts and not have separate parts. Then also go for extreme levels of precision. One of the examples we use at Tesla is Lego. Lego is super precise because the press-fit – I think they’re precise down to about a quarter millimeter or less."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "And each one is exactly the same."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s got to be, if Lego’s two presses is too soft or too hard – if it was too soft the presses won’t work, it’s too hard you can’t get it on. But they can get make something that is a tiny fraction of a millimeter accurate, and it’s a low-cost toy, by 20 box for a Lego set. If Lego can be that precise and so could a car."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Exactly. Actually, I got to tell you; I applaud BMW for putting out the i3 but (… 30:01). But the thing we got from it was that carbon fiber body was absolutely perfect. If you had the stiffness of the castings down below and you take a carbon fiber, basically, structure and put it over the top, absolutely every door is always going to be perfect. You won’t have to have fixtures; you won’t have to have anything. It just goes, “Boom, done.”\nThat’s ultimately what I think a perfect build is probably going to go for. But most people don’t want to do it because they’re talking about “Oh, carbon fiber is so expensive.” No, it’s not. It’s not really that expensive. At the end of the day, you have to take a look at the total account it costs. How much does it cost to, basically, where is all the tooling and whatnot, how about all the scrap that you get on and on and on?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There are some other issues with carbon fiber, which is that carbon fiber with resin has a coefficient of thermal expansion, which is basically zero. If you have parts that are aluminum or steel that’s, aluminum’s got quite a high\nCTE\n; stainless has about halfway. So, if you have a hot versus a cold environment like you can’t have your doors jam. Matching CTE is pretty important for things like a door frame. If we’re using steel, we probably need to stay with a steel door because otherwise, we’re going to get CTE issues."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "But at the end of the day, we found out the tricks that BMW used. They’ve got cross-car beams, which is going to shrink the most, and they’re embedded right into the carbon fibers. How is that possible? This will rip free. We tried this. I worked on the Boeing 787, and we tried that. You do the thermal expansion and contraction. It rips free from everything.\nBut clever design or clever engineering on BMW’s part made it so that you could do that. I’m not saying run out and do this right now. But eventually, you guys are material science experts. I mean, you make your own – we know a little bit about what’s inside those electric motors. And actually, the aluminum used for the mega castings – these things all – nobody has anything like that. Nobody’s using it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We develop our own alloys. Some of the challenges with doing a large aluminum casting there is, you don’t want to have a heat crate or quench step afterward. Often in order to get good properties from aluminum, you need to – well, if you want to heat treat it and then the heat treating any kind of (… 32:53), certainly no water quench. It’s going to cause the things to get a potato chip (… 33:00). It’s going to basically warp. So, we had to develop a custom alloy to make sure we could get good material properties but not require any step after the casting that could distort the shape. That is a very important thing.\nFor example, the Model S and X castings, for the original Model S, not the new one, but for the original, they required a heat treat step afterwards, and so it was always a pain in the neck because we couldn’t really expand the casting because it would run pretzel on us like just potato chip or pretzel it’s like – you can’t scale that. So, we had to develop an alloy that was okay and also had good elongation properties in the event of a crash. There’s like kind of a hard materials problems."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "It worked out really well. I know a fair amount about casting and , and no one believes when I say it fills up in four to six milliseconds. “Oh, that’s impossible.” That kind of stuff is lost on most engineers because they don’t take material science. I wanted to be a metallurgist."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Material science is one of the most useful classes you can take in engineering for sure. The area that I was prioritizing at Stanford for grad studies before I kind of put that on hold – slash, dropped out basically – was material science. I’m a big fan of material science."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, I am as well. I think that’s something that I saw disappear when I was at Ford motor company because of the things they were going on in the late 80s – sorry, the late 70s and early 80s – and they just had to shed some stuff, and that went away like, they don’t invent materials there anymore. Actually, no one else did either or does either.\nThose kinds of things  are the things that maybe the bigger OEMs should be thinking about. Bringing stuff back in, especially now; I mean, I don’t need the size of an engine plant and a transmission plant, and I got a little dinky electric motor and basically a two-speed gearbox or one-speed gearbox. That’s going to be a big, big difference. I don’t know what they’re going to do with all that stuff. I really don’t know how they’re going to start implementing this. You may have heard that General Motors said that in 2035 they’re going to be nothing but electric cars."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. That’s cool."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "That’s a pretty big step. I’ve been saying for a long time, in fact – I had a lot of executives come in after I gave a speech and said – this was a couple of years ago now – and I said the crossover point for electric over ICE is 2030. Basically, that was because of tearing apart your car, the Model 3."
+    },
+    {
+      "role": "elon_musk",
+      "text": "majority … crossover point, how you’re finding that?"
+    },
+    {
+      "role": "sandy_munro",
+      "text": "50% of the vehicles are sold, or more than 50% are going to be pure EVs, or they’re going to be hybrid."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I would say hybrid is not, for sure. I think ten years it’s probably a majority EV."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Yeah, I truly believe that. But when I brought it out, the analysts – I don’t want to get too far deep into that – but analysts were saying, maybe somewhere around 2045, there’ll be about 15% EV and whatever. And now we’re looking at California with 8% right now and going higher. And then you’ve got Europe saying, “Forget it, you can’t drive here if you’ve got an ICE vehicle,” on and on and on.\nA lot of people were hoping that everything was going to stay the way it was or basically go back to the good old days as it were. I was not. I was in your camp. When I got your car initially, and I didn’t care one way or another – a car’s a car, we take it apart, we look inside, we find out how much it costs and what the techniques and technologies are, and then we must move on.\nWith yours, initially, “I don’t like this, I don’t like that.” Then I drove it because I was the last one to drive that vehicle, and he said, you should really take this thing for a ride and see what it is. And I took it into a parking lot – there’s a college that’s near us – and I zipped around, and whatnot, and I’m, “I feel young again.” This, I didn’t expect that excitement. Then we started looking at the electronics and how much better even the wiring is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We have a lot to improve on the wiring front. There’s a lot more that can be done to improve wiring. It’s still like 12 volts. Why are we still there on the 12 volts?"
+    },
+    {
+      "role": "sandy_munro",
+      "text": "42 is where everybody should be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think, 48."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Or 48, yeah. But at the end of the day, we need to do something that’ll reduce the wire diameters and stuff like that, and that’s just nothing but cash in the bank. So, I’m a big fan of that as well."
+    },
+    {
+      "role": "elon_musk",
+      "text": "With the new S/X, we’re also finally transitioning to a lithium-ion 12-volt."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Oh, good, yes, it’s an excellent idea. Smaller box."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s got way more capacity, and the calendar and cycle life match that of the main pack. So, we should have done it before now, but it’s great that we’re doing it now. Also like, this is one of those inside baseball victories that’s kind of a big deal. But the 12 volts is very much a vestigial voltage, and it’s absurdly low. Even basically powered ethernet is around 50 volts. You can have powered ethernet, and nobody’s sweating at that. This is powered by ethernet, this phone here. Nobody’s worried about powered ethernet, like, 40, 48, 50 volts. That’s really what the car’s low voltage system should be at."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Absolutely, I agree. In fact, when we talked about the Y, I was expecting to see that because you’d said that you’re getting rid of weight and the length of wires and whatnot. When I pulled it off, the harness looked kind of similar. So, it is what it is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You really want to put power and data over the same wires and have a higher speed than\nCAN bus\n, so you can basically dump data on the bus instead of having all these point-to-point wires."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Absolutely, that’s what I was hoping I would see when we took apart the Y. But again, you say it’s hard to change the tires when you’re going 80 miles an hour. I guess the last thing is probably the most controversial.  You made comments, which I’ve been saying for years at Munro. If you want to get your master’s, I’ll pay for it. If you want to take a course in mechanics or something, I’ll pay for it, even if you want to take a wood carving thing, I’ll pay for it. But I will not pay for an MBA. I won’t do it ever.\nYou made a comment, and I started tap dancing because people listen to you – I don’t get the same kind of respect – but people listen to you, and I really, really was excited when you talked about that. If you can elaborate on that a little bit, that would be great."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think just generally the path to leadership should not be through, basically, MBA business school situation. It should be kind of work your way up, do useful things. There’s a bit too much of the somebody goes to a high-profile MBA school and then kind of parachutes in as the leader, but they don’t actually know how things work. They can be good at, say, PowerPoint presentations or something like that, and they can present well, but they don’t actually know how things work because they’d parachute in instead of working their way up."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "They never went through an apprenticeship. That’s maybe a better word."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’re just not aware of what’s really needed to make great products. I don’t want to trash MBAs too much here, and I actually do have a dual undergrad, a Wharton undergrad in physics at UPENN. It’s like I have direct exposure to business school and went to do undergrad business school with physics, and I was a teaching assistant for two semesters, and I graded MBAs and undergrads. I think it’s just a little bit too much people look at MBA school as “I want to parachute into being the boss” instead of earning it. I don’t think that’s good."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Speaking of not good, and this might be the last thing. I’ve never really been a fan of short sellers. I don’t know whether you have a comment on that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There are very few areas in life where you can sell things that you don’t own. Short selling, where you can sell shares that you don’t own – when I said it was vestigial, I mean it came from an era when stocks were traded by people traveling on horseback to exchange stock certificates. And in order to have the transaction speed not take weeks, somebody would say, “Well, the stock certificate is coming on that horse. I don’t have the stock certificate right now. But I promise you that I’m getting the stock certificate, and the New York rider is going to be here from Chicago in three days, and then I’ll be able to give you the stock certificate.”\nThat’s where this whole silly thing arose. But then the problem is, the way short selling is used today – it’s frankly used against the public. Most people aren’t aware that short selling even exists, and the ones that are, very few of them know actually how to use it. It’s basically like 0.01% of stockholders who know how to use short positions to get ahead. I think it effectively attacks on the public."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "I think it’s immoral myself. I just don’t think it’s right at all. A big group can come in and crush a company simply because “I’m going to make a lot of money; I haven’t made my quota this month, so I really don’t care for it.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Tesla was under a massive attack by the short-and-distort where they take a short position, and then they do everything possible to trash the company in every six ways to Sunday. And they were successful. And this has now happened to Tesla twice. It happened in 2013, and it happened in basically 2017 through 2019. The intensity of the attack was crazy, and I was like, you know – it would cause you to lose faith in humanity the greed of this wish  this went on.\nWe don’t have shorting in private companies. The vast majority of companies, over 90%, are private, and you cannot short them. And yet, somehow, private companies get things done. There’s a perniciously false effective markets argument made for shorting.  But it’s vice disguised as virtue."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, at the end of the day, we had a common adversary, and I’m really hoping that now – because he’s bad on oil and Biden is basically clobbered oil in a lot of different directions – I’m sure that he’ll be skeptical about doing any more trades on a shortage. Anyway, I can’t thank you enough. I’d really like to shake your hand. Thank you so much. Thank you for giving us the time. I can’t say enough about a lot of stuff, but I really can’t say them. The most exciting thing that’s happened to me in a long time was driving the self-driving car. I’m telling you it just blows your mind. Are you going to let anybody else have that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, of course. I mean, we’re going to roll out the full self-driving to the whole fleet and make it available to the whole fleet. We’re just being very careful about the testing. I think there’s actually sort of a dangerous middle ground that would be careful of where the system is good 99.9% of the time, and that could lead people to be complacent, but then that one time where it’s got issues – you know. We don’t want people to basically – it can be so good that you get comfortable but not initially good enough to handle all of the corner cases. We want to just make sure that, in that transition to full self-driving, we’re taking as much care as possible."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "I was happy with what we had on the autopilot. It’s the first time I’ve ever gotten a chance to see what the scenery looks like. I always just do lines. Now I can have a look around and feel comfortable or confident that my hands are on the wheel, and if something goes wrong, I can correct. But I can also enjoy what’s going on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Basically, a car that does not have self-driving in the future will be about as popular as a horse. Horses are still horses; people have horses. But a horse is not what you use for day-to-day transport."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "But even a horse will get you home sometimes. In the olden days, they’d get drunk, fall asleep in a buckboard, and a horse would take them home. Self-driving, as far as I’m concerned – we just getting back…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, actually, that’s one of the things we’re going to program into the car, that if you fall asleep in the car, it’ll just take you home. It’s most likely that’s where you want to go."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Yes, that’s a great idea."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And then we’re even going to have it like if it detects that you’re having issues, it’ll take you to the hospital. You know, just like, having a heart attack or something, it’ll just take you straight to the emergency room."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "Well, I think I mentioned this already; I think that self-driving feature is going to save more lives than seat belts, airbags, and every other thing that we’ve done to cars combined because that’s the way to go."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. Worldwide there’s about a million people a year dying in car accidents, and that’s a hell of a lot. Ten million people that get seriously injured. You know we got to hustle on this."
+    },
+    {
+      "role": "sandy_munro",
+      "text": "And why not? We got the technology to do it. Anyway, thanks very much, Elon. Anyways, I’m so flattered; I’m so happy. I got a chance to meet you, to talk to you, shake your hand. Thank you so much."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re welcome."
+    }
+  ]
+}

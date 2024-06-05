@@ -1,0 +1,647 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/04/01/the-joe-rogan-experience-1470-elon-musk-iv-english/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "jamie",
+      "name": "Jamie"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "I mean, I think, you want to look at say deaths as like, “but for this disease, whatever, they would have lived X number of years.” So, if somebody dies when they’re 20 and could have lived till 80, they lost 60 years. But if somebody dies when they’re 80 and they might’ve lived till 81, they lost one year. So it’s, “How many life years were lost” is probably the right metric to use."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t read my own comments, but I do read other people’s comments. And I was reading this one little Twitter beef that was going on where someone was saying that Covid takes an average of ten years off people’s lives, and we should appreciate those ten years. And then someone else said-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not true."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m sure it’s not true."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, definitely not."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s Twitter, it’s the world."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh my god."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But someone else said, “The average age of people who die from Covid is older than the average age people die.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s just say it’s about the same."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a beautiful way of looking at it. I mean, it’s unfortunate. It sucks, but it sucks if grandpa dies of Alzheimer’s or emphysema or leukemia. It sucks. It sucks when someone you love dies."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean actually, I think a lesson to be taken here that I think is quite important is that if you have your grandparents and that they’re age of grandparents, really be careful with any kind of flu or cold or something that is not dangerous to kids or young adults but is dangerous to the elderly.  Basically, if your kid’s got a runny nose, they should stay away from their grandparents, no matter what it is. There’re things where a young immune system has no problem; an older one has a problem. In fact, a lot of the deaths are literally, it’s tragic, but they’re intra-family. It’s, the little kid had a cold or flu and they…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Give it to grandpa."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. They had the family gathering. And they don’t know that this is a big deal. But it’s just important to remember when you get old; your immune system’s just not that strong. And so, just be careful with your loved ones who are elderly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And I think there is some true objective understanding of the immune system and the ways to boost that immune system. And I really think that information should be distributed in a way, a nonjudgmental way, but like, “Look, this is a scientifically proven way that we can boost our immune system and it might save your life, and it might save the life of your loved ones.” And maybe we could teach this to our grandparents and our parents and people that are vulnerable. Vitamin C, heat shock proteins, all these different variables that we know contribute to a stronger immune system."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Actually, just a thing that is tough. As you get older, you tend to put on weight; certainly, that’s happening with me. The older I get, like, “Damn, sure harder to stay lean.” That’s for sure. And so, actually, being overweight is a big deal. It’s a fact. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The New York hospital said it was the number one factor for severe Covid symptoms was obesity. That was the number one factor."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s correct. It is, yes, exactly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But it’s also, we live in a world where people want to be sensitive to other people’s feelings."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So they don’t want to bring up the fact that being fat’s bad for you. It’s a judgmental on your…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Food’s great."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I do love food."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, to be totally frank, I mean, speaking for myself, I’d rather eat tasty food and live a shorter life."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Those moments of enjoying a great meal. And then even talking about it, they’re valuable. They’re worth something. Yeah. We don’t want to eat\nSoylent Green\nand live to be 160."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. Tasty food is great; it’s one of the best things about life."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It really is. Yeah. It’s an art form as well. It’s like fine food, it’s a delicious sandcastle. It’s temporary. It doesn’t last very long. But there’s something about it that’s very pleasing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I don’t know what advice to give, maybe having tasty food but smaller amounts of it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. And I think regulated feeding windows, really the way to go, some sort of an intermittent fasting approach. When I started doing that, I found myself to be quite a bit healthier. When I’ve deviated from that, I’ve gained weight."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, what…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "16 hours. I’m like 16 hours. Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So like at night or at a certain…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. So I get to a certain point, and then I count out, I usually hit the stopwatch on my phone, and then I look at 15 hours, and I’m like, “Oh, okay. Got an hour before I can eat.” And so anything in between that is just water or coffee."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, this may be a useful bit of advice for people, but eating before you go to bed is a really bad idea and actually negatively affects your sleep. And it can actually cause heartburn that you don’t even know is happening, and that subtle heartburn, it affects your sleep because you’re horizontal and your body’s digesting. So if you want to improve the quality of your sleep and be healthier, it’s do not eat right before you go to sleep. It’s one of the worst things you could do."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Some of the biggest mistakes I’ve ever made. I’ve done that, particularly after comedy shows; if I’m starving, I’ll come home, and I’ll eat. And then I go to bed, and I just feel like shit, and I wake up in the middle of the night."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s going to crush your sleep, and it’s going to damage your pyloric sphincter and your esophagus. In fact, drinking and then going to sleep, that’s one of the worst things you could do. So just try to avoid drinking  and eating…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Booze, drinking booze."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. Small amounts of alcohol, evidence suggests it doesn’t have a negative effect on…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I put it in the same category as delicious food. It kind of makes things a little more fun. I like it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean some of the people who’ve lived the longest, there was a woman in France who, I think, maybe has the record or close to it, and she had a glass of wine every day. Small amounts is fine. But yeah, I learned this quite late in life. It’s like, just avoid having alcohol and avoid eating at least two or three hours before going to sleep, and your quality of sleep will improve, and your general health will improve a lot."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "For sure, yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a big deal, and I think, not widely known."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you have time to exercise?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "A little bit."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you have a trainer or anything?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do, although I haven’t seen him for a while. But yeah, especially if I’m out, say we’re working on Starship or something South Texas, and I’m just living in my – I got a little house there in Boca Chica village – and I don’t have much to do, so. Or I’m working, and I’ll just lift some weights or something. Some people love running; I don’t love running."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What do you like to do exercise-wise?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "To be totally frank, I wouldn’t exercise at all if I could. I prefer not to exercise, but if I’m going to exercise, I’ll lift some weights and then kind of run on a treadmill and maybe watch a show if there’s a compelling show that pulls you in."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. Yeah. That’s a good thing to do. Watch a good movie or episode of\nBlack Mirror\nor something like that, it’s great."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Man, don’t watch Black Mirror before going to bed either."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, don’t watch Black Mirror today. It’s too fucking accurate."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. It’s like, “Wait, that’s already happened in real life.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. They’re too close."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s too close."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, even… Jamie, didn’t you say that the guy who makes Black Mirror…\nJami\ne\n:\n… Oh, my Mic’s off. Yeah, he said it’s not a good time to start season six."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, he wants to hold off because reality…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "He’s nailed it?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "…is Black Mirror."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh man."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s like he’s going to have to reassess and attack it from a different angle.\nYou should try something that’s fun to do. That’s not just… – like learn a martial art or something like that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I did martial arts when I was a kid. Liked it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you? What’d you do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I did a Taekwondo. I did Karate, (…1:47:51)…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, alright, cool."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And Judo."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, so you really branched out."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And did Brazilian Jujitsu briefly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you? Where?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In Palo Alto."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh no shit. I was going to suggest that. That’s a great thing for people. That’s a thing about Jujitsu; if you look at it from the outside, you think, “Oh, a bunch of meatheads strangling each other.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But they’re some of the smartest people I know, are Jujitsu fiends because, first of all, they get introduced to it because usually either they want to exercise or learn some self-defense, but then they realize that it’s essentially like a language with your body. Like you’re having an argument with someone with some sort of a physical language. And it’s really complex, and the more access to vocabulary and the sharper your words are, the more you’ll succeed in these ventures. That’s really an accurate analogy of what Jujitsu is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, I kind of got, probably like a lot of people, for the way-early day, the first\nMMA\nfights and Royce Gracie, and he was just like incredible. And it was like…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Technique."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. He was winning against people way bigger and that kind of thing. And it was just like, “Whoa, this is cool.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It was what martial arts were supposed to be when we were kids. When you saw Bruce Lee fuck-up all these big giant guys. Like, “Wow, martial arts allow you to beat someone far bigger and stronger than you.” Most of the time, that’s not real."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Especially if they know martial arts too. It’s like, “Oh no.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes. But in the\nUFC\n(Ultimate Fighting Championship)\n, when Royce Gracie, off of his back, was strangling Dan Severn with his legs. You’re like, “Holy shit, this guy’s being pinned by this big giant wrestler, and he wraps his legs around his neck and chokes him to the point that guy has to surrender.” Amazing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it was amazing. I mean, Royce got beaten up pretty bad in some of those."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, he definitely had some rough fights."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But he won."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "He won. Yeah. He’s a legend.  But what it showed – I mean I’m a huge lover of Jujitsu – what it showed is that there is a method for diffusing these situations with technique and knowledge. And I think it’s also a great way to exercise too because it’s almost like the exercise is secondary to the learning of the thing. The exercise is like you want to develop strength and conditioning just so that you could be better at doing the thing. And the analogy that I use is, imagine if you had a race car and you could actually give the race car better handling and more horsepower just from your own focus and effort. That’s really what it’s like."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, totally. My kids… I should say, I sent my kids to Jujitsu since they were like, I don’t know, six."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, really? That’s awesome. It’s a great thing to learn. It really is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, seems like a good thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Maybe something like… mean, even if you just have someone who holds the pads for you, you could get a workout in, and it’d be fun."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When am I going to be able to buy one of them Roadsters? When’s that happening?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I can’t say exactly when, but we got to get it… This Covid thing’s kind of thrown us for a loop."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, not to blame everything on Covid, but it’s certainly set us back on progress for some number of months. But I mean, things we are going to get done ahead of Roadster are, ramping up Model Y production; that’ll be a great car; it is a great car. Getting the Berlin Giga-factory built, and also building Y. Getting expanding the Shanghai factory, which is going great and get this Cybertruck, Semi truck, Roadster,… – Roadster is kind of like dessert. We gotta get the meat and potatoes and greens and stuff."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But Roadster comes before Cybertruck?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I think we should do Cybertruck first, before Roadster."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Interesting. I’m not mad at that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Some of the things for Roadster, the tri-motor, plaid powertrain, we’re going to have that in Model S. So that’s like part one of the ingredients that’s needed for Roadster, is the plaid powertrain, the more advanced battery pack. That kind of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I wanted to ask you about this before I forgot. There’s a company that’s called Apex; it’s taking your Teslas, and they’re giving it a wider base and wider tires and a little bit more advanced suspension. How do you feel about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sounds good to me, sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you work with them? Are you cool with those people?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, go ahead."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’re jazzing stuff up with carbon fiber and doing a bunch of interior choices. You’re cool with… You can’t fuck with that. You don’t have time. So is it good that someone comes along and has that sort of specialty operation?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I’ve got no problem."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s what it’s called, right? It’s like… Jamie, is it called Apex?"
+    },
+    {
+      "role": "jamie",
+      "text": "Yeah. I got an\nUnplugged Performance S-APEX\n."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s right. Unplugged Performance. Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. You could, for sure, lighten the car up and improve tire traction and…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Have you seen that company’s stuff? What they do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know specifically, but there’s…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s pretty dope. They make it pretty dope-looking… They take Model S, and they widen it and give it a bunch of carbon fiber. That’s it, right there."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Cool."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Ooh-la-la, look at that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That looks pretty nice."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, it does. Now, the plaid version of the Model S, are you going to widen the track and do a bunch of different…? I know you guys are testing at the Nürburgring. Can you not talk about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think we’ve got to leave that for a proper sort of product unveil."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I understand. Last time you were here, you convince me to buy a Tesla. I bought it, and it’s fucking insane."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh great. Glad you like it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Aw, man."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Pretty fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t… It’s not just pretty fun. The way I’ve described it is, it makes other cars seem stupid. They just seem dumb. And I love dumb things. I love dumb cars. Like I love campfires. I love campfires. I have a 1993 Porsche that’s air-cooled. It’s not that fast. It’s really slow compared to the Tesla, really."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, actually, it’s really quite slow. But, okay, sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But there’s something engaging about the mechanical, just like the gears and, it’s very analog. But it’s so stupid in comparison to the Tesla. Like when I want to go somewhere in the Model S, I hit the gas, and it just goes, whee. It’s like, it violates time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’ve tried it like Ludicrous Plus and stuff like that?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We just did a software update where it’ll do, like a cheetah stance. So yeah. So, because it’s got a dynamic air suspension so it lowers the back."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh Jesus."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just like a sprinter, basically. Like what do you do if you’re a sprinter, you hunker down and then shoo. So I shaved like a 10th of a second off the 0 to 60. I mean, it’s pretty fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s so… I’ve taken so many people… – I take them for the holy shit moment. I’m like, “You ready?” like “Hang on there.” and then I stomp on the gas…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "And they’ve never felt anything like it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s confusing. It really is. The instant torque and just the sheer acceleration is baffling."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’ve never felt it. It’s faster than falling."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s crazy. It’s so fast. It’s a roller coaster. And my family yells at me when I stomp the gas. Like I tell my kids, I’m like, “You want to feel it? You want to feel it?” they’re like, “Do it, do it, do it.” my wife’s like, “Don’t do it.” Boom. And even if I just do it on the highway for a couple of seconds, it’s very exciting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, pretty fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s very fun."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s like having your own roller coaster on tap."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It really is like a roller coaster on tap. Without the loop-de-loops. But, the pinning to your seat, it seems like you’re not supposed to be able to experience that from some sort of a consumer vehicle that a regular person could buy if you have the money. It seems too crazy. And then the idea that this Roadster is a half of a second faster than that? That’s madness."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, with a Roadster, we’re going to do some things that are kind of unfair. So we’re going to take some things from Cadillac rocket world and put them on a car, so."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, I’ve read about that. Explain that. Like what do you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like I said, we can’t do the product unveil right here. But, it’s going to do some things that are unfair. When we do the unveil of the Roadster, let me just say that anyone who’s been waiting, they won’t be sorry. They won’t be sorry."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, but sure, well, anything that goes 0 to 60, what is it 1.9? Is that the 0 to 60?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s the base model."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s the top of the food chain model? Okay. Faster than that. Let’s just say faster than that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Faster than that, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That seems so crazy to me. Now, what was it like when the dude threw the steel balls at the window, and they were supposed to not break, and it broke? I know, extenuating circumstances."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah. I mean, at least you know that our demos are authentic because I was not expecting that, and then I think I muttered, under my breath, like, “Holy shit.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. You didn’t get mad, though. You didn’t Steve jobs it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I definitely swore; I didn’t think the micro pick it up, but it did. But, so like we practiced this, behind the scenes… – At Tesla, we don’t do like tons of practice for our demos because we’re working on the cars. We’re building new technologies and improving the fundamental product. So we’re not spending like doing hundreds of practice things or anything like that. We don’t have time for that. But, just hours before the demo, both Franz, Head of Design, and I were in the studio throwing steel balls at the window, and it’s bouncing right off. And like, “Okay, this seems pretty good. It seems like we got it.” Okay?\nAnd then, we think what happened was, when Franz hit the door with the sledgehammer to show, this is an exoskeleton, high strength, hardened steel… – You can literally wind up with a sledgehammer, full-on double-handed sledgehammer and hit the door and there’s not even a dent. It’s cool. But we think that cracked the corner of the glass at the bottom, and then, once you crack the corner of the glass, it’s game over. So then, when you threw the ball, that’s what cracked the glass. It didn’t go through, though."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It didn’t go through. That’s true. It didn’t shatter the whole thing, like a regular window would either, which would just dissolve. Right? So in hindsight, the ball should have been first, sledgehammer second."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You live, you learn."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Listen, man, we’ve taken up a lot of your time. You had a child recently."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I got to get back to it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s amazing that you had the time to come down here. And I really appreciate that. I appreciate everything you do, man. I’m glad you’re out there. And I really appreciate you coming down here and sharing your perspective."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think you’ve got a great show. Thanks for having me on."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Thank you. My pleasure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Elon Musk, ladies and gentlemen. Good night."
+    }
+  ]
+}

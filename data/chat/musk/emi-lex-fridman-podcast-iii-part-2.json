@@ -1,0 +1,311 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/01/23/lex-fridman-podcast-iii-part-2/",
+  "speakers": [
+    {
+      "id": "lex_fridman",
+      "name": "Lex Fridman"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "lex_fridman",
+      "text": "What do you think is the most difficult aspect of building a civilization on Mars, terraforming Mars, like from an engineering perspective, from a financial perspective, human perspective, to get a large number of folks there who will never return back to Earth?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, they could certainly return. Some will return back to Earth."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "They will choose to stay there for the rest of their lives?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, many will, but we need the spaceships back, like the ones that go to Mars, we need them back. So you can hop on if you want. We can’t just not have the spaceships come back. Those things are expensive. We need them… I’d like them to come back and do another trip."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you think about the terraforming aspect like actually building, or are you still focused right now on the spaceships part that’s so critical to get to Mars?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we absolutely. If you can’t get there, nothing else matters. And like I said, you can’t get there at some extraordinarily high cost. I mean, the current cost of, let’s say, one ton to the surface of Mars is on the order of a billion dollars because you don’t just need the rocket. The launch and everything… you need heat shield, you need guidance system, you need deep-space communications, you need some kind of landing system. So my rough approximation would be a billion dollars per ton to the surface of Mars right now. This is obviously way too expensive to create a self-sustaining civilization. So we need to improve that by at least a factor of 1,000."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "A million per ton?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Ideally, much less than a million a ton. You have to say like, well, how much can society afford to spend or want to spend on a self-sustaining city on Mars? The self-sustaining part is important. It’s just the key threshold. The great filter will have been past when the city on Mars can survive even if the spaceships from Earth stopped coming for any reason. It doesn’t matter what the reason is. But if they stopped coming for any reason, will it die out or will it not? And if there’s even one critical ingredient missing, then it still doesn’t count. It’s like if you’re on a long sea voyage, and you’ve got everything except vitamin C, it’s only a matter of time, you know, you’re gonna die. So, we’re gonna get a Mars city to the point where it’s self-sustaining.\nI’m not sure this will really happen in my lifetime, but I hope to see it at least have a lot of momentum. And then you could say, “Okay, what is the minimum tonnage necessary to have a self-sustaining city?” And there’s a lot of uncertainty about this. You could say like – I don’t know – it’s probably at least a million tons because you have to set up a lot of infrastructure on Mars. Like I said, you can’t be missing anything that… in order to be self-sustaining, you can’t be missing… like you need semiconductor fabs, you need iron ore refineries – like you need lots of things. And Mars is not super hospitable. It’s the least inhospitable planet, but it’s definitely a fixer-upper of a planet."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Outside of Earth."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Earth is easy."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Earth is pretty good, and also, we should clarify, in the solar system."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. In the solar system."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "There might be nice like vacation spots."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There might be some great planets out there. But it’s hopeless…"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "…too hard to get there?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, way, way, way, way, way too hard. To say the least."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Let me push back on that – not really push back – but quick a curveball of a question. You did mention physics as the first starting point. General relativity allows for wormholes, they technically can exist. Do you think those can ever be leveraged by humans to travel faster than the speed of light? Or are you saying…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the wormhole thing is debatable. We currently do not know of any means of going faster than the speed of light. There are some ideas about having space… you cannot move at the speed of light through space, but if you can make space itself move, that would be warping space. Space is capable of moving faster than the speed of light. In the Big Bang, the universe expanded at much more than the speed of light, by a lot. If this is possible, the amount of energy required to warp space is so gigantic it boggles the mind."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So, all the work you’ve done with propulsion, how much innovation is possible with rocket propulsion? I mean, you’ve seen it all. And you’re constantly innovating in every aspect. How much is possible? Like, how much… can you get 10x somehow? Is there something in there in physics that you can get significant improvement in terms of efficiency of engines and all those kinds of things?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, as I was saying, really the holy grail is a fully and rapidly reusable orbital system. Right now, the Falcon 9 is the only reusable rocket out there. The booster comes back and lands – you’ve seen the videos – and we get the nose cone or fairing back, but we do not get the upper stage back. That means that we have a minimum cost of building an upper stage. You can think of a two-stage rocket of sort of two airplanes. It’s like a big airplane and a small airplane. And we get the big airplane back but not the small airplane.\nAnd so it still costs a lot. That upper stage is at least $10 million. And then the booster is not as rapidly and completely reusable as we would like, and so are the fairings. So, our kind of minimum marginal cost, not counting overhead per flight, is on the order of 15 to $20 million, maybe. That’s extremely good for… it’s by far better than any rocket ever in history. But with full and rapid reusability, we can reduce the cost per ton to orbit by a factor of 100.\nJust think of it, like imagine if you had an aircraft or something or a car, and if you had to buy a new car every time you went for a drive, they’ll be very expensive. It’d be silly, frankly. But, in fact, you just refuel the car or recharge the car, and that makes your trip like, I don’t know, 1,000 times cheaper. It’s the same for rockets. It’s very difficult to make this complex machine that can go to orbit. And so, if you cannot reuse it, and if you have to throw even any significant part of it away, that massively increases the cost. Starship, in theory, could do a cost per launch of like, a million, maybe $2 million, or something like that and put over 100 tons in orbit, which is crazy."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, that’s incredible. So you’re saying by far the biggest bang for the buck is to make it fully reusable versus, like, some kind of brilliant breakthrough in theoretical physics?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, there’s no brilliant… there’s no…  just gonna make the rocket reusable. This is an extremely difficult engineering problem. But no new physics is required."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Just brilliant engineering. Let me ask a slightly philosophical fun question. Gotta ask. I know you’re focused on getting to Mars. But once we’re there on Mars, what form of government, economic system, political system, do you think would work best for an early civilization of humans? I mean, the interesting reason to talk about this stuff it also may help people dream about the future. I know you’re really focused about the short-term engineering dream, but it’s like, I don’t know, there’s something about imagining an actual civilization on Mars. That really gives people hope."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it would be a new frontier and an opportunity to rethink the whole nature of government, just as was done in the creation of the United States. I would suggest having a direct democracy, like people vote directly on things as opposed to representative democracy. Representative democracy, I think, is subject to a special interest and, you know, a coercion of the politicians and that kind of thing. So, I recommend that there’s just direct democracy. People vote on laws, the population votes on laws themselves, and then the laws must be short enough that people can understand them."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, and then, like, keeping a well-informed populace, like really being transparent about all the information, about what they’re voting for."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolute transparency."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah. And not make it as annoying as those cookies. We have to accept the cookies."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s always like a slight amount of trepidation when you click ‘accept cookies’. I feel as though there’s perhaps a very tiny chance that’ll open a portal to hell or something like that. Why do they keep wanting me to accept that? What do they want with this cookie? Like somebody got upset with accepting cookies or something somewhere – I mean, who cares? So annoying to keep accepting all these cookies. Yes, you can have my damn cookie. I don’t care. Whatever."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You heard it from Elon first – he accepts all your damn cookies."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And stop asking me. It’s annoying."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, it’s one example of an implementation of a good idea done really horribly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, there’s some good intentions of like privacy or whatever. But now everyone just has to tick ‘accept cookies’, and it’s now you have billions of people who have to keep clicking ‘accept cookie,’ and it’s super annoying. Just accept the damn cookie, it’s fine. I think a fundamental problem that we’re… because we’ve not really had a major, like a World War or something like that – and obviously, we would like to not have World Wars – there’s not been a cleansing function for rules and regulations. Wars did have some silver lining in that… there would be a reset on rules and regulations after a war.\nSo, World Wars I and II, there were huge resets on rules and regulations. If society does not have a war, there’s no cleansing function or garbage collection for rules and regulations – then rules and regulations will accumulate every year because they’re immortal. There’s no actual… humans die, but the laws don’t. So, we need a garbage collection function for rules and regulations. They should not just be immortal because some of the rules and regulations that are put in place will be counterproductive – done with good intentions, but counterproductive. Sometimes not done with good intentions. So, if rules and regulations just accumulate every year, and you get more and more of them, then eventually, you won’t be able to do anything. You just like Gulliver with, you know, tied down by 1,000s of little strings.\nAnd we see that in US and basically all economies that have been around for a while. And regulators and legislators create new rules and regulations every year, but they don’t put effort into removing them. And I think that’s very important that we put effort into removing rules and regulations. But it gets tough because you have special interests that then are dependent on… if they have a vested interest in that whatever rule or regulation, then they fight to not get it removed."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, I guess the problem with the Constitution is it’s kind of like C versus Java because it doesn’t have any garbage collection built in. I think there should be. When you first said the metaphor of garbage collection, I loved it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah,  it’s from a coding standpoint."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "From a coding standpoint, yeah. It would be interesting if the laws themselves kind of had a built-in thing where they kind of die after a while unless somebody explicitly publicly defends them. So that’s sort of, it’s not like somebody has to kill them, they kind of die themselves. They disappear. Not to defend Java or anything. With C++, you could also have great garbage collection and Python, and so on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, something needs to happen, or civilization’s arteries just harden over time. And you can just get less and less done because there’s just a rule against everything. So I think, I don’t know, for Mars or whatever, I’d say, or even for here, obviously, for Earth as well, I think there should be an active process for removing rules and regulations and questioning their existence. If we’ve got a function for creating rules and regulations, because rules and regulations can also think of as like… they’re like software or lines of code for operating civilization. That’s the rules and regulations. So it’s not like we shouldn’t have rules and regulations, but you have a code accumulation, but no code removal. And so it just gets to become basically archaic bloatware after a while. It makes it hard for things to progress.\nSo, I don’t know, maybe on Mars, you’d have, like, any given law must have a sunset and require active voting to keep it up there. I should also say, like – and these are just, I don’t know, recommendations or thoughts, and ultimately it will be up to the people on Mars to decide – but I think it should be easier to remove a law than to add one, just to overcome the inertia of laws. So maybe it’s like, for argument’s sake, you need like, say, 60% vote to have a law take effect, but only 40% vote to remove it."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So let me be the guy… you posted a meme on Twitter recently, where there’s like a row of urinals, and a guy just walks all the way across. And he tells you about crypto."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Listen, I mean, that’s how it is so many times, I think, maybe even literally."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you think technologically speaking, there’s any room for ideas of smart contracts or so on? Because you mentioned laws. That’s an interesting implement use of things like smart contracts to implement the laws by which governments function. Like something built on Ethereum, or maybe a dog coin that enables smart contracts somehow?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t quite understand this whole smart-contract thing. I’m too downtown to understand smart contracts.\n(both laughing)"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s a good line."
+    },
+    {
+      "role": "elon_musk",
+      "text": "My general approach to any kind of deal or whatever is just make sure there’s clarity of understanding. That’s the most important thing. And just keep any kind of deal very short and simple, plain language, and just make sure everyone understands: “This is the deal. Is it clear? And what are the consequences if various things don’t happen?” But usually, deals are – business deals or whatever – are way too long and complex and overly lawyered. And pointlessly."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You mentioned that Doge is the people’s coin. And you said that you’re literally going… SpaceX may consider literally putting a Dogecoin on the Moon. Is this something you’re still considering? Mars perhaps? Do you think there’s some chance – we’ve talked about political systems on Mars – that Dogecoin is the official currency of Mars, it’s the coin of the future?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think Mars itself will need to have a different currency because you can’t synchronize due to speed of light. Not easily."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So it must be completely standalone from Earth."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah, because Mars’s closest approach is four light minutes away, roughly. And then its furthest approach, it’s roughly 20 light minutes away, maybe a little more. So you can’t really have something synchronizing if you’ve got a 20-minute speed of light issue. If it’s got a one-minute blockchain, it’s not going to synchronize properly. I don’t know if Mars will have a cryptocurrency as a thing, but probably, seems likely. But it would be some kind of localized thing on Mars."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And you let the people decide."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. The future of Mars should be up to the Martians. I think the cryptocurrency thing is an interesting approach to reducing the error in the database that is called money. I think I have a pretty deep understanding of what money actually is on a practical day-to-day basis because of PayPal. We really got in deep there. And right now the money system, actually, for practical purposes is really a bunch of heterogeneous mainframes running old COBOL."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Okay, you mean literally, that’s literally what’s happening."
+    },
+    {
+      "role": "elon_musk",
+      "text": "In batch mode, yeah. I pity the poor bastards who have to maintain that code. That’s pain."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Not even Fortran – COBOL, yep."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s COBOL. And the banks were still buying mainframes in 2021 and running ancient COBOL code. The Federal Reserve is probably even older than what the banks have, and they have an old COBOL mainframe. The government effectively has editing privileges on the money database, and they use those editing privileges to make more money whenever they want. And this increases the error in the database that is money.\nSo I think money should really be viewed through the lens of information theory. It’s kind of an internet connection, like, what’s the bandwidth, total bit rate, what is the latency, jitter, packet drop, you know, errors in network communication? Just think of money like that, basically. I think that’s probably how to think of it. And then say, what system, from an information theory standpoint, allows an economy to function the best. Crypto is an attempt to reduce the error in money that is contributed by governments diluting the money supply as basically a pernicious form of taxation."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So both policy in terms of with inflation and actual like technological, COBOL – cryptocurrency takes us into the 21st century in terms of the actual systems that allow you to do the transaction, to store wealth, all those kinds of things."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like I said, just think of money as information. People often will think of money as having power in and of itself. It does not. Money is information, and it does not have power in and of itself. Again, applying the physics tools of thinking about things in the limit is helpful. If you are stranded on a tropical island, and you have a trillion dollars, it’s useless. Because there’s no resource allocation. Money is a databased resource allocation, but there’s no resource to allocate except yourself. So money is useless. If you’re stranded on a desert island with no food, all the Bitcoin in the world will not stop you from starving.\nSo just think of money as a database for resource allocation across time and space. In what form should that database, that data system… what would be most effective? There is a fundamental issue with… say, Bitcoin in its current form, in that it’s… the transaction volume is very limited. And the latency for properly confirmed transaction is too long, much longer than you’d like. So it’s actually not great from a transaction volume standpoint or latency standpoint. It is perhaps useful to solve an aspect of the money database problem, which is a sort of store of wealth or an accounting of relative obligations, I suppose. But it is not useful as a currency, as a day-to-day currency."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "But people have proposed different technological solutions."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like Lightning."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, Lightning Network, and the Layer 2 technologies on top of that. It seems to be all kind of a trade-off. But the point is, it’s kind of brilliant to say that just to think about information, think about what kind of database, what kind of infrastructure enables the exchange of information."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, let’s say, you’re operating an economy, and you need to have some thing that allows for the efficient… to have efficient value ratios between products and services. So you’ve got this massive number of products and services, and need to… you can’t just barter because that would be extremely unwieldy. So you need something that gives you a ratio of exchange between goods and services. And then something that allows you to shift obligations across time, like debt, debt and equity shift obligations across time. Then what does the best job of that?\nPart of the reason why I think there’s some merit to Dogecoin – even though it was obviously created as a joke – is that it actually does have a much higher transaction volume capability than Bitcoin. And the cost of doing a transaction, the Dogecoin fee, is very low. Like right now, if you want to do a Bitcoin transaction, the price of doing that transaction is very high, so you could not use it effectively for most things. And nor could it even scale to high volume. When Bitcoin was started, I guess around 2008 or something like that, the internet connections were much worse than they are today, like order of magnitude. I mean, they just were way, way worse in 2008. So, like having a small block size or whatever it is, and a long synchronization time made sense in 2008. But 2021 or fast forward 10 years, it’s comically low.\nI think there’s some value to having a linear increase in the amount of currency that is generated because some amount of the currency… if a currency is too deflationary, or I should say, if a currency is expected to increase in value over time, there’s reluctance to spend it because you’re like, “Oh, I’ll just hold it and not spend it because its scarcity is increasing with time. If I spend it now, then I will regret spending it. I will just, you know, ‘hodl’ it.” But if there’s some dilution of the currency occurring over time, that’s more of an incentive to use it as a currency.\nDogecoin somewhat randomly has just a fixed number of coins or hash strings that are generated every year. So there’s some inflation, but it’s not a percentage at base. It’s a fixed number, so the percentage of inflation will necessarily decline over time. I’m not saying that it’s like the ideal system for a currency, but I think it actually is just fundamentally better than anything else I’ve seen, just by accident."
+    },
+    {
+      "role": "lex_fridman",
+      "text": ": I like how you said, around 2008, so you’re not… you know, some people suggest that you might be Satoshi Nakamoto. You’ve previously said you’re not."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You’re not, for sure. Would you tell us if you were?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Okay. Do you think it’s a feature or a bug that he’s anonymous, or she, or they? It’s an interesting kind of quirk of human history that there’s a particular technology that is a completely anonymous inventor, or creator."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, you can look at the evolution of ideas before the launch of Bitcoin and see who wrote about those ideas. And then, I don’t know, obviously, I don’t know who created Bitcoin for practical purposes. But the evolution of ideas is pretty clear before that, and it seems as though Nick Szabo is probably more than anyone else responsible for the evolution of those ideas. So, here he claims not to be Nakamoto, but I’m not sure that’s neither here nor there. But he seems to be the one more responsible for the ideas behind Bitcoin than anyone else."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So it’s not, perhaps, like singular figures aren’t even as important as the figures involved in the evolution of ideas that led to things."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Perhaps, it’s sad to think about history, but maybe most names will be forgotten anyway."
+    },
+    {
+      "role": "elon_musk",
+      "text": "What is a name anyway? A name attached to an idea, what does it even mean really?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I think, Shakespeare had a thing about roses and stuff, whatever he said."
+    },
+    {
+      "role": "elon_musk",
+      "text": "“A rose by any other name would smell as sweet.”"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I got Elon to quote Shakespeare. I feel like I accomplished something today."
+    },
+    {
+      "role": "elon_musk",
+      "text": "“Shall I compare thee to a summer’s day?”\n(both laughing)"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I’m gonna clip that out instead."
+    },
+    {
+      "role": "elon_musk",
+      "text": "“Thou art more lovely and more temperate.”"
+    }
+  ]
+}

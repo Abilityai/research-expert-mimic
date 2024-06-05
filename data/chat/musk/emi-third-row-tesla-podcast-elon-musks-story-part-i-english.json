@@ -1,0 +1,335 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/06/07/third-row-tesla-podcast-elon-musks-story-part-i-english/",
+  "speakers": [
+    {
+      "id": "sofiaan",
+      "name": "Sofiaan"
+    },
+    {
+      "id": "omar",
+      "name": "Omar"
+    },
+    {
+      "id": "elon",
+      "name": "Elon"
+    },
+    {
+      "id": "viv",
+      "name": "Viv"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent"
+    },
+    {
+      "id": "crosstalk",
+      "name": "Crosstalk"
+    },
+    {
+      "id": "kristen",
+      "name": "Kristen"
+    },
+    {
+      "id": "gali",
+      "name": "Gali"
+    }
+  ],
+  "messages": [
+    {
+      "role": "sofiaan",
+      "text": "Welcome to the Third Row Tesla podcast. My name is Sofiaan Fraval and today, we have a very special guest. But before I introduce our special guest, I’m going to go through and introduce our crew, so, our regular Third Row Tesla podcast crew. Today we have Omar Qazi ‘Tesla Truth’, and we have Kristen ‘K10’,and we got Vincent Yu from ‘Tasmanian’. And then we got Galileo Russell from ‘HyperChange’, and then we got Viv, who’s ‘Falcon Heavy’. Alright. Omar, do you want to introduce our guest?"
+    },
+    {
+      "role": "omar",
+      "text": "Please welcome the inventor of the car fart, Elon Musk."
+    },
+    {
+      "role": "elon",
+      "text": "Thank you. Please put that on my gravestone."
+    },
+    {
+      "role": "viv",
+      "text": "So yeah, it’s kind of crazy that we’re actually all here. And thank you so much for doing this. We’re all Tesla customers, fans, and it’s really good that it’s finally happening. I remember that I was looking at your Wikipedia tweet. And there’s like this bizarre, fictionalized version of reality. And I replied, like, why don’t you come on a podcast and tell your fictionalized version of reality?"
+    },
+    {
+      "role": "elon",
+      "text": "Sure,\nI will tell my fictionalized reality."
+    },
+    {
+      "role": "viv",
+      "text": "And you replied, “Okay, sure.” And I was kind of taken by surprise by that, and, you know, the way you engage and listen to your customers online. I’ve never seen anything like that from, you know, a CEO of a public company or any executive. So, can you tell us a little bit where that came from? Why you communicate directly instead of having a PR strategy that most companies have?"
+    },
+    {
+      "role": "elon",
+      "text": "Sure, well, it started out… I actually had one of the very first Twitter accounts when it was less than 10,000 people, and everyone was just tweeting at me like what kind of latte they had at Starbucks. And I was like, this seems like the silliest thing ever. So I deleted my Twitter account, and then someone else took it over and started tweeting in my name. And then a couple of friends of mine, Bill Lee and Jason Calacanis, said, they both said, “Hey, you should really use Twitter to get your message out. And also, somebody’s tweeting in your name, and they’re saying crazy things.” So I was, „I’ll say crazy things in my name.“"
+    },
+    {
+      "role": "sofiaan",
+      "text": "Did you have to pay them?"
+    },
+    {
+      "role": "elon",
+      "text": "No. I’m not sure who it was. But it was for some reason that I got my account back. And then, I don’t know, I just started tweeting for fun, really, and my early tweets are quite crazy, as I was trying to explain, like, the arc of insanity is short, I mean that it’s not very steep. Because it started off insane, and so if it’s still insane, it, you know, hasn’t changed that much. I don’t know, it seems kind of fun to – you know, I think I’ve said this before – it’s like, you know, some people will use their hair to express themselves, I use Twitter."
+    },
+    {
+      "role": "viv",
+      "text": "Why do you like Twitter so much? I mean, you could use Instagram as a platform."
+    },
+    {
+      "role": "elon",
+      "text": "Well, I don’t trust Facebook, obviously, you know, and then Instagram is fine, but it’s, I think, not exactly my style. It’s hard to convey sort of intellectual arguments on Instagram. I know, it’s hard on Twitter, too… Instagram’s also owned by Facebook, and I was like…"
+    },
+    {
+      "role": "sofiaan",
+      "text": "Deleted."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, just deleted it. It’s like, I don’t really need to… just, if I’d need to say something that only really needs to get said on one platform pretty much.I don’t spend too much time on social media. So it’s just like, well, if people want to know what I’m saying, then they can just sort of go to Twitter. And I’ll keep doing that as long as Twitter is good, I suppose – more good than bad. Crypto scammers are really…"
+    },
+    {
+      "role": "vincent",
+      "text": "Oh, I understand that."
+    },
+    {
+      "role": "sofiaan",
+      "text": "They’ve been taken advantage of Vincent recently."
+    },
+    {
+      "role": "elon",
+      "text": "Really?"
+    },
+    {
+      "role": "sofiaan",
+      "text": "Yeah. There’s like 10 Vincent’s out."
+    },
+    {
+      "role": "elon",
+      "text": "Alright. And\nthey totally… they copy everything and just like change one…?"
+    },
+    {
+      "role": "vincent",
+      "text": "Yeah. They use my avatar, and then the picture, and then they just post like, right below your tweet.  I was like, wow. And they blocked me, too."
+    },
+    {
+      "role": "sofiaan",
+      "text": "We fight them all the time. We’re always like, reporting them. Like every day, we report like ten people."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, I have so many conversations with Twitter, like, “Come on. Can you just like…” I think it would take like three or four customer service people to just look at this as crypto scam and block it."
+    },
+    {
+      "role": "sofiaan",
+      "text": "It should be easy."
+    },
+    {
+      "role": "elon",
+      "text": "It should be easy."
+    },
+    {
+      "role": "sofiaan",
+      "text": "But then, like my wife ‘Vegan Shelly’ – I think you’d liked to her tweet the other day – she got banned for replying to one of your tweets and quoting like the video inside of it. And then she got suspended for like a day or something. I was like, “What the heck is going on?” So, it’s just weird how the algorithm works."
+    },
+    {
+      "role": "omar",
+      "text": "Yeah, there’s a lot of manipulation. When we’re going back to the Wikipedia page, you know, it’s kind of interesting, just, what a decade you’ve had. I remember I was reading somebody’s article; I think they interviewed you in 2009, or something like that. And they said, you know, if you’d met Elon Musk in 2009, right after the recession, they’re like, struggling with the Roadster, you know, you never would have thought that you are where you are today. You’re, you know, launching astronauts into space…"
+    },
+    {
+      "role": "elon",
+      "text": "We will be, hopefully."
+    },
+    {
+      "role": "omar",
+      "text": "Well, hopefully, yeah, this year. You know, servicing the International Space Station, I mean, Tesla with the Model 3, the Model Y, you know. Electrification really, without Tesla, it would not be where it is today. You see where the other legacy automakers are; they’re not doing great. So, you know, looking at kind of like this, like, you’ve become this legendary figure, and looking at kind of like, how people kind of see you, kind of the Ashley Vance biography or Wikipedia page, what is it that really kind of sticks out to you? Or, you know, makes you laugh, like, that’s just completely off base?"
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. Well, I think I mentioned that I kept getting referred to as an investor in most of the things, and it’s like… – But I actually don’t invest really, except in companies that I (… 07:05) create. The only publicly traded share that I have at all is Tesla. I have no diversity on publicly traded shares."
+    },
+    {
+      "role": "sofiaan",
+      "text": "It’s like us."
+    },
+    {
+      "role": "elon",
+      "text": "That’s quite unusual. So,you know, almost everyone diversifies to some degree.  And then the only stock that I have of significance outside of Tesla is SpaceX, which is a private corporation. And then, in order to get liquidity, which is mostly to reinvest in SpaceX and Tesla, and occasionally in, like, provide funding for much more projects like Neuralink and Boring Company, then I’ll actually take out loans against the Tesla and SpaceX stock. So, what I actually have is, whatever my Tesla and SpaceX stock is, and then there’s about a billion dollars of debt against that.\nYou know, this  is sort of taken to apply that I’m claiming that I have no money, which I’m not claiming. But it’s something to make it clear that you’ll see some big number, like four billion or something, people will think I have the Tesla and SpaceX stock, and I have the cash, and I’m being somehow… I’m just sitting on the cash doing nothing, like hoarding resources and like… no, it’s, you know, the only alternative would be to say, “Okay, let’s give the stock to the government,” or something. And then the government would be running things, and the government just is not good at running things. That’s the main thing.\nThere’s like a fundamental sort of question of like, consumption versus capital allocation. That is probably going to get me into trouble, but the paradigm of, say, communism versus capitalism, I think, is fundamentally sort of orthogonal to the reality of actual economics in some ways. So, what you actually care about is the responsiveness of the feedback loops to the maximizing happiness of the population. And if more resources are controlled by entities that have poor response in their feedback loops, so if it’s like a monopoly corporation or a small oligopoly… – or in the limit, I would say, the monopolistic corporation in the limit is the government.\nThis is not to say people who work for the government are bad. If you have those same people are taken and put in a better sort of operating system situation , their outcome will be much better.  So, it’s really just, what is the responsiveness of the organization to maximizing the happiness of the people. Andso you want to have a competitive situation where it’s truly competitive, where companies aren’t gaming the system, and then, where the rules are set correctly.\nAnd then you need to be on the alert for regulatory capture, where the referees are, in fact, captured by the players, which is, you know… – The player should not control the referees, essentially, which can happen. You know, things like that happened, for example, with, I think, the zero-emission-vehicle mandate in California, where California was like really strict on EVs. And then the car companies managed to sort of, frankly, in my view, trick the regulators into saying, “Okay, you don’t need to be so hardcore about EVs and instead you say, sell fuel cells in the future.” But fuel cells, of course, are many years away certainly – forever. Cities then, they let up the rules, and then GM recalled the EV1 and crashed it into a junkyard which was against the wishes of the owners…"
+    },
+    {
+      "role": "sofiaan",
+      "text": "They all lined up to buy them, and they wouldn’t let them buy them."
+    },
+    {
+      "role": "elon",
+      "text": "I mean, Chris Paine did this great\ndocumentary\non it. And it’s like, you know, the owners of the EV1, which while this wasn’t actually that great of a car, but they still wanted the electric car so bad that they held a candlelight vigil at the junkyard where their cars were crushed. It was like a prisoner being executed or something like that. That was literally… and like when is the last time you even heard of that for a product? Yet GM stopped the product. I mean, listen, man, they don’t do that for any other GM product. It’s kind of, sometimes it’s hard to get through these guys.\nSo I think that’s a very important thing. Generally, we could see these oligopolies forming, or duopolies. And then you get effective price-fixing, and then they cut back on R&D\n(research and development)\nbudget. Like, kind of a silly one,  frankly, it’s like candy. Like there’s a candy oligopoly.And it’s like, we don’t see much innovation in candy."
+    },
+    {
+      "role": "omar",
+      "text": "So you’re still working on the candy company?"
+    },
+    {
+      "role": "crosstalk",
+      "text": "about\n“Boring Candy”"
+    },
+    {
+      "role": "elon",
+      "text": "I haven’t seen a candy yet that’s good enough to send out. But I think it’s…- there’s like three companies or something that control all the candy in the world pretty much – and dog food. There’s somebody constructed like this… it’s this crazy conglomerate. And it’s like dog food and baby food and candy, and it’s like all, you know…"
+    },
+    {
+      "role": "vincent",
+      "text": "All the brands, hundreds of brands…"
+    },
+    {
+      "role": "elon",
+      "text": "You’re thinking you’re buying from different companies. But it all funnels up to like three companies or something."
+    },
+    {
+      "role": "kristen",
+      "text": "Don’t send the rendering food to the Candy Company."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah."
+    },
+    {
+      "role": "omar",
+      "text": "Big candy."
+    },
+    {
+      "role": "elon",
+      "text": "You want to have a good competitive forcing function so that you have to make the product better, or you lose. Like if you don’t make the product better and improve the product for the end consumer, then that company should have relatively less prosperity compared to a company which makes better products. Now, the car industry is actually pretty competitive. So that’s good. The good thing about a competitive industry is if you make a product that’s better, it’s going to do better in the marketplace.\nSo, this is Gene Wilder’s old house."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Yeah. That’s amazing, it’s lovely. Thanks for having us here as well. That’s really special."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, it’s a cool spot. And it’s got a solar glass roof."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Yeah. This is version two, right?"
+    },
+    {
+      "role": "omar",
+      "text": "We noticed it. But yeah, we checked it out the second time."
+    },
+    {
+      "role": "sofiaan",
+      "text": "I’m waiting for my three. So, I’m waiting for version three. Well, whatever it is they’re gonna put on, I don’t care."
+    },
+    {
+      "role": "omar",
+      "text": "Yeah, we saw it at the store in Torrance actually, they’ve got it on the stores now; looks really good."
+    },
+    {
+      "role": "elon",
+      "text": "Well, it’s actually designed such that you don’t notice it. So, this is like, it’s an old house and probably 50 years old or something like that. It’s quite quirky. So if you put something on that was like, didn’t blend in, it would not look right, it would be pretty strident. This had a black comp shingle roof. So I was like, okay, let’s see  if we can actually have it weave in and still feel natural look good. And I think it’s sort of achieved that goal. But yeah, this is a lovely, quirky little house. I’ll show you around afterwards. It’s got all sorts of weird things. It’s exactly what… sorry?"
+    },
+    {
+      "role": "kristen",
+      "text": "Is it Frank Lloyd Wright?"
+    },
+    {
+      "role": "elon",
+      "text": "No, I don’t think so. I think it was just built in increments over time by probably several people. But they would have just knocked it down and built a giant house here. So it’s like…"
+    },
+    {
+      "role": "sofiaan",
+      "text": "So glad they didn’t."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, it’s super cool. Really. Gene Wilder was one of my favorite actors, actually. He’s great; he made some awesome movies."
+    },
+    {
+      "role": "gali",
+      "text": "So when you come up with a product like this solar glass roof, I think a lot of people misunderstand that. Your goal is to bring these crazy technologies to market and really create a change in the world. And so I think it’s fascinating that you do it through companies. And it seems like the fastest way to create that feedback loop and to really get go from inventing something to millions of people using it right away. So like, it seems like buying a Tesla is almost the best thing you could do to help the climate crisis because you’re like turbocharging R&D, and products, and innovation. I feel like not enough people really understand that."
+    },
+    {
+      "role": "elon",
+      "text": "I think there’s lots of good things people can do for the climate, but just generally, anything that is moving towards sustainable energy, whether it’s sustainable energy generation through solar or with an electric vehicle. Actually, just things like better insulation in a house because it is really effective for energy consumption.\nBut (… 16:48). He’s ingratiating. That’s Marvin ‘the Martian’\n(Elon’s speaking of his dog who’s sitting on Sofiaan’s lap)\n. Actually got him a little – for Halloween –  a little knitted ‘Marvin, the Martian’ cap. You know, the helmet with the… – It looked super cute."
+    },
+    {
+      "role": "omar",
+      "text": "So did you always know like, you know, business was the way you wanted to kind of attack these problems versus say, you know, maybe a nonprofit or, you know, working as a college professor or something, I don’t know?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, when I was in high school, I thought I would most likely be doing physics at a particle accelerator. So that’s what asin  physics and computer… I mean, I got distinctions in two areas, in physics and computer science. And those were… so, my two best subjects and then I thought, okay, well, I want to figure out what’s the nature of the universe. And so, you know, go try to working with people banging particles together, see what happens. And that sort of things went along in that the supercollider got canceled in the US. And that actually I was like, whoa, you know, what if I am working at a collider, I spent all these years, and then the government just canceled it. And then that was like, I cannot do that.\nSo, roll back a little, like, I tried to figure what was – when I was a kid, I had like this existential crisis when I was about 12 years old or something. And I was like, well, what does the world mean? What’s it all about? We’re living some meaningless existence. And then I made the mistake of reading Nietzsche and Schopenhauer, and I was like, hoo… – Don’t do that. Not at… need be a little older. No, actually, lately, these days, I sort of reread it. You know, it’s actually not that bad. It’s got issues – no questions about that.\nAnyway – but then I read the ‘Hitchhiker’s Guide to the Galaxy’, Douglas Adams – which is really quite a good book on philosophy, I think – and was like, okay, we don’t really know what the answer is, obviously, but the universe is the answer. And that really, what are the questions we should be asking to better understand the nature of the universe? And so then, to the degree that we expand the scope and scale of consciousness, then we’ll better be able to ask the questions and understand why we’re here, what it’s all about.\nAnd so, we should sort of take the set of actions that are most likely to result in us understanding what questions to ask about the nature of the universe. Therefore, we must propagate human civilization on Earth as far into the future as possible and become a multi-planet species to again extend the scope and scale of consciousness  and increase the probable lifespan of consciousness, which is going to be, I think, probably a lot of machine consciousness as well in the future. And that’s the best we can do, basically, you know –\nyeah, that’s the best we can do.\nAnd think about the various problems that we’re facing or what would most likely change the future. When I was in college, there were five things that I thought would be – I mean, I thought these were actually… I would not regard this as a profound insight but rather an obvious one. The internet would fundamentally change humanity because it’s like, humanity would become more of a superorganism because the internet is like a nervous system. Now, suddenly, any part of the human organisms, anywhere, would have access to all the information instantly."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Neuralink."
+    },
+    {
+      "role": "elon",
+      "text": "Imagine if you didn’t have a nervous system, you wouldn’t know what’s going on. Your fingers wouldn’t know what’s going on, or your toes wouldn’t know what’s going on; it had to do it by diffusion. And the way information used to work was really by diffusion. One human would have to call another human or write them a letter. You’d have to write a letter, you’d have to have that letter to another human, they would be carried through a bunch of things; finally, the person would give it to you – extremely slow diffusion.\nAnd if you want access to books – if you did not have a library, you don’t have it. That’s it. Now you have access to all the books instantly. And you can be in a remote, like, you know, mountaintop, jungle location or something, and have access to all of humanity’s information if you’ve got a link to the internet. This was a fundamental and profound change. That’s one thing. I was on the internet early because of, you know, the physics community, that was pretty normal, although its interface was, you know, almost entirely text and hard to use.\nAnother one is obviously making life multi-planetary, making consciousness multi-planetary, changing human genetics , which I’m not doing, by the way. This is a thorny subject, but it is being done with CRISPR and others, you know. It will become normal, I think, to change the human genome. That will become normal."
+    },
+    {
+      "role": "gali",
+      "text": "Like, what’s the opportunity? Like, why is that something that’s inevitable?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, yeah, I think for sure, as far as, say, getting rid of diseases or propensity to various diseases, then that can be like the first thing that you’d want to edit out. You know, it’s like, if you’ve got, like, you know, the situation where you’re definitely going to die of some kind of cancer at age 55, you prefer to have that edited out."
+    },
+    {
+      "role": "gali",
+      "text": "Yeah, definitely."
+    },
+    {
+      "role": "elon",
+      "text": "So I think you can edit that out. You know, there’s the ‘\nGattaca\n’ sort of extreme thing where it’s not really edited out, but it’s like, it’s edited in for various enhancements and that kind of thing, which probably will come, too. I’m not saying, you know, argue for or against; I’m just saying that this is more likely to come than not at down the road. Yeah, so, then AI – really major one."
+    },
+    {
+      "role": "sofiaan",
+      "text": "So these are all big motivational factors tokeep our consciousness going."
+    },
+    {
+      "role": "elon",
+      "text": "And sustainable energy. So, sustainable energy actually was something that I thought was important before the environmental implications became as obvious as they are. Because if you mine and burn hydrocarbons, then you’re gonna run out of them. It’s not like by mining, sort of, say, metals, for example. You know, we recycle steel and aluminum. It’s not a change of energy state. Whereas if you take fossil fuels, you’re taking something from a high energy state, converting it to a lower energy state like CO2, which is extremely stable. You know, we will never run out of metals, not a problem. We will run out of mined hydrocarbons.\nAnd then necessarily, if we have got billions, ultimately trillions of tons of hydrocarbons that were buried deep underground in solid, liquid, gas form, whatever – they’re deep underground, and you sort of remove them from deep underground to the oceans and atmosphere, you will have a change in the chemistry of the surface, obviously.  And then there’s just a certain probability associated with, how bad will that be? And the range of possibilities goes from mildly bad to extremely bad. But then why would you run that experiment? That seems like the craziest experiment ever, especially since we have to go to sustainable energy anyway? Why would you run that experiment? This is just the maddest thing I’ve ever heard.\nI’m not saying there shouldn’t be some use of hydrocarbons on Earth, but there just should be the correct price paid on CO2 production. And the obvious thing to do is have a carbon tax; it’s a no-brainer. I don’t know, 90 plus percent of economists would say this, and, I think, of physicists. The market system works well if you’ve got the right price on things. It’s very simple. If you’ve got a price of zero, effectively, or very low, then it’s… well, people will behave accordingly, though. So, just that’s the thing that needs to get done. I think it will get done. And over time, as you raise the price on hydrocarbon, you can actually encourage sequestration technologies over time. And there’ll be a lot of innovation in that regard. And that’s the right way to do it."
+    },
+    {
+      "role": "omar",
+      "text": "So you had these realizations about, you know, areas of big value. And you went and started Zip2, you sold it, got, you know, 20 million cash, you were the largest shareholder of PayPal at the time eBay acquired it, I think, you know, you got 160 million or something like that. You have enough money basically for an entire lifetime. Why go and put your money into SpaceX, which is a huge, you know, risky operation or Tesla? Why not just kind of, you know, relax?"
+    },
+    {
+      "role": "elon",
+      "text": "Basically, I graduated from Penn; basically, physics and economics. And then we (… 27:22) a road trip to Stanford with Robin Ren, who was in my physics class and now works at Tesla, actually.  He grew up in Shanghai. He’s a very smart guy. He ended up continuing at Stanford, and I ended up going on deferment a couple days into the semester. But I was going to be studying material science and the physics of high-energy-density capacitors for use in electric vehicles. So the intent was, I was going to work on energy storage solutions for electric vehicles.\nAnd I’d worked at a company called Pinnacle Research for a couple summers that did high-energy-density capacitors. I was going to try to do a factory like a solid-state version of what they were doing with… – It’s going to get very complicated from a technical standpoint, but they were using a ruthenium tantalum oxide. Ruthenium is extremely rare and expensive, you cannot scale that. So like, can you find a substitute for ruthenium – but you’re able to get to energy density which is comparable to that of a battery with incredibly high power density. I can go down a deep rabbit hole there."
+    },
+    {
+      "role": "omar",
+      "text": "What’s the purpose of a supercapacitor in an EV?"
+    },
+    {
+      "role": "elon",
+      "text": "No, I think with the advent of high-energy lithium-ion batteries, a capacitor is not the right path."
+    },
+    {
+      "role": "omar",
+      "text": "What was your thinking back then, though, that made you think it could be useful for EVs?"
+    },
+    {
+      "role": "elon",
+      "text": "I wanted to use advanced chip-making equipment to make capacitors that were precise at a molecular level. You know, just a level of precision that was sort of unheard of in capacitors. Like, capacitor’s energy is a function of its area and a separation distance. So if you have a very tiny separation distance, and you can inhibit quantum tunneling, like… – things get pretty esoteric, so you got to inhibit quantum tunneling give very short gap, and then you could, in theory, get to very high energy densities by making capacitors in the way that you would make an x86 processor. And since there are 10s of billions of dollars going into chip-making R&D, that I thought there might be a way to make an advanced capacitor using chip-making equipment instead of the conventional means."
+    },
+    {
+      "role": "kristen",
+      "text": "So that’s off the table, ultracapacitors?"
+    },
+    {
+      "role": "elon",
+      "text": "It’s unnecessary.  I think it’s probably physically possible, but it’s unnecessary at this point."
+    },
+    {
+      "role": "omar",
+      "text": "I mean, I know a lot of people were talking about Maxwell, and they had been working on some stuff with capacitors."
+    },
+    {
+      "role": "elon",
+      "text": "But the funny thing is, when I was doing my internships at this advanced capacitor company called Pinnacle Research, which was in Los Gatos, we talked a lot about Maxwell. And Maxwell was also trying to make high-energy-density capacitors, and now, Tesla acquired Maxwell."
+    }
+  ]
+}

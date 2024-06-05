@@ -1,0 +1,299 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/02/16/lex-fridmans-ai-podcast-iii-part-4/",
+  "speakers": [
+    {
+      "id": "lex_fridman",
+      "name": "Lex Fridman"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "lex_fridman",
+      "text": "(talking about FSD 11)\nYeah, that’s fascinating. So you’re doing fusion of all the sensors, so reducing the complexity of having to deal with these…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Fusion of the cameras. It’s all cameras, really."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Right, yes. Same with humans. I guess we got ears, too. Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, well, we’ll actually need to incorporate sound as well. Because you need listen for ambulance sirens or fire trucks, or if somebody’s yelling at you or something. It’s just there’s a little bit of audio that needs to be incorporated as well."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you need to take a break?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, sure, let’s take a break."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Okay.\n—————————————-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Honestly, frankly, the ideas are the easy thing. And the implementation is the hard thing. Like, the idea of going to the Moon is the easy part. But going to the Moon is the hard part. And there’s a lot of hardcore engineering that’s got to get done at the hardware and software level, like I said, optimizing the C compiler and just cutting out latency everywhere. If we don’t do this, the system will not work properly. So, the work of the engineers doing this, they are like the unsung heroes. But they are critical to the success of the situation."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I think you made it clear. I mean, at least to me, it’s super exciting everything that’s going on outside of what Andrej is doing. Just the whole infrastructure, the software. I mean, everything is going on with data engine, whatever it’s called. The whole process is just a work of art to me."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The sheer scale of it boggles the mind. The training, the amount of work done with, like, we’ve written all this custom software for training and labeling, and to do auto labeling. Auto labeling is essential. Because especially when you got like surround video – to label surround video from scratch is extremely difficult. It takes humans such a long time to even label one video clip, like several hours. Or, to auto label it, we just apply a lot of compute to the video clips to pre-assign and guess what all the things are that are going on in this surround video."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And there’s like correcting it…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And then all the human has to do is like tweak, like say, adjust what is incorrect. This increases productivity by a factor 100 or more."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, so you’ve presented the Tesla Bot as primarily useful in the factory. First of all, I think humanoid robots are incredible. From a fan of robotics, I think the elegance of movement that the humanoid robots, that bipedal robots show are just so cool. So it’s really interesting that you’re working on this, and also talking about applying the same kind of all the ideas of some of which you’ve talked about with data engine and all the things that we’re talking about with Tesla Autopilot, just transferring that over to the just yet another robotics problem.\nI have to ask since I care about human-robot interaction, so the human side of that. So you’ve talked about mostly in the factory. Do you see as part of this problem that Tesla Bot has to solve is interacting with humans and potentially having a place like in the home? So, interacting, not just replacing labor but also like, I don’t know, being a friend or an assistant?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think the possibilities are endless. Yeah, I mean, it’s obviously, it’s not quite in Tesla’s primary mission direction of accelerating sustainable energy, but it is an extremely useful thing that we can do for the world, which is to make a useful humanoid robot that is capable of interacting with the world and helping in many different ways. So, in factories… I think if you say like, extrapolate to many years in the future, it’s like, I think, work will become optional.\nThere’s a lot of jobs that if people weren’t paid to do it, they wouldn’t do it. It’s not fun necessarily if you’re washing dishes all day – it’s like, even if you really like washing dishes, do you really want to do it for eight hours a day, every day? Probably not. And then there’s dangerous work. Basically, if it’s dangerous, boring, has potential for repetitive stress or injury, that kind of thing, then that’s really where humanoid robots would add the most value initially. So, that’s what we’re aiming for is for the humanoid robots to do jobs that people don’t voluntarily want to do. And then that will have to pair obviously with some kind of universal basic income in the future. So, I think.\nLex Fridman: (\n1:39:01) Do you see a world when there’s like hundreds of millions of Tesla Bots performing different tasks throughout the world?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I haven’t really thought about it that far into the future. But I guess that there may be something like that."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Can I ask a wild question? The number of Tesla cars has been accelerating, has been close to two million produced. Many of them have autopilot."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we’re over two million now."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you think there will ever be a time when there’ll be more Tesla Bots than Tesla cars?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, it’s funny you ask this question because normally, I do try to think pretty far into the future. But I haven’t really thought that far into the future with the Tesla Bot or its codenamed Optimus. I call it Optimus Sub-Prime because it’s not like a giant transformer robot, but it’s meant to be a general-purpose help robot. Basically, Tesla, I think, has the most advanced real-world AI for interacting with real world which we’ve developed as a function to make self-driving work, and so, along with custom hardware and a lot of hardcore, low-level software to have it run efficiently and be power efficient.\nBecause, you know, it’s one thing to do neural nets, if you’ve got a gigantic server room with 10,000 computers. But now, you have to now distill that down into one computer that’s running at low power in a humanoid robot or a car. That’s actually very difficult, and a lot of hardcore software work is required for that. So, since we’re kind of solving the ‘navigate the real world with neural nets’ problem for cars, which are kind of robots with four wheels, then it’s kind of a natural extension of that is to put it in a robot with arms and legs and actuators.\nThe two hard things are you basically need to make the… have the robot be intelligent enough to interact in a sensible way with the environment. So you need real-world AI, and you need to be very good at manufacturing, which is a very hard problem. Tesla is very good at manufacturing, and also has the real-world AI. So making the humanoid robot work is… basically it means developing custom motors and sensors that are different from what a car would use. I think we’ve got the best expertise in developing advanced electric motors and power electronics. So it just has to be for humanoid robot application, not a car."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Still, you do talk about love sometimes. So let me ask, this isn’t like for like sex robots or something…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Love is the answer."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yes. There is something compelling to us – not compelling – but we connect with humanoid robots, or even legged robots, like with a dog, in shapes of dogs. It seems, there’s a huge amount of loneliness in this world. All of us seek companionship with other humans, friendship, and all those kinds of things. We have a lot of here in Austin, a lot of people have dogs. There seems to be a huge opportunity to also have robots that decrease the amount of loneliness in the world or help us humans connect with each other so in way that dogs can. Do you think about that with Tesla Bot at all? Or is it really focused on the problem of performing specific tasks? Not connecting with humans?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, to be honest, I have not actually thought about it from the companionship standpoint, but I think it actually would end up being… it could be actually a very good companion. And it could develop a personality over time that is unique. It’s not like all the robots are the same. And that personality could evolve to match the owner or the, well, whatever you want to call it – the companion, the human."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "The other half, right? In the same way that friends do. I think that’s a huge opportunity."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, no, (…). There’s a Japanese phrase I like, the wabi-sabi, you know, the subtle imperfections are what makes something special, and the subtle imperfections of the personality of the robot mapped to the subtle imperfections of the robot’s human friend – I don’t know, owner sounds like maybe the wrong word – could actually make an incredible buddy basically."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And in that way, the imperfection…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like R2-D2 or like a C-3PO sort of thing."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So, from a machine learning perspective, I think the flaws being a feature is really nice. You could be quite terrible at being a robot for quite a while, in the general home environment or all in the general world. And that’s kind of adorable and that’s like those are your flaws, and you fall in love those flaws. It’s very different than autonomous driving, where it’s a very high-stakes environment; you cannot mess up. It’s more fun to be a robot in the home."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, in fact, if you think of C-3PO and R2-D2, they actually had a lot of flaws and imperfections and silly things, and they would argue with each other."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Were they actually good at doing anything? I’m not exactly sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They definitely added a lot to the story. But there’s sort of quirky elements, and, you know, that they would make mistakes and do things… it was like, it made them relatable, I don’t know, endearing. So yeah, I think that could be something that probably would happen. But our initial focus is just to make it useful. I’m confident we’ll get it done. I’m not sure what the exact timeframe is, but we’ll probably have a decent prototype towards the end of next year or something like that."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And it’s cool that it’s connected to Tesla, the car."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s using a lot of… it would use the autopilot inference computer and a lot of the training that we’ve done for cars in terms of recognizing real-world things could be applied directly to the robot. But there’s a lot of custom actuators and sensors that need to be developed."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And an extra module on top of the vector space for love. That’s missing. Okay…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We could add that to the car, too."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s true. That could be useful in all environments. Like you said, a lot of people argue in the car, so maybe we can help them out. You’re a student of history, fan of Dan Carlin’s Hardcore History podcast."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s great."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Greatest podcast ever."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think it is actually."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "It almost doesn’t really count as a podcast."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s more like an audiobook."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah. So you were on the podcast with Dan; I just had a chat with him about it. He said, you guys went military and all that kind of stuff?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It was basically… I think it should be titled ‘engineer wars’. Essentially, when there’s a rapid change in the rate of technology, then engineering plays a pivotal role in victory in battle."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "How far back in history did you go? Did you go World War II?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it was supposed to be a deep dive on fighters and bomber technology in World War II. But that ended up being more wide-ranging than that. Because I just went down the whole rabbit hole of studying all of the fighters and bombers in World War II, and the constant rock, paper, scissors game that one country makes this plane, that would make a plane to beat that, and that try to make a plane to beat that. And really, what matters is the pace of innovation and also access to high-quality fuel and raw materials. Germany had some amazing designs, but they couldn’t make them because they couldn’t get the raw materials. And they had a real problem with oil and fuel, basically. The fuel quality was extremely variable."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So the design wasn’t the bottleneck?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, the US had kick-ass fuel that was very consistent. If you make a very high-performance aircraft engine, in order to make high performance, you have to… the fuel, the aviation gas, has to be a consistent mixture, and it has to have a high octane. High octane is the most important thing, but also can’t have like impurities and stuff because you’ll foul up the engine. And the German just never had good access to oil. They tried to get it by invading the Caucuses. But that didn’t work too well."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That never works well."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Didn’t work out for them. Germany was always struggling with basically shitty oil, and then they couldn’t count on a on high-quality fuel for their aircraft, so they had to add all these additives and stuff, whereas the US had awesome fuel, and they provided that to Britain as well. That allowed the British and the Americans to design aircraft engines that were super high performance, better than anything else in the world. Germany could design the engines; they just didn’t have the fuel. And then also the quality of the aluminum alloys that they were getting was also not that great."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You talked about all this with Dan?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yep."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Awesome. Broadly looking at history, when you look at Genghis Khan, when you look at Stalin, Hitler, the darkest moments in human history – what do you take away from those moments? Does it help you gain insight about human nature, about human behavior today? Whether it’s the wars or the individuals, or just the behavior of people, any aspects of history."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I find history fascinating. There’s a lot of incredible things that have been done, good and bad. It helps you understand the nature of civilization and individuals."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Does it make you sad that humans do these kinds of things to each other. You look at the 20th century, World War II, the cruelty, the abuse of power, talk about communism, Marxism, and Stalin."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, some of these things do… I mean, if you… like, there’s a lot of human history, but most of it is actually people just getting on with their lives. It’s not like human history is just nonstop war and disaster – those are actually just… those are intermittent and rare. If they weren’t, then humans would soon cease to exist. But it’s just that wars tend to be written about a lot, whereas something being a normal year where nothing major happened doesn’t get written about much. But that’s, you know, most people just like farming and kind of like living their life, you know, being a villager somewhere. And every now and again, there’s a war.\nI have to say that there aren’t very many books that I… where I just had to stop reading because it was just too dark. But the book about “Stalin, The Court of the Red Tsar” I had stopped reading, it was just too dark, rough."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah. The 30s, there’s a lot of lessons there to me, in particular, that it feels like humans, like all of us have that zeal, Solschenizyn mind that the line between good and evil runs the heart in every man, that all of us are capable of evil, all of us are capable of good. It’s almost like this kind of responsibility that all of us have to tend towards the good. And so, to me, looking at history is almost like an example of, look, you have some charismatic leader that convinces you of things is too easy, based on that story to do evil onto each other, onto your family and to others.\nSo it’s our responsibility to do good. It’s not like now is somehow different from history; that can happen again. All that can happen again. And yes, most of the time, you’re right. I mean, the optimistic view here is mostly people just living life. And as you’ve often memed about, the quality of life was way worse back in the day and keeps improving over time, through innovation to technology. But still, it’s somehow notable that these blimps of atrocities happen."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. Yeah, I mean, life was really tough for most of history. I mean, probably for most of human history, a good year would be one where not that many people in your village died of the plague, starvation, freezing to death, or being killed by a neighboring village. It’s like, “Well, it wasn’t that bad. You know, it was only like, we lost 5% this year. That was a good year.” That would be par for the course. Just not starving to death would have been the primary goal of most people throughout history. Just making sure we’ll have enough food to last through the winter and not freeze or whatever. Now, food is plentiful. We have an obesity problem."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Well, yeah, the lesson there is to be grateful for the way things are now for some of us.\nWe’ve spoken about this offline. I’d love to get your thought about it here. If I sat down for a long form in person conversation with the President of Russia, Vladimir Putin, would you potentially want to call in for a few minutes to join in on a conversation with him moderated and translated by me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure, yeah. Sure. I’d be happy to do that."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You’ve shown interest in the Russian language. Is this grounded in your interest in history of linguistics, culture, general curiosity?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it sounds cool."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Sounds cool, not looks cool."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it takes a moment to read Cyrillic. Once you know what the Cyrillic characters stand for actually, then reading Russian becomes a lot easier because there are a lot of words that are actually the same. Like bank is bank."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So find the words that are exactly the same, and now you start to understand Cyrillic, yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you can sound it out, then it’s much… there’s at least some commonality of words."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What about the culture? You love great engineering, physics. There’s a tradition of the sciences there. When you look at the 20th century, from rocketry… you know, some of the greatest rockets, some of the space exploration has been done in the former Soviet Union. Do you draw inspiration from that history? Just how this culture, that in many ways… I mean, one of the sad things is, because of the language, a lot of it is lost to history. Because it’s not translated, all those kinds of… because it is in some ways an isolated culture, it flourishes within its borders. Do you draw inspiration from those folks from the history of science engineering there?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, the Soviet Union, Russia, and Ukraine, as well, have a really strong history in spaceflight. Some of the most advanced impressive things in history were done by the Soviet Union. So one cannot help but admire the impressive rocket technology that was developed. After the sort of fall of Soviet Union there’s much less that happened. Still things are happening, but it’s not quite at the frenetic pace that was happening before the Soviet Union kind of dissolved into separate republics."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, I mean, there’s Roscosmos, the Russian, the agency… I look forward to a time when those countries, with China, working together in the United States, that they are all working together. Maybe a little bit of friendly competition, but…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Friendly competition is good. You know, governments are slow, and the only thing slower than one government is a collection of governments. The Olympics would be boring if everyone just crossed the finishing line at the same time. Nobody would watch. And people wouldn’t try hard to run faster. So, I think friendly competition is a good thing."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "This is also a good place to give a shout-out to a video titled “\nThe Entire Soviet Rocket Engine Family Tree\n” by Tim Dodd, aka Everyday Astronaut. It’s like an hour and a half, gives the full history of Soviet rockets. And people should definitely go check out and support him in general. That guy’s super excited about the future, super excited about spaceflight. Every time I see anything by him, I just have a stupid smile on my face because he’s so excited about stuff. I love people like that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, Tim Dodd is really great if you’re interested in anything to do with space. In terms of explaining rocket technology to the average person, he’s awesome. The best, I’d say. I should say the whole reason I switched us from… Raptor, at one point, was going to be a hydrogen engine. But hydrogen has a lot of challenges. It’s very low density, it’s a deep cryogen, so it’s only liquid very close to absolute zero, requires a lot of insulation. So it is a lot of challenges there.\nAnd I was actually reading a bit about Russian rocket engine development. And at least the impression I had was that Soviet Union, Russia and Ukraine, primarily, were actually in the process of switching to methane oxygen. And there are some interesting tests and data for I\nsp\nlike they were able to get up to a 380 second I\nsp\nwith the methane oxygen engine, and I was like, wow, okay, that’s actually really impressive. So I think you could actually get a much lower cost… like in optimizing cost per ton to orbit, cost per ton to Mars, I think methane oxygen is the way to go. And I was partly inspired by the Russian work on the test ends with methane oxygen engines."
+    }
+  ]
+}

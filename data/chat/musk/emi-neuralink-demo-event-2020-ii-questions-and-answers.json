@@ -1,0 +1,639 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/05/27/neuralink-demo-event-2020-ii-questions-and-answers/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "moderator",
+      "name": "Moderator"
+    },
+    {
+      "id": "paul",
+      "name": "Paul"
+    },
+    {
+      "id": "gil",
+      "name": "Gil"
+    },
+    {
+      "id": "matthew",
+      "name": "Matthew"
+    },
+    {
+      "id": "ian",
+      "name": "Ian"
+    },
+    {
+      "id": "joey",
+      "name": "Joey"
+    },
+    {
+      "id": "max",
+      "name": "Max"
+    },
+    {
+      "id": "felix",
+      "name": "Felix"
+    },
+    {
+      "id": "dj",
+      "name": "DJ"
+    },
+    {
+      "id": "fred",
+      "name": "Fred"
+    },
+    {
+      "id": "robin",
+      "name": "Robin"
+    },
+    {
+      "id": "autumn",
+      "name": "Autumn"
+    },
+    {
+      "id": "sam",
+      "name": "Sam"
+    },
+    {
+      "id": "zack",
+      "name": "Zack"
+    },
+    {
+      "id": "dan",
+      "name": "Dan"
+    },
+    {
+      "id": "team_member",
+      "name": "Team member"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "Now, let’s actually move to questions. We have questions that have been asked over the internet. And we’ll do live Q&A. So we bring in a bunch of people from the Neuralink team. If you have any questions, please submit your questions to the Neuralink Twitter account, and we will try to answer as many questions as we can over the next hour. Feel free to ask hard questions; there’s no problem. We’ll do our best to answer them. Alright, let’s move over to the team."
+    },
+    {
+      "role": "moderator",
+      "text": "Perfect. Yes, we will continue monitoring questions until the end of the event. So please keep sending them in over Twitter. Elon, do you come join us? Alright, so the first question is, how is the spike detection implemented? Is it on the ASIC\n(application-specific integrated circuit)\n? Is it hardware and software updatable?\nPaul :\nYeah, I can answer that. I’m Paul; I’ve worked – I’ve had a few different hats – I’ve worked a little bit on digital chip design, and more recently working on some of the algorithms trying to decode the signals from the brain. The spike detection algorithm – there’s historically been many ways of detecting spikes. Typically, people will record data offline and then look for characteristic shapes. But here, we’re interested in detecting spikes online. And there’s a number of simple algorithms that you can do, for example, like detecting just a threshold. And we’ve been interested in doing a little bit better than that.\nWe actually look for particular shapes, charactered shapes that we think are spikes. And so we’re doing this on the chip; it’s for all 1024 electrodes; there’s bandpass filtering that’s happening on the chips. If you think of these as like little microphones, sending audio information, we’re basically filtering all of that in real-time and then looking for these characteristic shapes. You can configure what sort of shapes you are looking for, and that information is what’s being sent out. The raw information coming in the electrodes is way too much to send out over Bluetooth. So when you’re seeing those beautiful spike rasters on the screen, those are the detections that we have coming straight from the chips."
+    },
+    {
+      "role": "moderator",
+      "text": "Got it. And just for everyone who doesn’t know, can you just explain at a basic level what a spike is?"
+    },
+    {
+      "role": "paul",
+      "text": "Sure, so traditionally, people think of spikes or action potentials as the electrical events that happen in neurons and as the primary form of communication between neurons. And so this is a hysteresis event where you have currents that flow and generate this… you can think of it as being a digital signal, a one or a zero that’s being sent in time, where neurons will send that signal to often 1000s of recipient neurons."
+    },
+    {
+      "role": "gil",
+      "text": "Awesome. Thanks, Paul. So I got a question from Toby on Twitter. He asks, “What can be further done to simplify the device installation progress?”"
+    },
+    {
+      "role": "matthew",
+      "text": "We’re working on making the device as small as possible, of course, with the robot taking more and more of the responsibility away from error-prone human surgeons, we’re hoping to make the process faster and safer."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, it might be good to have the people to say, you know, who they are and what they do."
+    },
+    {
+      "role": "matthew",
+      "text": "I’m Matthew MacDougall. I’m the neurosurgeon, the head neurosurgeon at Neuralink."
+    },
+    {
+      "role": "gil",
+      "text": "Thanks, Matt. Is there anything specifically from the robot that can be done to make this faster and safer, and scalable to billions of people?"
+    },
+    {
+      "role": "ian",
+      "text": "Yeah, I guess we’ve started with just implementing, you know, robot manipulating the threads. But we definitely need to expand to essentially doing the entire surgery with the robot. So there’s nothing like really, as far as I can tell, fundamentally, like stopping us from doing that. Sort of, like at a fundamental science level, it hasn’t been done in the past, I think, probably just because, like volumes of surgeries hasn’t been needed. But specifically, for us to scale up to, you know, many hundreds of 1000s or millions of patients, we will need to automate like the entire surgery essentially."
+    },
+    {
+      "role": "moderator",
+      "text": "Awesome. Thank you, Ian. Garrett asks, “What are some of the lower bandwidth activities to target first? Is it muscle movement? Is it auditory signals? What level of bandwidth is required for effective use?”"
+    },
+    {
+      "role": "joey",
+      "text": "My name is Joey O’Doherty. I’m a neuroscientist and engineer working on decoding from the brain. So there’s some low-hanging fruit that I think can really be impactful to help many people’s lives. And that’s restoring movement and communication in, for example, a spinal cord injury patient. And there’s a lot of antecedents in the academic world where there have been very nice demonstrations of doing this. And we think we can take our technology, and really bring that to the home, something people can take home with them and improve their lives."
+    },
+    {
+      "role": "moderator",
+      "text": "Fantastic. Gil, there’s a fun one next. All you."
+    },
+    {
+      "role": "gil",
+      "text": "Yeah. We’re fielding questions from Twitter, so there’s going to be some funny, funny comments. First question is: “Who are you, and what do you do?” I’ll lead with that. And the question is: “Can the Neuralink chip allow you to summon your Tesla telepathically?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Definitely. Of course."
+    },
+    {
+      "role": "gil",
+      "text": "You heard it here first. That’s a definite 100%. Carlos, that is the answer."
+    },
+    {
+      "role": "max",
+      "text": "Just one bit of information."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s very easy. That’s an easy one."
+    },
+    {
+      "role": "gil",
+      "text": "Actually, Max, this might be a question for you. Some of the questions we had on Twitter were, “How do you see the Neuralink device and the, essentially, API growing over time, and allowing developers to interact with the device?”"
+    },
+    {
+      "role": "max",
+      "text": "So there’s an interesting question long term about whether you do decoding on head or on a phone or on a computer. Ultimately, with about 1000 channels, it’s possible to send all the spike data to a phone and do processing there. As this gets bigger and bigger, you’re going to be more constrained by the radio, so you’re going to want to push more of this on head, and that changes your programming model. But really, the APIs you’re getting are bin spikes, you’re getting raw waveforms, and that’s like, you can consume it basically like an audio feed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s worth learning like the lossless compression of the data stream is about 100 kilobits with 1024 channels."
+    },
+    {
+      "role": "moderator",
+      "text": "Excellent. So this one came up a lot. And this particular question is from Yosef: “But will this technology ever be used for gaming?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, probably."
+    },
+    {
+      "role": "max",
+      "text": "100%."
+    },
+    {
+      "role": "elon_musk",
+      "text": "100%, yeah."
+    },
+    {
+      "role": "max",
+      "text": "I think that a good benchmark of ‘Does it work well in humans?’ is can a quadriplegic… does it work well enough for them to play ‘Starcraft’? That’s a good functional target."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, for sure."
+    },
+    {
+      "role": "gil",
+      "text": "Awesome. We’ll pull out back from the Twitter questions that are kind of funny. This is a question for the efficacy of the device. “Right now, is the device limited to surface layers of the brain only? Or can we go deeper? And if not now, what’s holding us back from going deeper into the brain?”"
+    },
+    {
+      "role": "matthew",
+      "text": "We are planning on modifying the device and the robot to be able to sew into arbitrary depths of the brain. Right now, we’re limiting ourselves only to the cortical surface because that simplifies many of the problems involved with going a lot deeper."
+    },
+    {
+      "role": "moderator",
+      "text": "And what kinds of things can you solve on the cortical surface versus when you go deeper?"
+    },
+    {
+      "role": "matthew",
+      "text": "Sure. A lot of the low-level processing happens in the cortex, in terms of motor intentions, sensory information that comes directly, and so your hearing, your auditory percepts, your visual processing. A lot of that happens in the cortex."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, you could solve blindness, you could solve paralysis, you can solve hearing, you can solve a lot just by interfacing with the cortex. And to be clear, we actually do insert, I guess, about three or four millimeters into the cortex. These electrodes are sensing from multiple layers within the cortex. It’s that there are deeper brain systems like that are underneath your cortex, like the hypothalamus. And I think that is something we’d want to interface with, for sure. Because that’s going to be important for curing things like depression, addiction, that kind of thing… anxiety.\nSo, but yeah, like as I said in the presentation, overall, we’re aiming for a general-purpose device. And really, the thing that would change between from interfacing with the cortex versus deep brain systems is kind of the length of the electrode. So we just need kind of longer wires and to adjust the robot in order to access deeper regions of the brain."
+    },
+    {
+      "role": "moderator",
+      "text": "Awesome."
+    },
+    {
+      "role": "matthew",
+      "text": "The robot is designed, like, the full length is like seven centimeters or eight centimeters."
+    },
+    {
+      "role": "ian",
+      "text": "Yeah, so right now we’re designed for like six millimeters. The actuator itself isn’t actually limited to six millimeters – you can go much deeper. In addition to scaling out sort of to the rest of the surgery, also scaling to deeper, which is mostly a sensing problem. So the ability to avoid deep vasculature is sort of an interesting problem that we’re working on in the robotics world here. So yeah. Lots of cool problems on robot."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re leading robot engineering."
+    },
+    {
+      "role": "ian",
+      "text": "Yeah, sorry, I’m Ian; I lead the robotics program here."
+    },
+    {
+      "role": "moderator",
+      "text": "Robot is a man’s best friend. Alright, next question is, “What is the most challenging problem that must be solved in order to meet Neuralink’s ultimate goal?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think one of the hardest problems is kind of I’d say material science and especially the installation of the electrodes. What would you say?"
+    },
+    {
+      "role": "felix",
+      "text": "Yeah, absolutely. I’m Felix Deku. I currently lead the microfabrication team. My team makes up of a group of process engineers and material scientists. And our job is to make the tiny wires – like Elon referred to them – or we call it threads, that are implanted in the brain. And of course, the threads are made of conductors and insulators, and choosing the right material that is amenable to the brain and compatible with the brain is something that our team has expertise in, and we work seriously on interface engineering, just to make sure that our layers are actually well thought through, well designed. At the end of the day, when we implant this right, they’ll be actually functional for either reading or for writing in the brain."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think it’s going to be important in terms of material science problems, is making sure that the threads so the electrodes, can last for decades in the brain, which is a tricky thing because it’s a very corrosive environment and you’re in a dichotomy where you want to read, and you want to send electrical signals, and you want to generate electrical signals. But you don’t want to corrode the electrodes over time.\nSo, you need to have an insulating layer that is very robust but also very, very thin. It has to be just the right amount of insulation, and it has to stay that amount of insulation over time. So that’s why we think probably like a silicon carbide type insulator is probably the best long term from a material science standpoint. But silicon carbide is tough material to work with. But that’s probably the right choice long-term. Would you say?"
+    },
+    {
+      "role": "felix",
+      "text": "Yeah, I totally agree. And it – also apart from its electrical properties – it also helps with adhesion between the metal layers and the polymer substrate. Another thing that we are also looking at is since we are actually reducing the electrode dimensions, the electrode side, the axial side that actually speaks to the neuron, also have what we call high resistance to the signal. So, we actually looked into material engineering that will reduce the impedance at our interface so that we can actually have a very small electricity but still be able to speak clearly to the neuron."
+    },
+    {
+      "role": "moderator",
+      "text": "And when you guys say thin, how thin?"
+    },
+    {
+      "role": "felix",
+      "text": "How thin? One strand of your hair is about 100 microns in diameter. We can think about dividing that into 20. So you know, one of the thickness that we recognize about five microns, and we have this facility to go even thinner in the nearest future."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we think we can probably go sub-micron in thickness. But obviously, the thinner you make the wire, the harder it is to sense the signal and to do stimulation because there’s less cross-sectional area for the current to traverse. And, yeah, in terms of upgrades, that’s part of why I wanted to show the explanted pig is to show that you can actually take the device out. And there’s no observable behavior change. The pig is as happy as before, and healthy.\nAnd I think this is going to be important for upgrades. Because obviously, if you get an early device, then by the time – let’s say you get version 1 – probably by the time we have version 3 or 4, you want to upgrade. You wouldn’t want version 1 of a phone, and ten years later, everyone’s got version 3 or 4. So it’s going to be important to be able to remove the device and upgrade it over time. So over time, the Neuralink would do even more than it did before."
+    },
+    {
+      "role": "gil",
+      "text": "Awesome. So here’s a question about the device. We have been talking a lot about read speeds and write, but we haven’t talked about read and write speeds. DJ, what are the read and write speeds of the device? If you think of it like a computer?"
+    },
+    {
+      "role": "dj",
+      "text": "Sorry, when you say speed, what do you mean?"
+    },
+    {
+      "role": "gil",
+      "text": "Like how quickly can you read information from the brain? And how quickly can you write information in the brain?"
+    },
+    {
+      "role": "dj",
+      "text": "Okay, so let’s see. So one of the things to highlight is that we…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "DJ, what do you work on?"
+    },
+    {
+      "role": "dj",
+      "text": "Yes, my name is Dongjin Seo; I’m leading implant electronics development…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like the chip design."
+    },
+    {
+      "role": "dj",
+      "text": "And a chip designer. The prototype that we were showing, it has 1024 channels; all of those channels are capable of recording and also stimulating. And in terms of recording, as Paul mentioned, we do have on-chip algorithms to do level of compression and extracting the signals of interest, in this case, spikes, neural spikes. And those things are actually happening at a much faster speed than your brain even is processing those information."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, do you want to say things like time resolution, like, you know, within how many milliseconds can you detect a spike, and what’s the… you know, just some technical data."
+    },
+    {
+      "role": "dj",
+      "text": "So, in terms of the signals that we’re collecting, you know, we’re digitizing them at 20 kilohertz – generally, the signals of interest are anywhere between about a millisecond in width. And so we sort of sample it at 20 times that speed. And we have analog to digital converters that divide that into 1024 levels, so 10-bit resolution. And the spike detection is done in less than 900 nanoseconds, which is really, really fast time, and it’s only sort of determined by the speed of the clock. And for making sure that our implant is low power, we’re running them actually at a very slow speed.\nAnd then for stimulation, you know, we can actually create any arbitrary waveforms with about seven microseconds of resolution. So, basically, whatever you want to draw, we can stimulate and generate those pulses through any combination over electrode."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And this is just the version 0.9 or, aspirationally, version one. As we go to version 2, 3, 4, these things will expand, I think, ultimately by orders of magnitude, many orders of magnitude."
+    },
+    {
+      "role": "moderator",
+      "text": "Great. ‘Everyday Tesla’ asks, “How big is the Neuralink team? And how much do you expect it to grow in the near future?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There are about 100 people right now. I think, over time, there might be 10,000 or more people at Neuralink. So I think, couple orders of magnitude – one of my favorite phrases. Yeah, just you know, couple orders of magnitude – there we go. So, probably the number of electrodes will grow with the number of people at the company."
+    },
+    {
+      "role": "max",
+      "text": "That’s a super linear relationship."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, we might need a million people in the company then. Yeah, more, even more. Ideally, like, super linear."
+    },
+    {
+      "role": "max",
+      "text": "Our hiring quotas are determined by our channel counts."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it’s ten to one ratio or something."
+    },
+    {
+      "role": "gil",
+      "text": "Cool. So Twitter asks, “How does the implant system fare against various disturbances from the outside like electrical, magnetic, WiFi, radio?”"
+    },
+    {
+      "role": "dj",
+      "text": "Yeah, so the current version of implant that we have is using Bluetooth low energy radio. So, similar to any Bluetooth devices that are out there, you know, they are able to coexist with other devices that are using and sharing our same spectrum at 2.4 gigahertz. Obviously, as you imagine, you know, when you go to concerts, or there’s a lot of people, the signal quality does degrade because it is a pretty congested spectrum.\nSo, we are actually working on some new versions of the radio that are operating at different frequencies to be able to also send out a lot more data and have it be scalable to, you know, millions of electrodes. And then, also in terms of sort of electromagnetic compatibility and interferences, obviously, it’s very important for us to coexist with other systems and just disturbances out there. So there are also well-documented guidelines from FDA that we’ll be following and doing a lot of testing for."
+    },
+    {
+      "role": "moderator",
+      "text": "Fantastic. We’re going to take an audience question, Fred, take it away."
+    },
+    {
+      "role": "fred",
+      "text": "So we all want to play Starcraft using Neuralink. But what are some likely first applications?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know if we all want to play Starcraft."
+    },
+    {
+      "role": "max",
+      "text": "There are other games."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There are other games to play, exactly."
+    },
+    {
+      "role": "max",
+      "text": "But also Starcraft."
+    },
+    {
+      "role": "matthew",
+      "text": "So our first clinical trial is aimed at people with paraplegia or tetraplegia. So cervical spinal cord injury, we’re going to enroll, we’re planning to enroll a small number of patients to make sure the device is safe and that it works in that case."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so actually, just to elaborate on that, if somebody has, like a severe spinal cord injury, you know, to the degree that they have very limited control even over their facial muscles, then with this implant, actually just by thinking you can output words, and you can type, and you can control a computer, control a phone, which is pretty, pretty wild.\nAnd I think something that’s very exciting as a long-term application is if you can sense what somebody is trying to do with their limbs, what they want to do with their limbs, then you can actually do a second implant that’s at the base of the spine, or wherever, just after wherever the spinal injury occurred, and you can create a neural shunt. I’m confident that long term, it will be possible to restore somebody’s full-body motion. So, if somebody even has a severed spine, they will be able to walk again, they will be able to use their hands. And like when you have a severed spinal cord, you essentially have broken wires. And so, if you can just jump over those wires and transmit the signals over those wires, you can give somebody the ability to walk again, naturally."
+    },
+    {
+      "role": "gil",
+      "text": "So DJ, you talked about outside interference. Can anyone talk about the inside interference, so how to protect the implant from the body?"
+    },
+    {
+      "role": "robin",
+      "text": "Sure, I can talk about that. My name is Robin. I’m a mechanical engineer, and I lead the implant, mechanical packaging, and assembly team. So actually making the devices and designing the seal. So yeah, the body is not a friendly place to be. So what we do is basically create an accelerated test chamber that can mimic the conditions that the devices will see in the body and basically test the devices at as fast as accelerated rate as we can. At this time, we’re limited temperature-wise by some of the electronics components. But basically, we can test subsystems to mimic the environment in the body.\nAnd by that, we’ve brought some devices in the test right now to almost a year. And all the implanted ones, prior to these implants, we had tested the same architecture and the tester to validate it. And yeah, so there’s obviously chemical things attacking the implant. There’s pressure; there’s mechanical shock and vibration. So all these things are part of it. And, yeah, I think one of the things that really helps is having everything insourced in-house. So we have the capability to deposit thin layers of metal, we have the capability to weld glass and machine micron scale with lasers, and yeah – so basically, we have all the tools in-house to be able to design any sort of sealing, enclosure, packaging that we need to do."
+    },
+    {
+      "role": "moderator",
+      "text": "Awesome. Thank you, Robin. Another question from Twitter: “Will you be able to save and replay memories in the future?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, I think in the future, you will be able to save and replay memories. And this is obviously sounding increasingly like a Black Mirror episode. But well, I guess they’re pretty good at predicting. But yeah, essentially, if you have a whole neural interface, everything that’s encoded in memory, you could upload, you could basically store your memories as a backup and restore the memories. Then ultimately, you could potentially download them into a new body or into a robot body. The future is going to be weird."
+    },
+    {
+      "role": "gil",
+      "text": "Cool. So I can’t help but notice that the pigs back there are pretty well behaved and pretty darn cute. Can anyone talk about… I’m looking at Autumn over here. First, can you tell everyone who you are and what you do here? And can you describe like, how are they so well behaved and so smart?"
+    },
+    {
+      "role": "autumn",
+      "text": "Well, I’m Autumn, and I lead our animal care program. And our philosophy here is to set up a system where the animals are able to volunteer, to make choices to participate in our projects. As you see, sometimes they choose not to participate, and that’s okay. We want to make sure that our animals are happy and healthy. So, all of the behavioral research that we do is led by positive reinforcement. And again, that allows for them to choose to volunteer or not."
+    },
+    {
+      "role": "moderator",
+      "text": "Sam’s also on our animal care team. Sam, do you have anything to add to that?"
+    },
+    {
+      "role": "sam",
+      "text": "Hi, I’m Sam, one of the veterinarians here work closely with Autumn taking care of the animals. And, yeah, it’s just emphasizing what Autumn said, the whole animal care program here, in fact, the whole company here is very dedicated to promoting the care of these animals. You know, everybody’s involved, everybody’s very interested in making sure that they’re taken care of. And yeah, the program from top to bottom is designed to make sure that they can express their species-specific behaviors, express, you know, choose to do things, we don’t force things upon them as much as possible. And yeah, that’s why you see the pigs happily rooting around the straw right now and generally being very content."
+    },
+    {
+      "role": "moderator",
+      "text": "They do have those natural little smiles on their faces, just ever delightful. Next question is, “What programming language are you guys using for developing the device?”"
+    },
+    {
+      "role": "dj",
+      "text": "Several. We use several different types of programming languages. So for chip development, a lot of Verilog for doing low-level programming at the kind of the register transfer level. As you go up higher and higher, there, you know, various: C, C++, Python. But to be honest, like, at the end of the day, it’s not, you know, which programming language you know how to use, it’s, do you know the principles behind, you know, coming up with just methods to enable the systems to work. So I think, you know, if you have any experience in programming, and you’ve been building things since you were little, you should really come join us."
+    },
+    {
+      "role": "elon_musk",
+      "text": "(joking, obviously referring to Twitter questions)\nYeah, but can it play Crysis?"
+    },
+    {
+      "role": "dj",
+      "text": "Eventually."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It can play Crysis."
+    },
+    {
+      "role": "gil",
+      "text": "Cool, Crysis confirmed. And then Ian, what about the robot? What kind of programming languages and tech stacks are you using over there?"
+    },
+    {
+      "role": "ian",
+      "text": "I mean, sort of just reiterating what DJ said. So it doesn’t matter. Like specifically for us, it’s real-time low-level platform, C++, some Java and Python scripts. But really, those are more just like pragmatic choices to essentially optimize for getting productive work done. So it doesn’t really matter what your background is, or necessarily what the tools you use are; it’s more just, “Can you like accomplish things really quickly?”"
+    },
+    {
+      "role": "moderator",
+      "text": "Awesome. This next question is from “This is Rex”. They’re wondering, “Can this device be used to explain consciousness?” In the long term, of course."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It can certainly shed some light on consciousness."
+    },
+    {
+      "role": "max",
+      "text": "This is a really interesting question. I think the answer is yes. And I think one of the reasons that consciousness is so hard is because, like anything in physics, you’re looking at a mapping from x to y, where x is the neuronal correlates, so the things happening physically, and then y is this phenomenal state. And historically, we’ve been unable to observe the neuronal correlates very well. And unless it’s in you, we’ve been able to observe the phenomenal state. So as soon as you are able to, neuroscientists are able to personally get these tools where they can see the correlates, and they can have the experience, I think the hard problem will vanish very quickly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "What I find remarkable is that the universe started out as like quarks and leptons. We call it like, you know, hydrogen. And then after a long time, well, what seems like a long time to us, the hydrogen became sentient, it gradually got more complex. But we’re basically, you know, hydrogen evolved. And somewhere along the way that hydrogen started talking and thought it was conscious."
+    },
+    {
+      "role": "max",
+      "text": "I like the joke that it turns out that if you bombard Earth with photons for long enough, it’ll emit a Tesla."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. Yeah, that’s exactly what will happen."
+    },
+    {
+      "role": "moderator",
+      "text": "Just basic science, guys."
+    },
+    {
+      "role": "gil",
+      "text": "Yeah. They teach you in school.\nSo there’s a lot of Twitter comments coming in about a question that I think is on everyone’s mind, no pun intended. “What is the security of the device look like? What kind of precautions are being taken, and what does the future look like for the security of the system?"
+    },
+    {
+      "role": "dj",
+      "text": "So, first and foremost, privacy and security are top priorities at Neuralink, especially given the sensitivity of the data that we’re collecting. And one of the things that we’re ensuring is to make sure that a lot of the interactions with the brain data is going to be encrypted and authenticated properly. And I think this has been kind of a sort of recurring theme. But one of the things that we have the ability to do at Neuralink is that we work on every layer of the product, from chip design to source code. And it really gives us a unique opportunity to embed security as part of our design from the get-go and to make sure that there are no single points of failure.\nSo as an example, we can actually completely isolate sensitive modules, like the BLE\n(Bluetooth Low Energy)\nradio, by just segregating it out at the hardware level and really making sure that we protect the IO\n(input/output)\nto the brain away from any potential attacks, and really minimizing the attack surface. And, you know, we have in-house security expertise, and we’re also working with external parties to, you know, do audits and perform penetration testing."
+    },
+    {
+      "role": "moderator",
+      "text": "Excellent. Thank you, DJ."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, is there a point that anybody here wants to make that has not been asked in a question, but you think should be a question? Anyone?"
+    },
+    {
+      "role": "zack",
+      "text": "So hey, I’m Zack; I work in microfabrication team, I help making implants. And one thing that I think is really cool, just in general, is that this is a platform essentially. So we can change the design in a variety of ways. So if we find that a certain design or electrode size or number of electrodes works better in different areas of the brain, we have the capability to do that. I personally think that’s very cool."
+    },
+    {
+      "role": "moderator",
+      "text": "Fantastic. Anyone else? Dan, do you have something to add?"
+    },
+    {
+      "role": "dan",
+      "text": "Yeah, I think one of the things that allowed us to make such fast progress in the last few months is the use of pigs as a model. And we started out choosing pigs because of the very similar anatomy of the skull of humans, same thickness, and similar kind of dural membrane.\nBut then, as time went on, we realized that pigs actually have amazing other properties. You can train them to walk on treadmills; you can train them to do all kinds of tricks, and also that they have this large representation of the snout in the cortex, which you can very easily stimulate. So the question would be, why are we using pigs? And I think we’ve even surprised ourselves at how useful they are as a model in this respect. And another important point is that it’s very easy to keep pigs happy. They have very low needs, and so we can build an environment in which they have amazingly good welfare."
+    },
+    {
+      "role": "moderator",
+      "text": "It seems that they are very happy about food."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s easy to make pigs happy. Basically, they love food, the pigs really love food; this is a true thing about pigs. So, you know, it that they’re given… like, there’s sort of some straw, and some things to play with, and some friends to hang out with and good food and they are happiest pigs.\nAnd then, yeah, the pigs are actually quite similar to people. So, if we’re going to figure out things for people, then pigs were a good choice. And they’re also quite robust creatures, like little tanks. And then I think one of the questions was like, “Is the device itself robust?” And it’s like, well, you know, pigs, they bustle around quite a lot. And they bump into things, and they headbutt each other at times, and they’re pretty animated. So, if the device is lasting in the pig, as it lasted there for two months, and still going strong, then that’s a good sign that the device is robust for people."
+    },
+    {
+      "role": "moderator",
+      "text": "Fantastic. One common theme that’s been coming up a lot on these Twitter questions coming in is that of availability, and so Matthias has a specific question on this, which is: “Any estimate of how much it will cost at launch, and what price it will reduce to over time?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think at launch, it’s probably going to be… – I would say that’s not really representative. Because at first, I think it’s going to be, you know, quite expensive, but that price will very rapidly drop. And I think over time, we want to get the cost, obviously, down as low as possible. But I think inclusive of the automated surgery, I think we want to get the price down to a few $1,000, something like that. And I think that’s possible, I think it should be possible to get it similar to LASIK. And then the device electronics itself, I think, will not be very expensive because it actually does use a lot of the parts that are made in extremely high volume in 10s of millions of units for smartphones, as well as smartwatches and wearables in general."
+    },
+    {
+      "role": "gil",
+      "text": "Great. So here’s another question about the device. “What is the architecture look like? Is it CPU, ARM CPU?” What’s going on inside the device that you can talk about, DJ?"
+    },
+    {
+      "role": "paul",
+      "text": "I can talk a little bit about the digital architecture. It’s fully custom. One of the most difficult challenges I think of building an implant is the energy density. So, the more electrodes you record from, the more energy you’re going to be consuming. And there was nothing commercial out there.\nThere’s an analog front end that’s able to amplify these really small signals like microvolt range so that we can actually digitize them and then take those signals and then find exactly what we’re looking for. And there was nothing out there that could basically do those two things. And so that’s why we had to build a full custom ASIC. And there’s really nothing like it out there. It’s designed specifically to record signals from the brain, and anything else would just be wasting energy."
+    },
+    {
+      "role": "dj",
+      "text": "Yeah, so the thing that I would add to that is, there are obviously elements that we customize from ground up, like our neuro amplifiers and some of the algorithms that we developed. But a lot of the other systems around it are really borrowing from parts that have already been productionized and available from the wearables industry, so BLE radio, a lot of the low power microprocessor, they’re a part of it, a lot of small sensors. So there are obviously the neural sensors that we’re developing that gives us kind of a unique data set for our applications. But really, a lot of that is getting packaged up and just not really resisting the industry that’s sort of been laid out to really create these devices with very short amount of time."
+    },
+    {
+      "role": "gil",
+      "text": "Here’s another question about the integrity of the device more from a mechanical perspective. So, you’re replacing a piece of bone and replacing it with an implant. And then the person is going to take that home. How does the integrity of the device compare to, I don’t know, bone or something similar?"
+    },
+    {
+      "role": "robin",
+      "text": "Sure. Well, I think Matt’s probably replaced a lot of pieces of skull with plastic and other materials. I don’t know if you can talk about some of those. But yeah, basically, I mean, we know what the mechanical properties of bone are, and we know what the stresses on the device are going to be. So, it’s fairly easy to just go from first principles and design for any condition that it might see."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, as you can see from the pigs, as I said earlier, the implants are obviously very robust, because all pigs move around vigorously, they roll around, they bang into the wall, they bang into each other. They do like head butting, and way more than people do. You know, like, it’s not like the pigs are just walking around very delicately. They’re high-energy creatures. And I think it’s clear that the implants are… have been gone for a few months still going strong, despite a lot of vigorous activity from the pig. And it’s difficult… – you can’t just explain to the pig, “Hey, you’ve got an implant in your head, why don’t you take care of it?”\nSo it’s got to be robust against, you know, a lot of head impacts essentially. So you know, I think maybe one of the things that isn’t super obvious is that the implant itself is attached to the skull, but the electrodes have long threads. So you can have quite a lot of movement, relative movement between the brain and the skull, without putting attention on the electrodes that are inserted in the cortex.\nSo, well, let’s see, maybe a couple more questions? Or if anybody wants to make some comments, and then we’ll call it a day."
+    },
+    {
+      "role": "felix",
+      "text": "So I just want to add to what you just said. So the thread is actually also in the brain. And also, because of the thinness, they are actually very flexible. And so as the pigs are moving around and banging their heads, the threads actually move with the brain, even the normal pulsation of the brain and help minimize stress within the brain tissue also and that a has long term impact on the functionality of the device."
+    },
+    {
+      "role": "robin",
+      "text": "Zack, how long are the threads?"
+    },
+    {
+      "role": "zack",
+      "text": "Well, right now, they’re about 43 millimeters. But like I said, it’s tunable. So if we want to hit deep brain regions or some other brain area like, we totally can do that."
+    },
+    {
+      "role": "team_member",
+      "text": "Just to follow up on what Felix said about the threads moving around with the brain. I mean, that’s great for protecting the threads but equally serves to protect the tissue around it. We have a lot of different ways to image the tissue around the threads and iterate very quickly on doing things to them that will improve the overall biocompatibility."
+    },
+    {
+      "role": "moderator",
+      "text": "As a closing question, I thought we might go down the line starting with Dan. And what I’m wondering is, what is the number one thing on your wish list that you’re really hoping that the Neuralink device will do over time that you’re working towards."
+    },
+    {
+      "role": "dan",
+      "text": "So my background is in visual neuroscience. And one of the things I think has great potential for the Neuralink is to provide a visual prosthesis for people who have retinal injury or blindness through eye injury. You can essentially plug a camera directly into the visual cortex and stimulate with an enormous array of 1000s, or maybe 10s of 1000s of electrodes, to recreate a visual image. And in time, perhaps, you can use that same technology in people who haven’t lost vision to produce some kind of heads-up display. Something like “Terminator” or something like…"
+    },
+    {
+      "role": "moderator",
+      "text": "Wonderful."
+    },
+    {
+      "role": "elon_musk",
+      "text": "In fact we are saying that like over time, we could actually give somebody supervision, like you could have like ultraviolet or infrared, or see in radar, basically name your frequency, you can just dynamically adjust the sensor or have a set of sensors that feed into the visual cortex across a wide range of frequencies and actually have superhuman vision."
+    },
+    {
+      "role": "dj",
+      "text": "Yeah, so for me, telepathy. So I think it’s an incredible amount of effort to put your thoughts into a set of words, and, you know, it comes out completely compressed. So, being able to do that seamlessly without being able to compress it with all of the mechanisms – that would be great."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s like just – I’m sorry to add further to that – In fact, when we did the “Wait but Why” article, I think Tim thought I said “consensual telepathy”, but I said “conceptual telepathy”. We presume it would be consensual because you definitely don’t want just people, you know, sending stuff into your brain without your consent.\nBut a lot of our brain thought capacity goes into compressing our thoughts into words. And then you think like the data rate of words – words are very slow, very low data rate, and reporting a tremendous amount of mental energy into compressing the concepts and thoughts in our head into words and then slowly talking – speech is so very slow. And we could actually send the true thought that we’re going to basically have far better communication because we can convey the actual concepts, the actual thoughts, uncompressed to somebody else."
+    },
+    {
+      "role": "moderator",
+      "text": "So, non-linguistic, consensual, and conceptual."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly. Non-linguistic consensual conceptual telepathy."
+    },
+    {
+      "role": "ian",
+      "text": "I’ve actually been excited from the beginning sort of about the like side benefit of these devices. I sort of see them as… essentially like an oscilloscope to a printed circuit board is our device to the brain, where just by virtue of having this in there, and being able to see what’s actually going on, you’ll end up learning a ton about how the brain works. And so sort of augmenting people, but also just using that to learn a lot more about neurological diseases is really exciting to me."
+    },
+    {
+      "role": "moderator",
+      "text": "Absolutely."
+    },
+    {
+      "role": "paul",
+      "text": "So to sort of follow up on Elon’s thought – you know, I feel – and I imagine a lot of other people feel the same way – that there’s a lot of sort of trapped creativity in your mind. You can, for example, close your eyes and conjure up an incredible, like Dali-esque scene. But you know, if I wanted to actually show someone that it would take years of honing a craft to be able to paint that. And so, you know, potentially with enough electrodes in the right places, you could begin to sort of tap into those raw concepts or thought vectors and be able to decode that and show people. It could be for art, you mentioned music, or even for engineering, like a three-dimensional model."
+    },
+    {
+      "role": "moderator",
+      "text": "So, mental artistry as a new field."
+    },
+    {
+      "role": "team_member",
+      "text": "I like to think about ways to interface devices with biology better. And so one of the things I’m looking forward to is getting this thing to look less like technology and more like biology, so that it really is, you know, seamlessly interfaced with the brain, stable for a very long time. And then similar to that, having stimulation be much more precise and multidimensional, such that, eventually, the brain sort of doesn’t really know if it’s being stimulated from outside or inside, and you end up just sort of completely merging."
+    },
+    {
+      "role": "joey",
+      "text": "You know, following up on stimulation, one of the things our device can do is simultaneously read and write on every channel, stimulate and record. And that’s, you know, both a more challenging problem than it may seem like at first, but also, you know, incredibly exciting, the sort of the vistas that it opens up is really kind of the whole game in terms of interfacing with the nervous system. And I’m very excited to use that."
+    },
+    {
+      "role": "robin",
+      "text": "Yeah, I’m excited just because of the scalability of the device. We’re doing everything in-house, and all of it can scale to more channels, more brain regions, etc. I think, yeah, I’m really interested about solving things related to anxiety or depression, or even like removing fear, like an athlete until like rock climb without fear would be…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Maybe a little bit of fear."
+    },
+    {
+      "role": "robin",
+      "text": "And also, it’d be great if we could make the pigs fly…"
+    },
+    {
+      "role": "matthew",
+      "text": "I think we have an incredible opportunity to limit human suffering to a tiny fraction of what it is today, in all kinds of different avenues. Pain, being the essence of suffering, we might be able to control that finally. And so many other diseases, so much other suffering in the world, I think the Neuralink device could help a lot with."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think all these things are great functions for a Neuralink. On a species level basis, I think it’s going to be important for us to figure out how we coexist with advanced artificial intelligence. And, you know, I think, achieving some kind of AI symbiosis, where you have an AI extension of yourself, like a tertiary layer above the limbic system and cortex, and having that symbiosis be good, such that the future of the world is controlled by the combined will of the people of Earth. I think that that’s obviously going to be the future that we want, presumably, if it’s the sum of our collective will. So I think it’s going to be important from an existential threat standpoint to achieve a good AI symbiosis. And that’s what I think might be the most important thing that a device like this achieves."
+    },
+    {
+      "role": "max",
+      "text": "I have, in many ways, a very basic science interest, which is I’m really interested in the nature of consciousness. And there’s a lot of very silly philosophy that’s been written about it over the last 1000 years. But I think that it’s really… we’ve been very limited by the tools and our ability to interrogate and measure the brain. And as these tools get better, it will pull it into the realm of physics, and it’s really one of the last big great mysteries in science."
+    },
+    {
+      "role": "felix",
+      "text": "So for me, can you imagine a disease-free future. A future where you know what’s going to happen to you before it happens so you can prevent it. With these devices, we will be able to not just pick up electrical signals where you can also pick up chemical clues in the brain. And if you’re successful, which you know we are, we’ll be able to kind of prevent ahead of time, you know, diseases. And really, the functions of these devices are widespread. So I’m looking forward to the future."
+    },
+    {
+      "role": "zack",
+      "text": "I’m really excited about the opportunity to help people overcome challenges that they face through life circumstances, bad luck, through no fault of their own spinal cord injury, brain disease, some devastating things that completely change your life. Hopefully, we can help them get some function back."
+    },
+    {
+      "role": "autumn",
+      "text": "I know and love many humans with autism spectrum disorder. So I’m really interested to see how the Neuralink might be able to support them if they chose to do that."
+    },
+    {
+      "role": "sam",
+      "text": "Yeah, so I mean, everyone else along the line has had, you know, amazing ideas and suggestions. For me, it’s about memories, and everyone loses those memories over time. You know, I already can’t remember what happened to me when I was younger, and you know, I will only get worse. And so having a repository of memories that you can access whenever you want, if you’re feeling down, you can go access some good memories, you know, if you miss something or miss somebody, you can go and access those memories. And I think that would just be such a life-changing experience to be able to just tap into that."
+    },
+    {
+      "role": "moderator",
+      "text": "That was such a beautiful and diverse array of answers there."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. All right. Well, thanks for tuning in. And as I said, please consider working at Neuralink and helping us solve these problems. There’s a tremendous amount of work to be done to go from here to a device that is available, widely available, and affordable and reliable. So please consider joining us and supporting us in our mission. Thank you very much."
+    }
+  ]
+}

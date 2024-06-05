@@ -1,0 +1,299 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/03/21/everyday-astronaut-a-conversation-with-elon-musk-about-starship-english/",
+  "speakers": [
+    {
+      "id": "tim_dodd",
+      "name": "Tim Dodd"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "tim_dodd",
+      "text": "Hi, it’s me, Tim Dodd, the Everyday Astronaut."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "(voice-over)\nLast night, Elon Musk updated the world on SpaceX’s Starship development.  Let me tell ya, the event was amazing. We learned a lot of really cool details. But, I’m still a little baffled by the pace of this program; it’s unheard of. If only there was someone that could answer a few more of my questions about this program and about Starship.\n———–"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s a nice shirt."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Elon, how’s it going? Thank you, you know,\nfull-flow staged combustion\n, not a bad idea. Mind mic-ing yourself up there?\n(hands Elon Musk a microphone, which he puts on his jacket lapel)\n———–"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "(voice-over)\nAfter Elon complimented my shirt,  mic-ed him up and let the cameras roll. Now, for those of you new to my channel, we’re gonna get into some fairly in-depth rocket science, and if it’s over your head, don’t worry. Stick around my channel, and I promise I’ll make sense of all the stuff we talk about, like full-flow staged combustion cycle and\naerospike\nengines. There were parts of this interview that I wasn’t really planning to release at first but actually think the best thing I can do is just show you the entire thing, un-cut, from a single camera, so you can feel like you’re right there with us.\n———–"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, first off, thank you so much for, you know, talking to me, I mean, we’re underneath your beautiful beast."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s crazy. Can you believe this is even here?"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "I was here a month ago, literally standing right here – well not, just over the fence – and you know, you got a tube and a pointy tube, and now you’ve got this! I mean, how do you do that? Is it just sheer will? Is everyone that driven about the goal?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think I’ve learned a lot of lessons about how to make things go fast. And then I’ve propagated those lessons to the SpaceX team, and there’s just like an incredibly talented, hard-working team at SpaceX. In fact, at times, I think maybe there’s too many talented people at SpaceX. We have like, you know, too many talented people that we’re cornering the market, or something.\nBut there’s this very talented group that works super hard, and just taking the general approach of, if a design is taking too long, the design is wrong, and therefore, the design must be modified to accelerate progress. And one of the most fundamental errors made in advanced developments is to stick to a design even when it is very complicated and to not strive to delete parts and processes. It’s incredibly important. So, this is why the switch to steel was – because the advanced carbon fiber was taking too long."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right, and you’re definitely not a\nsunk cost\nfallacist; you’re like Mister, „This is clearly the new path forward, let’s hop on it.“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, is it in the future or not? If it’s not in the future, who cares?"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, and you did that; I mean, look at last year, ‚\ndearMoon\n‚. You guys were kind of in that awkward stage of probably figuring this out right here. You know, you had the carbon fiber mandrel. . ."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we didn’t even have the steel; I think we were still on the path… When was the ‚dearMoon‘ thing?"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Almost exactly a year ago."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That was before the change to steel."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, you guys showed the carbon mandrel and everything, and you’re excited about that, but then all of a sudden, we see you switch."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I canceled the carbon fiber design in October last year."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, so just after that. You know, what people don’t understand is that you’re the lead engineer. You’re literally sit…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Literally. I was actually at dinner with a friend, and he was like, „Well, who’s the chief engineer at SpaceX?“ and I go, „It’s me.“ „No, no,“ he’s like, „It’s not you, who is it?“ Like, okay, it’s either someone with a very low ego or, I don’t know. But, that said, what I actually used to tell the team, was like, „Everyone is a chief engineer.“ This is extremely important. Everyone must understand how, broadly speaking, all the systems in the vehicle work, so you don’t have self-system optimization because this is naturally what happens.\nYou can see the organizational errors…- The product errors reflect the organizational errors. Essentially, you’ll see that there’s an interface at this particular…- Whatever departments you’ve got, that will be where your interfaces are. And instead of getting rid of something or questioning the constraints, the one department will design to the constraints that the other department has given them without calling into question those constraints and saying, „Those constraints are wrong.“ And you should actually take the approach that the constraints that you are given are guaranteed to be some degree wrong because the counterpoint would be that they are perfect."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right, which is never."
+    },
+    {
+      "role": "elon_musk",
+      "text": "As you were saying, what’s the probability that this is a platonic ideal of a perfect part? Zero, basically. So, question your constraints. It does not matter if the person handing you those constraints won a Nobel Prize. Even our own standards are wrong some of the time. So, question your constraints; this is extremely important. And, another thing, if you say like, „What are the mistakes that smart engineers make?“ One of the biggest traps for smart engineers is optimizing  a thing that shouldn’t exist."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, so they’ll just sit there and spin on that thing that’s just like, „Why do we even have this in the first place?“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. When you go through college, and you’re studying physics or engineering – I studied physics – you have to answer the question that the professor gives you. You don’t get to say, „This is the wrong question.“ But, in reality, we have far more degrees. When you’re in reality, you have all the degrees of freedom of reality, and so the first thing you should say is, „This question is wrong.“"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, and that’s what you said last year. I mean, you said like, „It took us a long time to frame the question even because we didn’t necessarily know what it was.“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It took ages to frame the question, I mean, it’s just like ‚\nThe Hitchhiker’s Guide to the Galaxy\n‚, Douglas Adams, best philosopher ever – maybe, I think, best book in philosophy ever, ‚Hitchhiker’s Guide to the Galaxy‘ – but his book is so deep, people don’t even understand.\nIn ‚The Hitchhiker’s Guide to the Galaxy‘, the Earth is a giant computer, and the Earth, it comes up with the answer ’42‘ to the question, „What’s life, the answer to life, the universe and everything?“ The answer’s 42, and they’re like, „What the hell – that doesn’t make any sense.“ „Oh, you… the hard part is the question. The answer is the easy part. You need a much more powerful computer to tell you what the question is.“ And this is true. At the point in which you can properly frame the question, the answer is comparatively easy."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right. I have one more question for you. I’m working on a video about aerospikes. It’s going to be about an hour long video on aerospikes and, you know, they’re like the rotary engine of rockets. Like the rotary was… it’s been advantageous in some ways, you know, like your…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, aerospikes, man, I tell you."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "They’re cool but what’s your biggest beef on them? Because I’m trying to get as much insight on, why do you think they aren’t used, and obviously, I assume, you’re not ever going to an aerospike for a lot of reasons. . ."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, I’ve internally asked this question so many times, like, „Guys, shouldn’t we maybe do an aerospike?“ The challenge…- And you’re going to explain to the audience what an aerospike is?"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Oh yeah, you’re gonna be like the end of this thing; I’ve already set it all up."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, because otherwise, you know, „What the hell are you talking about?“ So, you got to get your combustion efficiency….- There’s really two parts to…- Like, when you have a rocket engine, what’re you trying to do? You’re trying to shoot things out, as fast as possible, in a straight line."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yes, converting as much thermal and pressure into kinetic energy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly. So you have your combustion efficiency, and so what percentage of max theoretical combustion efficiency are you? And then, what’s your nozzle efficiency, which is really…-  you know, are you straightening the flow, and shooting the molecules out in a straight line, so that you go in the other direction; Newton’s Third Law.\nWith a traditional combustion chamber, you can get to a very high combustion efficiency because the molecules are all sort of bouncing around in there; they’ve got a time to combine and do their thing. And then, when you sort of choking it through the throat, that gives them sort of more opportunity to combine. So, we think we can probably get to ninety…- certainly 98.5, hopefully, 99 percent of theoretical combustion efficiency. This is so… if God himself came and knitted together the molecules, you’re one percent better. Okay, maybe one and a half percent better. That’s very high efficiency."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Because of full flow staged combustion."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Full-flow staged combustion, exactly. You’ve got a gas-gas interaction, so you’ve got two hot gases combining. And with a relatively simple reaction – the only thing that would be simpler would be hydrogen. But you’ve got CH4 and O2; that’s pretty simple. You don’t have any long-chain hydrocarbons. With kerosene, you’ve got the long chains, they’ve got to break down, they’ve got to recombine, it’s a total soup, you know. It’s a part-like dinner situation. It’s very hard to get high combustion efficiency with kerosene.\nSo, when you look at, say like, ‚what’s the theoretical value of a lox/kerosene engine, as compared to a methane engine?‘ The kerosene actually looks more compelling than it really is because you can’t achieve the high combustion efficiency with kerosene that you can with methane. So, you actually want to say, ‚what is the actual achievable combustion efficiency times the theoretical chemical energy?‘ That’s the real number, and this is where methane starts to look really good.\nIt’s very hard to get to like 96 percent combustion efficiency, or even 95 percent combustion efficiency with kerosene, but with methane, you can get 98 easy, 99 with a little bit of difficulty."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "So you don’t think – you’re just telling me now, spoiler alert – you’re probably never going to see a full-flow staged combustion cycle aerospike engine produced by SpaceX?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, if somebody can show that we’re wrong, that would be great. If somebody can explain,  „There is a way to make your design better,“ this is a gift. I would be like, „Thank you for this great gift, wow, this is awesome.“ The worst thing would be like, „We wanted to do this dumb design and stick with our dumb design.“ That would be insane. I would love it if somebody could show how an aerospike is the smart move, in which case, we’ll just do an aerospike."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yeah, then just do an aerospike; there’s a reason they haven’t been used. Period."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But maybe, that reason is not valid, you know? Because there’s also, there hasn’t been a methane orbital engine."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right. Or a flying full-flow staged combustion, yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, there’s been neither a full-flow staged combustion engine that’s seen flight nor has there been a methane engine that’s seen flight, certainly in a rocket scenario. I think there may have been some, like, little test things or whatever, but no actual rockets. But I’m very confident that CH4 is the right fuel. Maybe aerospike is right, even though it’s not been done before. But you just have to show that your combustion efficiency is not affected and that you’re straightening the flow sufficiently."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "To get your expansion ratio."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Yep, awesome."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Also, if you’ve got a two-stage rocket…- I think, this is the other thing like, you’ve got two-stage rockets where your boost stage is primarily in atmosphere, and your upper stage is primarily in vacuum, then you can specialize for a vacuum nozzle and a sea-level nozzle. And then you’re like, „Why need the aerospike?“ It’s only if you want to try to do single-stage, reusable, then that’s when you start like having to reach for the aerospike."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right, yep, that’s awesome. Aerospikes, with Elon Musk! Thank you so much."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I would love it if somebody could show it like, „Hey, you’re missing the mark, you could do this different thing, and this would be a better move.“ That would be, „Thank you, please.“"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right, yeah, of course, absolutely. Hey, thanks for your time again, see you soon, pleasure meeting you. We might need to steal your mic; I mean, I don’t know, I can bill you later. Thanks again for this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "I have to say, I’ve been to IAC\n(International Astronautical Congress)\n2016, seeing… that was like, it was almost like awkward back then because it was like, „You’re insane,“ and now it’s like, „Hey look, I’m not insane.“"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you know, obviously insane, but you know,  I mean even when I am exposed to this all day, it’s so like „Holy Smith!“ you know, it’s so mad to see it actually there. And I was up in the nose… I’m going to post this later, but. . ."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Jack Beyer’s photo. He got a photo of you like, I think, peeking out of it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like this is, when I was inside there.\n(shows Tim a photo on the smartphone)"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "No way! And those are the header tanks?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "And all the batteries, you got what, six. . ."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’ve got four Tesla 100 kilowatt-hour batteries. And we just like, basically welded it onto the header tanks."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right. Oh, we didn’t even talk about that; you’re doing model 3 motors basically, is that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think we should; we should just have electro-mechanically…- I think we are going to, probably with Mach 3, move to a purely electro-mechanical actuators for the flaps. Currently, it’s electric motors powered. It’s like Tesla motors and batteries that essentially pump hydraulic fluid into the accumulator, and then the hydraulic piston moves the flap. But it would be simpler to just have the motors directly…"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Just do it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "…the worm drive the flap."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "That’s awesome."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And also, the way the header tanks are done right now is crazy. We shouldn’t be carrying the header tanks like cargo. I mean, we want the header tanks to be integral to the tip. So seriously, like just take the tip, use the tip of the rocket as the half of the header tank, and essentially mirror the main tanks, but in small form, in the nose. So, just have two domes, and have the oxygen and fuel in the tip of the rocket, not carrying the tanks like cargo, but having the tanks…"
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Just integrated, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, just a mini version of the big tanks."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Right, oh, and then you don’t have an extra wall and everything too, it’s just integrated into…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like in the early days of rocketry, like V2 or whatever, the fuel and oxygen tanks were carried like cargo in the aeroshell."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "Oh really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. In the early days of aircraft and rockets, the propellant tanks were carried like cargo. And now modern rockets and airplanes – the wing is just a fuel tank in wing shape. We should do the same for the header tanks."
+    },
+    {
+      "role": "tim_dodd",
+      "text": "I love it. Thanks again."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. Thank you."
+    }
+  ]
+}

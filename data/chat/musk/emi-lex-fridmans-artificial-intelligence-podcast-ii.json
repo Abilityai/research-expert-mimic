@@ -1,0 +1,347 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/01/13/lex-fridmans-artificial-intelligence-podcast-ii/",
+  "speakers": [
+    {
+      "id": "lex_fridman",
+      "name": "Lex Fridman"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "lex_fridman",
+      "text": "The following is a conversation with Elon Musk, Part 2. The second time we spoke on the podcast, with parallels if not in quality, then in outfit to the, objectively speaking, greatest sequel of all time, „Godfather Part II“. As many people know, Elon Musk is a leader of Tesla, SpaceX, Neuralink, and the Boring Company. What may be less known is that he’s a world-class engineer and designer, constantly emphasizing first principles thinking in taking on big engineering problems that many before him would consider impossible.\nAs scientists and engineers, most of us don’t question the way things are done. We simply follow the momentum of the crowd. But revolutionary ideas that change the world on the small and large scales happen when you return to the fundamentals and ask: „Is there a better way?“ This conversation focuses on the incredible engineering and innovation done in brain computer interfaces at Neuralink. This work promises to help treat neurobiological diseases to help us further understand the connection between the individual neuron, to the high-level function of the human brain, and finally, to one day expand the capacity of the brain, through two-way communication with computational devices, the internet, and artificial intelligence systems.\nThis is the „Artificial Intelligence Podcast“. If you enjoy it, subscribe on YouTube, Apple Podcasts, Spotify, support on Patreon, or simply connect with me on Twitter @Lexfridman, spelled F-R-I-D-M-A-N. And now, as an anonymous YouTube commenter referred to our previous conversation as the quote „Historical first video of two robots conversing without supervision“, here’s the second time, the second conversation with Elon Musk."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Let’s start with an easy question about consciousness. In your view, is consciousness something that’s unique to humans, or is it something that permeates all matter, almost like a fundamental force of physics?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t think consciousness permeates all matter."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Panpsychics believe that, there’s a philosophical–"
+    },
+    {
+      "role": "elon_musk",
+      "text": "How would you tell?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s true, that’s a good point."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I believe in the scientific method, don’t blow your mind or anything, but the scientific method is like if you cannot test the hypothesis, then you cannot reach meaningful conclusion that it is true."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you think consciousness, understanding consciousness, is within reach of science or the scientific method?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We can dramatically improve our understanding of consciousness. I would be hard pressed to say that we understand anything with complete accuracy, but can we dramatically improve our understanding of consciousness? I believe the answer is yes."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Does an A.I. system, in your view, have to have consciousness in order to achieve human level or super human level intelligence? Does it need to have some of these human qualities like consciousness, maybe a body, maybe a fear of mortality, capacity to love, those kinds of silly human things?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s different. There’s the scientific method which I very much believe in where something is true to the degree that it is testable so, and otherwise you’re really just talking about preferences or untestable beliefs or that kind of thing. So it ends up being somewhat of a semantic question where we are conflating a lot of things with the word intelligence. If we parse them out and say, are we headed towards the future where an A.I. will be able to outthink us in every way, then the answer is unequivocally yes."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "In order for an A.I. system that needs to outthink us in every way, it also needs to have a capacity to have consciousness, self-awareness, and understand–"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It will be self-aware, yes. That’s different from consciousness. I mean to me, what consciousness feels like, it feels like consciousness is in a different dimension. But this could be just an illusion. If you damage your brain in some way, physically, you damage your consciousness, which implies that consciousness is a physical phenomenon, in my view.\nThe thing is that I think is really quite likely is that digital intelligence will be able to outthink us in every way, and it will soon be able to simulate what we consider consciousness to a degree that you would not be able to tell the difference."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And from the aspect of the scientific method, it might as well be consciousness if we can simulate it perfectly?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you can’t tell the difference, when it’s sort of the Turing test, but think of it more sort of an advanced version of the Turing test. If you’re talking to a digital superintelligence and can’t tell if that is a computer or a human, like let’s say you’re just having a conversation over a phone or a video conference or something aware, looks like a person, makes all of the right inflections and movements and all the small subtleties that constitute a human and talks like a human, makes mistakes like a human, and you literally just can’t tell, are you video conferencing with a person or an A.I.?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Might as well…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Might as well."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "…be human. So on a darker topic, you’ve expressed serious concern about existential threats of A.I. It’s perhaps one of the greatest challenges that our civilization faces, but since, I would say, we’re kind of an optimistic descendant of apes, perhaps we can find several paths of escaping the harm of A.I., so if I can give you three options, maybe you can comment which do you think is the most promising?\nSo one is scaling up efforts in A.I. safety and beneficial A.I. research, in the hope of finding an algorithmic or maybe a policy solution. Two is becoming a multi-planetary species as quickly as possible, and three is merging with A.I. and riding the wave of that increasing intelligence, as it continuously improves. What do you think is most promising, most interesting, as a civilization that we should invest in?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think there’s a tremendous amount of investment going on in A.I. Where there is a lack of investment is in A.I. safety, and there should be, in my view, a government agency that oversees anything related to A.I. to confirm that it does not represent a public safety risk, just as there is a regulatory authority for the Food and Drug Administration, NHTSA for automotive safety, there’s the FAA for aircraft safety. We’ve generally come to the conclusion that it is important to have a government referee  or a referee that is serving the public interest in ensuring that things are safe when there’s a potential danger to the public.\nI would argue that A.I. is unequivocally something that has potential to be dangerous to the public and therefore should have a regulatory agency, just as other things that are dangerous to the public have a regulatory agency. But let me tell you, the problem with this is that government moves very slowly. Usually, the way a regulatory agency comes into being is that something terrible happens, there’s a huge public outcry, and years after that, there’s a regulatory agency or a rule put in place.\nTake something like seatbelts. It was known for, I don’t know, a decade or more, that seatbelts would have a massive impact on safety and save so many lives and serious injuries. And the car industry fought the requirements to put seatbelts in tooth and nail. That’s crazy. And, I don’t know, hundreds of thousands of people probably died because of that. And they said people wouldn’t buy cars if they had seatbelts, which is obviously absurd.\nOr look at the tobacco industry and how long they fought anything about smoking. That’s part of why I helped make that movie „Thank You for Smoking“ because you’ll see just how pernicious it can be when you have these companies effectively achieve regulatory capture of government, they’re bad. People in the A.I. community refer to the advent of digital superintelligence as the singularity. That is not to say that it is good or bad, but that it is very difficult to predict what will happen after that point. And that there’s some probability it will be bad, some probability it will be good. We obviously want to affect that probability and have it be more good than bad."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Well, let me, on the merger with A.I., question an incredible work that’s being done at Neuralink. There’s a lot of fascinating innovation here, across different disciplines going on. So the flexible wires, the robotic sewing machine that responds to brain movement, and everything around ensuring safety and so on.  So we currently understand very little about the human brain. Do you also hope that the work at Neuralink will help us understand more about the human mind, about the brain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think the work at Neuralink will definitely shed a lot of insight into how the brain, the mind works. Right now, just the data we have regarding how the brain works is very limited. We’ve got fMRI, that’s like putting a stethoscope on the outside of a factory wall and then putting it all over the factory wall, and you can sort of hear the sounds, but you don’t know what the machines are doing really. It’s hard. You can infer a few things but it’s a very broad brushstroke. In order to really know what’s going on in the brain, you have to have high precision sensors, and then you want to have stimulus and response. Like if you trigger a neuron, how do you feel, what do you see, how does it change your perception of the world?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You’re speaking to physically, just getting close to the brain, being able to measure signals from the brain, will open the door inside the factory?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly, being able to have high precision sensors that tell you what individual neurons are doing and then being able to trigger neurons and see what the response is in the brain. So you can see the consequences of, if you fire this neuron, what happens, how do you feel, what does it change? It’ll be really profound to have this in people because people can articulate their change. Like if there’s a change in mood, or if they can tell you if they can see better or hear better or be able to form sentences better or worse or their memories are jogged or that kind of thing."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So on the human side, there’s this incredible, general malleability, plasticity of the human brain. The human brain adapts, adjusts, and so on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not that plastic, to be totally frank."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So there’s a firm structure, but nevertheless, there is some plasticity, and the open question is if I could ask a broad question, is how much of that plasticity can be utilized? On the human side, there’s some plasticity in the human brain, and on the machine side, we have neural networks, machine learning, artificial intelligence, it’s able to adjust and figure out signals.  So there’s a mysterious language that we don’t perfectly understand that’s within the human brain. And then we’re trying to understand that language to communicate both directions.\nSo the brain is adjusting a little bit, we don’t know how much, and the machine is adjusting. Where do you see, as they try to reach together, almost like with an alien species, try to find a protocol, a communication protocol that works? Where do you see the biggest benefit arriving, from on the machine side, or the human side? Do you see both of them working together?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think the machine side is far more malleable than the biological side, by a huge amount. So it’ll be the machine that adapts to the brain. That’s the only thing that’s possible. The brain can’t adapt that well to the machine. You can’t have neurons start to regard an electrode as another neuron. Because neurons, it’s just like the pulse, and so something else is pulsing. See, so there is that elasticity in the interface, which we believe is something that can happen, but the vast majority of the malleability will have to be on the machine side."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "But it’s interesting, when you look at that synaptic plasticity, at the interface side, there might be like an emergent plasticity. Because it’s whole nother, it’s not like in the brain; it’s a whole nother extension of the brain. We might have to redefine what it means to be malleable for the brain. So maybe the brain is able to adjust to external interfaces."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’ll be some adjustments to the brain because there’s going to be something reading and simulating the brain, and so it will adjust to that thing. But the vast majority of the adjustment will be on the machine side. It just has to be that; otherwise, it will not work.\nUltimately, we currently operate on two layers. We have sort of a limbic like prime primitive brain layer, which is where all of our impulses are coming from. It’s sort of like we’ve got like a monkey brain with a computer stuck on it. That’s the human brain. And a lot of our impulses and everything are driven by the monkey brain, and the computer, the cortex is constantly trying to make the monkey brain happy. It’s not the cortex that’s steering the monkey brain; it’s the monkey brain steering the cortex."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Like the cortex is the part that tells the story of the whole thing, so we convince ourselves it’s more interesting than just the monkey brain."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The cortex is what we call like human intelligence. That’s like the advanced computer, relative to other creatures. The other creatures do not have, really they don’t have the computer, or they have a very weak computer, relative to humans. But it sort of seems like, surely the really smart thing should control the dumb thing. But actually the dumb thing controls the smart thing."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So do you think some of the same kind of machine learning methods, whether that’s natural language processing applications, are going to be applied for the communication between the machine and the brain? To learn how to do certain things like movement of the body, how to process visual stimuli and so on? Do you see the value of using machine learning to understand the language of the two-way communication with the brain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. Yeah, absolutely. I mean, we’re a neural net, and A.I. is basically a neural net. So it’s like digital neural net will interface with biological neural net. And hopefully bring us along for the ride, you know? But the vast majority of our intelligence will be digital. So think of like the difference in intelligence between your cortex and your limbic system is gigantic. Your limbic system really has no comprehension of what the hell the cortex is doing. It’s just literally hungry, or tired, or angry, or sexy or something, you know. And that communicates that impulse to the cortex and tells the cortex to go satisfy that.\nA massive amount of thinking, like truly stupendous amount of thinking, has gone into sex. Without purpose, without procreation, which is actually quite a silly action in the absence of procreation. It’s a bit silly, so why are you doing it? Because to make the limbic system happy, that’s why."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s why."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But it’s pretty absurd, really."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Well, the whole of existence is pretty absurd in some kind of sense."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. But I mean, this is a lot of computation that has gone into how can I do more of that  with the procreation not even being a factor? This is, I think, a very important area of research by NSFW."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "An agency that should receive a lot of funding, especially after this conversation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I propose the formation of a new agency."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Oh boy.\nWhat is the most exciting, or some of the most exciting things that you see in the future impact of Neuralink? Both on the science and engineering and societal broad impact?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "So Neuralink, I think at first will solve a lot of brain-related diseases. So could be anything from like autism, schizophrenia, memory loss, like everyone experiences memory loss at certain points in age. Parents can’t remember their kids‘ names and that kind of thing. So there’s, I think, a tremendous amount of good that Neuralink can do in solving critical damage to the brain or the spinal cord. There’s a lot that can be done to improve quality of life of individuals, and those will be steps along the way. And then ultimately, it’s intended to address the existential risk associated with a digital superintelligence. We will not be able to be smarter than a digital supercomputer. So therefore, if you cannot beat them, join them. And at least we will have that option."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So you have hope that Neuralink will be able to be a kind of connection to allow us to merge, to ride the wave of the improving A.I. systems?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think the chance is above 0%."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So it’s non-zero?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "There’s a chance."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Have you’ve seen “Dumb and Dumber”?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So I’m saying there’s a chance."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You’re saying one in a billion or one in a million, whatever it was on “Dumb and Dumber”."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You know, it went from maybe one in a million to improving, maybe it’ll be one in a thousand and then one in a hundred and then one in 10. It depends on the rate of improvement of Neuralink and how fast we’re able to make progress."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Well, I’ve talked to a few folks here that are quite brilliant engineers. So, I’m excited."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think it’s fundamentally good, giving somebody back full motor control after they’ve had a spinal cord injury. Restoring brain functionality after a stroke.  Solving debilitating genetically oriented brain diseases. These are all incredibly great, I think. And in order to do these, you have to be able to interface with the neurons at a detail level, and you need to be able to fire the right neurons, read the right neurons and then effectively you can create a circuit, replace what’s broken with silicon and essentially, fill in the missing functionality.\nAnd then over time, we develop a tertiary layer, so like the limbic system as a primary layer, then the cortex is like a second layer. And as said, obviously the cortex is vastly more intelligent than the limbic system. But people generally like the fact that they have a limbic system and a cortex. I haven’t met anyone who wants to delete either one of them. They’re like, okay, I’ll keep them both, that’s cool."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "The limbic system is kind of fun."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s where the fun is, absolutely. And then people generally don’t want to lose their cortex either. Right, so they like having the cortex and the limbic system. And then there’s a tertiary layer, which will be digital superintelligence. And I think there’s room for optimism, given that the cortex is very intelligent and the limbic system is not, yet they work together well. Perhaps there can be a tertiary layer where digital superintelligence lies. And that will be vastly more intelligent than the cortex but still coexist peacefully and in a benign manner with the cortex and limbic system."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s a super exciting future, both in the low-level engineering that I saw is being done here and the actual possibility in the next few decades."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s important that Neuralink solves this problem sooner rather than later because the point at which we have digital superintelligence, that’s when we pass the singularity and things become just very uncertain. It doesn’t mean that they’re necessarily bad or good, but the point at which we pass singularity, things become extremely unstable. So we want to have a human brain interface before the singularity, or at least not long after it, to minimize existential risk for humanity and consciousness as we know it."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "There’s a lot of fascinating actual engineering of low-level problems here at Neuralink that are quite exciting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The problems that we face at Neuralink are material science, electrical engineering, software, mechanical engineering, microfabrication. It’s a bunch of engineering disciplines, essentially.  That’s what it comes down to; you have to have a tiny electrode, so small it doesn’t hurt neurons. But it’s got to last for as long as a person, so it’s got to last for decades. And then you’ve got to take that signal, and you’ve got to process that signal locally at low power.\nSo we need a lot of chip design engineers, because we’ve got to do signal processing and do so in a very power-efficient way so that we don’t heat your brain up because the brain’s very heat sensitive. And then, we’ve got to take those signals and we’ve got to do something with them. And then we’ve got to stimulate back, so you could do bi-directional communication.\nSo if somebody’s good at material science, software, mechanical engineering, electrical engineering, chip design, microfabrication, those are the things we need to work on. We need to be good at material science so that we can have tiny electrodes that last a long time. And it’s the tough thing, the material science, it’s a tough one because you’re trying to read and simulate electrically in an electrically active area, your brain is very electrically active and electrochemically active, so how do you have, say a coating on the electrode that doesn’t dissolve over time and is safe in the brain? This is a very hard problem.\nAnd then how do you collect those signals in a way that is most efficient? Because you really just have very tiny amounts of power to process those signals. And then we need to automate the whole thing, so it’s like LASIK. If this is done by neurosurgeons, there’s no way it can scale to large numbers of people. And it needs to scale to large numbers of people because I think ultimately we want the future to be determined by a large number of humans."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you think that this has a chance to revolutionize surgery, period? So neurosurgery and surgery."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, for sure. It’s got to be like LASIK. If LASIK had to be hand done, done by hand, by a person, that wouldn’t be great. It’s done by a robot. And the ophthalmologist kind of just needs to make sure you’re you. Your head’s in the right position and then they just press a button and go."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So Smart Summon and soon auto park takes on the full, beautiful mess of parking lots and their human-to-human nonverbal communication. I think it has actually the potential to have a profound impact on changing how our civilization looks at A.I. and robotics. Because this is the first time human beings, people that don’t own a Tesla, that may have never seen a Tesla or heard about a Tesla, get to watch hundreds of thousands of cars without a driver. Do you see it this way, almost like an education tool for the world about A.I.? Do you feel the burden of that, the excitement of that, or do you just think it’s a smart parking feature?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do think you are getting at something important, which is, most people have never really seen a robot. And what is the car that is autonomous? It’s a four-wheeled robot."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Right. It communicates a certain message with everything, from safety to the possibility of what A.I. could bring, to its current limitations, its current challenges, what’s possible. Do you feel the burden of that? Almost like a communicator, educator to the world about A.I.?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re just really trying to make people’s lives easier with autonomy, but now that you mention it, I think it will be an eyeopener to people about robotics. Because most people have really never seen a robot and there are hundreds of thousands of Teslas. It won’t be long before there’s a million of them that have autonomous capability, and they drive without a person in it. And you can see the evolution of the car’s personality and thinking with each iteration of autopilot. You can see it’s uncertain about this, or now it’s more certain, now it’s moving in a slightly different way.\nI can tell immediately if a car is on Tesla autopilot because it’s got little nuances of movement. It just moves in a slightly different way. Cars on Tesla autopilot, for example on the highway, are far more precise about being in the center lane than a person. If you drive down the highway and look at where cars are, the human-driven cars aren’t within their lane. They’re like bumper cars. They’re moving all over the place. The car on autopilot, dead center."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah. So the incredible work that’s going into that neural network, it’s learning fast, autonomy is still very, very hard. We don’t actually know how hard it is fully, of course.  You look at most problems you tackle, this one included, with an exponential lens. But even with an exponential improvement, things can take longer than expected, sometimes. So where does Tesla currently stand on its quest for full autonomy? What’s your sense? When can we see successful deployment of full autonomy?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, on the highway already, the probability of intervention is extremely low. So, for highway autonomy, with the latest release especially, the probability of needing to intervene is really quite low. In fact, I’d say for stop-and-go traffic, it’s far safer than a person right now. The probability of an injury or an impact is much, much lower for autopilot than a person.\nAnd with navigate on autopilot, it can change lanes, take highway interchanges, and then we’re coming at it from the other direction, which is low speed, full autonomy. In a way this is like, how does a person learn to drive? You learn to drive in the parking lot. The first time you learned to drive probably wasn’t jumping on Market Street in San Francisco. That would be crazy. You learn to drive in the parking lot, get things right at low speed.\nAnd then the missing piece that we’re working on is traffic lights and stop streets. Stop streets, I would say, actually are also relatively easy because you kind of know where the stop street is. In the worst case, you can geocode it and then use visualization to see where the line is and stop at the line to eliminate the GPS error. So actually, I’d say it’s probably complex traffic lights and very windy roads are the two things that need to get solved."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What’s harder, perception or control for these problems? So being able to perfectly perceive everything or figuring out a plan once you perceive everything, how to interact with all the agents and the environment? In your sense, from a learning perspective, is perception or action harder, in that giant, beautiful, multitask learning neural network?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The hardest thing is having accurate representation of the physical objects in vector space. So, taking the visual input, primarily visual input, some sonar and radar, and then creating an accurate vector space representation  of the objects around you. Once you have an accurate vector space representation, planning and control is relatively easier. That is relatively easy.\nBasically, once you have accurate vector space representation, then you’re kind of like a video game, like cars in Grand Theft Auto or something. They work pretty well. They drive down the road, they don’t crash, pretty much unless you crash into them. That’s because they’ve got an accurate vector space representation of where the cars are, and then they’re rendering that as the output."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you have a sense, high level, that Tesla’s on track on being able to achieve full autonomy? So on the highway …"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, yeah, absolutely."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And still no driver state? Driver sensing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We have driver sensing with torque on the wheel."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s right. By the way, just a quick comment on karaoke. Most people think it’s fun, but I also think it is the driving feature. I’ve been saying for a long time, singing in the car is really good for attention management and vigilance management."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s right. Tesla karaoke is great. It’s one of the most fun features of the car."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you think of a connection between fun and safety sometimes?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, if you can do both at the same time, that’s great."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I just met with Ann Druyan, wife of a Carl Sagan, who directed “Cosmos”."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m genuinely a big fan of Carl Sagan; he was super cool and had a great way of putting things. All of our consciousness, all civilization, everything we’ve ever known and done is on this tiny blue dot. People also get too trapped in there, there’s like squabbles amongst humans, and there’s nobody thinking of the big picture. They take civilization and our continued existence for granted. They shouldn’t do that.\nLook at the history of civilizations. They rise and they fall, and now civilization is globalized, and so this civilization, I think, now rises and falls together. There’s not geographic isolation. This is a big risk. Things don’t always go up. That’s an important lesson of history."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "In 1990, at the request of Carl Sagan, the Voyager One spacecraft, which is a spacecraft that’s reaching out farther than anything human-made into space, turned around to take a picture of Earth from 3.7 billion miles away. And as you’re talking about the pale blue dot,  in that picture, the earth takes up less than a single pixel in that image. Appearing as a tiny blue dot, as a „pale, blue dot“, as Carl Sagan called it. So he spoke about this dot of ours in 1994. And if you could humor me, I was wondering if in the last two minutes you could read the words that he wrote describing this pale blue dot?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. It’s funny, the universe appears to be 13.8 billion years old. Earth, like four and a half billion years old. In another half billion years or so, the sun will expand and probably evaporate the oceans and make life impossible on Earth. Which means that if it had taken consciousness 10% longer to evolve, it would never have evolved at all, just 10% longer. And I wonder how many dead one-planet civilizations there are out there in the cosmos that never made it to the other planet and ultimately extinguished themselves or were destroyed by external factors? Probably a few.\nIt’s only just possible to travel to Mars, just barely. If G was 10% more, wouldn’t work really. If G were 10% lower, it would be easy. You can go single stage from the surface of Mars all the way to the surface of the Earth because Mars is 37 % of Earth’s gravity, thereabouts. You need a giant boost to get off the Earth.\nChanneling Carl Sagan. “Look again at that dot. That’s here. That’s home. That’s us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every „superstar,“ every „supreme leader,“ every saint and sinner in the history of our species lived there–on a mote of dust suspended in a sunbeam.\nOur planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves. The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate.”\nThis is not true. This is false. Mars."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And I think Carl Sagan would agree with that. He couldn’t even imagine it at that time. So thank you for making the world dream. And thank you for talking today. I really appreciate it. Thank you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Thank you."
+    }
+  ]
+}

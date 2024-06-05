@@ -1,0 +1,567 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/01/28/the-joe-rogan-experience-1169-elon-musk-ii-english/",
+  "speakers": [
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "jamie",
+      "name": "Jamie"
+    },
+    {
+      "id": "jaime",
+      "name": "Jaime"
+    }
+  ],
+  "messages": [
+    {
+      "role": "joe_rogan",
+      "text": "So, what happened with you that you’ve decided or you took on a more fatalistic attitude? Was there any specific thing or was it just inevitability of our future?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I try to convince people to slow down A.I., to regulate A.I. This was futile. I tried it for years. Nobody listened."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "This seems like a scene in a movie…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nobody listened."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "… where the robots are going to fucking take over. You’re freaking me out. Nobody listened?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nobody listened."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No one. Are people more inclined to listen today? It seems like an issue that’s brought up more often over the last few years than it was maybe five, ten years age. It seemed like science fiction."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Maybe they will. So far, they haven’t. I think people learned like that normally the way that regulations work is very slow; very slow, indeed. So, usually there will be something, some new technology, which will cause damage or death, there will be an outcry, there will be an investigation, years will pass, there will be some sort of insight committee, there will be rule making, then there will be oversight, eventually regulations. This all takes many years. This is the normal course of things.\nIf you look let’s say automotive regulations. How long did it take for seat belts to be implemented, to be required? You know, the auto industry fought seat belts I think for more than a decade; successfully fought any regulations on seat belts even though the numbers were extremely obvious. If you had a seatbelt on, you would be far less likely to die or seriously injured. It was unequivocal. And the industry fought this for years successfully.  Eventually, after many, many people died, regulators insisted on seat belts. This time frame is not relevant to A.I. You can’t take ten years from the point which is dangerous. It’s too late."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And you feel like this is decades away or years away from being too late. If you have this fatalistic attitude, and you feel like it’s going… – we’re in an almost like a doomsday countdown."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not necessarily a doomsday countdown. It’s a…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "…out of control countdown?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Out of control, yeah. People call it the singularity and that’s probably a good way to think about it. It’s a singularity, it’s hard to predict, like a black hole. What happens after the event horizon?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. So, once it’s implemented it’s very difficult because it would be able to…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Once the genie’s out of the bottle, what’s going to happen?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And it will be able to improve itself."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s where it gets spooky, right? The idea that it can do thousands of years of innovation very, very quickly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And then we’ll be just ridiculous."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Ridiculous."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "We will be like this ridiculous biological shitting, pissing thing trying to stop the gods. “No stop. We like living with a finite lifespan and watching, you know, Norman Rockwell paintings.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It could be terrible, and it could be great. It’s not clear."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But one thing is for sure. We will not control it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think that it’s likely that we will merge somehow or another with this sort of technology and it will augment what we are now, or do you think it will replace us?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The emerge scenario with A.I. is the one that seems like probably the best."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "For us."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. If you can’t beat it, join it. From a long-term existential standpoint, that’s like the purpose of Neuralink is to create a high bandwidth interface to the brain such that we can be symbiotic with A.I.  Because we have a bandwidth problem. You just can’t communicate through your fingers. It’s too slow."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And where is Neuralink at right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think, we have something interesting to announce in a few months that’s at least an order of magnitude better than anything else. I think, better than, probably, anyone thinks is possible."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How much can you talk about that right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t want to jump the gun on that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But what’s like the ultimate… – What’s the idea behind it, like, what are you trying to accomplish with it? Like, what would you like best case scenario?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think, best case scenario, we effectively emerge with A.I. where A.I. serves as a tertiary cognition layer. We’ve got the limbic system – kind of the primitive brain essentially. You’ve got the cortex. So, you’re currently in a symbiotic relationship. Your cortex and limbic system are in a symbiotic relationship. And generally, people like their cortex, and they like their limbic system. I haven’t met anyone who wants to delete their limbic system or delete their cortex. Everybody seems to like both.\nAnd the cortex is mostly in service to the limbic system. People may think that their thinking part of themselves is in charge, but it’s mostly their limbic system that’s in charge. And the cortex is trying to make the limbic system happy. That’s what most of that computing power is oriented towards. How can I make the limbic system happy? That’s what it’s trying to do.\nNow, if we do have a third layer, which is the A.I. extension of yourself, that is also symbiotic. And there’s enough bandwidth between the cortex and the A.I. extension of yourself, such that the A.I. doesn’t de facto separate. Then that could be a good outcome. That could be quite a positive outcome for the future."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, instead of replacing us it will radically change our capabilities."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. It will enable anyone who wants to have superhuman cognition. Anyone who wants. This is not a matter of earning power because your earning power would be vastly greater after you do it. So, it’s just like, anyone who wants can just do it  in theory. That’s the theory. If that’s the case and, let’s say, billions of people do it, then the outcome for humanity will be the sum of human will. The sum of billions of people’s desire for the future."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That billions of people with enhanced cognitive ability, radically enhanced."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But how much different than people today? Like, if you had to explain it to a person who didn’t really understand what you were saying – how much different are you talking about? When you say, ‘radically improved’, what do you mean? You mean mind reading?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It will be difficult to really appreciate the difference. It’s kind of like, how much smarter are you with a phone or computer than without. It’s, you’re vastly smarter actually. You know, you can answer any question if you connect with the internet. You can answer any question pretty much instantly, any calculation; your phone’s memory is essentially perfect. You can remember flawlessly. Your phone can remember videos, pictures, and everything perfectly.\nYour phone is already an extension of you. You’re already a cyborg. You don’t even – well, most people don’t realize they are already a cyborg. It’s that phone is an extension of yourself. It’s just that the data rate, the communication rate between you and the cybernetic extension of yourself that is your phone and computer, is slow. It’s very slow. And that is like a tiny straw of information flow between your biological self and your digital self. And we need to make that tiny straw like a giant river; huge, high bandwidth interface.\nIt’s an interface problem, data rate problem. Solve the data rate problem, then, I think, we can hang on to human-machine symbiosis through the long term. And then people may decide  that they want to retain their biological self or not. I think they will probably choose to retain their biological self."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Versus some sort of Ray Kurzweil scenario where they download themselves into a computer?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You will be essentially snapshotted into a computer at any time. If your biological self dies, you could probably just upload into a new unit literally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Pass that whiskey. We’re getting crazy over here. This is getting ridiculous."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Down the rabbit hole."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Grab that, sucker. Give me some of that. This is too freaky. See, if I was just talking…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’ve been thinking about this for a long time, by the way."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I believe you. If I was talking to one…- Cheers, by the way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Cheers. It’s a great whiskey."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Thank you. I don’t know where this came from. Who brought this to us?"
+    },
+    {
+      "role": "jamie",
+      "text": "Trying to remember. I can’t…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Somebody gave it to us. Old Camp. Whoever this was,…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "…thanks. Yeah, it is good. This is just inevitable. Again, going back to your when you decided to have this fatalistic viewpoint. So, you tried to warn people, you talked about this pretty extensively. I’ve read several interviews where you talked about this. And then you just sort of just said, ‘okay, it just is’. And, in a way, by communicating the potential for… – I mean, for sure you’re getting the warning out to some people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, I was really going on the warning quite a lot. I was warning everyone I could. Even met with Obama, just for one reason."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Just to talk about A.I."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And what did he say? So, what about Hillary? Worry about her, first. Shh, everybody be quiet."
+    },
+    {
+      "role": "elon_musk",
+      "text": "He listened. He certainly listened. I met with Congress. I was at a meeting with all 50 governors and talked about just the A.I. danger, and I talked to everyone I could. No one seemed to realize where this was going."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is it that, or do they just assume that someone smarter than them has already taken care of it? Because when people hear about something like A.I., it’s almost abstract. It’s almost like it’s so hard to wrap your head around it, and by the time it already happens, it’ll be too late."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think they didn’t quite understand it or didn’t think it was near term or  not sure what to do about it. I said like, you know, an obvious thing to do is to just establish a committee, government committee, to gain insight before you oversight, before you do make regulations, they should try to understand what’s going on. And then, if you have an insight committee, once they learn what’s going on, you get up to speed. Then, they can make some rules or propose some rules. That would be probably a safer way to go about things."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I know that it’s probably something that the government is supposed to handle, but it seems like I wouldn’t… I don’t want the government to handle this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Who do you want to handle this?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I want you to handle this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh geez."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I feel like you’re the one who could ring the bell better. Because if Mike Pence starts talking about A.I., I’m like, shut up, bitch, you don’t know anything about A.I. Come on, man, he doesn’t know what he’s talking about. That’s just games."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But I don’t have the power to regulate other companies. I don’t if I’m supposed to, but you know."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. But maybe companies could agree. Maybe there could be some sort of a…- We have agreements where you’re not supposed to dump toxic waste into the ocean, you’re not supposed to do certain things that could be terribly damaging even though they’d be profitable. Maybe this is one of those things. Maybe you should realize that you can’t hit the switch on something that’s going to be able to think for itself and make up its own mind as to whether or not it wants to survive or not, and whether or not it thinks you’re a threat, and whether or not it thinks you’re useless.\nLike why do I keep this dumb, finite life form alive? Why keep this thing around? It’s just stupid, it just keeps polluting everything, it shits everywhere it goes, lighting everything on fire and shooting each other. Why would I keep this stupid thing alive? Because sometimes it makes good music, you know. Sometimes it makes great movies, sometimes it makes beautiful art, and sometimes it’s cool to hang out with."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, for all those reasons."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, for us, those are great reasons. But for anything objective standing outside, this is definitely a flawed system. This is like, if you went to the jungle and you watch these chimps engage in warfare and beat each other with wooden sticks…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Chimps are really mean."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’re fucking real mean."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I saw this movie “Chimpanzee”, and I thought it was going to be like some Disney thing. I was like, holy cow."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What movie was that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s literally called “Chimpanzee”."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is it a documentary?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s kind of like a documentary. I was like,” Damn, these chimps are mean.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’re mean."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’re cruel."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, they’re calculated. They sneak up on each other and…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I didn’t realize chimps did calculated cruelty.  I was pretty… I left that meeting kinda like, whoa, this is dark."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. Well, we know better because we’re advanced. But, if we hadn’t, we’d be like, man, I don’t want to live in a house; I like the chimp ways, bro, chimp ways to go, this is it, man, chimp life. You know, we got…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Simple chimp life."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "…chimp life right now. But we, in a way, to the A.I., might be like those chimps. Like, these stupid fucks launching missiles out of drones, and shoot each other under water. Like, we’re crazy. We got torpedoes and submarines and airplanes that drop nuclear bombs indiscriminately on cities. We’re assholes. They might go, why are they doing this? It might like, look at our politics, look at what we do in terms of our food system. What kind of food we force down each other’s throats? And they might go, these people are crazy. They don’t even look out for themselves."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. I mean, how much do we think about chimps? Not much."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Very little."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s like, these chimps are at war. It’s like groups of chimps just attack each other, and they kill each other, and they torture each other, that’s pretty bad. They hunt monkeys. But this is probably the most …- You know, when was the last time you talked about chimps?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "All the time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You do?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You’re talking to the wrong guy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Well, unfortunately, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "This fucking podcast, dude, we’re talking about chimps every episode."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s chimp city? Okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "People are laughing right now. Yeah, constantly, I’m obsessed. I saw that David Attenborough documentary on chimps where they were eating those colobus monkeys and ripping them apart."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, that’s rough. Gruesome."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I saw that many years ago. It just changed how, if I go, ‘oh, this is why people are so crazy. We came from that thing’."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. And there’s the Bonobos. They got, like, a better philosophy."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, they’re like swingers. Yeah, they really are. They seem to be way more – even than us – way more civilized."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They just seem to resolve everything with sex."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, the only rules they have is, the mom won’t bang the son. That’s it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s it. Mom won’t bang the sons. They’re good women. Good women in the bonobo community. Everybody else is just banging it out."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I haven’t seen the bonobo movie."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, they’re disturbing just at a zoo. You know, you have bonobos at the zoo."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’re just constantly going…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Constantly fucking, yeah.  That’s all they do. They just won’t stop. And they don’t care, gay, straight – whatever, let’s just fuck. What’s with these labels?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I haven’t seen bonobos at a zoo. It’s probably, like…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t think I have either."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And not in the PG section."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, I don’t think they have them at many zoos. We’ve looked that up before too, didn’t we?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s probably pretty awkward."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I think that’s the thing. They don’t like to keep regular chimps at zoos because bonobos are just always jacking off and…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Fucking it."
+    },
+    {
+      "role": "jaime",
+      "text": "In San Diego."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s that? They have in San Diego?"
+    },
+    {
+      "role": "jaime",
+      "text": "San Diego’s got some, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Really? Interesting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Probably separate them. Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, how many are there in a cage, you know? I was like,…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "…it’s going to be pretty intense."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, we’re a weird thing, you know. And I’ve often wondered if whether or not we’re – you know, our ultimate goal is to give birth to some new thing. And that’s why we’re so obsessed with technology. Because it’s not like this technology is really…- I mean, it’s certainly enhancing our lives in a certain way, but, I mean, ultimately, is it making people happier right now? Most technology, I would say, no. In fact, you and I were talking about social media before this, about just not having Instagram on your phone and not dealing, and you feel better."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, I think, one of the issues with social media, it’s been pointed out by many people, is that I think, maybe particularly Instagram – people look like they have a much better life than they really do."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "By design."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. People are posting pictures of when they’re really happy. They’re modifying those pictures to be better looking. Even if they are not modifying the pictures, they’re, at least, selecting the pictures for the best lightning, the best angle. So, people basically seem they are way better looking than they basically really are."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And they’re way happier seeming than they really are. So, if you look at everyone on Instagram, you might think, “Man, there are all these happy, beautiful people, and I’m not that good looking, and I am not happy. So, I must suck,” you know. And that’s going to make you feel sad; when, in fact, those people you think are super happy, actually, not that happy. Some of them are really depressed. They’re very sad. Some of the happiest-seeming people are actually some of the saddest people in reality. And nobody looks good all the time. It doesn’t matter who you are."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No, it’s not even something you should want."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Why do you want to look great all the time?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. So, I think, things like that can make people quite sad just by comparison, because you’re sort of…- People generally think of themselves relative to others. It’s like we are constantly re-baselining our expectations. And you can see this, say, if you watch some show like ‘Naked and Afraid’, or, you know, if you just go and try living in the woods by yourself for a while, and you’re like… – they learn that civilization is quite great, it has a lot…- People want to come back to civilization pretty fast on ‘Naked and Afraid’."
+    }
+  ]
+}

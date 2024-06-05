@@ -1,0 +1,283 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/04/08/2020-annual-shareholder-meeting-and-battery-day-ii-battery-day-presentation-1-2-english/",
+  "speakers": [
+    {
+      "id": "drew_baglino",
+      "name": "Drew Baglino"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "drew_baglino",
+      "text": "Hello, everyone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Great. Would you start?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Sure. Thanks, Elon. Hi. I’m Drew Baglino, SVP of Powertrain and Energy Engineering at Tesla, and I’m incredibly excited to talk about what we’ve been doing with batteries here at Tesla."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Great. So let’s see. You’ve got the clicker?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "I’ve got the clicker, yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. I’ll take it at first, perhaps."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So obviously, the issues we’re facing are very serious with climate change, and we’re experiencing these issues on a day-to-day basis. It’s incredibly important that we accelerate the advent of sustainable energy. Time really matters. This presentation is about accelerating the time to sustainable energy. The past five years were the hottest on record. We have what looks like a wall for CO2 ppm. It’s obviously… This time is not like the past.  It’s really important that we take action. Running this climate experiment is insane, so…"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Especially when it’s just a transitory one, anyway."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "We’re going to run out of these fossil fuels. Let’s just move to the future and not run this experiment any longer."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So anyway, there is a lot of good news, though. A lot of people may not be aware that wind and solar comprise 75% of new electricity capacity in the US this year. So, this is really major. The grid is going sustainable very quickly. Now, it’s also worth noting that the length of time that power plants last is on the order of 25 years. So even if 100% of energy generation was sustainable, it will still take 25 years to convert the grid. And it’s also worth noting that in the past ten years, power production from coal has dropped in half. It went from 46% of electricity in 2010 to 23% in 2020. This is a massive improvement. So, good things are happening on a lot of levels. We just need to go faster.\nSo, Tesla’s contribution: we’ve delivered over a million electric vehicles, 26 billion electric miles driven, and many gigawatt-hours\n(GWh)\nof stationary batteries, 17 terawatt-hours\n(TWh)\nof solar-generated. I think solar is sometimes underweighted at Tesla, but it is a massive part of our future. The three parts of a sustainable energy future are sustainable energy generation, storage, and electric vehicles. We intend to play a significant role in all three.\nTo accelerate the transition to sustainable energy, we must produce more EVs that need to be affordable and a lot more energy storage while building factories faster and with far less investment.\nSo, goal number one is a terawatt-hour scale battery production. So, Tera is the new Giga. And a terawatt is a thousand times more than a gigawatt. We used to talk in terms of gigawatts, in the future, we’ll be talking in terms of terawatt-hours. This is what’s needed in order to transition the world to sustainability."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, and you can see it’s… We’re talking about a 100X growth in batteries for electric vehicles to achieve this mission. And we are going to get there. It’s just a matter of how fast. And our intention is to accelerate it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you basically need on the order of roughly 10 TWh a year of battery production to transition the global fleet of vehicles to electric."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And the average vehicle lasts 15 years. So we’re talking about 150 TWh, give or take, to transition the whole electric, all vehicles of all types, to electric."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So it’s a lot of batteries, basically."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. And then on the grid side, we have a similar mountain to climb, 1600 times growth from today’s grid batteries to go a hundred percent renewable on the grid and to take all of the existing heating fossil fuel uses in homes and businesses, a hundred percent electric."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And this number, I think, might grow even more. As the world economy matures, and as countries with high populations industrialize, we could see this number be even more. But let’s say it’s like roughly 20 to 25 TWh per year sustained for 15 to 25 years to transition the world to renewable. This is a lot."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Today’s batteries cannot scale fast enough. They’re just too small. For Giga Nevada, 150 GWh per year is what we probably expect to make out of there. But this is really pretty small in the grand scheme of things. That’s only 0.15 TWh. And it costs too much."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "We would need 135 fully built out in Nevada Giga factories to achieve 20 TWh a year. It’s not scalable enough of a solution. We need a dramatic rethink of the cell manufacturing system to scale as fast as we can and should."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, and I think we should view this as more than just a question of money. Money is sort of an material thing,  but it’s really the amount of effort. You have a certain amount of effort in terms of people and machines, and depending on how efficient that effort is, for a given amount of effort, you want the most amount of batteries. It’s not just the question of, well, if we have $2 trillion, tomorrow you could make this. It’s not that easy. You actually need to organize a massive number of people, build a lot of machines, build the machines that make the machines. And so it’s incredibly important to have that effort yield the most number of batteries.\nAnd then goal two: obviously we need to make more affordable cars. I think one of the things that troubles me the most is that we don’t yet have a truly affordable car, and that is something that we will make in the future. But in order to do that, we’ve got to get the cost of batteries down, and we’ve got to be better at manufacturing. And we need to do something about this curve. The curve of the cost per kilowatt-hour of batteries is not improving fast enough. We’ve given this a lot of thought over many years to say, okay, how can we radically improve the cost per kilowatt-hour curve? It’s been somewhat flattening out actually in recent years."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. I mean, early growth was promising, but you can see we’re kind of plateauing. So that’s what’s motivating us to rethink how cells are produced and designed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. EV market share is growing, but EVs still aren’t accessible to all. And you can see, as Drew were saying, it’s like starting to flatten out a little bit because the rate of improvement of the affordability of cars is just not fast enough. That’s why we’ve got Battery Day."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. To make the best cars in the world, we designed vehicles in factories from the ground up. And now we do this for batteries as well."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Let’s get started. We have a plan to halve the cost per kilowatt-hour. And it’s not a plan that rests on a single innovation, some research project that will never see the light of day. It’s a plan that has taken creative engineering and industrialization across every facet of what makes a cell into a battery pack, from raw material to the finished thing. And we’re going to go through that plan with you today, step-by-step, and build up how we get to these goals and how we accelerate this transition and make our vehicles and our grid batteries more affordable."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, we basically thought through every element of the battery, or almost every element. There are a few more elements that we won’t get to today, but we will get to in the future."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yes. So first, before we get too far into it, let’s talk about what is in a battery cell. We’ve got the cap and the can, negative and positive terminals of the cell. When you open that cell, you’ve got a tab connected to those terminals, what we call the jelly roll, which is the wound electrodes on the inside. You can actually see what this looks like as you unwind it. This is over a meter long in a typical 2170 cell. So, it’s quite a long winding process. And you can see the tab still there. And then to explain what’s actually going on here, we’ve identified, we’ve got anode, cathode, separator, positive and negative terminal.\nWatch what happens as we – there we go – discharge the cell. Got lithium moving from anode to cathode. And then the reverse, when we charge the cell, lithium moving from cathode to anode across the separator. This is the basic of what makes all lithium-ion batteries, no matter what the form factor is.\nAnd when we look at what’s happened today, at least in our products, we’ve moved from the 18650 form factor to the 2170 form factor through great collaboration with our partners, Panasonic, new partners like LG and CATL, and probably others in the future."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, slight note on why is the one called 18650, although not on the slide, versus the 2170, is that the first two digits refer to the diameter, and the second two digits refer to the length. So that helps explain what’s up with these weird numbers. But nobody could explain to me why there was an extra zero.  So I, so I said, “Okay, well, we’re deleting the zero that nobody can explain in future form factors.” So that’s why it’s technically, it’s like the 18650 bizarrely, but going forward, it’s the 2170 because we just got rid of the extra zero because it’s pointless."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And this was an evolutionary step going from 1865 to 2170, bringing 50% more energy into the cell. But when we look to the ideal cell design, if we were to do it ourselves, we need to go beyond just what we’re looking at us in front of us and study the full spectrum of options. As you can see, we kind of swept the key figures of merit, how much we can reduce the cost and how much vehicle range increases as we change the outer diameter of the cell. We found a sweet spot somewhere around 46 millimeters. But it’s not just about a bigger form factor. Anybody could make a bigger form factor."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Any fool, any fool could make a bigger form factor. We’re not any fool."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, exactly. There are problems as you make cells larger. In fact, supercharging and thermals in general, become really challenging as you make bigger cells. And this was the challenge that our team set our sights on to overcome. And we did; we came up with this tabless architecture that maybe you’ve heard about, that basically removes the thermal problem from the equation and allows us to go to the absolute lowest cost form factor and the simplest manufacturing process.\nAnd this is what we mean when we talk about tabless. It’s kind of a beautiful thing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. That’s what these t-shirts mean, but it’s very esoteric. It was like, nobody could figure it out."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, we basically took the existing foils, laser pattered them, and enabled dozens of connections into the active material through this shingled spiral you can see with simpler manufacturing, fewer parts, 50-millimeter versus 250-millimeter electrical path length, which is how we get all the thermal benefits."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. This is important to appreciate. Basically, the distance that that electron has to travel, it’s just much less. You actually have a shorter path length in a large tabless cell than you have in the smaller cell with tabs. This is a big deal. So even though the cell is bigger, it actually has more power. The power to weight ratio is actually better than the smaller cell with tabs.\nThis is, again, this is quite hard to do. Nobody’s done it before, and it really took a tremendous amount of effort within Tesla Engineering to figure out how do we make a frigging tabless cell and have it actually work and then connect that to the top cap. There’s a whole bunch of things that we’re keeping a little secret sauce here that we’re not telling everything, but…"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Sometimes what’s elegant and simple is still hard. And it took us a lot of trials, but we’re happy where we ended up."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, everything is simple in recollection, after you… it’s hard until it’s discovered, and then it’s simple. So anyway, there’s a lot of really cool things going on that enable tabless. And it was really due to a really great engineering team. Drew and the rest of the team had done amazing work in achieving this tabless construction. I think it may sort of sound a bit silly to some people, but for people that really know cells, this is a massive breakthrough."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "For cylindricals to be able to get rid of the tabs dramatically simplifies winding and coding. And has an awesome thermal and performance benefit."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Just to elaborate on that a bit, it’s like when the cell is going through the system, it has to keep stopping where all the tabs are. You can’t do a continuous motion production if you have tabs. You have to keep stopping, and then there’s a rate at which you can start and stop and accelerate again, and it really slows down the rate of production. And then sometimes you get the tabs wrong, and you also lose a little bit of active area. It’s really a huge pain in the ass to have tabs from a production standpoint."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yes. And when we put it all together and go to our new 80-millimeter length, 4680 – we call this a new cell design – we get five times the energy with six times the power and enable 16% range increase, just form factor alone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So, these…\n(honking)\nYeah. It’s pretty great. And just to clarify, when we see these plus 16% or whatever the percentage rate increase is,  these are the amounts due just to that particular innovation. We’ll list a whole bunch of innovations, and then when you add them up, you get a total improvement in energy density and cost. But these numbers are what refer to just this thing."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. And I want to stress, this is not just a concept or a rendering. We’re starting to ramp up manufacturing of these cells at our pilot 10 GWh production facility, just around the corner."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So. Yeah. It’s a video of some of what’s going on in the plant. Now. I mean, to be clear, it will take about a year to reach the 10 GWh capacity. This is important to appreciate. When you build a factory, there’s a certain capacity that you design to, and then it takes some period of time to actually achieve that capacity. I would say it’s probably about a year before we get to the 10 GWh annualized rate with the pilot plant. And this is just a pilot plant. The actual production plants will be more on the order of maybe 200 GWh, maybe more over time."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "But let’s stack up everything we just saw at the cell level. So just the cell form factor change enables a 14% $/kWh reduction, just that cell form factor change. And now that you’ve been teased on this factory, we’re going to go on and walk step-by-step through that factory and discuss a series of innovations there.\nWhen thinking about the ideal cell factory, we have inspirations behind us in the paper and bottling industry, wherefrom humble beginnings, over a century of innovation has enabled mass scale, continuous motion, unbelievably low manufacturing costs. And when we think about the lithium-ion industry, which is really only in its third decade of high-volume production, it has so far to go to achieve similar scale and simplicity. And that was the inspiration that we set out to the team as we thought about how to marry cell design and manufacturing in the best possible factory.\nAnd let’s talk a little bit about what’s in a cell factory. First, there’s an electrode process where the active materials are coated into films onto foils. Then those coated foils are wound in the winding process we just talked about where if you do have tabs, you have to start and stop a lot. Then the jelly roll is assembled into the can, sealed, filled with electrolyte, and then sent to formation where the cell is charged for the first time and where the sort of the electrochemistry is set and the quality of the cell is verified.\nAnd we set out at every step of this process to try to take that inspiration we just showed and think about how we make those processes fundamentally better and more scalable. And one of the most important processes is where it all begins, the wet process of the electrode coding. And just to give you all a sense of scale, I’m going to walk through what’s in that wet process.\nYou’ve got mixing where the powders are mixed with either a water or a solvent, solvents for the cathode. That mix then goes into a large coat and dry oven where the slurry is coated onto the foil, huge ovens, tens of meters long, dried, and that solvent then has to be recovered. You can see the solvent recovery system. And then, finally, the coated foil is compressed to the final density. And when you’re looking at this, you’re like, wow, that’s a lot of equipment for one step, especially when you consider that little spec next to the coating oven is a person. This is serious iron involved in making batteries.\nWouldn’t it be great if we could skip that solvent step, which is one of those dig a ditch, and then fill it kind of things where you put the solvent in and then take it out and recycle it, and just go straight to a dry mix to coat? And that’s what the dry process really is about. And in the most basic form, you can see it here on a benchtop, literally powder into film, as simple as that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, it’s hard actually, just to be clear. If this was easy, everyone would do it. It’s not like dry coating electrode is actually easy. It’s actually very hard to do  what appears to be a simple thing. And it’s worth noting, we did acquire Maxwell a little over a year ago, I guess, and certainly a good company and everything. But the dry coating they had was like, it’s like a sort of, I would call proof of concept.\nSince the acquisition, we’ve actually ramped the machine that does dry coating four times, so a revision full post acquisition of the machine. And there’s still a lot of work to do. So I would not say this is completely in the bag. It’s still a lot of work to do. And as you grow, as you scale, go from benchtop to lab to pilot to volume production, there are actually major issues that you encounter at every level. It’s not like you make something work on your bench and bingo, now you can make a bazillion of it."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Absolutely."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s insanely difficult to scale up. Yeah."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, but if you do scale it up, what you saw before becomes this. So, you can see the motivation. A ten times reduction in footprint, a ten times reduction in energy, and a massive reduction in investment. But as Elon was saying, simple is hard."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, to be clear, I would like to not say that right now, it just totally working. It’s close to working, but it’s not, even now, at the pilot plant level, it is close to working. It’s fair to say probably it does work, but with not a high yield."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. We’re still ironing out the kinks, but we’ve made tens of thousands of cells, thousands of kilometers of electrode. I mean, we are on the fourth generation of the equipment, so we’ve learned a lot along the way. I mean, it is super demanding because every atom has its place if you want to deliver the energy density and the cycle life and the supercharging. But we’re confident that we will get there, but it will be a lot of work along that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s a clear path to success, but a ton of work between here and there. But this is a really profound improvement. Again, for people that know battery manufacturing, this is gigantic. We’ll probably be on machine revision six or seven by the time we do large-scale production. The rate at which the machines are being improved is extremely rapid. Literally every three or four months, there’s a new rev."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. And beyond the electrode, we continue to innovate on every other process steps. So, let’s talk a little bit about assembly, which is next.\nThe key to a high-performing assembly line is accomplishing processes while in motion, continuous motion. And thinking of the line as a highway, max velocity down the highway, no start and stop, no city driving."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly, no stoplights and traffic lights sort of thing. You want the highway."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "You want the highway. And together with our internal design team that makes this equipment and designs this equipment, we coupled thinking about how to make the best cell with thinking about how to make the best equipment so that we could accomplish the fastest parts per-minute rates on all of these tools.\nAnd through all of that development, we were able to get to the point where we can implement assembly lines, one line, 20 GWh, seven times increase in output per line. And when you’re thinking about scalability and pure effort, having one line be seven X the capability is just effort multiplying."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. You can sort of think about the sort of the fundamental physics of a factory or something. I think it’s actually quite a lot like the rocket equation where you’ve got basically the rocket equation – you’ve got your exhaust velocity and then the log of the start and end masses. It’s basically saying how fast are things going and what percentage of the factory volume is doing useful work? And conveyance does not count as useful work."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Only the value-added steps."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. If you break the factory down into cubic meter sections and say – or smaller, could be like one-liter sections – and say, “Is a majority of this volume doing useful work?” You’d be astounded at how bad most factories are. They’d be like maybe 2 or 3%, including our factory in Fremont. I think it’s possible to get to at least ten times that of volumetric efficiency. More like 30%ish, maybe more, and be 10x better, which means the factory can be ten times smaller.\nAnd then the other thing is how fast are things going through the factory? It’s like speed and density. A factory that’s moving at, say, twice the speed of another factory is equivalent to two factories, basically. And the company that will be successful is the company that with one factory can accomplish what other companies take two or three or four factories to do. This is what we’re trying to do here is say, okay, how do we  with one factory achieve what maybe five or even ten factories would normally be required to achieve?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And the vertical integration with the machine design teams at Grohmann and Hibar and others allows us to really accomplish that because we don’t have any of these edge conditions between one piece of equipment and another. We can design the entire machine to be one machine and remove all of these unnecessary steps."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, basically, Tesla is aiming to be the best at manufacturing of any company on Earth. This is the thing that’s actually most important in the long run, I think, just from a company standpoint and from basically achieving sustainability as fast as possible. But I think also for long-term competitiveness. Eventually, every car company will have long-range electric cars. Eventually, every company will have autonomy, I think. But not every company will be great at manufacturing. Tesla will be absolutely head and shoulders above anyone else in manufacturing; that is our goal."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Manufacturing is hard and hard problems are fun to solve. Okay. Now let’s talk about formation. In a typical cell factory, formation represents 25% of the investment. And what is formation? Is it’s charging and discharging cells and verifying the quality of the cell. It turns out we’ve charged and discharged billions and billions of cells in our vehicles, so we know a thing or two about that.\nThe typical formation setup is you charge and discharge each cell individually. In our car, we charge thousands of cells at once. And we took our principal and our power electronics, leveraging Powerwall vehicle battery management systems and others to dramatically improve the formation equipment cost-effectiveness and density. 86% reduction in formation investment, 75% reduction in footprint.\n(to Elon) You want to take this one?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. So essentially, what this translates to based on what we know today is about a 75% reduction in the investment per kilowatt-hour. Or gigawatt-hour. It’s just basically four times better than the current state of the art to the best of our knowledge. And I think there’s probably room to improve even beyond that."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Definitely."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Definitely. Yeah. We’re able to, from a volume standpoint, actually get what, in a smaller form factor than Giga Nevada, we’re able to get many times the cell output. You can see basically we can get a terawatt-hour in less space than it took to make a gigawatt-hour, you know, 150 GWh. This is pretty profound. I would actually not have thought this was possible several years ago, that we could actually get to a TWh scale in less space than what we currently envisioned for doing 150 GWh."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yes. Simpler accelerates TWh scale. And that’s what we need to do to accelerate our mission. And as Elon said, we’re going to try to even improve on this as we push towards our goals, which are…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So, this is just talking about Tesla’s internal cell production. As I tweeted out earlier, we will continue to use our cell suppliers, Panasonic and LG and CATL. And this is a 100 GWh supplemental to what we buy from suppliers. And yeah, essentially, this does reduce our weighted average cost of a cell, but it allows us to make a lot more cars and a lot more stationary storage. And then, long-term, we’re expecting to make on the order of 3,000  GWh or 3 TWh per year. I think we’ve got a good chance of achieving this actually before 2030, but I’m highly confident that we could do it by 2030."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "When you look at the size of that factory on the previous page, it really shows how enabling all of these advancements are in achieving a 3 TWh goal by 2030.\nAnd not only is all of that manufacturing innovation fantastic for enabling scale; it’s also an additional 18% reduction in $/kWh at the battery pack level."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But wait, there’s more."
+    }
+  ]
+}

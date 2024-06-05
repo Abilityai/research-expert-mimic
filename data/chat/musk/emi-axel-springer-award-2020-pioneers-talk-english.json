@@ -1,0 +1,487 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/03/08/axel-springer-award-2020-pioneers-talk-english/",
+  "speakers": [
+    {
+      "id": "christoph_keese",
+      "name": "Christoph Keese"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "andreas_kroiss",
+      "name": "Andreas Kroiss"
+    },
+    {
+      "id": "photo",
+      "name": "Photo"
+    },
+    {
+      "id": "hannes_ametsreiter",
+      "name": "Hannes Ametsreiter"
+    },
+    {
+      "id": "olivier_reppert",
+      "name": "Olivier Reppert"
+    },
+    {
+      "id": "markus_essing",
+      "name": "Markus Essing"
+    },
+    {
+      "id": "asoka_wöhrmann",
+      "name": "Asoka Wöhrmann"
+    },
+    {
+      "id": "oscar_de_bok",
+      "name": "Oscar de Bok"
+    }
+  ],
+  "messages": [
+    {
+      "role": "christoph_keese",
+      "text": "Welcome to the Axel Springer Pioneers Talk. It’s a great pleasure to have you for everybody to be joining into our discussion. Theme of the day is ‘Mission to Mars’, and we have a very special guest today which is Elon Musk. Elon, welcome."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Thank you for having me."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "You’re the founder of so many companies, of Tesla, of SpaceX. We’re going to speak to that in a minute. But we have more than you in the round. We have entrepreneurs talk today, and let me shortly introduce the other guests in the round.\nDr. Hannes Ametsreiter,  he is the CEO of Vodafone, the telecommunication company. We have Olivier Reppert, he is CEO of Share Now, the car-sharing company; we have Markus Essing, the CEO of Philip Morris, undergoing a very strict renovation of its business model moving away from tobacco; we have Andreas Kroiss, CEO of Einhell, which is a company specialized in trading for do-it-yourself construction and building. I’m sorry…"
+    },
+    {
+      "role": "andreas_kroiss",
+      "text": "I said for batteries. Our main business is our battery platform. So, we have something in common."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Dr. Asoka Wöhrmann, he is CEO of DWS, the big b2c and investment company, and Oscar de Bok, he is CEO of DHL supply chain. And my name is Christoph Keese, I’m your moderator, I’m with Axel Springer. So, Elon, we just came from visiting your construction site in Grünheide. And I think it’s fair to say that everybody was deeply impressed. Twelve months ago, this was a forest, there was no…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "A cardboard factory, technically. It says that the trees were just grown for use in cardboard. We cleared not an old-growth forest; it was literally a cardboard farm. Sometimes people wonder, are we knocking down old trees. But it’s just, it’s actually literally a cardboard farm. We knock down a cardboard farm."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Okay, but there wasn’t any sewage, no freshwater, at least not in pipes underneath the ground…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just rain in a decent amount, yeah."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "And no electricity. And now it’s a huge factory, almost.\nPhoto: @Albrecht_Kohler aka @gigafactory_4 (Twitter)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, we have a lot of the core-shell that’s been built. And there’s still a (… 02:15) amount of work that goes on because the building is like, you know…- if you get a computer, this is the building is the box that the computer goes in, but the computer is the hard part."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Yes. So please tell us, Germans are not really famous for building buildings very quickly. Look at – we’re in Berlin right now – look at the Berlin airport, right? How do you manage to build so quickly?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it is actually quite difficult to get all the permits, and it requires a lot of effort and a lot of close cooperation with the authorities. So, I would definitely not say that it is easy to get the permits; it’s not easy. One of the approaches that we did take was to proceed at risk with temporary permits. So, there is a way to accelerate things in the system to go with temporary permits. But the risk is that your long-term permit could be denied, in which case that you have to stop everything."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "And tear it down."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. So, most companies are not willing to take the risk of the temporary permit and then the risk of having to stop and tear down."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Now, Elon, you’re a CEO of a publicly traded company. Very valuable."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Of many public (… 03:28). How do you explain taking this risk to shareholders?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. I mean, frankly, I think there’s probably a lot of risks associated with Tesla. And if a low-risk situation is what an investor wants, I would recommend not investing in Tesla."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "But many still invest in Tesla because they believe in speed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Why is speed of such an essence?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think the speed is a fundamental determinant of the competitiveness of any company. So especially when there’s technology involved. So, the rate of innovation fundamentally determines which companies succeed, you know, which companies are the number one in a particular arena, like, if one company has twice the speed of innovation of another, provided that company does not die of a self-inflicted wound, or die sort of having infant mortality, the company with the high rate of innovation will unequivocally win long term."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "You’re building a factory that is geared for half a million cars."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. To be clear, I very much think – I’ve said this many times – the making of a prototype is easy. But production is hard, especially if you have advanced production techniques that people have not used before.  The vast majority of our engineering effort is in manufacturing, basically designing the machine that makes the machine. So, I can’t emphasize this enough. The factory, especially an advanced factory, is the hard part; the vehicle design is comparatively easy.\nSo, we will aim for half a million vehicles a year. That is our goal to get there as quickly as possible. The only limitation on growth is how quickly we can make cars that are high quality, high reliability. That’s the only governing element on the rate of progress. But nonetheless, even with extreme effort, I think it probably takes us until – this is just a guess – until roughly the end of 22 to reach that level of production."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "What about demand? Not many Europeans drive electric cars yet. Yet you’re building a Giga factory as it’s called. Is demand or creation of demand an issue in your mind, or do you think if the car is good, if the car’s workable, if it’s affordable, it will be sold?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Definitely?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. No question."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "No doubt in your mind?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Zero."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "How come? Because creating demand is always a huge question on an entrepreneur’s mind, but you seem totally confident that it will work."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. If you have a compelling product, and it is affordable, so the value for money is good – you know, people can have enough money to buy it – and the product itself is compelling, then demand is never going to be an issue. So that is not something I worry about. I do worry about making sure that we can achieve affordability thresholds.\nBecause even if you make the value for money infinite, if people did not have enough money to buy it, they still can’t. Then it’s just frustrating for people. They see this great product, too expensive, can’t buy it. So, making the car affordable is – while continuing to improve the capabilities and quality of the product – that is the hardest problem."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "So many people ask, how does Elon Musk manage his life? And I know you’ve been asked this question a lot of times, and I heard a lot of interviews with you. But still, even I wonder all the time. How do you do this? Because Tesla in itself is a huge, complex operation with factories on all continents almost by now."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Almost."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Almost, yeah. But it’s not your only company. You have SpaceX, which seems to be a huge success. You have your own space program, you’re talking about a mission to Mars, you have Neuralink connecting computers to brains."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Neuralink is a small company."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "It’s a small company?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It is very small."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "You have the Boring Company building…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Very small"
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Very small company. You envisioned Hyperloop. It’s not a company, but…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the Boring Company can do the Hyperloop."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Boring Company can do the Hyperloop?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, an Hyperloop is essentially just a fast moving electric car in a vacuum tube."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Okay. You have Starlink bringing fast-speed internet to almost every, like, square meter on Earth."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Starlink is going to be great."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "It’s going to be great. But how…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s part of SpaceX."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "It’s part of SpaceX?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "How do you manage to dive so deeply into so many different engineering challenges?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I studied physics, and I certainly strongly recommend physics as a good grounding to understand the nature of reality. Physics is fundamentally just understanding how does the universe actually work. And then that’s a good foundation for a variety of engineering disciplines. And I think, also, the analytical principles, the sort of analytical constructs used in physics, apply to basically anything.\nIt’s, you know, physics developed all these ways of thinking, like, first principles thinking, thinking about things in the limit of high and low. You’re testing your hypothesis – the scientific principle, essentially. These things are incredibly helpful in all arenas. It’s just, most people tend to think by analogy or by comparison with something that already exists. And this is a sort of mental shortcut that requires less brain strain, but it does not… – It’s hard to get fundamental insights unless you think about things from a first principle standpoint."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "And the first principle standpoint is kind of deductive thinking that almost has like, the force of natural law, of a physical law, of making things happen because they need to happen?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I mean, first principles thinking is just saying,  ‘Okay, what are the most fundamental truths that we know about any given situation?’ Like the things that at a very granular level, the sort of simplest building blocks that we’re most convinced are true. And then you reason up from those fundamental axioms. It’s just sort of…- cogent thinking would be another way to refer to it.\nSay, like, are these axioms believed to be the most believed to be true? Are they the most relevant? Do they necessarily lead to a conclusion? What is the probability associated with that conclusion? Reality is really probabilities. It’s not deterministic. It’s not ‘One or the other.’"
+    },
+    {
+      "role": "christoph_keese",
+      "text": "When did you have the personal epiphany, understanding that this rule that comes from physics applies to the business world?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do think it applies to everything, but – I don’t know – I think probably 95 or 94, something like that."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "…while swimming, while jogging, under the shower? When did it hit you? Was it a process or a moment?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I was thinking about the internet. And this is the early days. And like, what is the internet fundamentally? You know, it’s not like a place you get email or post pictures or something. Really, the internet is like a nervous system for humanity, whereas previously, communication was more like osmosis. In order for information to travel, somebody would have to call someone with a phone or write them a letter, and then that letter would be carried by another person, by a series of people to the destination.\nNow, communication can happen instantly from any place in the world to any anyone else and does not need a human to carry it. This is sort of like, at a cellular level, you see, say a small primitive multicellular creature will just communicate by osmosis from one cell to the next, or diffusion, essentially. But once you have a more sophisticated organism, you have a nervous system. The speed at which information can travel is much faster. And the accessibility of information is fundamentally different.\nAnd now, with the internet, you could be, you know, in the middle of Amazon jungle with the internet with a satellite connection, and you have access to all the world’s information. Whereas previously, even if you lived in the\nLibrary of Congress\nin the US where the most books are, you still would only have access to a fraction of the world’s information. This is basically humanity becoming a superorganism to a degree that’s not possible unless you have sort of essentially instant lightspeed communication from anywhere to anywhere, as opposed to osmosis, diffusion."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "That’s humanity transforming into something like a bio-organism, or at least behaving to the same rules…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The speed of information flow and, just in fact, even not just speed but qualitatively, the access to information was so limited before. I mean, now, technically, you could teach yourself anything. Previously, say universities had somewhat of a monopoly on higher education. But now\nMIT\nhas all of the lectures online, you can buy all of the textbooks, you can do the tests online, you can learn anything you want, almost. I’m not sure what you couldn’t learn online. You can learn right now online for free, more than someone who did a doctorate could do before."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Very impressive."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, what is the purpose of universities at this point? I think it’s mostly just to hang out with peers, have some fun, and talk to friends. Not for information."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Good point. Hanging out with peers is exactly what we’re doing here. And so let’s open up the round and please shoot questions. This is supposed to be an open dialogue. Who wants to begin?\nDr. Hannes Ametsreiter, CEO Vodafone"
+    },
+    {
+      "role": "hannes_ametsreiter",
+      "text": "So, again, what Christoph said already, we were deeply impressed by what we saw with the Giga factory. It’s fantastic to see that. One question, which I find very interesting since we’re in the business of connectivity. And I once heard you’re saying that connected cars, autonomous driving, ‘What infrastructure do you need?’ And you answered I think it was like ‘We take what we get’, which is a bit disappointing for us because we have such great 4G, 5G, and want to hear that it needs to be connected. What is your perspective on connectivity bandwidth you need for the car, for the future?\nAnd then another question to it.  How do you stay ahead? Because I think you were the first one to understand that electromobility could be big and will be big, and it’s the right way. It’s good efficiency. How do you stay ahead of the others? Because now everybody’s coming. I think the biggest stimulus of electromobility is coming from competition because they all move in. That means you’re the original, you’re ahead. How do you stay ahead with battery and with concepts, software platform?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. Well, our cars have been connected almost from the beginning, from the early Roadsters. We put a cell modem even in the early Roadster, our very first cars."
+    },
+    {
+      "role": "hannes_ametsreiter",
+      "text": "I bought the first one in Austria."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, great, thanks. So, we started off, I think, it was 2G at the time or something. And now, our cars are about to transition to 5G and everything. It’s important to have a connected car, so you can update the software and you can do remote analysis. A lot of the problems can be solved with a software update. I mean, our car is extremely adaptable. It’s basically like a computer on wheels. This means less time that people have to go to a service center.\nAnd also, the car can diagnose its problems, tell the service center ahead of time, we can stock the parts, and then we can be much more efficient about service. And you can also watch any TV in the car. It has high-speed data car activity; you can watch, really any show you want on the car."
+    },
+    {
+      "role": "hannes_ametsreiter",
+      "text": "Is it a specific entertainment platform, or you just take anything out of the internet?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we just worked with Netflix and Disney and everyone else and just made it available. There’s also a web browser, so you can technically watch anything that’s on the internet, as well. And it also has video games. I think entertainment is going to become extremely important, especially as we move to fully autonomous cars. If the car is driving itself, then what are you going to do while you’re driving? Probably you want entertainment, maybe some productivity stuff."
+    },
+    {
+      "role": "hannes_ametsreiter",
+      "text": "And the autonomous driving, you just do with some sensors,\nlidar\n, radar, etc., this, or do you need more?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We believe just cameras are the way to go. We don’t use lidar at all. The entire road network is designed for passive optical, essentially vision. So, if you in order to make a car drive properly, you have to solve vision. And at the point where you have solved vision, you really don’t need any other instruments. Like a careful driver, human driver, can drive with an extremely good track record. And unlike a human, the computer does not get tired. It has 360-degree surround cameras, it’s got three cameras pointing forward. So, it’s like being able to see with eyes in the back of your head, basically. It’s really, vision is the way to go.\nThere’s some value to active optical, for a wavelength that’s occlusion penetrating, so it can see through fog or rain or dust. But it has to be high resolution, such that you can rely on like, for example, for radar at roughly four millimeter wavelength. This is good for occlusion penetration. But it needs to have enough resolution to know that you’re breaking for a real object and not just a bridge or a manhole cover or something like that."
+    },
+    {
+      "role": "hannes_ametsreiter",
+      "text": "How do you stay ahead?"
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Yeah, let’s go ahead. Last question, and then we move on to Olivier. Maybe just finish the last question. They asked, how do you stay ahead? How do you keep like, …?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know if we will stay ahead. Maybe we won’t stay ahead. I just think about how we can improve the experience for the owner of the car. How could we make it the most fun, the most functional? What can we do to help them love the product as much as possible? And if somebody else makes a better product, then more power to them. You know, then I guess we should lose.\nOlivier Reppert, CEO Share Now"
+    },
+    {
+      "role": "olivier_reppert",
+      "text": "Okay. We at Share Now, we really believe that we can improve the quality of life in the cities, and we love cars, really, we really love cars. But we also believe car sharing is something which makes the usage of cars much more efficient, for sure. And also, it makes it really affordable, even a very expensive car if you only have to pay it for a minute, or a minute basis or an hourly basis. It’s really, I would say something you can do whatever money you have.\nWhat would be very interesting for us, because we always try to look into the future, also in our business – very important, and to innovate  what we do in the mobility area -is how do you see mobility in 20 years, especially in urban areas. And maybe you have the one or other ideas, which would also help us to further develop our product."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think 20 years, almost every car made will be fully autonomous, and almost every car made will be electric. This does not mean that the whole fleet will be electric, or the whole fleet will be autonomous because the annual production rate of new cars, new cars and trucks, at full speed, is around 100 million units a year. But there’s two billion cars and trucks in active use, and that number is rising. Basically, it takes 20 years from the point of which 100% of all vehicle production is electric; it’s still 20 years from that point before the fleet is fully electric.\nSo, I think people sometimes… – you know it, of course – but most people don’t realize, it’s not like phones, you can’t just replace all the cars and trucks overnight. The new vehicle production is only 5% the size of the fleet. And as it is right now, only a few percent of new car production is electric. And at least right now, no new car production is fully autonomous. But 20 years from now, probably essentially 100% electric, essentially 100% fully autonomous."
+    },
+    {
+      "role": "olivier_reppert",
+      "text": "And even in the urban area where I would say the challenge is the highest concerning autonomous…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No problem."
+    },
+    {
+      "role": "olivier_reppert",
+      "text": "No problem in 20 years."
+    },
+    {
+      "role": "elon_musk",
+      "text": "In 20 years? My God. I hope civilization is around in 20 years. You know, I caught that as a win."
+    },
+    {
+      "role": "olivier_reppert",
+      "text": "Okay. Great. Yeah."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Thank you. Markus Essing, Philip Morris.\nMarkus Essing, CEO Philip Morris"
+    },
+    {
+      "role": "markus_essing",
+      "text": "We have been formulating a quite, I think ambitious, not very humble vision to lead the way into a smoke-free future, which is, I think, pretty bold. Your vision, I think what I learned is also goes beyond electric cars. It considers the transition to renewable energy, which I find super inspiring, and the most important thing to me or to my kids. What do you think is needed?\nOn the one hand, do we look at the, let’s say, green energy options that we know today, like sun and wind? And is it decentralized? Or would you build such an inspiring plant, as we have seen today, in a place where there’s a lot of sun or wind? Or do you even look at totally new energy sources that go beyond that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I feel quite comfortable in predicting that the vast majority of Earth’s electricity generation will be solar and electric, solar and wind, I should say. Wind has actually been… – I’ve been surprised just how good wind has gotten. Wind power is extremely low cost. In fact, a lot of the best wind turbines are made in Germany. So, the numbers are extremely good.\nThat needs to be paired with large battery packs in order to buffer the wind power because the wind speed changes. And sometimes it doesn’t blow wind. But people want steady electricity; they don’t want to have just have electricity when the wind’s blowing. So, you have to pair wind turbines with large battery packs. And the same is with solar. You’ve got to buffer the solar panels. Obviously, it’s no sun at night, and sometimes it’s very cloudy."
+    },
+    {
+      "role": "markus_essing",
+      "text": "Do you see the growing electronic car fleet as a buffer for that to be connected to the network, or is that unrealistic?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I certainly could be wrong about this point. The early Roadsters we made had vehicle-to-grid capability, but nobody used it. So we, you know, it costs some money, nobody was using it, so we turned it off. We can easily turn it back on right now. And actually easy, especially in Europe, because of the way the connectors work. A little more, we need like a maybe $100 accessory to be able to do this in the US.\nBut I really think people want to have a home-based battery…- like, I think the future that I see most likely is solar on the roof. So, either where the roof itself, this roof tile itself, are solar generating or solar panels retrofit on an existing roof combined with a local battery, we have a product called the power wall, it’s very popular. And then you need to combine that with grid-level solar and wind. And then we have a long-distance high-voltage DC connection.\nHigh voltage DC is extremely efficient at transferring electric power. No need for superconductors, in my view. The energy penalty for long-distance electricity transmission is I²R, so it’s the current squared times resistance. If you just increase the voltage, you can have the current be low , and then your I²R heating is low. So you have a high voltage, low current, you can transport a tremendous amount of electricity with very tiny losses. You still need to compare it to pair that.\nI think there’s other sources like hydro, geothermal. I’m actually not against nuclear. I know that some people don’t like nuclear. But I think actually, nuclear in a situation where there’s not natural disasters, is actually fine. I don’t think you want to have nuclear in a place that has lots of earthquakes or tsunamis or something like that, or big hurricanes with a name. But in places where natural disasters are not a concern, I think nuclear is very safe."
+    },
+    {
+      "role": "markus_essing",
+      "text": "Thank you very much.\nAndreas Kroiss, CEO Einhell"
+    },
+    {
+      "role": "andreas_kroiss",
+      "text": "Thank you. We are working in our company also on a battery platform, completely different. My vision is that we revolutionize the do-it-yourself market. I want to have a battery in every house with a garden that all the tools and all the garden equipment can be run on one platform. So, one battery for all tools around the garden and in the house. The key is for sure the battery, same as in the car.\nWe’re working every day on endurance and performance because this is what the customer requires in the car, and also in tools and in garden. The difference, I think is, we have our charger always with us. And when we go all in electricity mobility, what do you think how fast we can charge the cars, and how long it will take us? When everybody drives with the E-car to charge the battery that we have not a complete mess in front of the fueling stations?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think most people are going to charge their cars at home. Generally, people charge their cars where they charge their cell phones, and that’s at home at night. This actually works fairly well with the grid usage because the electricity usage on the grid is mostly during the day. You don’t actually need a lot of new power plants, given that people primarily charge their car at night, at their house.\nNow, not everyone can do that if you park on the street or something. And that’s where you need supercharger stations or charging at work. So total electricity power consumption obviously will increase. I mean, when everything, when all transport goes electric, all road transport going electric will approximately double electricity usage – total electricity usage. Like I said, because most of us do it at night, that doesn’t mean a doubling of the power plants.\nBut we will need to increase the amount of solar and wind, geothermal, hydro, nuclear – I think this is fine, like said – in order to solve the needs of electric vehicles. You know, my guess is that the majority of the electricity production long-term will be photovoltaics solar and paired with batteries, obviously. It’s my guess."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Dr. Wöhrmann – thank you very much – of DWS.\nDr. Asoka Wöhrmann, CEO DWS Group"
+    },
+    {
+      "role": "asoka_wöhrmann",
+      "text": "Thank you. DWS is an investing company in big companies around the world. But I want to say, I want to congratulate that you have chosen Germany for this Giga factory. I think you have might be looking to the engineering space. It’s a big culture in Germany. I have to say that I’m not native German, but I grew up here, and this is a really big culture for automobile industry. And that you came to Germany is impressive for me. But one thing what I learned…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I love Germany, it’s great."
+    },
+    {
+      "role": "asoka_wöhrmann",
+      "text": "Yeah, it might be we have more time to talk at a later stage. But one thing what I would like to also learn today from you is not to be engineer but to think like a physician. Now. This is important, I think. I have four young children. So, I have to advise them now a little bit differently."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Great. I think people should have more kids. Seriously. I mean, people don’t have humans. Where are the humans coming from? You have to make them somehow. Take a long time to bring up."
+    },
+    {
+      "role": "asoka_wöhrmann",
+      "text": "Yeah, I have four, but you know, I have to be careful, the cars are too small. But again, I want to say you have revolutionized and, I think, have a dedication for electric cars. What is your next big thing in your mind? You know, you called many companies you’re owning.  What is your real you say this is a disruption you have in mind? Maybe you don’t want to talk today, but it might be interesting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "First of all, my goal is not disruption for the sake of disruption. I really think there’s ‘Okay, there’s some important things we have to solve in order for the future to be good’. I’d say like my, you know, my sort of algorithm or optimization is like, ‘Okay, what set of things do we need to do to ensure, that increases the probability that the future is going to be good?’\nWe have to solve sustainable energy. This is totally logical. If we cannot solve sustainable energy, then we have unsustainable energy, then it’s just a matter of time before things go… – before civilization collapses. Even if there was not an environmental issue, since the availability of oil is limited, this is not something we can sustain long term. My original interest in electric vehicles was actually not environmental. It was out of concern. Just, you know, studying physics, and I’m like, ‘Wait a second. We immediately transition to solar electric, or we’re going to have a problem, and we run out of oil, civilization collapses.’ That’s the problem.\nNow, of course, the environmental concerns have added to the urgency. Because the more CO2 we put in the oceans and atmosphere, the more we increase the probability that something will go wrong. Like I said, things are much more probability as opposed to certainty. But I think it’s an unwise experiment to dramatically increase the CO2 in the atmosphere and oceans, just given that we know we need to transition anyway because we run out of oil.\nSo why run that experiment? It doesn’t make any sense. We know we have to transition to a sustainable energy economy. Then let’s just get on with it, you know, let’s just get on with it. And not run the crazy experiment and see what happens if the atmosphere has 2000 ppm CO2. This is crazy."
+    },
+    {
+      "role": "asoka_wöhrmann",
+      "text": "Okay. And thank you."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Last question. Mr. de Bok.\nOscar de Bok, CEO DHL Supply Chain"
+    },
+    {
+      "role": "oscar_de_bok",
+      "text": "Yeah, it’s nice you related to the point you were just mentioning. I run the DHL supply chain there. And we have quite some ambitious plans towards zero-emission and optimizing the supply chain for customers to get to this. But one of the things we obviously always face is that we also run an airline. And that’s actually the…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "How many planes do you have?"
+    },
+    {
+      "role": "oscar_de_bok",
+      "text": "…the biggest ambition on how do we get that carbon neutral? So, I’m curious to pick your brain on that one."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, actually, I’m just curious, how many aircraft do you have?"
+    },
+    {
+      "role": "oscar_de_bok",
+      "text": "Many."
+    },
+    {
+      "role": "elon_musk",
+      "text": "A lot. Okay. So, yes, aircraft will certainly go electric. The energy density requirement to have an aircraft with a reasonable range is much greater than for cars or ships. So, my (…32:54) in the envelope calculations suggests that you need about 400 watt-hours per kilogram to have an aircraft with a decent range. This is where with a range where it’s comfortably over 1000 kilometers, including some reserves and, you know, emergency power and that kind of thing.\nAnd then, as you go above 400 watt-hours per kilogram, it gets really better in a nonlinear way because you spend so much of your energy getting to altitude; once you get to altitude, the air is thin, and your cruise power is quite low. If you go to like 450 watt-hours per kilogram, even though it’s, let’s say 460, or 480 watt-hours per kilogram, you will double the range. Even like a 20% increase, let’s say in energy density, we’ll double the range to at least 2000 kilometers, if not more.\nAnd we’re getting there progressively with improvements in the energy density, almost every year. This is just watt-hours per kilogram. And a lot of the improvements of energy density actually also improve the cost because you need less material because you’re able to put more energy in the same amount of material, which means less material per unit of energy. You know, where we are right now is a little over 300 watt-hours per kilogram, and some of the very expensive cells can do over 400 watt-hours per kilogram. But the high-volume cells, I think we’ll start to approach 400 watt-hours per kilogram as well.\nI would expect to see a significant transition to electric aircraft, starting initially with propeller planes because they’re generally more efficient per kilometer than jets. And then turboprops, and then commercial airliners and that kind of thing. That transition probably happens, I think reasonably soon. Within the next five years , we should start to see electric jets."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Okay, it’s fascinating. Thank you. Our time is almost over. Let us just finish off with just a couple of very, very short questions and very short answers. Do you still plan to go to Mars? Personally?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I would like to go to Mars. The reason for SpaceX is not, you know – if I go to Mars, that’s nice to have but what is important is that we establish a self-sustaining city on Mars. This is important for the long-term future of humanity or consciousness as we know it. And so it’s less first about a few people to Mars but more about creating a self-sustaining city on Mars and humanity becoming a spacefaring civilization, which I think is incredibly inspiring for the future."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "Thank you. And very last question. You said you like Germany. For what reasons do you like Germany?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. I’ve always had a good time when I come here."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "You studied in Munich a semester?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, no, I studied German for a spring semester actually in Canada. So, I do like the sort of the engineering culture, and there’s… – it’s hard to say exactly why do you like something, but I always have a good time. People, I think they really want to get things done. And a lot of the coolest people I know are German. So, I don’t know. That’s why I love Germany."
+    },
+    {
+      "role": "christoph_keese",
+      "text": "We leave it at that. Thank you very much for being here. Thank you. Thank you very much.\nThis has been our pioneers talk. Thanks for joining us. Thanks everybody for being here. Thanks, Elon Musk, for joining us. Thank you, and have a good day."
+    }
+  ]
+}

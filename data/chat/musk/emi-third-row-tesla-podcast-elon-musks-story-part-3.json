@@ -1,0 +1,623 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/08/14/third-row-tesla-podcast-elon-musks-story-part-3/",
+  "speakers": [
+    {
+      "id": "omar",
+      "name": "Omar"
+    },
+    {
+      "id": "kimbal",
+      "name": "Kimbal"
+    },
+    {
+      "id": "sofiaan",
+      "name": "Sofiaan"
+    },
+    {
+      "id": "elon",
+      "name": "Elon"
+    },
+    {
+      "id": "kristen",
+      "name": "Kristen"
+    },
+    {
+      "id": "speaker",
+      "name": "Speaker"
+    },
+    {
+      "id": "gali",
+      "name": "Gali"
+    },
+    {
+      "id": "maye",
+      "name": "Maye"
+    },
+    {
+      "id": "viv",
+      "name": "Viv"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent"
+    }
+  ],
+  "messages": [
+    {
+      "role": "omar",
+      "text": "Kimbal!"
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah, what are you guys doing?"
+    },
+    {
+      "role": "sofiaan",
+      "text": "We’re recording a podcast."
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah. How do you want me to join?"
+    },
+    {
+      "role": "sofiaan",
+      "text": "Yeah, pull up a chair."
+    },
+    {
+      "role": "omar",
+      "text": "So, what do you remember about Zip2?"
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah.\nSo – but then the internet came along, we had this huge thing. I mean, it was always there, but it became a big deal. And then Elon was working in Silicon Valley. And as I remember it, Elon and I’ve heard about a meeting where some of the Yellow Pages companies were thinking of doing sort of online Yellow Pages, and…"
+    },
+    {
+      "role": "elon",
+      "text": "No, (… 1:01:07)"
+    },
+    {
+      "role": "kimbal",
+      "text": "I don’t know –\nit’s a long time ago. You called me up, and you said you think you can do a better job."
+    },
+    {
+      "role": "omar",
+      "text": "Maybe you made that up to try and get Kimbal interested?"
+    },
+    {
+      "role": "elon",
+      "text": "How would I have been in a meeting with Yellow Pages Com?"
+    },
+    {
+      "role": "kimbal",
+      "text": "I have no idea. That’s what I remember. Or what is your version of that?"
+    },
+    {
+      "role": "elon",
+      "text": "I don’t even know any Yellow Pages…"
+    },
+    {
+      "role": "kimbal",
+      "text": "I agree with you (… 1:01:33) But so it was like, I think, April of 1995. We started working on it. I guess the idea was fairly simple to take mapping and apply it to the internet. And there were a few other companies trying to do it but no one with the very cool technology of what was called ‘vector-based mapping’, which is what we all use today; where the map is actually alive, you know, not just a picture."
+    },
+    {
+      "role": "omar",
+      "text": "That was very ahead of its time."
+    },
+    {
+      "role": "kimbal",
+      "text": "I think we were the first. I know, there were other people putting maps on the internet. But I think we were the first to put vector-based mapping, which is the kind of technology used today on the internet – and door-to-door directions. So it was cool. I remember my brother and I pressing ‘go’ on his server at our office and it took about 60 seconds for the first door-to-door directions to come up on the screen. And even 60 seconds was amazing. Yeah, you’re like, “This is incredible! Door-to-door directions to anywhere! This is just amazing.” And …"
+    },
+    {
+      "role": "elon",
+      "text": "It definitely seemed amazing at the time."
+    },
+    {
+      "role": "kimbal",
+      "text": "It definitely seemed amazing at the time. Now it’s so absolutely normal, but this was like an impossible thing."
+    },
+    {
+      "role": "kristen",
+      "text": "So cool."
+    },
+    {
+      "role": "kimbal",
+      "text": "This is so cool. And using Java, Elon had coded an interactive map, which, again, all super normal stuff today. But the ability to just draw a square and zoom in or zoom out – that was just unheard of technology."
+    },
+    {
+      "role": "elon",
+      "text": "To draw a square…"
+    },
+    {
+      "role": "speaker",
+      "text": "You remember that? It was like you draw a little red square on the Java map."
+    },
+    {
+      "role": "elon",
+      "text": "On the browser, that was unusual."
+    },
+    {
+      "role": "omar",
+      "text": "Well, you cheated if you’re using Java applets."
+    },
+    {
+      "role": "elon",
+      "text": "This was when Java sucked, and there’s barely (…1:03:29)"
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah, this was like, probably the most…"
+    },
+    {
+      "role": "elon",
+      "text": "It was 95."
+    },
+    {
+      "role": "kimbal",
+      "text": "I think we even got some sort of recognition because it was the most advanced Java application on Java at the time because it was so ridiculously hard. It was a really crappy technology at the time, but this was done on it."
+    },
+    {
+      "role": "elon",
+      "text": "The thing is that if you downloaded the Java applet, we could transmit the vector data, not just a bitmap. And this was when everyone was on a modem. So, sometimes on 20 kilobits modem trying to download a map image would take forever, whereas if you had been downloading the vector data that locally rendered using the Java applet was relatively speaking super fast. That’s what made it cool."
+    },
+    {
+      "role": "omar",
+      "text": "I mean, even like, vector maps… – even Google Maps were using like raster maps a few years ago. It seems very ahead of its time."
+    },
+    {
+      "role": "kimbal",
+      "text": "But we were the first… I believe the two of us were the first humans to see maps and door-to-door directions on the internet, which I think is pretty cool."
+    },
+    {
+      "role": "kristen",
+      "text": "When did\nGarmin first launch?"
+    },
+    {
+      "role": "kimbal",
+      "text": "Well, they weren’t internet-based, right? Actually, I don’t think Garmin was even a player at this point. Navteq was the only place – that’s where we got the data from. And they were building it for Hertz NeverLost, which came out a few years later. You know, those things that no one uses in the GPS systems. Really bad technology, but the actual mapping data was amazing. And so we took that and applied it to the internet. We were 22 and 23 at the time. It had cost them $300 million to build this data, and they gave it to us for free, with a simple contract saying, if you ever make any money on the go, you got to come to share it with them. And that’s how we got it."
+    },
+    {
+      "role": "omar",
+      "text": "That’s amazing."
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah, you can see, it’s amazing what happens if you ask nicely. And what’s also part of it was these guys have been working so hard on the tech, and no one had ever seen what they were doing because it was not on the internet. And it was not being used for Hertz. And so it was just – they were excited that someone would use the data and people could see what they’ve been working on."
+    },
+    {
+      "role": "gali",
+      "text": "So how did you guys get the engineering chops to pull this off? Because it sounds like you were so young, you didn’t really have any help, and then you built this like cutting-edge piece of technology. I mean, did you teach yourselves? (… 1:05:57)"
+    },
+    {
+      "role": "kimbal",
+      "text": "I don’t know what age you published your first…"
+    },
+    {
+      "role": "gali",
+      "text": "…like Blastar game, right?"
+    },
+    {
+      "role": "kimbal",
+      "text": "When he was 12."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Did you write any other cool stuff back then?"
+    },
+    {
+      "role": "elon",
+      "text": "I wrote a bunch of games. And then like occasionally software for people that asked for software, you know."
+    },
+    {
+      "role": "kimbal",
+      "text": "You’ve also worked for a video game company."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. Our (… 1:06:21) is called…"
+    },
+    {
+      "role": "kimbal",
+      "text": "…Rocket Science."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah."
+    },
+    {
+      "role": "kimbal",
+      "text": "That’s funny."
+    },
+    {
+      "role": "omar",
+      "text": "By the way, we took a SpaceX tour yesterday. It was insane."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Thank you for that. That was amazing. Yeah, it was so good."
+    },
+    {
+      "role": "omar",
+      "text": "It’s like Batman’s lair in there."
+    },
+    {
+      "role": "kimbal",
+      "text": "That’s right. It really is amazing."
+    },
+    {
+      "role": "sofiaan",
+      "text": "But it gives you perspective on what Tesla’s doing because the technology is so advanced, and there’s interchange of information like the… I know they use the Inconel fuse from SpaceX when they couldn’t get the power output right. It kept burning up the fuse in the performance models. So, now it’s awesome."
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah, it’s pretty cool to see the SpaceX tech being applied to Tesla. I think there’s one joint employee between SpaceX and Tesla, and it’s the materials… – is it the materials engineer?"
+    },
+    {
+      "role": "omar",
+      "text": "Or what about Elon?"
+    },
+    {
+      "role": "kimbal",
+      "text": "In addition to Elon, because there’s just not that many humans on the planet that know how to do this stuff."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Well, sounds like back in the old days – was it just Elon doing the coding?"
+    },
+    {
+      "role": "kimbal",
+      "text": "I mean, I did a little like HTML (… 1:07:21)"
+    },
+    {
+      "role": "omar",
+      "text": "Do you still do any coding, Elon?"
+    },
+    {
+      "role": "elon",
+      "text": "Not\nrecently. But you know, we had no money, so couldn’t employ (…1:07:28). So I wrote actually the software."
+    },
+    {
+      "role": "kristen",
+      "text": "And you worked through the night, right? You just never slept."
+    },
+    {
+      "role": "kimbal",
+      "text": "I mean, we lived in a little office. I think this address was 470 Sherman Way in Palo Alto."
+    },
+    {
+      "role": "maye",
+      "text": "It was about the size of this room here."
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah, it was probably like 15 feet wide by 30 feet long with a little closet in the back. And we couldn’t afford a place to sleep like a house or home or apartment. So we would sleep in it, and it had a couch that was a futon. We would pull out the futon and take turns sleeping on the futon or the floor. Though he coded a lot of nights, I usually got the futon at night. He had to code it at night because the server, when the internet was live, needed to be functional. And we just had data for the Bay Area at the time. So we were just kind of making sure that the people in the Bay Area could use it.\nAnd then I had a little mini-fridge with a cooking stove on it, and we cooked simple things, you know, like pasta sauce and pasta and things like that. That would be as cheap as dirt. People think it’s expensive to eat real food. It is actually really cheap to cook some vegetables, pasta, and beans – it’s super cheap. And then we would go eat at Jack in the Box, which I can still… I still kind of shiver a little. I haven’t eatenthere for probably 20 years or longer, maybe 22 years, and I can still probably recite the entire menu."
+    },
+    {
+      "role": "elon",
+      "text": "We cycled through the menu. Jack in the Box was like a few blocks away from…"
+    },
+    {
+      "role": "kimbal",
+      "text": "And it was open 24 hours."
+    },
+    {
+      "role": "elon",
+      "text": "Open 24 hours. If you tried to get dinner in Palo Alto after 10 p.m., it’s very difficult."
+    },
+    {
+      "role": "sofiaan",
+      "text": "So did they know you very well at Jack in the Box?"
+    },
+    {
+      "role": "kimbal",
+      "text": "Well, they didn’t really. And I remember one time I got a milkshake, and I was so tired. It was like four in the morning, and I just needed to get some sugar for the rest of the night. And there was something in it, and I remember just flicking it up and pretending it didn’t exist and just kept drinking my milkshake. It was like or that kind of like not in the zone to go back into Jack in the Box to argue about a milkshake, but I don’t want to not drink the milkshake."
+    },
+    {
+      "role": "elon",
+      "text": "The probable reason their food was so cheap is that they had some people I think that had a food poisoning…"
+    },
+    {
+      "role": "kimbal",
+      "text": "Right around that time when they got into a food poisoning scare."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. So it was just very cheap to eat there. And I figured they probably taking some action after the food poisoning – hopefully."
+    },
+    {
+      "role": "kimbal",
+      "text": "You run out of things to eat because after like the 17th ‘Chicken Fajita Pita’, you can’t do it."
+    },
+    {
+      "role": "elon",
+      "text": "The Teriyaki Bowl. I remember that Teriyaki Bowl."
+    },
+    {
+      "role": "kristen",
+      "text": "Was that one good?"
+    },
+    {
+      "role": "elon",
+      "text": "Actually, it varied, but it was eatable."
+    },
+    {
+      "role": "kimbal",
+      "text": "Which one was?"
+    },
+    {
+      "role": "elon",
+      "text": "The Teriyaki Bowl."
+    },
+    {
+      "role": "kimbal",
+      "text": "Teriyaki Bowl wasn’t bad. There was a sort of sourdough grilled cheese thing that wasn’t bad."
+    },
+    {
+      "role": "omar",
+      "text": "Those are the good old days, right?"
+    },
+    {
+      "role": "kimbal",
+      "text": "I mean, it was (…1:10:40) the good days. I mean, we were just hoping that people would let us stay in the country. We weren’t really that worried about what we were eating. We were just doing everything we could to get someone to support the company. I didn’t understand the venture capital world that much. We were doing a seed round, an angel round, and doing our best to talk to everyone and anyone we could find.\nWe had a very good friend with us, Greg Curry, who’s now passed away, who was older than us by about ten years, I think. He was a wonderful mentor who helped us out and put a little money in as well. And then I did a lot of the work to just network with people. I think our first salesman who was selling Yellow Pages ads for us, he was a real estate agent who knew another person who knew this other person who helped us raise… put together – we ended up not doing the round – but put together around $200,000 or something. And then…"
+    },
+    {
+      "role": "elon",
+      "text": "We did like part of it or something."
+    },
+    {
+      "role": "kimbal",
+      "text": "But I think once we had the Java map, which was really quite impressive – I mean if you’ve never seen… if you’ve never seen Google Maps or Yahoo Maps before, it really is a remarkable thing to see. We started to go… we got some audiences with some venture capitalists. And it just went from, we were starving, we had no car or the car we had had broken…"
+    },
+    {
+      "role": "elon",
+      "text": "The wheel fell off."
+    },
+    {
+      "role": "kimbal",
+      "text": "The wheel fell off, yeah."
+    },
+    {
+      "role": "omar",
+      "text": "What kind of car was it?"
+    },
+    {
+      "role": "sofiaan",
+      "text": "I remember that."
+    },
+    {
+      "role": "kimbal",
+      "text": "An old BMW 3 Series. Where we did a road trip across the country."
+    },
+    {
+      "role": "kristen",
+      "text": "Was this the one you (…1:12:17)?"
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, the one that my mom has some pictures of."
+    },
+    {
+      "role": "kimbal",
+      "text": "I think there’s still a carve in the road at Page Mill…"
+    },
+    {
+      "role": "elon",
+      "text": "Literally, the wheel came off…"
+    },
+    {
+      "role": "kimbal",
+      "text": "The wheel fell off, and the guy…"
+    },
+    {
+      "role": "elon",
+      "text": "Literally, in the intersection."
+    },
+    {
+      "role": "kimbal",
+      "text": "…just drove it without the wheel to the side."
+    },
+    {
+      "role": "elon",
+      "text": "It was pretty much time for the junkyard at that point. Because the whole car has fallen apart. Yeah, it’s like the point at which the wheel falls off, it’s time to go to the junkyard."
+    },
+    {
+      "role": "maye",
+      "text": "Kimbal, the night before you met the venture capitalist, you and I were (… 1:12:56) in two in the morning."
+    },
+    {
+      "role": "kimbal",
+      "text": "No, that was way later because we already had the deal. But we were not – I don’t know if you were, but I was not legally in America. So I was illegally there."
+    },
+    {
+      "role": "elon",
+      "text": "I was legally there. But I was meant to be student work. I had a student work visa."
+    },
+    {
+      "role": "kimbal",
+      "text": "You were supposed to be doing a Ph.D. at Stanford and decided not to."
+    },
+    {
+      "role": "elon",
+      "text": "I was allowed to do work, sort of supporting, whatever, you know."
+    },
+    {
+      "role": "kimbal",
+      "text": "I tried to get a visa, but there’s just no visa you can get to do a start-up."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, unfortunately, nobody was paying you anything either."
+    },
+    {
+      "role": "kimbal",
+      "text": "And so we ended up getting… – We got a deal from Mohr Davidow and this really hot, well-respected DC firm. And we had to break the news to them that we take the bus… we took the bus to get to the offices. We don’t have a car, and we don’t have an apartment. And we are illegal."
+    },
+    {
+      "role": "elon",
+      "text": "No, no, you’re illegal. I was legal, but my visa was gonna run out in two years."
+    },
+    {
+      "role": "kimbal",
+      "text": "Okay. I was definitely illegal. We needed to get it sorted. And so they were great. I mean, the lead investor’s wife was from Canada. They knew the whole challenge of being an immigrant. And we had Canadian passports. And so they funded the company, and they gave us some money to each buy a car. And they gave us a salary so we could rent an apartment and I got a visa through the company. But the morning we were supposed to present to the partners, I went to Toronto because my mother was freaking out because she needed her computer fixed."
+    },
+    {
+      "role": "elon",
+      "text": "What, really?"
+    },
+    {
+      "role": "kimbal",
+      "text": "Seriously. This is brutal. So I flew out there, planning to fly back on Sunday, and the meeting was on Monday. And I get to the airport on Sunday, and the border control, they actually called me out. They’re like, “You’re going down for work, you’re not going down for travel.” I was like, “No, no, I’m not going out for work.” I explained… actually, no, I didn’t. I said, “I’m not going to work,” because I think that’s what I was supposed to say. The lawyers told me not to say anything. And so they rejected me from the border, and I was supposed to do the presentation with Elon the next morning.\nAnd so a friend of mine came to pick me up at the airport and drove me across the border. We went to the Buffalo border and just said, we’re going to go see the David Letterman Show. And the border patrol guy was like, “Yeah, go ahead.” I took the late-night flight from Buffalo to San Francisco, and we made the meeting in the morning."
+    },
+    {
+      "role": "elon",
+      "text": "So yeah, technically, you’re not going out for work because that would have required to have been paid something."
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah, I wasn’t actually paid anything. Yeah, technically, we would actually… no, you’re right."
+    },
+    {
+      "role": "elon",
+      "text": "You’re not actually breaking the law."
+    },
+    {
+      "role": "kimbal",
+      "text": "We were not breaking the law because we were not being paid anything. Exactly. Yeah, I should have told him that at the border control. Anyway, it was very frustrating."
+    },
+    {
+      "role": "elon",
+      "text": "“Does work means getting paid for something?”"
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah. Right. Exactly. We were not being paid. Exactly. But yeah, so then they approved the deal that Monday, and we started building Zip2, you know, and it wasn’t a business model for, you know… back in those days…"
+    },
+    {
+      "role": "elon",
+      "text": "It was kind of like a… the business model was similar sort of Yelp, but it was at a time when most businesses didn’t know what the internet was. And most people didn’t have an email address or went online."
+    },
+    {
+      "role": "kimbal",
+      "text": "We explained to them what a website was. The internet was the kind of this cool thing, people were using Netscape browser. And I think by the end of it, we got 18,000 businesses to be on our service – paying to be, like, with websites and everything. You know, a lot of the things that you can do today, like automatically build websites, we built a lot of those sort of tools to make it easier to build websites. And we had to sell door-to-doorbecause that was the only way."
+    },
+    {
+      "role": "kristen",
+      "text": "Did you hire people, or is it just you guys going door-to-door?"
+    },
+    {
+      "role": "kimbal",
+      "text": "No, no, we had a team by that time because we could hire a team. But I remember talking to a Yellow Pages guy once, and it was amazing. He was the head of the Toronto Star that… they owned all the Yellow Pages…"
+    },
+    {
+      "role": "elon",
+      "text": "“The Yellow Pages will never die.” Famous last words."
+    },
+    {
+      "role": "kimbal",
+      "text": "Literally. Because we went to talk to him to partner. We said, “We want to partner with you.” And “Let’s just be one of your partners to put the Yellow Pages online.” And he picked up the Yellow Pages, this book, this big, thick book, that’s full of ads, this multi-billion dollar revenue stream."
+    },
+    {
+      "role": "elon",
+      "text": "I mean, these guys were so arrogant and so like, ‘we are kings of the world’, and ‘you will never’ and…"
+    },
+    {
+      "role": "kimbal",
+      "text": "He picked up this book, and he like threw it at me and he said, “Do you ever think you’re going to replace this?” I don’t know,I was just like, in my head is like, “Dude, you’re already dead.”"
+    },
+    {
+      "role": "omar",
+      "text": "Reminds me of\nthe anti-Tesla people, you know. “Gas cars will never die.”"
+    },
+    {
+      "role": "kimbal",
+      "text": "I mean, we saw the growth of the internet, we saw the use of the Yellow Pages. We saw even more competitors and stuff. And no one was using the paper Yellow Pages if you had the choice. No one. And so, at that point, very few people were on the internet, so it was really a question of is the internet going to succeed, which we were huge believers in, and these guys were not. They didn’t even clue in."
+    },
+    {
+      "role": "elon",
+      "text": "There was like one foreign company after another we would say to like, “Listen, let’s put your Yellow Pages online, so it’s gonna cost very little, you know, you still own all the content and everything.” And they’re like… they just throw us out of the office. You know, like, “No, and how dare do you even suggest this?” And we’re like, “Okay, guess we’ll just build it.”"
+    },
+    {
+      "role": "kimbal",
+      "text": "But it’s been interesting to watch over the years where, like, in PayPal, the competitors were not banks, you know, even though that should have been the competitors."
+    },
+    {
+      "role": "elon",
+      "text": "No, there were banks that try to compete."
+    },
+    {
+      "role": "kimbal",
+      "text": "But wasn’t it eBay mostly that was sort of …"
+    },
+    {
+      "role": "elon",
+      "text": "(…1:19:05) point?"
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon",
+      "text": "That which… but it wasn’t exactly like PayPal. Generally, eBay had an issue with trying to get payment for stuff, like two people would have to mail checks to each other."
+    },
+    {
+      "role": "gali",
+      "text": "Yeah, that’s gonna work."
+    },
+    {
+      "role": "elon",
+      "text": "If you mail a check, and you receive the check, and how do you know then the check’s real, then you’ve got to cash check and it takes two to five days for the money to transfer. So it could take two weeks before somebody had confirmed payment, and then they would ship you the item. And so the transaction velocity was very low as a result. If you had instant payment, you improve transaction velocity dramatically like a factor of maybe three to five."
+    },
+    {
+      "role": "kimbal",
+      "text": "Yeah. I’ve just sort of seen that when an industry is disrupted, that you’ve worried about the major players. I mean, when we started Tesla we were aspiring to be the GM of the 21st century. Four years later GM went bankrupt. You’re like, “Okay, we don’t want to be you.” And it’s, you know, whoever is going to be the main competitors – we don’t know yet – but it may not be the entrenched players. It may be sort of other companies.\nAnd so that happened at Zip2 where we tried our best to partner with the industry, because that seemed like the best way to make some money and actually have a revenue model. And we ended up finding the newspapers to be a better partner because they didn’t have the Yellow Pages business. And they I think were smarter; their classifies business was getting eaten away by Craigslist. You know, before Craigslist, classifies was the bread and butter of the newspaper. And of course, anyone who used Craigslist would never use the newspapers.\nSo it was those folks seem to have a better – at least some of the players – had more vision of the future. And so our business became putting the major newspapers, New York Times to all of the, you know, Philadelphia Inquirer, Chicago Tribune, or whatever, all the main players, all… the LA Times, everyone.\nAnd then we started going internationally doing the same thing. So if you went on to the New York Times website, and you wanted to search for a restaurant, of course, they have all these reviews, or if you wanted to search for a home, we tied the MLS together with maps and door-to-door directions. So all of these services that we now use and take for granted that use maps and door-to-door directions, we did that all in the 90s to find a business model."
+    },
+    {
+      "role": "viv",
+      "text": "Why did you do PayPal after Zip2? Why don’t you go like straight into sustainable energy?"
+    },
+    {
+      "role": "elon",
+      "text": "Alright, so I’mgonna recall things that are (… 1:21:57) quite a while. So it would have been like ’98 when Compaq offered to acquire Zip2, which I think it was a good thing Zip2 got acquired because, as I mentioned, the newspapers or actually the media companies had too much control over Zip2. So they were not… we had great technology that was not being deployed effectively. And they’re just generally averse to anything that could remotely be competitive with their newspapers. So, we’re sort of trapped in this situation. And the bidding of Compaq came along, and they bought the company in late ‘98, and the deal closed early ‘99. So, as a result, that came out, I had some capital – $20 million or something out of it.\nI think the thing that was frustrating to me was that we’d built incredible technology, and it had not been used. That was just sort of very disappointing. You know, put a lot of work into this technology, and it just wasn’t being used. So I was like, “Okay, I want to do one more thing on the internet, just to show that we can make technology that is… when it’s used properly, can be extremely effective. So I thought about what’s digital, essentially. What exists in the form of information and is also not high bandwidth? Because in ‘99, people still mostly had modems. So you couldn’t… like video was not really feasible in ‘99.\nSo with money is low bandwidth, and digital, effectively, mostly digital. So it’s like, what can we do to make money work better? Like money, in my view, is essentially an information system for labor allocation. It hasn’t power in and of itself. It’s like a database for guiding people to what they should do. And so you can think of banks as a set of heterogeneous databases with… that they’re actually not very secure. And certainly, the monetary system, the transport system of checks is very insecure, still is insecure, so are credit cards. And it’s still and mostly bad processing; it was entirely bad processing that they said was not.\nSo payments were, or money was like heterogeneous, high latency, low security collection of databases. That’s what banks are. And so, just from an information theory standpoint, this should be something that can be much better if it can be real-time, secure, and, you know, just very fast. Essentially, it’s just one real-time database. So it’s like, “Okay, let’s try to build that.” So that’s what X.com was. And then, at that time, I also thought we should try to just do all the financial things as well – not just payments. I still think that’s really what PayPal should have done, but whatever, it’s water under the bridge at this point.\nAnd then, there was a company that was formed around the same time called Confinity, which was Peter Thiel and Max Levchin, and Luke Nosek, David Sacks, Ken Howery,  and (… 1:25:55). And at X.com, there’s also like Jeremy Stoppelman, who created Yelp, Roelof Botha, who then went on to run Sequoia and found YouTube. That was X.com. So we just had these two companies with a crazy amount of talent – X.com and Confinity. Confinity started as a PalmPilot cryptography company back when you could communicate via the infrared port of a PalmPilot. So it was like, you’d basically communicate crypto tokens between PalmPilots using the infrared port and then reconcile them on a PC.\nNow obviously, that’s, they evolved to go in the payments direction as well. And we were both in Palo Alto, we’re like, literally a block away from each other. I think at one point, we’re briefly even in the same building. So we were just competing with each other like maniacs. And then we had a coffee on University Avenue and said, “Hey, why don’t we just combine our efforts, or we’re just gonna bludgeon each other to death here?” So we merged Confinity and X.com and raised $100 million in the space of three weeks in March of 2000. And in April, the market went into freefall."
+    },
+    {
+      "role": "vincent",
+      "text": "I remember that."
+    },
+    {
+      "role": "elon",
+      "text": "That was insane. And we kind of thought it was going to go into freefall. So better get this thing done fast or we both gonna die. X.com was technically the acquirer of Confinity, but it was, you know, 50.1, 49.9, or something like that. And then, there was a lot of drama – there was so much drama at X.com. The company was called X.com for about a year. And then, we change the company name to the product name. The product was PayPal. (… 1:28:22)"
+    },
+    {
+      "role": "omar",
+      "text": "Who came up with the PayPal name?"
+    },
+    {
+      "role": "elon",
+      "text": "I actually don’t know."
+    },
+    {
+      "role": "omar",
+      "text": "People call you guys the “\nPayPal Mafia\n” now. Thiel wrote that in his book."
+    },
+    {
+      "role": "elon",
+      "text": "You know, I don’t know who did the ‘PayPal’. I was never a huge fan of ‘PayPal’ as a name. The reason being that I thought it made sense for the company to kind of…"
+    },
+    {
+      "role": "omar",
+      "text": "Broader?"
+    },
+    {
+      "role": "elon",
+      "text": "…be much broader. Yeah, exactly. I mean, if you don’t get yourself to payments, then necessarily people want to transfer money out of the system. And as soon as they transfer money out of the system, the efficiency of the database drops dramatically because now you’re in the traditional banking world.\nSo if you just offer all the things that… – if you just basically address all the reasons why people are taking money out of the PayPal system, so you have to provide them with checks so that you have a bridge to the legacy transaction system, you have to provide them with a debit card, provide them with the ability to get a loan and that kind of thing. But these are all ancillary to accelerating the velocity and accuracy and security of payments. Then, basically, PayPal would be where all the money is. It would just suck all the money out of the banks, and the banks would go away."
+    },
+    {
+      "role": "vincent",
+      "text": "So any plan you’re going to do with the X.com?"
+    },
+    {
+      "role": "elon",
+      "text": "I wrote… – if they just executed the business, the product plan I wrote in July 2000, let’s just do that. I’ve talked to them several times. But they didn’t do it."
+    }
+  ]
+}

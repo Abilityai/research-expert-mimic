@@ -1,0 +1,287 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/01/29/lex-fridman-ai-podcast-iii-part-3/",
+  "speakers": [
+    {
+      "id": "lex_fridman",
+      "name": "Lex Fridman"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "lex_fridman",
+      "text": "Autopilot. Tesla Autopilot has been through an incredible journey over the past six years, or perhaps even longer in your mind, in the minds of many involved."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think that’s where we first connected, really, was the autopilot stuff, autonomy and…"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "The whole journey was incredible to me to watch. Part of it is I was at MIT, and I knew the difficulty of computer vision, and I had a lot of colleagues and friends about the DARPA challenge and knew how difficult it is. And so there was a natural skepticism when I first drove a Tesla with the initial system based on Mobileye. Yeah, I thought there’s no way. The first time I got in, I thought there’s no way this car could stay in the lane and create a comfortable experience. So my intuition initially was that the lane keeping problem is way too difficult to solve."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, thank you. Yeah, that’s relatively easy."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "But solve in the way that we just – we talked about previous prototype – versus a thing that actually creates a pleasant experience over hundreds of 1000s of miles or millions. I was proven wrong…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We had to wrap a lot of code around the Mobileye thing; it didn’t just work by itself."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I mean, that’s part of the story of how you approach things sometimes. Sometimes you do things from scratch. Sometimes at first, you kind of see what’s out there, and then you decide to do it from scratch. One of the boldest decisions I’ve seen is both on the hardware and the software to decide to eventually go from scratch. I thought again, I was skeptical whether that’s going to be able to work out because it’s such a difficult problem. And so, it was an incredible journey what I see now with everything, the hardware, the compute, the sensors. The things I maybe care and love about most is the stuff that Andrej Karpathy is leading with the dataset selection, the whole data engine process, the neural network architectures, the way that’s in the real world… that network is tested, validated, all the different test sets versus the image net model of computer vision, like what’s in academia is like real-world artificial intelligence."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Andrej is awesome and obviously plays an important role. But we have a lot of really talented people driving things. And Ashok is actually the head of autopilot engineering. Andrej is the director of AI."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "AI stuff, yeah. I’m aware that there’s an incredible team of just a lot going on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, people will give me too much credit, and they’ll give Andrej too much credit."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And people should realize how much is going on under the…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s just a lot of really talented people. The Tesla Autopilot AI team is extremely talented. It’s like some of the smartest people in the world. So yeah, we’re getting it done."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What are some insights you’ve gained over those five, six years of autopilot about the problem of autonomous driving. So you leaped in having some sort of first principles kinds of intuitions, but nobody knows how difficult the problem…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I thought the self-driving problem would be hard, but it was harder than I thought. It’s not that I thought it’d be easy, I thought it would be very hard, but it was actually way harder than even that. I mean, what it comes down to at the end of the day is to solve self-driving, you basically need to recreate what humans do to drive, which is humans drive with optical sensors, eyes, and biological neural nets.\nThat’s how the entire road system is designed to work: with basically passive optical and neural nets, biologically. So, actually, for full self-driving to work, we have to recreate that in digital form. That means cameras with advanced neural nets in silicon form. And then it will obviously solve for full self-driving. That’s the only way. I don’t think there’s any other way."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "But the question is, what aspects of human nature do you have to encode into the machine, right? So you have to solve the perception problem like detect… and then you first realize, what is the perception problem for driving? Like, all the kinds of things you have to be able to see; like, what do we even look at when we drive? I just recently heard Andrej talked about, at MIT, about car doors. I think it was the world’s greatest talk of all time about car doors – you know, the fine details of car doors, like what is even an open car door, man.\nThe ontology of that, that’s a perception problem. We humans solve that perception problem, and Tesla has to solve that problem. And then there’s the control and the planning coupled with the perception. You have to figure out what’s involved in driving, especially in all the different edge cases. I mean, maybe you can comment on this, how much game-theoretic kind of stuff needs to be involved at a four-way stop sign? As humans, when we drive, our actions affect the world, like, it changes how others behave. In most autonomous driving, you’re usually just responding to the scene, as opposed to really asserting yourself in the scene. Do you think…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think these sort of control logic conundrums are not the hard part. The, you know, let’s see…"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What do you think is the hard part of this whole beautiful, complex problem?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a lot of freaking software, man, a lot of smart lines of code. For sure, in order to create an accurate vector space… so like, you’re coming from image space, which is like this flow of photons going to the cameras. And then, since you have this massive bitstream in image space, and then you have to effectively compress a massive bitstream corresponding to photons that knocked off an electron in a camera sensor and turn that bitstream into vector space.\nBy vector space, I mean, you’ve got cars and humans and lane lines and curves and traffic lights and that kind of thing. Once you have an accurate vector space, the control problem is similar to that of a video game, like Grand Theft Auto or Cyberpunk. If you have accurate vector space. It’s, the control problem is… I wouldn’t say it’s trivial. It’s not trivial. But it’s not like some insurmountable thing. But having accurate vector space is very difficult."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, I think we humans don’t give enough respect to how incredible the human perception system is – that mapping the raw photons to the vector space representation in our heads."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Your brain is doing an incredible amount of processing and giving you an image that is a very cleaned-up image. When we look around here, you see color in the corners of your eyes, but actually, your eyes have very few cones, cone receptors in the peripheral vision. Your eyes are painting color in the peripheral vision. You don’t realize it, but your eyes are actually painting color. And your eyes also have this blood vessels and also all sorts of gnarly things, and there’s a blind spot. But do you see your blind spot? No, your brain is painting in the blind spot. You can do these things online, where you, “Look here, and look at this point, and then look at this point.” And if it’s in your blind spot, your brain will just fill in the missing bits."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "The peripheral vision is so cool. It makes you realize all the illusions, for vision science… it makes you realize just how incredible the brain is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The brain is doing a crazy amount of post-processing on the vision signals for your eyes. It’s insane. And then, even once you get all those vision signals, your brain is constantly trying to forget as much as possible. Perhaps the weakest thing about the brain is memory. So because memory is so expensive to our brain and so limited, your brain is trying to forget as much as possible and distill the things that you see into the smallest amounts of information possible. So your brain is trying to not just get to a vector space, but get to a vector space, that is the smallest possible vector space of only relevant objects.\nYou can sort of look inside your brain, or at least I can, like when you drive down the road and try to think about what your brain is actually doing consciously. And it’s constantly… it’s like, you’ll see a car… because you don’t have cameras, you don’t have eyes in the back of your head or the side, you know, so you say like, your head is like a… you know, you basically have two cameras on a slow gimbal.\nAnd eyesight’s not that great, okay? And people are constantly distracted and thinking about things and texting and doing all sorts things they shouldn’t do in a car, changing the radio station, having arguments. When’s the last time you looked right and left, and rearward, or even diagonally forward to actually refresh your vector space? You’re glancing around, and what your mind is doing is trying to distill the relevant vectors, basically objects with a position and motion, and then editing that down to the least amount that’s necessary for you to drive."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "It does seem to be able to edit it down or compress even further into things like concepts. The human mind seems to go sometimes beyond vector space to sort of space of concepts to where you’ll see a thing. It’s no longer represented spatially somehow; it’s almost like a concept that you should be aware of. Like, if this is a school zone, you’ll remember that as a concept. Which is a weird thing to represent, but perhaps for driving, you don’t need to fully represent those things, or maybe you get those kind of indirectly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you need to establish vector space and then actually have predictions for those vector spaces. Like you drive past a bus, and you see that there’s people… before you drove past the bus, you saw people are crossing… or just imagine there’s like a large truck or something blocking sight. But before you came up to the truck, you saw that there were some kids about to cross the road in front of the truck. Now you can no longer see the kids, but you would now know, okay, those kids are probably going to pass by the truck and cross the road, even though you cannot see them. So you have to have memory… you need to remember that there were kids there, and you need to have some forward prediction of what their position will be at the time of relevance."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "It’s a really hard problem. So with occlusions in computer vision, when you can’t see an object anymore, even when it just walks behind a tree and reappears – that’s a really, really… I mean, at least in academic literature, it’s tracking through occlusions – it’s very difficult."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we’re doing it."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I understand this. So, some of it…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s like object permanence. The same thing happens with the humans with neural nets. Like, when a toddler grows up, there’s a point in time where they have a sense of object permanence. Before a certain age, if you have a ball, or toy or whatever, and you put it behind your back, and you pop it out – before they have object permanence, it’s like a new thing every time. It’s like, “Whoa, this toy went poof, disappeared, and now it’s back again.” And they can’t believe it. They can play peek-a-boo all day long because peek-a-boo is fresh every time. But then we figure out object permanence, then they realize, “Oh, no, the object is not gone. It’s just behind your back.”"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Sometimes, I wish we never did figure out object permanence."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so that’s a…"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s an important problem to solve."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. An important evolution of the neural nets in the car is memory across both time and space. You have to say like, how long do you want to remember things for and there’s a cost to remembering things for a long time. You can run out of memory if you try to remember too much for too long. And then you also have things that are stale if you remember them for too long. And then you also need things to remember over time.\nSo even if you have, for argument’s sake, five seconds of memory on a time basis, but let’s say you’re parked at a light, and you saw – use a pedestrian example – that people were waiting to cross the road, and you can’t quite see them because of an occlusion, but they might wait for a minute before the light changes for them to cross the road, you still need to remember that that’s where they were. And that they’re probably going to cross the road type of thing. So even if that exceeds your time-based memory, it should not exceed your space memory."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And I just think the data engine side of that, so getting the data to learn all the concepts that you’re saying now, is an incredible process. It’s this iterative process. It’s this HydraNet of many…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "HydraNet – We’re changing the name to something else."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Okay. I’m sure it will be equally as “Rick and Morty” like."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We re-architected the neural nets in the cars so many times, it’s crazy."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Oh, so every time there’s a new major version, you’ll rename it to something more ridiculous – or memorable and beautiful? Sorry, not ridiculous, of course."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you see the full array of neural nets that are operating the cars, it’s kind of boggles the mind. There’s so many layers, it’s crazy. We started off with simple neural nets that were basically image recognition on a single frame from a single camera and then trying to knit those together with it with C. I should say we’re really primarily running C here because C++ is too much overhead. And we have our own C compiler. So, to get maximum performance, we actually wrote our own C compiler and are continuing to optimize our C compiler for maximum efficiency. In fact, we’ve just recently done a new rev on a C compiler that will compile directly to our autopilot hardware."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So you want to compile the whole thing down with your own compiler…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "…like sort of efficiency here. Because there’s all kinds of computers, CPU, GPU, there’s like basic types of things. And you have to somehow figure out the scheduling across all of those things. And so you’re compiling the code down, that does all…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Okay. So that’s why there’s a lot of people involved."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s a lot of hardcore software engineering at a very sort of bare metal level because we’re trying to do a lot of compute that’s constrained to our full self-driving computer. We want to try to have the highest frames per second possible within a sort of very finite amount of compute and power. We really put a lot of effort into the efficiency of our compute. There’s actually a lot of work done by some very talented software engineers at Tesla that, at a very foundational level, to improve the efficiency of compute, and how we use the trip accelerators, which are basically doing matrix math dot products, like a bazillion dot products. It’s like what our neural nets is, like, compute wise, like 99% dot products."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And you want to achieve as many high frame rates like a video game? You want full resolution, high frame rate…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "High frame rate, low latency, low jitter. One of the things we’re moving towards now is no post-processing of the image through the image signal processor. What happens for almost all cameras is that there’s a lot of post-processing done in order to make pictures look pretty. We don’t care about pictures looking pretty. We just want the data, so we’re moving just raw photon counts.\nThe image that the computer sees is actually much more than what you would see if you represented it on a camera. It’s got much more data. And even in very low light conditions, you can see that there’s a small photon count difference between the spot here and the spot there, which means that it can see in the dark incredibly well because it can detect these tiny differences in photon counts, like, much better than you would possibly imagine. And then we also save 13 milliseconds on latency."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "From removing the post-processing on the image?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, because we’ve got eight cameras, and then there’s roughly one and a half milliseconds or so, maybe 1.6 milliseconds of latency for each camera. Basically, bypassing the image processor gets us back 13 milliseconds of latency, which is important. And we track latency all the way from photon hits the camera to all the steps that it’s got to go through to get… go through the various neural nets and the C code. There’s a little bit of C++ there as well. Maybe a lot, but the core stuff, the heavy-duty compute, is all in C.\nSo we track that latency all the way to an output command to the drive unit to accelerate, the brakes just to slow down, the steering turn left or right. Because you got to output a command, that’s got to go to a controller, and some of these controllers have an update frequency that’s maybe 10 Hertz or something like that, which is slow – that’s like, now you lose 100 milliseconds, potentially. Then we want to update the drivers on the steering and braking control to have more like 100 Hertz instead of 10 Hertz, and then you get a 10-millisecond latency instead of 100 milliseconds worst-case latency.\nActually, jitter is more of a challenge than the latency. Latency is like you can anticipate and predict, but if you’ve got a stack-up of things going from the camera to the computer, through then a series of other computers, and finally to an actuator on the car – if you have a stack-up of tolerances, of timing tolerances, then you can have quite a variable latency, which is called jitter. And that makes it hard to anticipate exactly how you should turn the car or accelerate because if you’ve got maybe 150, 200 milliseconds of jitter, then you could be off by about 2.2 seconds. And this could make a big difference."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So you have to interpolate somehow to deal with the effects of jitter so that you can make robust control decisions. The jitter is in the sensor information, or the jitter can occur at any stage in the pipeline?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you have fixed latency, you can anticipate and say, “Okay, we know that our information is, for argument’s sake, 150 milliseconds stale.” For argument’s sake, a 150 milliseconds from photons taking camera to where you can measure a change in the acceleration of the vehicle. Then you can say, “Okay, well, we know it’s 150 milliseconds, so we’re gonna take that into account and compensate for that latency.\nHowever, if you’ve got then 150 milliseconds of latency plus 100 milliseconds of jitter, which could be anywhere from zero to 100 milliseconds on top, then your latency could be from 150 to 250 milliseconds. Now you got 100 milliseconds that you don’t know what to do with. That’s basically random. So getting rid of jitter is extremely important."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And that affects your control decisions and all those kinds of things. Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The car is just going to fundamentally maneuver better with lower jitter."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Got it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The cars will maneuver with superhuman ability and reaction time, much faster than a human. I mean, I think over time, the autopilot full self-driving will be capable of maneuvers that are far more than what James Bond could do in the best movie type of thing."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "That’s exactly what I was imagining in my mind, as you said it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s like impossible maneuvers that a human couldn’t do."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Well, let me ask, sort of looking back the six years, looking out into the future. Based on your current understanding, how hard do you think is this full self-driving problem? When do you think Tesla will solve level 4 FSD?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, it’s looking quite likely that it will be next year."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And what is the solution look like? Is it the current pool of FSD beta candidates? They start getting greater and greater as there have been degrees of autonomy. And then there’s a certain level beyond which they can do their own, they can read a book."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, you can see that… anybody who has been following the full self-driving beta closely will see that the rate of disengagements has been dropping rapidly. So like a disengagement be where the driver intervenes to prevent the car from doing something dangerous potentially. The interventions per million miles has been dropping dramatically. And that trend looks like what happens next year is that the probability of an accident on FSD is less than that of the average human, and then significantly less than that of the average human. So it certainly appears like we will get there next year. Then, of course… then there’s going to be a case of… okay, well, we’ll now have to prove this to regulators and prove it… We want a standard that is not just equivalent to a human but much better than the average human. I think it’s got to be at least two or three times higher safety than a human, two or three times lower probability of injury than a human before we would actually say, “Okay, it’s okay to go.” It’s not gonna be equivalent, it’s gonna be much better."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So if you look… FSD 10.6 just came out recently, 10.7 is on the way, maybe 11 is on the way somewhere in the future?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. We were hoping to get 11 out this year, but it’s… 11 actually has a whole bunch of fundamental rewrites on the neural net architecture and some fundamental improvements in creating vector space."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So there is some fundamental leap that really deserves the 11. I mean, it’s a pretty cool number."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. 11 would be a single stack for all… you know, one stack to rule them all. But there are just some really fundamental neural net architecture changes that will allow for much more capability, but at first, they’re going to have issues. We have this working on like sort of alpha software, and it’s good, but it’s basically taking a whole bunch of C/C++ code and deleting a massive amount of C++ code and replacing it with the neural net. Andrej makes this point a lot, which is neural nets are kind of eating software. Over time, there’s less and less conventional software, more and more neural net – which is still software, it still comes down to lines of software. But just more neural net stuff, and less heuristics, basically. More matrix-based stuff and less heuristics-based stuff.\nOne of the big changes will be… right now, the neural nets will deliver a giant bag of points to the C++ or C and C++ code. We call it the ‘giant bag of points’. So you got a pixel and something associated with that pixel – like, this pixel is probably car, that pixel is probably lane line. Then you’ve got to assemble this giant bag of points in C code and turn it into vectors. And it does a pretty good job of it. But we need another layer of neural nets on top of that to take the giant bag of points and distill that down to vector space in the neural net part of the software as opposed to the heuristics part of the software. This is a big improvement."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Neural nets all the way down, so you want."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not even all neural nets, but this is a game-changer to not have the bag of points, the giant bag of points, that has to be assembled with many lines of C++, and have a neural net just assemble those into a vector, so that the neural net is outputting much, much less data. It’s outputting, “This this is a lane line, this is a curb, this is drivable space, this is a car, this is a pedestrian or cyclist,” or something like that. It’s really outputting proper vectors to the C/ C++ control code, as opposed to this sort of constructing the vectors in C, which we’ve done, I think, quite a good job of, but it’s kind of hitting a local maximum on how well the C can do this. So this is really a big deal.\nAnd just all of the networks in the car need to move to surround video. There’s still some legacy networks that are not surround video. All of the training needs to move to surround video. The efficiency of the training needs to get better, and it is. Then we need to move everything to raw photon counts as opposed to processed images, which is quite a big reset on the training because the system is trained on post-processed images. So we need to redo all the training to train against the raw photon counts instead of the post-processed image."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So ultimately, it’s kind of reducing the complexity of the whole thing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Lines of code will actually go lower."
+    }
+  ]
+}

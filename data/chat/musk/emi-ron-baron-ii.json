@@ -1,0 +1,223 @@
+{
+  "src": "https://elon-musk-interviews.com/2023/01/19/ron-baron-ii/",
+  "speakers": [
+    {
+      "id": "ron_baron",
+      "name": "Ron Baron"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "ron_baron",
+      "text": "Let’s go to Twitter just for a minute. And we’ll go back to this stuff, which is more interesting to me."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I tried to get out of the deal.\n(imitates a scene from ‘The Godfather’)\nIt reminds me of the scene from The Godfather, basically."
+    },
+    {
+      "role": "ron_baron",
+      "text": "But you told me you wanted to be asked tough questions. So on Twitter…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What could possibly go wrong?\n(Laughter)"
+    },
+    {
+      "role": "ron_baron",
+      "text": "I saw this article. It says you bought something called Twitter and says, Musk puts off lifting Twitter bans. And so obviously, the big deal in Twitter is that it was incredibly poorly managed, this business. But those guys somehow did great for their shareholders by selling it to us, right? But we didn’t buy what they’re selling, we bought something what it’s going to become."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Most people would say like, given how the market has evolved this year, the price is on the high side."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Right. But that’s basically what it is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But I think there is a tremendous amount of potential that will be very difficult to achieve but possible. And I think, ultimately, it could be one of the most valuable companies in the world."
+    },
+    {
+      "role": "ron_baron",
+      "text": "When we think about this, in order for that to happen… So, I met you, and it took me a few years, and then I believe in you and your heart…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think at our first meeting, you were a bit skeptical."
+    },
+    {
+      "role": "ron_baron",
+      "text": "So the way I think about it is that I’m trusting you with the future of our country, the world, actually – we are in charge of a media like that. And so what I think about is, how do you prevent to being Jewish… how do you prevent this antisemitism? Or if I were black, how do you prevent the use of the N-word?\nAnd when I think about Tik Tok, they’re able (…) to tell what you’re going to do. You move your left arm, you move your right arm, what other pictures you like. That’s what they do with their software, and they’re great with their algorithm. How can we not have an amazing algorithm because we know more about them (…) Tik Tok? And we ought to know what interests people have. And because of that, in words, we should be able to figure out words that people are using, what that means, and considering what content they’re interested in. We should be able to figure out with software how to moderate this and prevent that from happening. Is that true or not?\nThere is a huge problem with spam and bots and trolls on Twitter, and organizations trying to manipulate public opinion and just generally making the system worse. But I think that there is an answer to that, which is to get as many regular users of Twitter to be a subscriber for $8 a month.\nElon Musk"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, absolutely. Totally agree. I want to be clear, content moderation policies have not changed at Twitter, and it is not okay to engage in hateful conduct on Twitter. We have had actually, oddly, targeted attacks, where temporarily people have been able to put some hate speech on Twitter, but then it’s been taken down immediately. What I’m trying to achieve with this sort of enabling everyone to be payment verified with Twitter Blue is to try to get as many people payment verified as possible. It’s only eight bucks a month. Although,  some people were complaining about that, and these are people who pay more than that for their latte.\nPart of it is revenue, part of it is payment authentication. Because there is a huge problem with spam and bots and trolls on Twitter, and organizations trying to manipulate public opinion and just generally making the system worse. But I think that there is an answer to that, which is to get as many regular users of Twitter to be a subscriber for $8 a month. You’ll get a lot more than just a blue checkmark for $8 a month. Because now we can afford long-form video, long audio podcasts. And we can also start sharing revenue with content creators, which is essential."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Give them a chance to make money."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. I mean, right now, if you’re on Twitter, you’ll see a lot of links posted to YouTube and Tik Tok. And that’s because, at least until now, Twitter is not even given them enough video length to post a video, and then they give the content creators no means of monetizing the video. So we’re going to change that rapidly at Twitter. That’s going to be transformative. But if we can get enough verified users, and we’re going to prioritize Twitter search replies and mentions by verified users first…"
+    },
+    {
+      "role": "ron_baron",
+      "text": "That’s what is called the amplified."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, so if you’re payment verified with blue checkmark, then you will be prioritized. The point of this is to make crime not to pay. Because right now to create a bot on Twitter cost less than a penny. The cost of crime is so cheap, and that’s part of why crime and hateful conduct pays. But if somebody risks losing even eight bucks, it’s too expensive to now have 100,000 fake accounts because they have to spend $800,000 a month as opposed to $800 a month.\nThen also, since we’re using payment authentication, we’re piggybacking on the authentication system as a payment system. And we’re also piggybacking on Apple’s authentication system, which is another layer of security. So the net effect will be over time that the verified users will pretty much always be at the top of comments and search, and you’ll have to scroll far to see the unverified users, which will be the bots and trolls and whatnot. This is sort of analogous to Google search. If you go to page eight of Google search, there will be a ton of scams and stuff, you know, call it page eight, page nine, something like that. But the thing is that Google search results are so good for page one that you never go to page eight. It’s rare."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Something we don’t want to see, it gets pushed way down."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, basically, the bad stuff gets pushed way down. And then crime stops paying, and they stop trying to do all these things."
+    },
+    {
+      "role": "ron_baron",
+      "text": "And we can recruit them as engineers to program for us. Crime guys."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, the joke is like, what’s the best place to hide a dead body would be the second page of Google search results. Nobody ever goes there."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Today, we fired half of Twitter. And that should save us what, four billion a year?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it’s not going to save four billion a year. I wished. To be frank, Twitter was having pretty serious revenue challenges and cost challenges before the acquisition talks started. And any company that is dependent on advertising has had a hard time. So if you look at, say Snapchat, or, you know, Google, Facebook, whatnot, they’ve all had a difficult time with advertising revenue dropping. And Twitter is currently more vulnerable than they are to advertising because most of Twitter’s advertising is large brand advertising, as opposed to direct response. So it’s kind of like a much more of a discretionary ad spend than it is if you can do direct response for a specific product.\nI think this is, frankly, an attack on the First Amendment. If activist groups can pressure advertisers (…) to suppress free speech, then that doesn’t seem right.\nElon Musk\nThen we also recently had a lot of difficulty with activist groups pressuring major advertisers to stop spending money on Twitter. This is despite us doing everything possible to appease them and to make it clear that moderation rules and hateful conduct rules have not changed, and we’re continuing to enforce them, a number of major advertisers have stopped spending on Twitter. This doesn’t seem right because we’ve made no change in our operations at all, but nonetheless, the activist groups have been successful in causing a massive drop in Twitter advertising revenue. We’ve done our absolute best to appease them, and nothing is working. So this is a major concern. And I think this is, frankly, an attack on the First Amendment. If activist groups can pressure advertisers, upon which Twitter is fundamentally dependent, to suppress free speech, then that doesn’t seem right."
+    },
+    {
+      "role": "ron_baron",
+      "text": "I meant, by the way, 400 million instead of 4 billion. Okay, so we’re now there, you’re living at this place, you go there for the next couple three weeks, (…) and then we have a team lined up, you think you have a team lined up to manage it. And then you would just do it the same way we do with SpaceX and Tesla, where you just attend the meetings regularly and say, “This is what we need to do. Do it. This is what we need.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, my workload went up from about, I don’t know, 70 to 80 hours a week to probably 120. So yeah, I go to sleep, I wake up, I work, go to sleep, wake up, work, do that seven days a week. I’ll have to do that for a while. No choice. But I think once Twitter is set on the right path, it is a much easier thing to manage than SpaceX or Tesla. I really understand the internet, and I wrote software. I wrote software personally for 20 years. You know, I’m one of the key people behind X.com, which became PayPal. And also, I know how to make a way better than PayPal."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Because you built PayPal?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, pretty much. I mean, with a lot of other people, but there’s a product plan I wrote, which I wish I’d kept a copy of, in July of 2000, where I thought it would be possible to make the most valuable financial institution in the world. And we’re going to execute that plan from 22 years ago, which, amazingly, no one has done. That’s a part of why I think Twitter will be ultimately extremely valuable because I’m going to execute the X.com game plan from 22 years ago with some improvements.\nAnd then we’re also going to obviously make Twitter just a way better system. I mean, it stands to reason that if a social media company is not taking steps to make it positive to be on that social platform, then people won’t come or they’ll leave. You speak of sort of antisemitism or racism or anything like that. Well, I mean, who’s going to stay on a platform, if that’s prevalent? (…) inherent wrongness, who is going to stay on the platform? Our goal with Twitter is, how do we get 80% of America? Maybe not like the sort of far left and the far right, and maybe we don’t want them necessarily – but how do we get 80% of the public to join a digital town square, and voice their opinion and exchange ideas and maybe once in a while, change their minds? I mean, once in a while.\nI’m confident we can satisfy 80% of America, 80% of the world, but maybe not the 10% most extreme of either side. I would count that as a great outcome. I think it is important to have a sort of a digital town square where people feel comfortable talking.\nElon Musk"
+    },
+    {
+      "role": "ron_baron",
+      "text": "I read also that you said – and then we’ll move off Twitter – but you said that your goal is you want to make the 20% of people who are on the far right to hate you just like you want to make the 20% of people on the far left to hate you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I don’t want them to hate me. But I think it’s just very difficult to satisfy extremists unless you fully buy into whatever their dogma is. But I’m confident we can satisfy, like, I don’t know, 80% of America, 80% of the world, but maybe not the 10% most extreme of either side. I would count that as a great outcome. I think it is important to have a sort of a digital town square where people feel comfortable talking.\nAnd I also think one of the things which is important is to be able to sort of decide what kind of experience you want to have on Twitter. Because some people might say, okay, I want it like this was a radio station, I want this easy listening, smooth jazz station. Okay, cool, so you have that setting for Twitter. And then some people might say, “No, I want Heavy Metal thrash.” Okay, then you don’t mind someone saying mean things to you, you know, within the context of the law. And you don’t mind engaging in vigorous arguments on Twitter, that kind of thing. But you should be able to pick your preference and decide if you want sort of full contact battle, or do you want like, “I just want to look at puppies and flowers and nice landscapes and stuff.”"
+    },
+    {
+      "role": "ron_baron",
+      "text": "So, let’s go off Twitter. Two other topics where we have some questions. Number one is logistics. When we’re starting to make so many cars by the end of this year, 40,000 cars a week…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I have to be careful of MNPI\n(Material non-public information)\n. But I believe I have said in the past publicly that our aspiration is to reach 40,000 a week by the end of this year."
+    },
+    {
+      "role": "ron_baron",
+      "text": "So if we’re doing that, then that means that you’re producing a car within 15 seconds. But that’s still only 2 million cars a year, and it is 100 million cars to be made a year. And so the question, there’s presumably capacity to be able to logistics to ship all these cars all over the place to have people pick them up where they want them? But not if they all do in the same week?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, totally. We had a bit of criticism for our Q3 results because we had a lot of cars in transit. And the reason was that we got too big for our cars to actually be transported in the final few weeks. There weren’t enough car carriers and weren’t enough ships. But it’s actually good in the long run to smooth out deliveries and actually have cars in transit at the end of the quarter because then you’re not rushing to get everything delivered by the end of the quarter and paying all these expedite fees."
+    },
+    {
+      "role": "ron_baron",
+      "text": "My question, though, is, we have autonomous driving, and we have autonomous trucks. Is that one of the ideas that we’re going to be able to move things around with our own if there’s not enough drivers? That we’re going to have autonomous transport? That’s question one."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. We can also, if you’re in the area, have the car just drive to you.\nThe best suppliers wouldn’t talk to us because a car startup has not been successful in the United States since Chrysler in the 20s. (…) For an American car startup, Tesla was the first success in 100 years.\nElon Musk"
+    },
+    {
+      "role": "ron_baron",
+      "text": "That’s one. And then the other one is about materials. We have somehow navigated supply chain problems from other people. And we might have thought that it was the absolute brilliance that we had to be able to do that. But probably the reason is that when you start off and you don’t make any cars a year, and you go to someone who said we’re going to make 20 million cars a year from zero, who’s going to believe you and make all the equipment that we need.\nSo as a result of that, you were forced initially to be able to say, we’ll vertically integrated. We can’t rely on you, we will do vertical integration. (…) anyone wants to show us a mine. We got people in mines who are knowledgeable, and they come to say, ‘we can produce this much lithium, this much copper’. We are able to assess that and give contracts to be able to say ‘contractual agreements, okay’. And they’ll rely on our agreement. Other people, they won’t. Is that fair?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The scaling constraints change as time goes by. In the beginning, we were just very vertically integrated because the suppliers didn’t take us seriously. Like the best suppliers wouldn’t talk to us because a car startup has not been successful in the United States since Chrysler in the 20s, I believe they started. So it’s been a century since a car company was successful in the US that was not a foreign car company coming in that was already successful in their home market. But for an American car startup, Tesla was the first success in 100 years. So you can imagine if you’re an auto supplier that doesn’t sound like a smart financial decision.\nSo we had to just build a lot of stuff ourselves, be vertically integrated, or we couldn’t create the car. Then that ended up being an asset because now we understood so much about the entire supply chain or what it took to build the car, so we were able to design a more integrated vehicle that actually needed far fewer parts and cost less and weighs less, and has higher performance. But it is looking increasingly like for some of the critical elements of batteries that Tesla will need to get into the mining business – mining and refining."
+    },
+    {
+      "role": "ron_baron",
+      "text": "it. That’s why Glencore would announce (…)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, we’ve never contemplated investing in Glencore. I’m talking about Tesla doing it."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Ourselves?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Have you some time for questions from the audience? (…) So, by the way, if you leave before we give away the door prizes, which are two Teslas you’re not eligible to get the Teslas. But go ahead. I gave an extra one once, I guess it was last time, but we’re not going to do that again. You got to be in your seat in order to get the Teslas. I’m paying for it. Not Elon. Questions?\nPerson from the audience:\nElon, Seneca once said, every genius has a touch of madness. I thought you’d like that quote."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I agree with the madness part.\nI actually rarely tried to convince anyone to invest in Tesla. And many times, I’ve recommended people ‘don’t invest in Tesla’. And I’ve said, ‘our stock is too high’. But then people just ignore me and keep buying the stock for some reason.\nElon Musk\nPerson from the audience:\nTesla, as a publicly traded company, I think it’s down 40% or something from its high, is selling at 70 times earnings. Meanwhile, Mercedes Benz, which now produces EVs, is selling at six times earnings and yielding 5%. Why should I invest in Tesla rather than Mercedes Benz?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I actually rarely tried to convince anyone to invest in Tesla. And many times, I’ve recommended people ‘don’t invest in Tesla’. And I’ve said, ‘our stock is too high’. But then people just ignore me and keep buying the stock for some reason.\nBut I think, at a very high level, I’d say that autonomy is an insanely fundamental breakthrough. And no one is even close to Tesla for solving generalized autonomy, generalized self-driving vehicles. No one’s even close. And with self-driving, as I was talking about earlier, the car becomes roughly five times more useful, but it costs the same to build. Can you imagine what would happen if a company was doing like a 25 to 30% gross margins, but suddenly, that same thing was five times more valuable? What would that do to the value of Tesla and the value of that car? It boggles the mind, actually. So, you know, if you think of net present value of future cash flows, if you actually do the math on that, it’s insane.\nThen there’s also the optimist program, which is our humanoid robot. We will leverage our manufacturing expertise and the intelligence we’ve developed for self-driving to have a useful humanoid robot. Now, the economy is fundamentally GDP per capita times capita. If you no longer have a constraint on capita because of the useful humanoid robot, it is not clear that there’s any limit to the size of the economy. And these things will actually happen. So, that’s probably a good reason."
+    },
+    {
+      "role": "ron_baron",
+      "text": "One more question. Okay, this is last question. Go ahead.\nPerson from the audience:\nGiven all the cars that you’re going to make, and I hope Ron’s right, whether it’s 10 million or 20 million, you’re going to need a lot of charging stations around the world. Have you thought about doing it more efficiently and more economically and better for our ecosystem from an ESG perspective. Because you may or may not know, there are 400 million existing streetlights in the world. And every streetlight has pervasive persistent electricity. You could take some amount of those streetlights, which are half owned by utilities and half owned by cities, and repurpose that. And that would probably be the most cost-efficient way to roll out millions of charging stations all over the world."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, thanks. I think they actually are using that idea in London and some other cities. But the long-term goal for our supercharger stations is that they all have solar, like Tesla solar, and batteries at them so that as many as possible are self-sustaining. That the supercharger stations generate the energy during the day and then also have a localized battery pack so that people can charge at night so that the Tesla supercharging stations would continue to function even in a zombie apocalypse. You never know, that’s coming one day, we know it, is just a matter of time.\n(Laughter, applause)"
+    },
+    {
+      "role": "ron_baron",
+      "text": "Thank you very much. Can I get a selfie with you? I post it on Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Also, please use Twitter."
+    },
+    {
+      "role": "ron_baron",
+      "text": "I’m doing this right now."
+    },
+    {
+      "role": "elon_musk",
+      "text": "(addresses the audience)\nAnd please subscribe to Twitter verified, eight bucks. Actually, it’s technically at 7.99, so slightly less. But I really encourage everyone here to use Twitter. And, you know, yeah, please do that.\n(laughing)"
+    },
+    {
+      "role": "ron_baron",
+      "text": "Here you go. How do we do this?\n(holding the mobile and positioning for the selfie)\nOkay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. Thank you, everyone."
+    },
+    {
+      "role": "ron_baron",
+      "text": "Thank you very much. I really appreciate it."
+    }
+  ]
+}

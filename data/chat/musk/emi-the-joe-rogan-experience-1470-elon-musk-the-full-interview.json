@@ -1,0 +1,2635 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/04/10/the-joe-rogan-experience-1470-elon-musk-the-full-interview/",
+  "speakers": [
+    {
+      "id": "joe_rogan",
+      "name": "Joe Rogan"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "jamie",
+      "name": "Jamie"
+    }
+  ],
+  "messages": [
+    {
+      "role": "joe_rogan",
+      "text": "Welcome back."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Here we go again."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Great to see you, and congratulations."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Thank you."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You will never forget what is going on in the world when you think about when your child is born. You will know for the rest of this child’s life; you were born during a weird time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s for sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That is for sure. Probably the weirdest that I can remember."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, and he was born on May the fourth."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s hilarious, too. May the fourth be with him."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, exactly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It has to be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Hopefully. I sure hope so."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Perfect."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I mean, that was the perfect day for you. How do you say the name? Is it a placeholder?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "First of all, my partner is the one that actually mostly came up with the name."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Congratulations to her."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. She’s great at names. I mean,  it’s just X, the letter X, and then the Æ is like pronounced ‘ash’. Yeah, and then A-XII is my contribution."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, why A-XII?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Archangel 12\n, the precursor to the SR-71. Coolest plane ever. True."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I agree with you. I don’t know. I’m not familiar with it. I know what the SR-71 is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The SR-71 came from a CIA program called Archangel. It’s the Archangel project."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh wow, what a dope-looking plane. Well, as a person who’s very much into aerial travel as you are, that’s perfect."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s pretty great."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Pretty great. Does it feel strange to have a child while this craziness is going? Does it feel like you’ve had children before? Is this any weirder?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, I think it’s better being older and having a kid. I appreciate it more. Yeah, babies are awesome."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They are pretty awesome."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’re awesome. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When I didn’t have any of my own, I would see other people’s kids, and I didn’t not like them, but I wasn’t drawn to them. But now, when I see little people’s kids, I’m like, Oh, I think of them as like these little love packages."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, little love bugs."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. It’s just you think of them differently when you see them come out and then grow and then eventually start talking to you, like your whole idea what a baby is, is very different."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Now, as you get older and get to appreciate it as a mature, fully formed adult, it must be really pretty wonderful."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Great. Wonderful. It’s great. But babies are awesome. Yeah, it’s great. Also, I’ve spent a lot of time on AI and neural nets and so you can sort of see the brain develop, which is … An AI neural net is trying to simulate what a brain does, basically. You can sort of see it learning very quickly. You know, it’s just wow."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You’re talking about the neural net; you’re not talking about an actual baby."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t talk about an actual baby."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But both of them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. The word neural net comes from the brain. It’s like a net of neurons. Humans are the original gangster of the neural net."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a great way to put it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When you’re programming artificial intelligence where you’re working with artificial intelligence art, are they specifically trying to mimic the developmental process of a human brain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In a lot of ways. There’s some ways that are different. An analogy that’s often used is like we don’t make a submarine swim like a fish, but we take the principles of hydrodynamics and apply them to the submarine."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’ve always wondered as a layperson, do you try to achieve the same results as the human brain but through different methods? Or do you try to copy the way a human brain achieves results?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, the essential elements of an AI neural net are really very similar to a human brain neural net. Yeah. It’s having the multiple layers of neurons and, you know,\nbackpropagation\n. All these things are what your brain does. You have a layer of neurons that goes through a series of intermediate steps to ultimately cognition, and then it’ll reverse those steps and go back and forth and go all over the place. It’s interesting. Very interesting."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, I would imagine. The thought of programming something that is eventually going to be smarter than us that one day it’s going to be like:  “Why did you do it that way?” When artificial intelligence becomes sentient, they’re like: “Oh, you tried to mimic yourself. This is so much better process. Cut out all this nonsense.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like I said, there are elements that are the same but just like an aircraft does not fly like a bird."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It doesn’t flap its wings, but the wings, the way the wings work and generate lift is the same as a bird."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Now you’re in the middle of this strange time where you’re selling your houses. You say you don’t want any material possessions, and I’ve been seeing all that, and I’ve been really excited to talk to you about this. Because it’s an interesting thing to come from a guy like yourself. Like why are you doing that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m slightly sad about it, actually."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "If you’re sad about it, why are you doing it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think possessions kind of weigh you down, and they’re kind of an attack vector. They’ll say, “Hey, billionaire, you’ve got all this stuff.” Well, now I don’t have stuff now. What are you going to do?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Attack vector meaning like people targeted."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Interesting, yeah. But you’re obviously going to, so you’re going to rent a place?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay, and get rid of everything except clothes?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I said almost everything, so it’s like…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Keep a couple of Teslas."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Kind of have to, to test product and stuff. You know, there’s things that have sentimental value, for sure are keeping those. I mean, what’s the worst that could happen? I mean, I’m fine."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, you can always buy more stuff if you don’t like it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I suppose so."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, I mean from the money that you sell all your stuff, you can buy new stuff. Do you feel like people define you by the fact that you’re wealthy and that they define you in a pejorative way?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "For sure. I mean not everyone, but for sure, in recent years, ‘billionaire’ has become pejorative like that’s a bad thing. Which I think doesn’t make a lot of sense in most cases. If you basically organized a company… How does this wealth arise? If you organize people in a better way to produce products and services that are better than what existed before, and you have some ownership in that company, then that essentially gives you the right to allocate more capital. There’s a conflation of consumption and capital allocation.\nTake Warren Buffet, for example, and to be totally frank, I’m not his biggest fan, but you know, he does like have full allocation, and he reads a lot of annual reports of companies and all the accounting, and it’s pretty boring really. He’s trying to figure out does Coke or Pepsi deserve more capital?\nI mean it’s kind of a boring job if you ask me. It’s still a thing that’s important to figure out. Like, which is a company deserving of more or less capital. Should that company grow or expand? Is it making products and services that are better than others or worse? If a company is making compelling products and services, it should get more capital, and if it’s not, it should get less or go out of business."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, there’s a big difference, too, between someone who’s making an incredible amount of money designing and engineering fantastic products versus someone who’s making an incredible amount of money by investing in companies or moving money around in the stock market or doing things along those lines. It’s a different thing and to put them all in the same category seems it’s very simple. As you pointed out, it’s an attack vector."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, for sure. I do think, in the United States especially, there’s an over-allocation of talent in finance and law. Basically, too many smart people go into finance and law. This is both a compliment and a criticism. We should have, I think, fewer people doing law and fewer people doing finance and more people making stuff."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, that would certainly be better for all involved if they made better stuff."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. Manufacturing used to be highly valued in the United States, and these days it’s not. It’s often looked down upon, which I think is wrong."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Well, I think that people are kind of learning that particularly  because of this whole pandemic and this relationship that we have with China, that there’s a lot of value in the making things and in the making things here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Somebody’s got to do the real work. You know, like, making a car, it’s an honest day’s living, that’s for sure. Making anything, really, or providing a valuable service like providing good entertainment, good information, these are all valuable things to do. Yeah, there should be more of it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you have a moment where – is this something that this idea of getting rid of your material possessions – is it something that built up over time, or did you have a moment of realization where you realized that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I’ve been thinking about it for a while. You know, part of it is I have a bunch of houses, but I don’t spend a lot of time in most of them. That doesn’t seem like a good use of assets. Somebody could probably be enjoying those houses and get better use of them than me."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Don’t you have Gene Wilder’s house?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s amazing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s awesome."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. It’s exactly what you’d expect."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you request that the buyer not fuck it up?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s a requirement."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, a requirement? That’s a good requirement."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "In that case in that house."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’ll probably sell for less, but still, I don’t care."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, he’s a legend. He’d want his soul, he’d want his essence in the building."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And it’s there."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a real quirky house, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What makes you say it’s there? What do you get out of it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, all the cabinets are like handmade, and they’re like odd shapes, and there’s like doors to nowhere and strange corridors and tunnels and odd paintings on the wall. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you ever live in it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s very quirky. I did live in it briefly, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But why do you buy houses? If you own all these houses, do you just get bored and go ‘I think I’d like to have that’?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I had one house, and the Gene Wilder house is right across the road from me from my main house. It was going to get sold and then torn down and turned into, you know, be a big construction zone for three years. I was like, whoa, I think I’ll buy it and preserve the spirit of Gene Wilder and not have a giant construction zone.\nThen I started having some privacy issues where people would just come to my house and start climbing over the walls and stuff. Then I bought some of the houses around my house, and then I thought at one point, you know, it’d be cool to build a house. I acquired some properties at the top of Somera Road, which has got a great view, and I was like, okay, well there’s a bunch of sort of small older houses, they’re going to get torn down, anyway. I was like, well, if I collect these little houses, then I can build something, I don’t know, artistic, like a dream house type of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s a dream house for Elon Musk? Like some Tony Stark type shit?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, definitely. Yeah. You got to have the dome that opens up with the stealth helicopter and that kind of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "For sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Fuck yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Definitely. But then I was like, man, does it really make sense for me to spend time designing and building a house and I’d be real, you know, get a like OCD on the little details and the design, or should I be allocating that time to getting us to Mars? I should probably do the latter. Like what’s more important? Mars or a house? I’m like Mars. Okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is that really how you think? Like, I’d be better off planning on a trip to Mars or getting people to Mars?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, yeah, definitely. I mean, you can only do so many things."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. Well, I don’t know how you do what you do anyway. I don’t understand how you can run The Boring Company, Tesla, SpaceX, all these different things you’re doing constantly. I don’t understand. I mean, you explained last time you were here how you sort of allocate your time and how hectic it is and insane. I still don’t… the productivity is baffling. It just doesn’t make sense how you can get so much done."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think I do have high productivity, but even with that, there’s still some opportunity cost of time and allocating time to building  a house, even if it was a really great house, it still is not a good use of time relative to developing the rockets necessary to get us to Mars and helping solve sustainable energy. SpaceX and Tesla are by far the most amount of brain cycles. The Boring Company does not take… it’s like less than 1% of brain cycles. And then Neuralink, which is, I don’t know, maybe it’s like 5% and then…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "5%? That’s a good chunk."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a good chunk. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "We were talking about that last time, and you were trying to figure out when it was actually going to go live when it’s actually going to be available. Are you testing on people right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, we’re not testing on people yet, but I think it won’t be too long. I think we may be able to implant a neural link in less than a year in a person, I think."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When you do this, is there any tests that you have to do before you do something like this to see what percentage of people’s bodies are going to reject these things? Is there a potential for rejection?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a very low potential for rejection. I mean, you can think of it like people put in heart monitors and things for epileptic seizures and\ndeep brain stimulation\n, obviously like artificial hips and knees and that kind of thing. The probability of… I mean, it’s well known what will cause rejection and what will not. It’s definitely harder when you’ve got something that is sort of reading and writing neurons that’s generating a current pulse and reading current pulses. That’s a little harder than, say, a passive device, but it’s still very doable. There are people who have primitive devices in their brains right now."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What kind of devices?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like deep brain stimulation provided for Parkinson’s, it has really changed people’s lives in a big way, which is kind of remarkable because it kind of like zaps your brain. It’s like kicking the TV type of thing. You think like, man, kicking the TV shouldn’t work."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It does sometimes. The old TVs."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It did."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "My grandpa used to slap the top."
+    },
+    {
+      "role": "elon_musk",
+      "text": "For sure. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It would work sometimes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so this deep brain stimulation implanted device is in the brain that has changed people’s lives for the better fundamentally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, let’s talk about what you can talk about to what Neuralink is because the last time you were here, you really couldn’t discuss it. Then there was, I guess, a press release or something that sort of outlined…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh yeah, sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, that had happened quite a bit after the last time you were here. What exactly is it? How do you do – what happens if someone ultimately does get a neural link installed? What will take place?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, for version one of the device, it would be basically implanted in your skull. It would be flush with your skull, so you basically take out a chunk of skull, put the Neuralink device in there. You’d insert the electrode threads very carefully into the brain, and then you stitch it up, and you wouldn’t even know that somebody has it. It can interface basically anywhere in your brain. It could be something that helps cure, say, eyesight, like returns your eyesight even if you’ve lost your optic nerve type of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. Hearing… – Pretty much anything that…- It could, in principle, fix almost anything that is wrong with the brain. It could restore limb functionality, so if you’ve got an interface into the motor cortex and then an implant that’s like a microcontroller and near muscle groups, you could then create sort of a neural shunt that restores somebody who is a quadriplegic to full functionality. Like, they can walk around and be normal."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, maybe slightly better."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Slightly better?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Over time, yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You mean with future iterations?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like the, you know, ‘\nSix Million Dollar Man\n’.  Although these days, that doesn’t sound like much."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right, that’s pretty cheap. ‘Six Billion Dollar Man’."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The hole would be small. How big would the hole be that you have to drill and then replace with this piece? It’s only one hole?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah, the device we’re working on right now is about, it’s about an inch in diameter. Your skull is pretty thick, by the way."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Mine is for sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It might actually, literally. I mean, if you’re a big guy, your skull is actually fairly thick. A skull is like seven to 14 millimeters."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Mines probably a couple of inches."
+    },
+    {
+      "role": "elon_musk",
+      "text": "A half inch. Half inch thick skull. Yeah, that’s a fair bit of like… We’ve got quite a coconut going on here. It’s not like some eggshell."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh yeah, I believe you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you basically implant the device."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It would be like a one inch square? One inch in diameter, so an inch circle?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, think like a smartwatch or something like that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay, so you take this one inch diameter like ice fishing, right? You ever go ice fishing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, but I’d like to."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s great. It’s really fun. so you basically take an auger, and you drill through the surface of the ice, and you create a small hole, and you can dunk your line in there. This is like that. You’re ice fishing on the top of your skull, and then you cork it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, and you replace that, say, one inch diameter piece of skull with the Neuralink device, and that has a battery and a Bluetooth and an inductive charger. Then you also insert the electrodes. The electrodes are very carefully inserted with a robot that we developed. It’s very carefully putting in the electrodes and avoiding any veins or arteries, so it doesn’t create trauma."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Through this one inch diameter device, electrodes would be inserted, and they will find their way…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like tiny wires, basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And they’ll find their way to specific areas of the brain to stimulate?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, you literally put them where they’re supposed to go."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, okay. How long will these wires be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, they usually go in like, depending on where it is, like two or three millimeters."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They just find the spots?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Wow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then you put the device in, and that replaces the little piece of skull that was taken out. Then you stitch up the hole, and it will just look like a little scar, and that’s it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Would this be replaceable or reversible? Like if someone can’t take it anymore? “I’m too smart; I can’t take it.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you can totally take it out."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Besides restoring limb function and eyesight and hearing, which are all amazing, is there any cognitive benefits that you anticipate from something like this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean you could for sure…- I mean, basically it’s a generalized sort of thing for fixing any kind of brain injury in principle, or if you’ve got like severe epilepsy or something like that. It could just sort of stop the epilepsy from occurring. It could detect it in real-time and then fire a counter pulse and stop the epilepsy.\nI mean, there’s a whole range of brain injuries. Like if people get a stroke, they could lose the ability to speak, and that could also be fixed. If you’ve got stroke damage or you lose, say, muscle control over part of your face or something like that. And then, when you get older, you tend to… – if you get like Alzheimer’s or something like that, then you lose memory, and this could help you with restoring your memory and that kind of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Restoring memory… – and what is happening that’s allowing it to do that? Like the wires, these small wires are stimulating these areas of the brain. Is it that the areas of the brain are losing some sort of electrical force? What is happening?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The thing is it’s like a bunch of circuits, and there’s some circuits that are broken, and we can fix those circuits. It’s a substitute for those circuits."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A specific frequency will go through this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is the process figuring out how much or how little has to be,  how much these areas of the brain have to be juiced up?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, there’s still a lot of work to do. When I say we’ve got a shot at probably putting in a person within a year, that’s exactly what I mean. I think we have a chance of putting it into one and having them be healthy and restoring some functionality that they’ve lost."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The fear is that eventually, you’re going to have to cut the whole top of someone’s head off and put a new top with a whole bunch of wires if you want to get the real turbocharged version. The P100D of brain stimulation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, ultimately, if you want to go with full AI symbiosis, you’ll probably want to do something like that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Symbiosis is a scary word when it comes to AI."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s optional."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I would hope so."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s just, I mean, once you enjoy the\nDoctor Manhattan\nlifestyle, once you become a god seems very unlikely you’re going to want to go back to being stupid again. I mean, you literally could fundamentally change the way human beings interface with each other."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. You wouldn’t need to talk."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m so scared of that, but so excited about it at the same time. Is that weird?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think this is one of the paths to think like what are… Like AI is getting better and better. Now let’s assume it’s sort of like a benign AI scenario. Even in a benign scenario, we’re kind of left behind. We’re not along for the ride. We’re just too dumb."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "How do you go along for the ride? It’s, like, if you can’t beat them, join them. We’re already a cyborg to some degree, right? Because you’ve got your phone, you’ve got your laptop, your electronic devices. Today, if you don’t bring your phone along, it’s like you have missing limb syndrome. It feels like something’s really missing. We’re already partly a cyborg or an AI symbiote, essentially.\nIt’s just that the data rate to the electronics is slow. Especially output, like you’re just going with your thumbs. I mean, like, what’s your data rate? Optimistically, a hundred bits per second. That’s being generous. Now the computer can communicate at a hundred terabytes. Certainly, you know, gigabits are trivial at this point.\nBasically, your computer could do things a million times faster. At a certain point, it’s like talking to a tree. Okay? This is boring. You talk to a tree – it’s not very entertaining. If you can solve the data rate issue, especially output, but input, too, then you can improve the symbiosis that is already occurring between man and machine."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So, you can improve it – when you said you won’t have to talk to each other anymore. We used to joke around about that. I’ve joked around about that a million times in this podcast that one day in the future, there’s going to come a time where you can read each other’s minds. You’ll be able to interface with each other in some sort of a nonverbal, non-physical way where you will transfer data back and forth to each other without having to actually use your mouth to make noises."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly, so when you… Like what happens when you, let’s say you’ve got some complex idea that you’re trying to convey to somebody else, and how do you do that? Well, your brain spends a lot of effort compressing a complex concept into words, and there’s a lot of loss, information loss that occurs when compressing a complex concept into words. Then you say those words, and those words are then interpreted, then they’re decompressed by the person who is listening. They will, at best, get a very incomplete understanding of what you’re trying to convey. It’s very difficult to convey a complex concept with precision because you’ve got compression, decompression,  you may not even have heard all the words correctly and so communication is difficult. What we have here is a failure to communicate.\nCool Hand Luke\n."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes. Great movie."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, great one."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "There’s an interpretation factor, too. Like you can choose to interpret certain series of words in different ways, and they’re dependent upon tone, dependent upon social cues, even facial expressions, sarcasm. There’s a lot of variables."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sarcasm is difficult."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "One of the things that I’ve said is that there could be potentially a universal language that’s created through computers that particularly young kids would pick up very quickly. Like, my kids do Tik Tok and all this jazz, and I don’t know what they’re doing. They just know how to do it, and they know how to do it really quickly. Like they learn really quickly, and they show me how to edit things.\nIt’s if you taught a child from first grade on how to use some new universal language, essentially like a\nRosetta Stone\n, and something that’s done with that interprets your thoughts and you can convey your thoughts with no room for interpretation, clear, very clear, where you know what a person’s saying. And you could tell them what you’re saying, and there’s no need for noises, no need for mouth noises. No need for these sort of accepted ways that we’ve evolved to make sounds that we all agree, through our cultural dictionary, and we agree. We could bypass all that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You can still do it for sentimental reasons."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Like campfires."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. You don’t need campfire. Don’t need to roast marshmallows to have fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, yeah, I think in principle you would be able to communicate very quickly and with far more precision ideas. Language would – I’m not sure what would happen to language. In a situation like this, you would be able to just…- it’d be kind of like\nThe Matrix\n. If you want to speak a different language – no problem."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just download the program."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. So at least for the first iterations, first few iterations. I know that Google has…- some of their pixel buds have the ability to interpret languages in real-time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. You can hear it, and it’ll play things back to you in whatever language you choose. So it’d be something along those lines? For the first few iterations?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the first few iterations are… – what I’m talking about is in the limit over time, with a lot of development. The first few iterations, really, in the first few versions, all we’re going to be trying to do is solve brain injuries. So, don’t worry. It’s not going to sneak up on you. This will take a while."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How many years? Before you don’t have to talk."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If the development continues to accelerate, then maybe five years. Five to 10 years."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s quick. That’s really quick."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s the best-case scenario."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "No talking anymore in five years."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Best case scenario, but ten years is more likely."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’ve always speculated that aliens could potentially be us in the future because if you look at the size of their heads and the fact that they have very little muscle, they don’t use their mouth anymore. They have this tiny little…- I mean the archetype of an alien that you see in like “Close Encounters of the Third Kind” – they’re like if you went from Australopithecus or ancient hominid to us, what’s the difference? Less hair, less muscle, bigger head.\nAnd then just keep going. A thousand, a million, whatever years; or five years, whatever. Whatever happens when Neuralink goes on online, and then we slowly start to adapt to this new way of being where we don’t use our muscles anymore. We have this gigantic head; we can talk without words."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You could also save state."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Save state?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Save state, like save your brain state like a saved game in a video game."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Whoa. Like if you want to swap from Windows 95."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, hopefully, a little better than that. But, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I think we are Windows 95 right now."
+    },
+    {
+      "role": "elon_musk",
+      "text": "From a future perspective, probably. But yeah, I mean, you could save state  and restore that state into a biological being if you wanted to in the future in principle. It’s like nothing from a physics standpoint that prevents us. You’d be a little different, but you’re also a little different when you wake up in the morning from yesterday, and you’re a little different in fact, if you say like ‘you five years ago’ versus ‘you today’ is quite a big difference."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So you’d be substantially you. I mean, you’d certainly think you’re you."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But the idea of saving yourself and then transforming that into some sort of a biological state, you can hang out with 30 year old you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, the possibilities are endless."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s so weird."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, just think like how your phone…- you can record videos from your phone. There’s no way you could remember a video as accurately as your phone or a camera could. So now, if you’ve got like some version 10 Neuralink, whatever and far in the future, you could recall everything, just like it’s a movie."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Crystal clear."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Including all the entire sensory experience."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Emotions, everything."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Everything and play it back, and in fact, you can edit it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Edit it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So you can change your past?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You could change what you think was your past. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, so if you had a dramatic experience?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "This whole thing right now could be a replayed memory."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It could be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It may be. What’s the odds of this being a replayed memory? If you had a guess. More than 50%?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s no way to assign a probability with accuracy here."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. But roughly, if you had a…- just gut instinct."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I don’t have a Neuralink in my brain, so I’d say right now 0%, but at the point at which you do have a Neuralink, then it rises above 0%."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The idea that we’re experiencing some sort of a preserved memory is, even though it’s still the same, it’s not comforting. Right? For some reason, when people talk about simulation theory, they talk about the potential for this currently being a simulation. Even though your life might be wonderful, you might be in love, you might love your career, you might have great friends, but it’s not comforting to know that this experience somehow or another doesn’t exist in a material form that you can knock on.\n(knocks on the table)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "(knocks on the table, too)\nIt feels real, doesn’t it?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It feels real. But the idea that it’s not, for some strange reason, is disconcerting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I’m sure it should be disconcerting because if this is not real, what is? But, there’s that old sort of thought experiment of like, how do you know you’re not a brain in a vat? I mean, now here’s the thing: You are a brain in a vat, and that vat is your skull."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Everything you see, feel, hear, everything, all your senses are electrical signals, everything. Everything is an electrical signal to a brain in a vat, with the vat is your skull."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "All your hormones, all your neuro-transmitters, all these things are drugs. Adrenaline’s a drug. Dopamine is a drug. You’re a drug factory. You’re constantly changing your state with love and oxytocin and beauty."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Changes your state. Great music changes your state."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. Yet, here’s another sort of interesting idea, which is, because you say like where did consciousness arise? Well, assuming you believe the belief in physics, which proves to be true, then the universe started off as basically quarks and leptons, and it quickly became hydrogen and helium, lithium, like, basically elements of the periodic table. But it was mostly hydrogen, basically. Then over a long period of time, 13.8 billion years later that hydrogen became sentient. Where along the way did consciousness…- What’s the line of consciousness and not consciousness between hydrogen and here?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When do we call it, when do we call it consciousness? I was watching a video today that we played on a podcast earlier of a monkey riding a motorcycle down the street, jumps off the motorcycle, and tries to steal a baby."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I saw that one. It went viral."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is that monkey conscious? It seems like it is. It seems like it had a plan. It was riding a fucking motorcycle and then jumped off the motorcycle to try to steal a baby."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The one that just dragged the baby down the street pretty far?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. It seems pretty conscious, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s definitely some degree of consciousness there."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. It’s not like a worm. It seems to be on another level. Yeah, and it’s going to keep going. That’s the real concern when people think about the potential future versions of human beings, especially when you consider symbiotic relationship to artificial intelligence, that will be unrecognizable. That one day will be so far removed from what this is. We’ll look back on this, the way we look back now on simple organisms that we evolved from. That it won’t be that far in the future that we do have this view back."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I hope consciousness propagates into the future, and it gets more sophisticated and complex and that it understands the questions to ask about the universe."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think that’s the case? As a human being, as yourself, you’re clearly trying to make conscious decisions to be a better version of yourself. This is the idea of getting rid of your possessions and realizing that you’re trying to like, “I don’t like this. I will try to improve this. I would try to do a better version of the way I interface with reality.”\nThat this is always the way things are, if you’re moving in some sort of a direction where you’re trying to improve things, you’re always going to move into this new place where you look back on the old place and go, “I was doing it wrong back then.” So this is an accelerated version of that. A super accelerated version of that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, you don’t always improve, but you can aspire to improve, or you can aspire to be less wrong."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is like, I think the tools of physics are very powerful. Just assume you’re wrong and aspire your goal is to be less wrong. I don’t think you’re going to succeed every day in being less wrong, but if you’re going to succeed in being less wrong most of the time, you’re doing great."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a great way of putting it. Aspire to be less wrong. But then when people look back in nostalgia about simpler times, there’s that too. It’s very romantic and exciting to look back on campfires."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But you still can have a campfire."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes. But will you appreciate it when you’re a super nerd? When you connect it to the grid, and you have some skull cap in place of the top of your head, and it’s interfacing with the international language that the rest of the universe now enjoys communication with people?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Sure. I think so. Yeah. I like campfires."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m just worried. I mean, everyone’s always scared of change, but I’m scared of this monumental change where we won’t talk anymore."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’ll communicate."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes, but there’s something about the beauty of the crudeness of language where when it’s done eloquently, it’s satisfying, and it hits us in some sort of a visceral way. Like, ah, that person nailed it. I love that they nailed it. That it’s so hard to capture a real thought and convey it in a way, in this articulate way. You read a quote, a great quote by a wise person. It makes you excited that their mind figured something out, put the words together in a right way that makes your brain pop like, “Oh yes. Yes.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s clever compression of a concept and a feeling."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But the fact that a human did it too."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think that it will be like electronic music? Like people won’t appreciate it like they appreciate a slide guitar?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I like electronic music."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I do too. Well, you make it. I know you like it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, I hope the future is more fun and interesting, and we’re just trying to make it that way."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I hope it’s more fun and interesting too."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I just hope we don’t lose anything along the way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We might lose a little, but hopefully, we gain more than lose."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. That’s the thing, right? Gaining more than we lose. Something that makes us interesting is that we’re so flawed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s for sure. I mean, look at civilization through the ages; most of them they rose and fell."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do think the globalization that we have, sort of like the memesphere, there’s not enough isolation between countries or regions. It’s like if there’s a mind virus that that mind virus cannot infect too much of the world. I actually sort of sympathizing with the anti-globalization people because it’s like, man,  we don’t ever want everywhere to be the same for sure. Then we need some kind of mind viral immunity. So that’s a bit concerning."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Mind viral immunity, meaning that once something like Neuralink gets established, the real concern is something that..- I mean, you said it’s Bluetooth, right? Or some future version of that? The idea is that something could possibly get into it, fuck it up."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I’m talking about, like somebody, some cockeyed concept that happens right now."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, I know this virus is in embedded chips, right? They’ve embedded chips and then acquired viruses."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, when I’m talking about a mind virus, I’m talking about a concept that infects people’s minds."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, okay. Okay. Like cult thinking or some sort of fundamentalism."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Just a wrongheaded idea that goes viral in an ideal sense."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, that is a problem too, right, if someone can manipulate that technology to make something appear logical or rational?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Would that be an issue too? This is a very ‘have’ versus ‘have not’ issue. If this really does…- I mean, initially, it’s going to help people with injuries, but you said ultimately it could lead to this spectacular cognitive change."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But the people that first get it should have a massive advantage over people that don’t have it yet."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, it’s the kind of thing where your productivity would improve, I don’t know, dramatically, maybe by a factor of 10 with it. So you could definitely just, I don’t know, take out a loan and do it and earn the money back real fast. Be super smart."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, in a capitalist society, it seems like you could really get so far ahead that before everybody else could afford this thing and link up and get connected as well, you’d be so far ahead, they can never catch you. Is that a concern?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it’s not a super huge concern. I mean, there are huge differences in cognitive ability and resources already. You can think of a corporation as like a cybernetic collective that’s far smarter than an individual. I couldn’t personally build a whole rocket and the engines and launch it and everything. That’s impossible.\nBut we have 8,000 people at SpaceX, and you’re piecing it out to different people and using computers and machines and stuff. We can make lots of rockets launch into orbit, dock with the space station, and that kind of thing. So that already exists where those corporations are vastly more capable than an individual. But we should be, I think, less concerned about relative capabilities between people and more like having AI be vastly beyond us and decoupled from human will."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Decoupled from humans. So this is the ‘if you can’t beat them, join them’?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So you feel like it’s inevitable, like an AI, a sentient AI, is essentially inevitable?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Super sentient AI. Like beyond a level that’s difficult to understand and impossible to understand probably."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Somehow or another, so it’s almost like it’s a requirement for survival to achieve some sort of symbiotic existence with AI."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not a requirement. It’s just if you want to be along for the ride, then you need to do some kind of symbiosis. So the way your brain works right now, you’ve got kind of like the animal brain, reptile brain, kind of like the limbic system basically. And you’ve got the cortex. Now the brain purist will argue with this definition, but essentially you’ve got the primitive brain, and you’ve got the sort of smart brain or the brain that’s capable of planning and understanding concepts and difficult things that a monkey can’t understand.\nNow your cortex is much, much  smarter than your limbic system. Nonetheless, they work together well. So I haven’t met anyone who wants to delete their limbic system or their cortex. People are quite happy having both. So you can think of this as being like the computer; the AI is like a third layer, a tertiary layer. So that could be symbiotic with the cortex. It’d be much smarter than the cortex, but you essentially have three layers, and you actually have that right now.\nYour phone is capable of things, and your computer is capable of things that your brain is definitely not. Storing terabytes of information perfectly, doing incredible calculations that we couldn’t even come close to doing. You have that with your computer. It’s just like I said, the data rate is slow, the connection is weak."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Why is it so disconcerting, or why does it not give me comfort to think about it? Like when I think about a symbiotic connection to AI, I always think of this cold, emotionless sort of thing that we will become. Is that a bad way to look at it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t think that’s not how it would be. Like I said, you already are symbiotic with AI or computers."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Phones, computers, laptops."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, there’s quite a bit of AI going on, artificial neural nets. Increasingly, neural nets are sort of taking over from regular programming more and more. So you are connected; if you use Google Voice or Alexa or one of those things, it’s using a neural net to decode your speech and try to understand what you were saying.\nIf you’re trying to do image recognition or improve the quality of photographs, the neural nets the best way to do that. So you are already sort of a cybernetic symbiote. Like I said, it’s just a question of your data rate. The communication speed between your phone and your brain is slow."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When do you think you’re going to do it? How long will you wait? Once it starts becoming available?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, if it works, I’ll do it. Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right away."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, let’s make sure it works."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How do we make sure it works? We try it on prisoners? What do you do? Take rapists? Cut holes in their head?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, like I said if somebody has got a serious brain injury and people that have very severe brain injuries and then you can fix those brain injuries. Then you prove out that it works and envelope expands and make more and more brain injuries, solve more and more. At a certain age, we all are going to get Alzheimer’s, or we’re all going to get senile. Then moms forget the names of their kids and that kind of thing.\nIt’s like you said, okay, well this would allow you to remember your names of your kids and have a normal, a much more normal life where you were able to function much later in life. So I think essentially almost everyone would find a need at some point if you get old enough to use a neural link. Then it’s like, okay, so we can improve the functionality and improve the communication speed. So then you will not have to use your thumbs to communicate with the computer."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you ever sit down and extrapolate? Do you ever sit down and think about all the different iterations of this and what this eventually leads to?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, sure. I think about it a lot. Like I said, this is not something that’s going to sneak up on you. Getting FDA approval for this stuff is not overnight. I don’t know; we probably have to be on version 10 or something before it would realistically be a human AI symbiote situation. You’ll see it coming."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You see it coming, but what do you think it’s going to be? When you’re alone, if you have free time, I don’t know if you have free time,  but if you just sit down and think about this iteration, the next, onward, keep going, and you drag it out with improvements along the way and leaps and bounds and technological innovations. Where do you see it? What are we going to be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like when?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "20, 25 years from now? What are we going to be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, assuming civilization is still around, it’s looking fragile right now. I think we could have…- in 25 years probably, I would think there could be a whole brain interface."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A whole brain interface?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Something pretty close to that. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What do you mean by whole brain interface?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Almost all the neurons are connected to the sort of AI extension of yourself. If you want."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "AI extension of yourself."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What does that mean to you when you say AI Extension of yourself?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like I said, you already have a computer extension of yourself with your phone and computers and stuff. So, and now online, it’s like somebody dies, there’s like an online ghost, they’re still… their online stuff is still alive."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a good way to put it. It is weird when you read someone’s tweets after they’re dead."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Instagram and their stories and whatever, Facebook and stuff, the e-mails…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a great way to put it. It’s like an online ghost. That’s very accurate."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So it would just be that more of you would be in the cloud, I guess, than in your body."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Whoa. Now, when you say civilization’s fragile, do you mean because of this COVID-19 shit that’s going on right now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What’s that? I never heard of it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s this thing, it’s like some people just get a cough."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I have no idea what you’re talking about."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Other people, it gets much worse."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. Well, yeah. I mean, this certainly has taken over the mind space of the world to a degree that is quite shocking."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Well, out of nowhere. That’s what’s crazy. It’s like you go back to November, nothing. Now here we are, December, January, February, March, April, May, six months. Totally different world. So from nothing to, everything’s locked down. There’s so much conflicting information and conflicting opinions about how to proceed. What has happened? You find things where there was a meatpacking plant, I believe in Missouri where 300 plus people were asymptomatic, tested positive asymptomatic.\nThen in other places, it just ravages entire communities and kills people, and it’s so weird. It almost appears, if you didn’t know any better, you’d be like, what? It seems like there’s a bunch of different viruses. It doesn’t seem like it’s the same thing or has a bunch of different reactions to the biological variety of people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, I kind of saw this whole thing play out in China before it played out in the US. So it’s kind of like watching the same movie again but in English. I think the mortality rate is much less than what the World Health Organization said it was. It’s much, much less. It’s like probably at least an order of magnitude less."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, it seems to be very deadly to very specific kinds of people and people with specific problems."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, you can look at the mortality statistics by age and whether they have comorbidities, like do they have basically existing conditions and by age. If you’re below 60 and have no serious health issues, the probability of death is extremely low. It’s not zero, but it’s extremely low."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They didn’t think that this was the case, though, when they first started to lock down the country. Do you think that it’s a situation where once they’ve proceeded in a certain way, it’s very difficult to correct course?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s almost like people really wanted a panic. It’s quite crazy."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But in some places, a panic is deserved, right? Like if you’re in the ICU in Manhattan and people are dying left and right and everyone’s on intubators. It seems like when you see all these people on ventilators, and so many of them are dying, and you see these nurses are dying and doctors are getting sick. In some places, that fear is justified, but then in other places, you’re reading these stories about hospitals that are essentially half empty. They’re having to furlough doctors and nurses because there’s no work for them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Most of the hospitals in the United States right now are half empty. In some cases, they’re at 30% capacity."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is this because they’ve decided to forgo elective procedures and normal things that people would have to go to the hospital for?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean, we’re not talking about just…- some of these elective procedures are quite important. Like you have a bad heart."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Gall bladder disease, yeah, sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You need a triple bypass. It’s sort of elective, but if you don’t get it done in time, you’re going to die."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, elective is a weird word."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Elective. It’s not like…- this isn’t like plastic surgery."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right, right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s more like my hip is…- I’m in extreme pain because my hip’s blown out or my knee, and I don’t want to go to the hospital. I can’t go to the hospital. People are in extreme pain, people that need a kidney, people that have quite serious issues that are choosing not to go out of fear. So I think it’s a problem; that’s not good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It seems like the state of public perception is shifting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It is."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Like people are taking some deep breaths and relaxing, and because of the statistics, essentially across the board, it’s being recognized that it’s not as fatal as we thought it was. Still dangerous, still worse than a flu, but not as bad as we thought or we feared it could be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Objectively, the mortality is much lower. At least a factor of 10, maybe a factor of 50 lower than initially thought."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think that the current way we’re handling this, the social distancing, the mask, the locking down, does this make sense? Is it adequate? Or do you think that we should move back to at least closer to where we used to be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think proper hygiene is a good thing no matter what."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Wash your hands and if you’re coughing, stay at home or wear a mask because it’s not good. They do that in Japan. That’s normal. If you’re ill, you wear a face mask, and you don’t cough on people. I think that would be a great thing to adopt in general throughout the world. Washing your hands is also good."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, there’s a speculation why men get it more than women because men are disgusting. We don’t wash our hands as much."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Men are disgusting, it’s true. It’s bad."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s true, I admit it, we are all men in this room. We’re all gross."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Just go to the restroom; you can see it’s horrible."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes, we’re gross. My nine-year-old daughter yells at me; she goes, “Did you wash your hands?” She makes me go back and wash my hands. She’s right. Nine years old. If I had a nine-year-old boy, do you think he would care? He wouldn’t give a fuck if I washed my hands."
+    },
+    {
+      "role": "elon_musk",
+      "text": "True. And I think that there’s definitely some silver linings here in improved hygiene and-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And awareness of potential."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I think this has shaken up the system. The system is somewhat moribund with lot of layers of bureaucracy, and I think that we’ve cut through some of that bureaucracy. And at some point, there probably will be a pandemic with a high mortality rate. Debate about like what’s high, but I mean something that’s killing a lot of 20-year-olds, let’s say. Like if you had Ebola type of mortality."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Spanish flu, something that attacks the immune systems of healthy people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Like killing large numbers of young, healthy people, define that as a high mortality. This is at least practice for something like that. And I think there’s – this given – it’s just a matter of time, that there will be eventually some such pandemic."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think that in a sense, the one good thing that we might get out of this is the realization that this is a potential reality? That we got lucky in the sense? I mean people that didn’t get lucky and died, of course; I’m not disrespecting their death and their loss. But I’m saying overall, as a culture, as a human race, as a community, this is not as bad as it could have been. This is a good dry run for us to appreciate that we need far more resources dedicated towards understanding these diseases, what to do in the case of a pandemic, and much more money that goes to funding, treatments, and some preventative measures."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. And I think there’s a good chance; it’s highly likely, I think, coming out of this that we will develop vaccines that we didn’t have before for coronaviruses, other viruses, and possibly cures for these. And our understanding of viruses of this nature has improved dramatically because of the attention that it’s received. So there’s definitely a lot of silver linings here."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Potentially, if we act correctly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think there will be some silver linings here, no matter what. Hopefully, we can get more of silver linings than less."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So yeah, this is just kind of like a practice run for something that might in the future have a serious, like a really high mortality rate, and we kind of got to go through this without it being something that kills vast numbers of young, healthy people."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. When you made a series of tweets recently, I don’t remember the exact wording, but essentially you were saying, “Free America now.” Like, let’s open it back-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That is the exact wording."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That is it? Thank you. How much do you pay attention to the response to that stuff, and what was the response like? Did anybody go, “Hey man, what the fuck you doing?” Did anybody pull you aside?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, of course."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Who does that? Who gets to do that to you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, I certainly get that. There’s no shortage of negative feedback on Twitter."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh yeah. Twitter. Yeah, but I don’t read that. Do you read it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a war zone."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You do sometimes, though. Right? You do read it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, I scroll through the comments. Like I said, it’s a meme war zone. I mean, people knife you good and thorough."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s something I enjoy about it. Something about the freedom of expression that comes from all these people that do attack you. It’s like, if there was no vulnerability whatsoever, they wouldn’t attack you. And it’s like there’s something about these millions and millions of perspectives that you have to appreciate, even if it comes your way, even if the shit storm hits you in the face.\nYou got to appreciate, “Wow. How amazing is it that all these people do have the ability to express themselves?” I mean, you don’t necessarily want to be there when the shit hits you. You might want to get out of the way in anticipation of the shit storm, but the fact that so many people have the ability to reach out… – And I think it’s in a lot of ways a – I don’t want to say a misused resource – but it’s like giving monkeys guns.\nThey just start, “Da, da, da.” They start gunning down things that are in front of them without any realization of what they’re doing. They have a rock, they see a window, they throw it. “Whoo, look at that. I got Elon mad. Look at that. This guy got mad at me. I fucking took this person down on Twitter. I got this lady fired. Oh, the fucking business is going under because of Twitter Wars.” It seems like there’s something about it that’s this newfound thing that, I don’t want to say abuse, but just, I want to say that it’s almost like you hit the button and things blow up. You’re like, “Wow, what else can we blow up?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. I mean, I’ve been in the Twitter war zone for a while here, so…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Twitter war zone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It takes a lot to faze me at this point."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, that’s good too, right? Like you develop a thick skin."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. You can’t take it personally. A lot of these people don’t actually know you. It’s like if you’re fighting a war and there’s like some opposing soldier that shoots at you, it’s not like they hate you. They don’t even know you.  So just think of it like that. Like they have fire and bullets, whatever. But they don’t know you, so don’t take it personally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "There’s something interesting about it too. When you write something in 280 characters and they write something, it’s such a crude way. It’s like someone sending opposing smoke signals. They refute your smoke signals. It’s so crude. And especially when you’re talking about something like Neuralink. You’re talking about some future potential where you’re going to be able to express pure thoughts that get conveyed through some sort of a universal language with no ambiguity whatsoever versus tweets."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, there will always be some ambiguity, but tweets, it’s hard. But maybe there should be a sarcasm flag or something. Or a “just kidding” or-"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It seems like it would take away some of the fun from people that know it’s sarcasm. Like if everybody knew that\nThe Onion\nwasn’t… – If you sent people articles, it was something about someone getting angry at an Onion article."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Wow, that’s amazing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You know what I mean? Where they don’t realize what it is. There’s something fun about that for everybody else."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think it’s pretty great. It might be the best news source."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you know who\nTitania McGrath\nis? Hilarious, it’s Andrew Boyle. He’s a British fellow. Brilliant guy who’s been on the podcast before, and he has this a fictional character, this a pseudonym Titania McGrath who’s like the ultimate social justice warrior."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Is this, like, a female avatar?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, okay."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "A female avatar that’s actually a computer conglomeration of a bunch of faces. It’s not really one person. So, one person can’t be a victim and be angry, but he’s sort of combined these faces to make this one perfect social justice warrior. But I recognized it early on before I met him that this was parody. This was just fun. And then I love reading the people that don’t recognize that. They get angry. And there’s a lot of people that just get really furious. There’s some fun to that. There’s some fun to the not picking up on the true nature of the signal."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I find Twitter quite engaging."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "How do you have the time?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, it’s like five minutes every couple of hours type thing. It’s not like I’m sitting on it all day."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But even five minutes every couple hours, if those are bad five minutes, they might be bouncing around your head for the next 30."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, you have to, like I said, take a certain amount of distance from… You read this and be like, “Okay, it’s bullets being fired by an opposing army.” Like I said, it’s not like they know you. Don’t take it personally."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you feel the same way when CNN had that stupid shit about ventilators with you? I found that both confusing and-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. That was annoying."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It was annoying."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It was wrong."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But it’s also annoying as a person who reads CNN and wants to think of them as a responsible conveyor of the facts. I would like to think that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah. I don’t think CNN is that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I think it used to be."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It used to be, yeah. What do you think’s the best source of just information out there?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a good question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s say you’re just the average citizen trying to just get the facts, figure out what’s going on. How to live your life and looking for what’s going on in the world. It’s hard to find something that’s good. Not trying to push some partisan angle, not doing sloppy reporting, and just aim it for the most number of clicks and trying to maximize ad dollars and that kind of thing. You’re just trying to figure out what’s going on. It’s like, I’m hard-pressed to where do you go?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t know. I don’t think there’s any pure form. My favorite places are the New York Times and the LA Times, and I don’t trust them a hundred percent. Because also, there’s individuals that are writing these stories. And that seems to be the problems, these individual biases, and these individuals… there’s purposely distorted perceptions, and then there’s ignorantly reported facts, and there’s so many variables. And you got to put everything through this filter of, “Where’s this person coming from? Do they have political biases? Did they have social biases? Are they upset  because of their own shortcomings? And are they projecting this into the story?” It’s so hard."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think maybe just trying to find individual reporters that you think are good and kind of following them as opposed to publication."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I go with whatever\nMatt Taibbi\nsays. I trust him more than anybody. Matt Taibbi is onto something. As far as investigative reporters in particular, the way he reported the savings and loan crisis, the way he reports everything. I just listened to him above most. He’s my go-to guy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. I’ll check it out."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, his Rolling Stone articles are amazing. His stuff on the savings and loan crisis, it’s just like, “What in the fuck?” And he’s not an economist by any stretch of the imagination. So he had to really deeply embed himself in that world to try to understand it and to be able to report on it. And also with a humorous flair.\nThere’s not that many of them. It’s hard. And not a location where like, we are no bullshit, Wearenobullshit.com, like the one place where you can say, “This is what we know, this is what we don’t know. This is what we think.” Not, “This person’s wrong, and here’s why.” Like, ah, God damn it. I can’t. You don’t know. There’s a lot of stuff that is open to interpretation.\nThis particular coronavirus issue that we’re dealing with right now seems to be a great illuminator of that very fact. Is that there’s so much data. And there’s so much that’s open to interpret. There’s so many things… because it’s all happening in real-time. Right? And particularly right now in California, we’re in stage two tomorrow, or Friday, two days from now. Stage two. Retail stores opening up. Things are changing. Like, no one knows the correct process that needs to take place to save the most amount of lives, but yet ensure that our culture and that our economy survives. It’s a lot of speculation and guessing. But if you go to certain places, they’ll tell you, “We know why, and we know this, and we know…” Oh, it’s hard."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, in general, I think we should be concerned about anything that’s a massive infringement on our civil liberties. So, you got to put a lot of weight on that. A lot of people died to win independence for the country and fight for the democracy that we have. And we should treasure that and not give up our liberties too easily. And I think we probably did that, actually."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, I like what you said when you said that it should be a choice and that to require people to stay home, require people to not go to work, and to arrest people for trying to make a living. This all seems wrong. And I think it’s a wrong approach. It’s an infantilization of the society. That daddy’s going to tell you what to do."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Fundamentally a violation of the constitution. Freedom of assembly, and it’s just, I don’t think these things stand up in court, really."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’re arresting people for protesting because they’re protesting and violating social distancing, and these mandates that tell people that they have to stay home."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. These would definitely not stand up if the Supreme court… It’s obviously a complete violation of rights."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And again, this is not in any way disrespecting the people who have died from this disease. That’s certainly a real thing to think of."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, it just should be if you’re at risk, you should not be compelled to leave your house or leave a place of safety, but if you’re not at risk, or if you are at risk and you wish to take a risk with your life, you should have the right to do that."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And it seems like at this point in time, particularly, our resources would be best served protecting the people that are at risk versus penalizing the people that are not at high risk for living their life the way they did, particularly having a career, and making a living, and feeding your family, paying your bills, keeping your store open, keeping your restaurant open."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean, there’s a strong downside to this. So yeah, I just believe this is a free country. You should be allowed to do what you want as long as it does not endanger others."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But that’s the thing, right? This is the argument they will bring up. You are endangering others. You should stay home for the people that, even if you’re fine, even if you know you’re going to be okay, there’s certain people that will not be okay because of your actions.  They might get exposed to this thing that we don’t have a vaccine for, we don’t have a universally accepted treatment for, and then we need to… There’s two arguments, right?\nOne argument is we need to keep going, protect the weak, protect the sick, but let’s open up the economy. The other argument is stop placing money over human lives and let’s shelter in place until we come up with some sort of a decision and let’s figure out some way to develop some sort of a universal income, universal basic income plan, or something like that, to feed people during this time while we make this transition."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I think there’s a, as I said, my opinion is if somebody wants to stay home, they should stay home. If somebody doesn’t want to stay home, they should not be compelled to stay home. That’s my opinion. If somebody doesn’t like that, well that’s my opinion. This notion, though, that you can just sort of send checks out to everybody and things will be fine is not true, obviously. There’s some people have this absurd view that the economy is like some magic horn of plenty. Like it just makes stuff. There’s just a magic horn of plenty, and the goods and services, they just come from this magic horn of plenty. And then if somebody has more stuff than somebody else, it’s because they took more from this magic horn of plenty. Now let me just break it to the fools out there.\nIf you don’t make stuff, there’s no stuff. Yeah. So, if you don’t make the food, if you don’t process the food, you don’t transport the food, medical treatment, getting your teeth fixed, there’s no stuff. They’ve become detached from reality. You can’t just legislate money and solve these things. If you don’t make stuff, there is no stuff, obviously. We’ll run out of the stores, run out of the… the machine just grinds to a halt."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But the initial thought on this virus, the real fear was that this was going to kill hundreds of thousands, if not millions of people, instantaneously in this country. It was going to do it very quickly if we didn’t hunker down if we didn’t shelter in place, if we didn’t quarantine ourselves, or lock down. Do you think that the initial thought was a good idea based on the perception that this was going to be far more deadly than it turned out to be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Maybe. Briefly, but I think if any kind of sensible examination of what happened in China would lead you to the conclusion that that is obviously not going to occur. This virus originated in Wuhan. There’s like, I don’t know, hundred thousand people a day leaving Wuhan. So, it went everywhere very fast throughout China, throughout the rest of the world, and the fatality rate was low."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Don’t you think though, it’s difficult to filter the information that’s coming out of China. To accurately, really get a real true representation of what happened. The propaganda machine is very strong. The World Health Organization appears to have been complicit with a lot of their propaganda."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The thing is that American companies have massive supply chains in China. Like Tesla, for example. We have hundreds of suppliers. Like tier one, two, three, four suppliers throughout China. So, we know if they are able to make stuff or not. We know if they have issues or not. China is back at full steam, and pretty much every US company has some significant number of suppliers in China. So you know if they’re able to provide things or not or if there’s a high mortality rate. Tesla has like 7,000 people in China. So, zero people died."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Okay. So that’s a real statistic that’s coming from…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You know those people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. We literally run a payroll. They are still there."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think there’s a danger of politicizing this? Where this becomes like opening up the country as Donald Trump’s, it’s his goal, and then anything he does, there’s people that are going to oppose it and come up with some reasons why he’s wrong, particularly in this climate, as we’re leading up to November and the 2020 elections. Do you think that this is a real danger in terms of public’s perception that Trump wants to open it up, so the knee-jerk oppose it because they oppose Trump?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think this has been politicized in both directions, really. Which is not great. But like I said (…1:25:54), I think there’s the question of where do civil liberties fit in this picture? And what can the government make you do, what can they make you not do, and what’s okay? And I think we went too far."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you think it’s one of those things where once we’ve gone in this certain direction, it’s very difficult to make a correction? Make an adjustment to realize like, okay, we thought it was one thing. It’s not good, but it’s not what we thought it was going to be. It’s not what we feared, so let’s back up and reconsider, and let’s do this publicly and say we were acting based on the information that we had initially. That information appears to be faulty, and here’s how we move forward while protecting civil liberties while protecting what essentially this country is founded on, which is a very agreed-upon amount of freedom that we respect and appreciate."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. Well, I think we’re rapidly moving towards opening up the country. It’s going to happen extremely fast over the next few weeks. So, yeah. Something that would be helpful just to add from an informational level is when reporting Covid cases to separate out diagnosed with Covid versus had Covid like symptoms. Because the list of symptoms that could be Covid at this point is like a mile long. So, it’s hard to… if you’re ill at all, it’s like it could be cover it. So, just to give people better information. Definitely diagnosed with Covid or had Covid like symptoms. We’re conflating those two so that it looks bigger than it is. Then if somebody dies, was Covid a primary cause of the death or not? I mean, if somebody has Covid, gets eaten by a shark, we find their arm, their arm has Covid, it’s going to get recorded as a Covid death."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Is that real?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Not that bad, but heart attacks, strokes-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You get hit by a bus."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Cancer."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you get hit by a bus, go to the hospital and die, and they find that you have Covid, you will be recorded as a Covid death."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Why would they do that, though?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, right now, the road to hell is paved with good intentions. I mean, it’s mostly paved with bad intentions, but there’s some good intentions in saving (…1:28:36) in there, too. And the stimulus bill that was intended to help with the hospitals that were being overrun with Covid patients created an incentive to record something as Covid that is difficult to say no to, especially if your hospital’s going bankrupt for lack of other patients. So, the hospitals are in a bind right now. There’s a bunch of hospitals, they’re furloughing doctors, as you were mentioning. If your hospital’s half full, it’s hard to make ends meet. So now you’ve got like, “If I just check this box, I get $8,000. Put them on a ventilator for five minutes, I get $39,000 back. Or, I got to fire some doctors.” So, this is a tough moral quandary. It’s like, what are you going to do? That’s the situation we have."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s the way out of this? What do you think is, if you had the president’s ear, or if people wanted to just listen to you openly, what do you think is the way out of this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s just clear up the data. Clear up the data. So like I said, somebody should be recorded as Covid only if somebody has been tested – has received a positive Covid test. Not if they simply have symptoms,  one of like a hundred symptoms. And then if it is a Covid death, it must be separated: Was Covid a primary reason for death, or did they also have stage three cancer, or heart disease, emphysema, and got hit by a bus and had Covid?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. I’ve read all this stuff about them diagnosing people as a Covid death despite other variables."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is not a question. This is what is occurring."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And where are you reading this from? Where are you getting this from?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "The public health officials have literally said this. This is not a question mark."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. But this is unprecedented, right? If someone had the flu but also had a heart attack, they would assume that that person died of a heart attack."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. So this is unprecedented. Is this because this is such a popular – I don’t want to use that word the wrong way, but that’s what I mean – popular subject? And financial incentives."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. And like I said, this is not some sort of a moral indictment of hospital administrators. It’s just, they’re in a tough spot here. They actually don’t have enough patients to pay everyone without furloughing doctors and firing staff. They’re running potentially going bankrupt. So then they’re like, “Okay, well, the stimulus bill says we get all this money if it’s a Covid death.” I’m like, “Okay. They coughed before they died.” In fact, they’re not even diagnosed with Covid. They simply… If you had weakness, a cough, shortness of breath. Frankly, I’m not sure how you die without those things."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. There’s so many different things that you could attribute to Covid, too. There’s so many symptoms. There’s diarrhea, headaches, dehydration, cough."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. But to be clear, you don’t even need to have gotten a Covid diagnosis. You simply need to have had one of many symptoms and then have died for some reason, and it’s Covid. So, then it makes the death count look very high, and we’re then stuck in a bind because it looks like the death count’s super high and not going down like it should be. So then, we should keep whatever, keep the shelter in place stuff there, and keep people in their homes, confine people to their homes. So we need to break out of this. We’re stuck in a loop. And I think the way to break out of this loop is to have clarity of information."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The clarity of information will certainly help, but altering perceptions, public perception, from people that are basically in a panic. Well, at least a month ago, we’re clearly in a panic. I mean, when you look around April 5th, April 6th, people were really freaking out. But here we are, May, and May people are relaxing a little bit. They’re realizing like, “Hey, I actually know a couple of people that got it. It was just a cough,” and I know some people that got it where nothing happened."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I know a lot of people who got it. I know zero people who died, but I know a lot of people that got it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s not what we feared. We feared something much worse."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That is correct."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So the adjustment’s difficult to make. So you said, first of all, we need real data. We need-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just parse out the data. Don’t lump it all together. If you give people, just parse out the data better, clearer information about, like I said, was this an actual COVID diagnosis? Did they get the test, and the test came back positive, or do they just have some symptoms? Just parse those two out, and then parse out just, if somebody died, did they even have a Covid test, or did they just have one of many symptoms? How do you die without weakness? I don’t know. It’s impossible, basically."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Of course. Yeah, it’s a good point."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you’re going to die, you’re going to have shortness of breath, weakness, and you might cough a little."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So was it quantified? Was it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, did that person, did they actually have a Covid test, and the test came back positive? And then if they died, did they die where Covid was… It doesn’t have to be the main cause, but was it a significant contributor to their death, or was it not a significant contributor to the death?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. It’s not as simple as just because you had Covid; Covid killed you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Definitely not. I mean, people die all the time,  and they have like flu and other colds, and we don’t say that they died of those flu and other colds. It’s absurd."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, that’s what’s so weird about this. It’s so popular, and I use that word in a weird way, but it’s so popular that we’ve kind of forgotten people die of pneumonia every day. People die of… The flu didn’t take a break. “Oh, Covid got this. I’m going to sit this one out. I’m going to be on the bench. I’m going to wait until Covid’s done before I jump back into the game of killing people.” No, the flu is still here killing people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, every year in the world, several hundred thousand people die directly of the flu. Not tangentially."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "61,000 in this country last year."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And we’re only 5% of the world."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And then there’s cigarettes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, oh man, cigarettes. Cigarettes will really kill you."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a weird one, right? We’re terrified of this disease that was projected it could potentially kill 100,000 if not 200,000 Americans this year. But cigarettes kill 500,000, and you don’t hear a peep out of any politician. There’s no one running for Congress that’s trying to ban cigarettes. There’s no one running for Senate that wants to put some education plan in place, that’s going to stop cigarettes in their tracks."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, several years ago, or maybe longer, ten years ago, I helped make a movie called\nThank You for Smoking\n."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, I saw that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s crazy. Barbecuing your lungs is just bad news. It’s not good. Turning your lungs into smoked beef, not great. So yeah. Tylenol, by the way, also kills a lot of people."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What is the number for Tylenol every year?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not sure the exact number. But until the opioid crisis, I believe, Tylenol was the number one killer of all drugs. Because basically, if you get drunk and take a lot of Tylenol, acetaminophen, essentially, it causes liver failure. So people would like to get wasted and then have a headache and then pop a ton of Tylenol, it’s curtains."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Curtains is a funny word."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. But nobody’s raging against Tylenol."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. It’s weird. Acceptable deaths are weird. And that’s the slippery slope about these people shaming people for wanting to go back to work. “Other people are going to die.” Well, if you drive: Do you drive? Agree you should stop driving because people die from driving. So you definitely should fill up all the swimming pools because like 50 people die every day in this country from swimming. So let’s not swim anymore."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, water is really dangerous."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "We need to chop down all the coconut trees."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Stop water."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Coconuts kill 150 people every year. Cut down all the coconut trees. We need those people. It’s, at a certain point in time, it’s… Yeah, we’re vulnerable, and also, we have a finite existence no matter what."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We do. Nobody lives forever."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I think, you want to look at say deaths as like, “but for this disease, whatever, they would have lived X number of years.” So, if somebody dies when they’re 20 and could have lived till 80, they lost 60 years. But if somebody dies when they’re 80 and they might’ve lived till 81, they lost one year. So it’s, “How many life years were lost” is probably the right metric to use."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t read my own comments, but I do read other people’s comments. And I was reading this one little Twitter beef that was going on where someone was saying that Covid takes an average of ten years off people’s lives, and we should appreciate those ten years. And then someone else said-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not true."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m sure it’s not true."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, definitely not."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s Twitter, it’s the world."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh my god."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But someone else said, “The average age of people who die from Covid is older than the average age people die.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s just say it’s about the same."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s a beautiful way of looking at it. I mean, it’s unfortunate. It sucks, but it sucks if grandpa dies of Alzheimer’s or emphysema or leukemia. It sucks. It sucks when someone you love dies."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean actually, I think a lesson to be taken here that I think is quite important is that if you have your grandparents and that they’re age of grandparents, really be careful with any kind of flu or cold or something that is not dangerous to kids or young adults but is dangerous to the elderly.  Basically, if your kid’s got a runny nose, they should stay away from their grandparents, no matter what it is. There’re things where a young immune system has no problem; an older one has a problem. In fact, a lot of the deaths are literally, it’s tragic, but they’re intra-family. It’s, the little kid had a cold or flu and they…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Give it to grandpa."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. They had the family gathering. And they don’t know that this is a big deal. But it’s just important to remember when you get old; your immune system’s just not that strong. And so, just be careful with your loved ones who are elderly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "And I think there is some true objective understanding of the immune system and the ways to boost that immune system. And I really think that information should be distributed in a way, a nonjudgmental way, but like, “Look, this is a scientifically proven way that we can boost our immune system and it might save your life, and it might save the life of your loved ones.” And maybe we could teach this to our grandparents and our parents and people that are vulnerable. Vitamin C, heat shock proteins, all these different variables that we know contribute to a stronger immune system."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Actually, just a thing that is tough. As you get older, you tend to put on weight; certainly, that’s happening with me. The older I get, like, “Damn, sure harder to stay lean.” That’s for sure. And so, actually, being overweight is a big deal. It’s a fact. Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "The New York hospital said it was the number one factor for severe Covid symptoms was obesity. That was the number one factor."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s correct. It is, yes, exactly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But it’s also, we live in a world where people want to be sensitive to other people’s feelings."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "So they don’t want to bring up the fact that being fat’s bad for you. It’s a judgmental on your…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Food’s great."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I do love food."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, to be totally frank, I mean, speaking for myself, I’d rather eat tasty food and live a shorter life."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Those moments of enjoying a great meal. And then even talking about it, they’re valuable. They’re worth something. Yeah. We don’t want to eat\nSoylent Green\nand live to be 160."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. Tasty food is great; it’s one of the best things about life."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It really is. Yeah. It’s an art form as well. It’s like fine food, it’s a delicious sandcastle. It’s temporary. It doesn’t last very long. But there’s something about it that’s very pleasing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I don’t know what advice to give, maybe having tasty food but smaller amounts of it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. And I think regulated feeding windows, really the way to go, some sort of an intermittent fasting approach. When I started doing that, I found myself to be quite a bit healthier. When I’ve deviated from that, I’ve gained weight."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, what…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "16 hours. I’m like 16 hours. Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So like at night or at a certain…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. So I get to a certain point, and then I count out, I usually hit the stopwatch on my phone, and then I look at 15 hours, and I’m like, “Oh, okay. Got an hour before I can eat.” And so anything in between that is just water or coffee."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, this may be a useful bit of advice for people, but eating before you go to bed is a really bad idea and actually negatively affects your sleep. And it can actually cause heartburn that you don’t even know is happening, and that subtle heartburn, it affects your sleep because you’re horizontal and your body’s digesting. So if you want to improve the quality of your sleep and be healthier, it’s do not eat right before you go to sleep. It’s one of the worst things you could do."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Some of the biggest mistakes I’ve ever made. I’ve done that, particularly after comedy shows; if I’m starving, I’ll come home, and I’ll eat. And then I go to bed, and I just feel like shit, and I wake up in the middle of the night."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s going to crush your sleep, and it’s going to damage your pyloric sphincter and your esophagus. In fact, drinking and then going to sleep, that’s one of the worst things you could do. So just try to avoid drinking  and eating…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Booze, drinking booze."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. Small amounts of alcohol, evidence suggests it doesn’t have a negative effect on…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I put it in the same category as delicious food. It kind of makes things a little more fun. I like it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean some of the people who’ve lived the longest, there was a woman in France who, I think, maybe has the record or close to it, and she had a glass of wine every day. Small amounts is fine. But yeah, I learned this quite late in life. It’s like, just avoid having alcohol and avoid eating at least two or three hours before going to sleep, and your quality of sleep will improve, and your general health will improve a lot."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "For sure, yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a big deal, and I think, not widely known."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you have time to exercise?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "A little bit."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you have a trainer or anything?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do, although I haven’t seen him for a while. But yeah, especially if I’m out, say we’re working on Starship or something South Texas, and I’m just living in my – I got a little house there in Boca Chica village – and I don’t have much to do, so. Or I’m working, and I’ll just lift some weights or something. Some people love running; I don’t love running."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What do you like to do exercise-wise?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "To be totally frank, I wouldn’t exercise at all if I could. I prefer not to exercise, but if I’m going to exercise, I’ll lift some weights and then kind of run on a treadmill and maybe watch a show if there’s a compelling show that pulls you in."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Right. Yeah. That’s a good thing to do. Watch a good movie or episode of\nBlack Mirror\nor something like that, it’s great."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Man, don’t watch Black Mirror before going to bed either."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, don’t watch Black Mirror today. It’s too fucking accurate."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. It’s like, “Wait, that’s already happened in real life.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. They’re too close."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s too close."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, even… Jamie, didn’t you say that the guy who makes Black Mirror…\nJami\ne\n:\n… Oh, my Mic’s off. Yeah, he said it’s not a good time to start season six."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, he wants to hold off because reality…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "He’s nailed it?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "…is Black Mirror."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh man."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s like he’s going to have to reassess and attack it from a different angle.\nYou should try something that’s fun to do. That’s not just… – like learn a martial art or something like that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I did martial arts when I was a kid. Liked it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you? What’d you do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I did a Taekwondo. I did Karate, (…1:47:51)…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, alright, cool."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And Judo."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, so you really branched out."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And did Brazilian Jujitsu briefly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Did you? Where?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In Palo Alto."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh no shit. I was going to suggest that. That’s a great thing for people. That’s a thing about Jujitsu; if you look at it from the outside, you think, “Oh, a bunch of meatheads strangling each other.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But they’re some of the smartest people I know, are Jujitsu fiends because, first of all, they get introduced to it because usually either they want to exercise or learn some self-defense, but then they realize that it’s essentially like a language with your body. Like you’re having an argument with someone with some sort of a physical language. And it’s really complex, and the more access to vocabulary and the sharper your words are, the more you’ll succeed in these ventures. That’s really an accurate analogy of what Jujitsu is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, I kind of got, probably like a lot of people, for the way-early day, the first\nMMA\nfights and Royce Gracie, and he was just like incredible. And it was like…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Technique."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. He was winning against people way bigger and that kind of thing. And it was just like, “Whoa, this is cool.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It was what martial arts were supposed to be when we were kids. When you saw Bruce Lee fuck-up all these big giant guys. Like, “Wow, martial arts allow you to beat someone far bigger and stronger than you.” Most of the time, that’s not real."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Especially if they know martial arts too. It’s like, “Oh no.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yes. But in the\nUFC\n(Ultimate Fighting Championship)\n, when Royce Gracie, off of his back, was strangling Dan Severn with his legs. You’re like, “Holy shit, this guy’s being pinned by this big giant wrestler, and he wraps his legs around his neck and chokes him to the point that guy has to surrender.” Amazing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it was amazing. I mean, Royce got beaten up pretty bad in some of those."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Well, he definitely had some rough fights."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But he won."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "He won. Yeah. He’s a legend.  But what it showed – I mean I’m a huge lover of Jujitsu – what it showed is that there is a method for diffusing these situations with technique and knowledge. And I think it’s also a great way to exercise too because it’s almost like the exercise is secondary to the learning of the thing. The exercise is like you want to develop strength and conditioning just so that you could be better at doing the thing. And the analogy that I use is, imagine if you had a race car and you could actually give the race car better handling and more horsepower just from your own focus and effort. That’s really what it’s like."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, totally. My kids… I should say, I sent my kids to Jujitsu since they were like, I don’t know, six."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, really? That’s awesome. It’s a great thing to learn. It really is."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, seems like a good thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. Maybe something like… mean, even if you just have someone who holds the pads for you, you could get a workout in, and it’d be fun."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "When am I going to be able to buy one of them Roadsters? When’s that happening?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I can’t say exactly when, but we got to get it… This Covid thing’s kind of thrown us for a loop."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I’m sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, not to blame everything on Covid, but it’s certainly set us back on progress for some number of months. But I mean, things we are going to get done ahead of Roadster are, ramping up Model Y production; that’ll be a great car; it is a great car. Getting the Berlin Giga-factory built, and also building Y. Getting expanding the Shanghai factory, which is going great and get this Cybertruck, Semi truck, Roadster,… – Roadster is kind of like dessert. We gotta get the meat and potatoes and greens and stuff."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But Roadster comes before Cybertruck?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, I think we should do Cybertruck first, before Roadster."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Interesting. I’m not mad at that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Some of the things for Roadster, the tri-motor, plaid powertrain, we’re going to have that in Model S. So that’s like part one of the ingredients that’s needed for Roadster, is the plaid powertrain, the more advanced battery pack. That kind of thing."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I wanted to ask you about this before I forgot. There’s a company that’s called Apex; it’s taking your Teslas, and they’re giving it a wider base and wider tires and a little bit more advanced suspension. How do you feel about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sounds good to me, sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Do you work with them? Are you cool with those people?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, go ahead."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "They’re jazzing stuff up with carbon fiber and doing a bunch of interior choices. You’re cool with… You can’t fuck with that. You don’t have time. So is it good that someone comes along and has that sort of specialty operation?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I’ve got no problem."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s what it’s called, right? It’s like… Jamie, is it called Apex?"
+    },
+    {
+      "role": "jamie",
+      "text": "Yeah. I got an\nUnplugged Performance S-APEX\n."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That’s right. Unplugged Performance. Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. You could, for sure, lighten the car up and improve tire traction and…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Have you seen that company’s stuff? What they do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know specifically, but there’s…"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s pretty dope. They make it pretty dope-looking… They take Model S, and they widen it and give it a bunch of carbon fiber. That’s it, right there."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Cool."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Ooh-la-la, look at that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That looks pretty nice."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah, it does. Now, the plaid version of the Model S, are you going to widen the track and do a bunch of different…? I know you guys are testing at the Nürburgring. Can you not talk about that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think we’ve got to leave that for a proper sort of product unveil."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I understand. Last time you were here, you convince me to buy a Tesla. I bought it, and it’s fucking insane."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh great. Glad you like it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Aw, man."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Pretty fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "I don’t… It’s not just pretty fun. The way I’ve described it is, it makes other cars seem stupid. They just seem dumb. And I love dumb things. I love dumb cars. Like I love campfires. I love campfires. I have a 1993 Porsche that’s air-cooled. It’s not that fast. It’s really slow compared to the Tesla, really."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, actually, it’s really quite slow. But, okay, sure."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "But there’s something engaging about the mechanical, just like the gears and, it’s very analog. But it’s so stupid in comparison to the Tesla. Like when I want to go somewhere in the Model S, I hit the gas, and it just goes, whee. It’s like, it violates time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’ve tried it like Ludicrous Plus and stuff like that?"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We just did a software update where it’ll do, like a cheetah stance. So yeah. So, because it’s got a dynamic air suspension so it lowers the back."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh Jesus."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Just like a sprinter, basically. Like what do you do if you’re a sprinter, you hunker down and then shoo. So I shaved like a 10th of a second off the 0 to 60. I mean, it’s pretty fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s so… I’ve taken so many people… – I take them for the holy shit moment. I’m like, “You ready?” like “Hang on there.” and then I stomp on the gas…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "And they’ve never felt anything like it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s confusing. It really is. The instant torque and just the sheer acceleration is baffling."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They’ve never felt it. It’s faster than falling."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s crazy. It’s so fast. It’s a roller coaster. And my family yells at me when I stomp the gas. Like I tell my kids, I’m like, “You want to feel it? You want to feel it?” they’re like, “Do it, do it, do it.” my wife’s like, “Don’t do it.” Boom. And even if I just do it on the highway for a couple of seconds, it’s very exciting."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, pretty fun."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s very fun."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s like having your own roller coaster on tap."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It really is like a roller coaster on tap. Without the loop-de-loops. But, the pinning to your seat, it seems like you’re not supposed to be able to experience that from some sort of a consumer vehicle that a regular person could buy if you have the money. It seems too crazy. And then the idea that this Roadster is a half of a second faster than that? That’s madness."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, with a Roadster, we’re going to do some things that are kind of unfair. So we’re going to take some things from Cadillac rocket world and put them on a car, so."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, I’ve read about that. Explain that. Like what do you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, like I said, we can’t do the product unveil right here. But, it’s going to do some things that are unfair. When we do the unveil of the Roadster, let me just say that anyone who’s been waiting, they won’t be sorry. They won’t be sorry."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Oh, but sure, well, anything that goes 0 to 60, what is it 1.9? Is that the 0 to 60?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s the base model."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "What’s the top of the food chain model? Okay. Faster than that. Let’s just say faster than that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Faster than that, yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "That seems so crazy to me. Now, what was it like when the dude threw the steel balls at the window, and they were supposed to not break, and it broke? I know, extenuating circumstances."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, yeah. I mean, at least you know that our demos are authentic because I was not expecting that, and then I think I muttered, under my breath, like, “Holy shit.”"
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Yeah. You didn’t get mad, though. You didn’t Steve jobs it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I definitely swore; I didn’t think the micro pick it up, but it did. But, so like we practiced this, behind the scenes… – At Tesla, we don’t do like tons of practice for our demos because we’re working on the cars. We’re building new technologies and improving the fundamental product. So we’re not spending like doing hundreds of practice things or anything like that. We don’t have time for that. But, just hours before the demo, both Franz, Head of Design, and I were in the studio throwing steel balls at the window, and it’s bouncing right off. And like, “Okay, this seems pretty good. It seems like we got it.” Okay?\nAnd then, we think what happened was, when Franz hit the door with the sledgehammer to show, this is an exoskeleton, high strength, hardened steel… – You can literally wind up with a sledgehammer, full-on double-handed sledgehammer and hit the door and there’s not even a dent. It’s cool. But we think that cracked the corner of the glass at the bottom, and then, once you crack the corner of the glass, it’s game over. So then, when you threw the ball, that’s what cracked the glass. It didn’t go through, though."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It didn’t go through. That’s true. It didn’t shatter the whole thing, like a regular window would either, which would just dissolve. Right? So in hindsight, the ball should have been first, sledgehammer second."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "You live, you learn."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Listen, man, we’ve taken up a lot of your time. You had a child recently."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I got to get back to it."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "It’s amazing that you had the time to come down here. And I really appreciate that. I appreciate everything you do, man. I’m glad you’re out there. And I really appreciate you coming down here and sharing your perspective."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think you’ve got a great show. Thanks for having me on."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Thank you. My pleasure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right."
+    },
+    {
+      "role": "joe_rogan",
+      "text": "Elon Musk, ladies and gentlemen. Good night."
+    }
+  ]
+}

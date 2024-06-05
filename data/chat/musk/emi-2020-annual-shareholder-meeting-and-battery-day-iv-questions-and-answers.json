@@ -1,0 +1,403 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/04/19/2020-annual-shareholder-meeting-and-battery-day-iv-questions-and-answers/",
+  "speakers": [
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "drew_baglino",
+      "name": "Drew Baglino"
+    },
+    {
+      "id": "eli",
+      "name": "Eli"
+    },
+    {
+      "id": "ryan_mccaffrey",
+      "name": "Ryan McCaffrey"
+    },
+    {
+      "id": "ross_gerber",
+      "name": "Ross Gerber"
+    },
+    {
+      "id": "gali",
+      "name": "Gali"
+    },
+    {
+      "id": "josh_phillips",
+      "name": "Josh Phillips"
+    },
+    {
+      "id": "turner",
+      "name": "Turner"
+    },
+    {
+      "id": "ben_limpic",
+      "name": "Ben Limpic"
+    },
+    {
+      "id": "jordan",
+      "name": "Jordan"
+    },
+    {
+      "id": "rodney_westmoreland",
+      "name": "Rodney Westmoreland"
+    },
+    {
+      "id": "scott",
+      "name": "Scott"
+    },
+    {
+      "id": "tony",
+      "name": "Tony"
+    }
+  ],
+  "messages": [
+    {
+      "role": "elon_musk",
+      "text": "And now we’ll move to Q&A."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Absolutely."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So we’ll invite a few people on stage."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Come on up, team."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is just a small portion of the team, but I thought it’d be great to show you some more of the team, and when we do Q&A, we can give various people different questions to answer."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Sounds great. Actually, I don’t know how we’re getting the questions."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, I don’t know either. You can maybe get out of the car for two seconds and yell it at us. How are we getting the questions?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Oh, there are mics. Wait for the mic."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, there are mics. Okay, great, great."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "All right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. We’ll definitely need to give people mics because otherwise, there’s no way. We’re going to pass some mics out.\nA speaker from the audience:\n[inaudible]"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, we don’t have a name for the $25,000 car yet."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "That’s a great question, though.\nA speaker from the audience:\nElon, you talked about in Berlin that you were going to [inaudible] manufacturing [inaudible]."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, we will be manufacturing cells in Berlin. Yep.\nA speaker from the audience:\n[inaudible]."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "(repeating the question from the audience)\nThermal management system? For homes?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, you mean like the home HVAC? Yeah. That’s a pet project that I’d love to get going on. I don’t know; maybe we’ll start working on that next year. Because I just think, man, you could really make a way better home HVAC system that’s really quiet and super efficient, super energy efficient, and also has a way better filter for particles, and it works very reliably.\nAnd we’ve already developed that for the car. So the heat pump in the Model Y is really pretty spectacular. It’s tiny, it’s efficient, it has to last for 15 years,  it’s got to work in all kinds of conditions from the coldest winter to the hottest summer. So we’ve actually already done a massive amount of the work necessary for a really kick-ass home HVAC.\nAnd they could also stack them. So if you want to say, depending upon the size of your house or whatever, how much you need, you can just basically stack them and just have a very compelling, super-efficient home HVAC. And then you could also communicate with the car, and it’ll know when you’re coming home. So it’s like, “Oh, I don’t need to keep the house cold all day. I’ll just cool it down because I knew you were coming home.” So the pack can communicate with the car and just really dial it into when you actually need cooling and heating. It’ll be great."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Fun product. Who’s next?"
+    },
+    {
+      "role": "eli",
+      "text": "Hello? Hey guys, Eli here from Tesla Owners Club, My Tesla Adventure. Just a quick question. I’m a huge fan of car camping in my Tesla with my dream case, my all-time favorite activity, is it going to be possible to get climate control to the back of the Cybertruck? Because that would be the ultimate camping machine if we can get all-night climate control."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’ll try to do that. Yeah, I agree. That would be really cool."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "All right. Who’s next?\nA speaker from the audience:\nHello, a longtime fan, Elon, great guy. Just a question, how does the ICE industry look like in the future?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I don’t think there will be at ICE industry longterm. Well, I guess there might be like a few things that it’s a like curious thing. There’s still like some steam engines made somewhere, but they’re just basically sort of quirky collector’s items. I mean, that will be the future of the internal combustion engine car."
+    },
+    {
+      "role": "ryan_mccaffrey",
+      "text": "Hi, Elon, to your left here in the white Model Y, Ryan McCaffrey from the Ride the Lightning Tesla podcast. Curious about Cybertruck. It was interesting to see where you had it in on the battery technology front. I’m sort of curious what you see for it on the production front. Is its volume… – you know, trucks are so popular in America. Do you see its volume equaling the 3 or the Y in the future? And also, were you able to get… – Teslas able to legally be sold in Texas as part of the Giga Texas deal?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it’s hard to say what the volume exactly would be for the Cybertruck. The orders are gigantic. We have like, I don’t know, well over half a million orders, I think maybe 600,000 or ,… – It’s a lot, basically, we stopped counting. So I think there’s probably room for, I don’t know, at least like a unit volume of like 250,000 to 300,000 a year, maybe more.\nNow, we are designing the Cybertruck to meet the American spec. Because if you try to design a car to meet the superset of all global requirements, you can’t make the Cybertruck; it’s impossible. So it really is designed for the American market, but this is the biggest market. Our North American market is the biggest market for pickup trucks by far or large pickup trucks.\nAnd then I think we’ll probably make an international version of the Cybertruck that’ll be kind of smaller, kind of like a tight Wolverine package. It’ll still be cooler, but it’ll be smaller because you just can’t make a giant truck like that for most markets. So, yeah, but it’s going to be great. And I don’t know. I think probably we’ll be able to sell directly in Texas. We do pretty well right now. But it is a bit weird not being able to actually conclude a transaction in Texas, but it’s got to be like a click on a server based in California. But weirdly, we can do leasing in Texas, but not selling. Hopefully, that’ll get cleared up in the future."
+    },
+    {
+      "role": "ross_gerber",
+      "text": "Elon, great job with everything that you’re doing. It’s Ross Gerber from Gerber Kawasaki. Your team’s amazing. What I’m most curious about, these innovations are incredible, but on my drive up here fully on autopilot for 400 miles, the entire state is brown, and this is ultimately about climate. Has there been some analysis done if all these things are achieved, what will its direct impact be on climate?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it will have a very significant impact because it will stop the\nCO2 ppm\nfrom growing as it is every year. I should say, I try to view the whole climate thing as a science question as much as possible. Science, you always question your hypothesis. Is it true? Is not true? Or assign a probability to a given hypothesis. And I should say that my original interest  in electric vehicles predates the climate issue. When I was in high school, I thought, “Man, if we don’t figure out electric cars, the whole economy’s going to collapse when we run out of oil.” So we better figure out electric cars and sustainable energy, or civilization’s going to crumble.\nAnd then it was only later that the significance of the climate risk became apparent. And we were also able, using\nfracking\nand other types of technology to access a lot more fossil fuels than previously thought, which is helpful for lowering the cost of gasoline, but it’s pretty bad for the total tonnage of CO2 that you could put in the atmosphere. It’s now greatly beyond what people previously thought.\nAs we were just going through this presentation, it is an absolutely monumental task to accelerate the advent of sustainable energy. The entire global economy is still more than 99% dependent on – or call it roughly 99% – dependent on fossil fuels. So although electric cars get a lot of press right now, as a percentage of the total global fleet, it’s practically nothing. I would say, yes, less than 1% of the global fleet is electric right now because of two billion cars and trucks and whatnot in use.\nSo there’s a massive amount of work ahead. Just insane, like hard to comprehend how much work is ahead to get the new vehicle production to be sustainable, to massively increase the amount of stationary storage, which is critical because renewable energy is intermittent. Wind and solar are intermittent. Sometimes the wind doesn’t blow and, this is obvious, the sun doesn’t shine at night. So you got to have batteries – a massive, massive number of batteries."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, it’s hard to measure in direct impact, but it’s an experiment that we shouldn’t be performing. And the sooner we can end the experiment, the sooner we can kind of move on in a fully sustainable way that is actually lower cost. I think the thing that people haven’t fully internalized is once we do get to the 25k car, the ownership cost of that car is incredibly lower than the prior car. And then on the solar side and wind, with the cost of solar wind coming down and with batteries coming down with them, the actual cost of energy on the grid is going down. So we’re sort of moving towards a sustainable lower-cost future. So there’s not like a sacrifice."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s true. It is a false dichotomy to say that it’s either prosperity or sustainability. This is often used by oil and gas to say like, “Oh, well, do you want people to lose their jobs? Do you want to lower people’s standards of living? Do you want to make all these economic sacrifices really in order to have sustainability?” And the reality, as Drew was saying, is that sustainable energy is going to be lower cost, not higher cost than fossil fuels.\nA speaker from the audience:\nElon, quick question for you, right here in front. First, thanks for having everyone. I was telling a friend, the one company to go work for that’s going to have the biggest structural impact over the next ten years at scale, it’s probably Tesla. So kudos to everyone at Tesla for what they’ve done to this point and going forward.\nThe two questions for you: As you’ve looked at the auto in the storage markets – I know you’ve talked about it at kind of 50/50 long-term – but it seems like a lot of the battery cost curve achievements that you presented today really make some of these storage opportunities much more feasible over the next five years. And so I guess the first part of the question is, does your calculus upon learning and improving these things change on that 50/50 mix, or is there a role where storage becomes bigger?\nAnd then the second part of the question: With all these huge grand visions, who’s going to be with Tesla from a corporate perspective, accomplishing these things? Obviously, Tesla can’t do it alone, but when you look at some of the traditional auto industry or power, et cetera, I don’t see a lot of other Teslas."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, actually, there’s a lot of companies in China that I think are doing great work with electric vehicles and also with stationary storage, although we don’t see that much in the US yet, but I think probably we will in the future. I don’t know, obviously we’re doing everything we can to encourage other companies to move to sustainable transport and also make stationary storage batteries.\nWe made our patents freely available. We really try to tell these companies, “Hey, you really need to do this, or you won’t exist in the future,” but they don’t believe it.  So we’ve talked until we’re blue in the face. What are we supposed to do? But we really are hopeful that other companies will also do what we’re doing and that will make a sustainable future come sooner."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "From a fundamental market size perspective, we did the first ground-up work to show the size of the market in terawatt-hours, and they are roughly 50/50. 10 TWh for transportation, 10 TWh for the grid. And part of that is because the grid batteries…- because when you’re making a power plant, you’re making a large investment, our 25-year assets are greater. If the grid batteries were a 10-year kind of thing, the grid battery market would be bigger. But because it’s a longer-duration asset, they’re roughly the same size."
+    },
+    {
+      "role": "gali",
+      "text": "Thinking long-term, is there any other segments that this new battery will be able to disrupt or electrify beyond just the initial Model 2 or cheaper sedan? Like a boat, Boring Company loop, plane…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Where are you, Gali? Are you there?"
+    },
+    {
+      "role": "gali",
+      "text": "What’s up? Right here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, great. It’s like ventriloquism here; we just get the sound out of the speaker and can’t tell where the heck it’s coming from."
+    },
+    {
+      "role": "gali",
+      "text": "Yeah. Any hints or is the Model 2 such a big deal because it decreases the cost of transportation, that that is really the disruption, or should we get hyped that this new cost curve opens up different vehicle categories, like a high passenger density bus, Boring loop, boat, plane?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, there are batteries in limited production right now that do exceed  400 watt-hours per kilogram, which I think is about the number you need for a decent range, medium-range aircraft. And I think our batteries will, over time, start to approach the 400 watt-hours per kilogram range as well. So yeah, I mean, I think over time, we’ll see all modes of transport, with the ironic exception of rockets, transition to sustainability or to electric basically.\nOn the rocket front, what we’re planning to do is, about 80% of Starship is liquid oxygen, and we’re actually already running a power line to be able to use wind power to create the liquid oxygen. So we’re making some decent progress on sustainability on the rocket front, but there’s just no way to have an electric rocket. And it’s important for the future of life and consciousness that we become a multi-planet species, so got to keep doing that."
+    },
+    {
+      "role": "josh_phillips",
+      "text": "Hi Elon, Josh Phillips here, retail investor. I have a question in regards to the lithium and nickel industries and the likely price spikes and shortages of high-grade materials the EV industry is likely to see if they don’t act fast to address future supply. Tesla has clearly made the right moves that are necessary, but there’s a real worry that the potential supply issues and price spikes will create a drag on the rest of the EV industry and, therefore, a drag on global EV adoption. What advice would you give to the EV and mining industries to quickly solve this looming hurdle? Because for a sustainable energy future, the\nspice\nmust flow. Thank you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, indeed. The spice must flow. The new spice. I don’t know. I’m not sure. I guess we can try to basically overdo it in cell production and perhaps supply cells to others, but we do see the fundamental constraint as total cell production. That’s why we’re putting so much effort into making cells and try to reinvent every aspect of cell production, from mining the ore to a complete battery pack, because it’s the fundamental constraint.\nWe’re not getting into the cell business just for the hell of it; it’s because it’s the fundamental constraint. It’s the thing that is the limiting factor for rapid growth. But we could certainly try to overdo it on cell production and perhaps sell cells to others, although we are going at absolute top speed, so it’s not like we’re holding it back.\nI think just making really efficient cars that have lower drag coefficient, low rolling resistance, efficient powertrains – I mean, that’s kind of what we’ve done in order to make iron phosphate still have a good range. So the iron phosphate’s  a lower energy density solution, but while there are some limitations on the total amount of nickel produced every year, there’s really no limit on the iron. There’s so much iron it’s ridiculous. So you can really scale up iron phosphate at a raw materials basis, more than you can nickel."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And just to point out, when we were walking through this presentation, we intentionally separated all the different aspects. The benefits of structural batteries apply to an iron-based cathode in the same way they apply to a nickel-based cathode. So you get longer range, iron-base vehicles. And also, the silicon benefit can apply to the iron-based vehicles as well. So we can do a lot to extend the range of an iron-based vehicle, which is why it’s a key part of the roadmap going forward. And then I invited Turner up here\n(on stage)\nto talk about what the mining industry can do."
+    },
+    {
+      "role": "turner",
+      "text": "Yeah. Diversification on the cathode side is obviously massive, and EVs are all about efficiency. And so for the EV industry, for the vehicle industry, we need to see powertrain efficiency really increase at all other companies, matching Tesla powertrain efficiency, so that everyone can have that diversified cathode approach, where\nLFP\nis used in medium range, and even really make a 300-mile vehicle with LFP.\nAnd really, the goal that we were trying to present here was a model for vertical integration, strategic vertical integration, that a lot of different people can do. What we need to see is vertical integration that shortens the process path, from mine to cathode. And what we’re doing here is novel, and we’re trying to push the industry in that direction. So we’re presenting a model here that anyone can follow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "(to the team on stage)\nYeah. In fact, if there’s anything that you guys want to comment on, feel free to step forward and say something.\nSpeaker A on stage:\nI think the key is to be smart about your chemistry choices, your materials choices."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Talk louder.\nSpeaker A on stage:\nYeah. If you’re smart about your materials choices, the spice will continue to flow. You don’t need to use the same kind everywhere. It’s about strategically planning it out, and for miners, I think we are incentivizing them quite a bit to ramp up their production."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. And actually, we had good calls; they’re all motivated. I think they’ve been sort of sitting back being like, “Are you going to grow like crazy?” And we’re like, “Yeah, we’re going to grow like crazy.” And then I think this indicates we’re going to grow like crazy, and that’s what the miners want to hear, and then they’ll go make the investments."
+    },
+    {
+      "role": "ben_limpic",
+      "text": "Hello, Elon. This is Ben Limpic, I’m a musician. I was wondering, does Tesla have any future plans to make partnerships with music companies, like it has done with Tencent games or things like that, for you guys to actually kind of expand your services for artists and other types of creative people, to get involved in producing content that can be part of the Tesla ecosystem or so other people that do creative things can get involved with you guys?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We haven’t really thought about it that much, but I suppose it’s probably something we should think about. We will be providing TIDAL on the Teslas. So we’re providing more music sources that people can choose from and just generally trying to improve the entertainment experience in the cars. And I think actually, as we go to a more autonomous future, the importance of entertainment and productivity will become greater and greater.\nI mean, to the degree that if you’re just basically sitting in your car, the car is fully autonomous and driving somewhere, the car is essentially your chauffeur, and then the things that become important are, okay, well, let’s have good entertainment, and if you want to do some productivity stuff, then that actually starts to become much more important because you’re no longer spending your attention driving the car. So it will be extremely important in the future."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Should we do some of the say.com questions?Okay. Should we do the second one?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. The first one, I think we already answered. If we’re able to make enough cells, which we’ll try to do, we will supply other companies. It’s definitely not an intentional effort to keep the cells to ourselves. If we can make enough for other companies, we will supply them. And we were trying to do the right thing for advancing the sustainable energy, whatever that is.\nVehicle to grid\n– we get asked that a lot. I think one of the things that’s important to note is, vehicle to grid, unless you have a power cutoff, you need to cut off your main supply to the grid. Otherwise, if you lose the power in your house, you’ll basically just  backflow energy to the grid. So just having a reversal in the power flow does not actually keep the lights on. You need a whole separate system to cut off power to the grid.\nAnd I think there’s also the case that people really want the freedom to be able to drive and to charge at their house. And it’s obviously very problematic if you get to morning and your car, instead of being charged, it discharged into the house, and then you’re sort of, “Okay, now I can either drive or use the battery to power my house.”\nI think it’s actually going to be better for people’s freedom of action to have a power wall and a car separate, and then everything works. You basically combine that with solar, either solar retrofit or\nsolar glass roof\n, and local battery storage, so you basically become your own utility. And then the car can be charged also with solar. I think that’s the stuff that works. That said, we can certainly do vehicle to grid; I think we can basically enable that with software in Europe or something, right?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. Future generations of power electronics, we will be able to do this more or less everywhere, from an energy market participation perspective. But from a backing up the house, it just so happens that the way the North American connectors are – on all the cars in North America, it doesn’t matter whether it’s the Tesla connector or the connector that the other vehicles have – doesn’t actually support powering your home. It’s unfortunate. So, you’d need an additional hardware to do that.\nBut yeah, in the future, all versions of our vehicles will be able to at least do bi-directional power flow for the purposes of energy market participation. But even for that, it’s important to remember that your car isn’t plugged in 24/7, so it’s kind of an unpredictable resource for the grid. It’ll have a value, but it’s not the same as a stationary battery pack."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Honestly, a vehicle to grid sounds good, but I think it actually has a much lower utility than people think. I think very few people would actually use vehicle to grid. With the original roadster, we had vehicle-to-grid capabilities – nobody used it.\nA speaker in the audience:\n[inaudible]"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "(repeating the speaker in the audience)\nHow do we find the engineers to do everything we’re saying?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "How do we find the engineers to do all these things? Well, I guess we recruit a lot of engineers from all parts of the world. I think Tesla has a good reputation for doing exciting engineering, and that tends to attract a lot of the top engineers in the world because they know that their efforts at Tesla will really serve the greater good, and we’re super hardcore about engineering.\nTesla is first and foremost an engineering company; it’s like hardcore engineering is what we do. The sheer amount of hardcore engineering done at Tesla is insane. And if you look at say, there’s various surveys done of engineering schools, where do you want to go, what’s your top choices? And actually, the top two choices last few years have been Tesla and SpaceX. So sometimes it’s Tesla first and sometimes SpaceX first, but those are the two top ones."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. I mean, if you’re motivated to solve some of these problems, which are the hardest problems in the world to solve, that really fundamentally enable the future we all need, please reach out and help us work on these problems."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. And like you said, the battle is far from over. Less than 1% of the global automotive fleet has been converted to electric, and even maybe less than 0.1% of stationary storage has been done. So stationary storage has barely begun, converting the global vehicle fleet to electric has barely begun. So, there’s still a massive amount of engineering work to be done at Tesla and other companies to accelerate this transition to sustainability."
+    },
+    {
+      "role": "jordan",
+      "text": "Hey, can you guys hear me?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah."
+    },
+    {
+      "role": "jordan",
+      "text": "This is Jordan from Mark Asset Management. You’ve talked about the importance of the factory, and you’ve mentioned the ground-up design process and a lot of the new things that you’re going to be doing or started to do in Shanghai, Berlin, and Austin. Can you just maybe help us understand and quantify how financially meaningful all of those improvements will be, and then given what you’re trying to accomplish as a company, is it fair to assume that the vast majority of improvement will be given back to the customer in the form of lower prices?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, I think certainly we will try to give back as much as possible to the customers. It’s not like Tesla’s profitability is crazy high; our average profitability for the last four quarters is maybe 1%. So just to be clear, it’s not like we’re minting money. Our evaluation makes it seem like we are, but we’re not. We do want to try to make the price as competitive as we can, without losing money. If you keep losing money, you’ll just die. This thing called profit is just like, we need to bring in more money than we spend; otherwise, we’re dead."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "But affordability is key to how we scale, right? The demand goes non-linear as you reduce the price of the car."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, it’s important to sort of separate the difference between affordability and value for money or desirability of the product. For a lot of people, they want to buy a Tesla; they simply don’t have enough money. We could make the car infinitely desirable, but if somebody does not have enough money, they can’t buy it. Sometimes people kind of forget this. People have to have enough money to buy the car, and just making a car super desirable but expensive does not mean they can afford it. It’s absolutely critical that we make cars that people can actually afford.\n(to the person who’s in charge of the screen)\nGo through some of these things, scroll down, or something."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "(reads aloud a question from saytechnologies.com)\nWhen do you expect Tesla vehicles to beat ICE vehicles on initial purchase price?\nI think a way to answer that question is: In the classes of vehicles we sell today, we’re already doing that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. We’re already pretty close. And then factoring in total cost of ownership and the fact that electric vehicles require much less servicing and are way cheaper to run when you look at total cost of ownership. And you can always lease a car. So if you just lease a car or get a loan for a car, you’ve got your sort of monthly payments, and then your cost for either gasoline or electricity and your cost of servicing, and the fully considered cost of electric car is much less than a gasoline car of the same nominal purchase price.\nI mean, that said, maybe on the order of three years, when we can do lower cost, like a $25,000 car, I think that will be basically on par, maybe slightly better than a comparable gasoline car. So I think maybe it’s on the order of three years ish."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "(reads aloud a question from saytechnologies.com)\nHow have the technology advancements and increased vertical integration of battery manufacturing influenced your ability to improve the environmental and social impact of the supply chain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We sort of have said that already.\n(to the person who’s in charge of the screen)\nDo we have some ability to scroll through this? Just scroll away."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "We covered recycling."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Just scroll until we’ve got stuff that we haven’t covered."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "We definitely covered that top one."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, a lot of the things we’ve already asked, really."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Covered that. That one."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We literally just answered that."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. Oh, I saw a cathode durability question. Let’s go to that one, go down, go down, go down. Good technical question. Keep going.\n(reads aloud a question from saytechnologies.com)\nHow are you going to address the cathode durability & cost & environmental impact trifecta? Is this something you are going to leave the upstream supply chain to solve?\nNo, I think we tried to answer that directly. I mean, we really are looking at not just what happens in the cathode facility, but currently outside the cathode facility that should really be inside and removing processes that shouldn’t have been there in the first place and the use of reagents that are just costly and not necessary and removing a bunch of wastewater from the process."
+    },
+    {
+      "role": "elon_musk",
+      "text": "(addressing the team on stage)\nGuys, is there anything you want to add to … Maybe we can go through everyone and maybe say what you’re doing and say a few words. I don’t know.\nSpeaker A on stage:\nSure. I just want to reiterate the fact that this is a massive problem."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Massive problem.\nSpeaker A on stage:\nAnd it seems like Tesla’s on its way and ahead, but we need everybody’s help because it’s everybody’s planet, and we’re not going to get to 20 terawatt-hours by ourselves.  So please think about this carefully, as it affects everybody, so let’s get on it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And obviously, if you care about solving sustainability and doing hardcore engineering, definitely come work for Tesla.\nSpeaker B on stage:\nYeah. We went through a couple of the manufacturing improvements, and it kind of looks easy when you put together a nice slide deck, but it’s super challenging. When you take materials out of the process, when you integrate processes together, you have to do a lot of things at once, and that’s like this immense engineering challenge. And so to appreciate that, to get through this, we need the best engineers we’ve got. And we’ve got this awesome team. I just want to shout out also to all of our team watching, you guys are awesome, you absolutely kicked ass putting this together."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Thank you. Thank you, Tesla team. Totally agree.\nSpeaker B on stage:\nYeah. That’s it."
+    },
+    {
+      "role": "rodney_westmoreland",
+      "text": "Yeah. Rodney Westmoreland, managing the construction here at Tesla. What I would like to say is, one, shout out to the team. The team has been working effortlessly, a very, very tough project here, for 24 hours a day, it seems like, around the clock, to have this complete.\nThe thing that sets us apart from a lot of other construction, we have a construction company here. The thing that sets us apart is that we’re integrated in the manufacturing process. So every detail that comes from Drew’s mouth is directly implicated into the system that we’re building. That way, what would typically take three or four months to create a specification, our design team is working right with the manufacturing team to allow us to speed that process up tremendously."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, it’s definitely an important part of the vertically integrated approach, is to be able to design the factory around the equipment, in fact, together with the equipment, so you can build the factory at lower costs and more quickly."
+    },
+    {
+      "role": "scott",
+      "text": "I’m Scott, I focus on cell design. I think it’s hard to put into words how inspiring this is, been at it for such a long time with Tesla. And I really hope others do join us…"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Since when Scott?"
+    },
+    {
+      "role": "scott",
+      "text": "Since 2005, with many of you. Thank you. Year before Drew, but who’s keeping track?\nBut I’m really stoked what the team’s been able to accomplish over the last short period of time, about a year, it’s been really an incredible transformation. I mean, hopefully, what we’ve shown you, inspires you to join us or join somebody else in the effort. And I couldn’t think of a greater, more intelligent, more hardworking team to be working on for this problem.\nPeter\n: I’m Peter, I lead the manufacturing improvement team. And I guess the point that I’d like to make is, manufacturing improvements is like the accelerator. So you think about the execution that Rodney talked about, in terms of how fast we’ve been able to put together this factory, which is amazing and something that’s been really incredible to be a part of. That’s not enough. What we need to do is improve the manufacturing technology, that’s the real accelerator, and that’s what we’re really focused on. Elon talks about it all the time, that really going and improving that system is what will enable us to get to the scale and the cost that we need.\nAnd then the other point that I would make is on the recruiting side. It doesn’t matter if you know about batteries. If you come from any industry, you can do something fantastic in the work that we’re doing. We talk to people from industries that you wouldn’t imagine. Like I talked to a guy who makes golf balls, and he has stuff which is really impactful for what we’re doing. So, if you’re in any industry and you want to be impactful here, come join us, it’d be great."
+    },
+    {
+      "role": "tony",
+      "text": "Hi, I’m Tony. I’ve been working in lithium and cathode materials for almost 23 years now, and this is the most growth I’ve seen in a company; I’ve been here a little over a year and a half. We are hiring amazing people that are allowing us to leverage technology that most of the industry is struggling to achieve. To answer the question, how are we going to do this. We are really advancing the materials manufacturing for cathodes and for lithium beyond what has been accomplished in the previous 20 years."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "It’s exciting."
+    },
+    {
+      "role": "turner",
+      "text": "Yeah. My name is Turner, work closely with the team, have worked a lot with everyone here. On the cathode and upstream materials side , it’s really important that everyone understand that this growth is coming. This growth is real; we are going to make all of these batteries, and everyone needs to grow with us, the entire supply chain needs to grow with us. And if you have an idea that simplifies anything in the supply chain, come talk to us, come work with us and let’s do it."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Any existing specification is wrong, any existing manufacturing method is wrong, process equipment, it’s wrong, it’s just a question of how wrong. Quote Elon Musk."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. We’re wrong, just the question of how wrong. Let’s try to be less wrong."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "So, tell us how we’re wrong and how we can do it better so that we can accelerate and improve as fast as possible."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. Well, I guess thank you, everyone, for coming. I hope you liked the presentation. Very exciting future ahead. We’re going to work our damnedest to transition the world to sustainable energy as quickly as possible, and your support and help is key to that success. So, thanks again; super appreciated; and look forward to the next event. Thank you."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Thank you."
+    }
+  ]
+}

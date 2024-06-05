@@ -1,0 +1,3247 @@
+{
+  "src": "https://www.rev.com/blog/transcripts/elon-musk-interview-with-the-bbc-4-11-23-transcript",
+  "speakers": [
+    {
+      "id": "interviewer",
+      "name": "Interviewer"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "speaker_1",
+      "name": "Speaker 1"
+    },
+    {
+      "id": "speaker_2",
+      "name": "Speaker 2"
+    },
+    {
+      "id": "speaker_3",
+      "name": "Speaker 3"
+    },
+    {
+      "id": "speaker_4",
+      "name": "Speaker 4"
+    },
+    {
+      "id": "alex",
+      "name": "Alex"
+    },
+    {
+      "id": "speaker_5",
+      "name": "Speaker 5"
+    },
+    {
+      "id": "speaker_6",
+      "name": "Speaker 6"
+    },
+    {
+      "id": "speaker_7",
+      "name": "Speaker 7"
+    },
+    {
+      "id": "speaker_8",
+      "name": "Speaker 8"
+    }
+  ],
+  "messages": [
+    {
+      "role": "interviewer",
+      "text": "In Sachs that used to be in content moderation. And we’ve spoken to people very recently who were involved in moderation. And they just say there’s not enough people to police this stuff. Particularly around hate speech in the company. Is that something that you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What hate speech are you talking about? I mean, you use Twitter?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do you see a rise in hate speech? Just your personal anecdote, do you? I don’t."
+    },
+    {
+      "role": "interviewer",
+      "text": "Personally, my For You, I would see I get more of that kind of content. Yeah. Personally. But I’m not going to talk for the rest of Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You see more hate speech personally?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I would say see more hateful content in that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Content you don’t like, or hateful. Describe a hateful thing?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah, I mean just content that will solicit a reaction. Something that may include something that is slightly racist or slightly sexist. Those kinds of things."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So you think if it’s something is slightly sexist it should be banned?"
+    },
+    {
+      "role": "interviewer",
+      "text": "No, I’m not saying anything. I’m saying-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m just curious. I’m trying to understand what you mean by “hateful content.” And I’m asking for specific examples. And you just said that if something is slightly sexist, that’s hateful content. Does that mean that it should be banned?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, you’ve asked me whether my feed, whether it’s got less or more. I’d say it’s got slightly more."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s why I’m asking for examples. Can you name one example?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I honestly don’t…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You can’t name a single example?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I’ll tell you why. Because I don’t actually use that For You feed anymore. Because I just don’t particularly like it. Actually a lot of people are quite similar. I only look at my following."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You said you’ve seen more hateful content, but you can’t name a single example. Not even one."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m not sure I’ve used that feed for the last three or four weeks. And I honestly couldn’t-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then how could you see the hateful content?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Because I’ve been using it. I’ve been using Twitter since you’ve taken it over for the last six months."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then you must have at some point seen the For You hateful content. I’m asking for one example."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And you can’t give a single one."
+    },
+    {
+      "role": "interviewer",
+      "text": "And I’m saying-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then I say, sir, that you don’t know what you’re talking about."
+    },
+    {
+      "role": "interviewer",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Because you can’t give a single example of hateful content. Not even one tweet. And yet you claimed that the hateful content was high. That’s false."
+    },
+    {
+      "role": "interviewer",
+      "text": "No. What I claimed-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You just lied."
+    },
+    {
+      "role": "interviewer",
+      "text": "No, no. What I claimed was there are many organizations that say that that kind of information is on the rise. Now whether it has on my feed or not…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Give me one example."
+    },
+    {
+      "role": "interviewer",
+      "text": "I mean, right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You literally can’t give me one."
+    },
+    {
+      "role": "interviewer",
+      "text": "I think it’s something like the Strategic Dialogue Institute in the UK. They will say that. So they-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "People will say all sorts of nonsense. I’m literally asking for a single example and you can’t name one."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. And as I’ve already said, I don’t use that feed. But let’s-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then how did you know? You literally said-"
+    },
+    {
+      "role": "interviewer",
+      "text": "I don’t think this is getting anywhere."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You literally said you experienced more hateful content and then couldn’t name a single example."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. And as I said-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s absurd."
+    },
+    {
+      "role": "interviewer",
+      "text": "I haven’t actually looked at that feed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then how would you know if there’s hateful content?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Because I’m saying that’s what I saw a few weeks ago. I can’t give you an exact example. Let’s move on. We only have a certain amount of time. Covid misinformation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Amazing."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve changed the Covid misinformation rules."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Has BBC changed the Covid misinformation?"
+    },
+    {
+      "role": "interviewer",
+      "text": "The BBC does not set the rules on Twitter. So I’m asking you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I’m talking about the BBC’s misinformation about Covid."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m literally asking you about… You changed the labels, the Covid misinformation labels. There used to be a policy and then it disappears. Why do that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, Covid is no longer an issue. Does the BBC hold itself at all responsible for misinformation regarding masking and side effects of vaccinations, and not reporting on that at all?\nAnd what about the fact that the BBC was put under pressure by the British government to change its editorial policy? Are you aware of that?"
+    },
+    {
+      "role": "interviewer",
+      "text": "This is not an interview about the BBC."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, you thought it wasn’t?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I see now why you’ve done Twitter Spaces. I am not a representative of the BBC’s editorial policy. I want to make that clear. Let’s talk about something else-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m interviewing you too."
+    },
+    {
+      "role": "interviewer",
+      "text": "All right, let’s talk about something else."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You weren’t expecting that.\nAll right, here we go."
+    },
+    {
+      "role": "interviewer",
+      "text": "Can I join it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I believe you can."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right? One sec."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, hey Walter. Let’s invite Walter to speak. He may not wish to speak, but we can at least invite him."
+    },
+    {
+      "role": "speaker_1",
+      "text": "Okay."
+    },
+    {
+      "role": "interviewer",
+      "text": "Have I been invited?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re clearly a well-oiled machine here."
+    },
+    {
+      "role": "interviewer",
+      "text": "Ah. I think I’m in."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re in. Okay."
+    },
+    {
+      "role": "interviewer",
+      "text": "Start listening. Start speaking."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Here we go. I think I’m in."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. I don’t see you listed as a speaker."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Can everyone hear me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I can hear you."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s the main thing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "He’s put you right next to me."
+    },
+    {
+      "role": "interviewer",
+      "text": "All right. Okay. Just so everyone knows, Elon Musk gave me about 20 minutes’ notice he was also going to go on Twitter Spaces."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s true. Look, this whole thing only came together in a matter of hours. So…"
+    },
+    {
+      "role": "interviewer",
+      "text": "It came together by a very speculative email."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Which I didn’t think would even be responded to. And you were like, “No, let’s do it tonight.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anyway. All right. We’re actually filming. Just so everyone knows we’re filming this for the BBC. So we have three cameras and loads of lights. But this is also being listened to around the world."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s unique."
+    },
+    {
+      "role": "interviewer",
+      "text": "Open and transparent. There we go."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. Wait, is my audio coming through? Just checking."
+    },
+    {
+      "role": "speaker_2",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. And is James invited too? Well, it doesn’t really matter because-"
+    },
+    {
+      "role": "speaker_1",
+      "text": "Yeah, he should have received an invite."
+    },
+    {
+      "role": "speaker_2",
+      "text": "Just click accept."
+    },
+    {
+      "role": "interviewer",
+      "text": "I should be on, right? Speaker. Yeah, am I in?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t see you listed as a speaker but perhaps you will be. We’ll have to make sure that both mics are on at the same time though. Or we’ll get feedback."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m just going to mute it. There we go."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "interviewer",
+      "text": "Are we good, guys?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Wow. Okay. We’ve got 200,000 people listening."
+    },
+    {
+      "role": "interviewer",
+      "text": "That is great. All right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, great."
+    },
+    {
+      "role": "interviewer",
+      "text": "Should we do this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. So I’ll keep us here I guess."
+    },
+    {
+      "role": "interviewer",
+      "text": "You can kind of keep it-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, right. This is…"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah, about around that. Around that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that in shot? . Okay. It doesn’t actually matter if the phone’s in shot. I think we all know that you’re doing it on Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not top secret."
+    },
+    {
+      "role": "interviewer",
+      "text": "All right. Okay, fine. I’m going to start asking questions."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Great. Fire away."
+    },
+    {
+      "role": "interviewer",
+      "text": "All right. First of all, why did you agree to do this interview with the BBC?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. I like spontaneity. And there’s a lot going on and it seems like… I actually do have a lot of respect for the BBC. Although I sometimes forget what the BBC stands for. What is it? Just kidding."
+    },
+    {
+      "role": "interviewer",
+      "text": "You know what it stands for."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, I do. Yeah. So there’s a lot going on. So I thought this might be a good opportunity to answer some questions, and I guess maybe get some feedback too. What should we be doing different? I know the BBC, for example, is not thrilled about being labeled state-affiliated media."
+    },
+    {
+      "role": "interviewer",
+      "text": "Not exactly. I mean I was going to get to that later, but let’s go for it now. It’s officially objected to that term. Do you want to respond to it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So our goal is simply to be as truthful and accurate as possible. So I think we’re adjusting the label to be “publicly funded” which I think is perhaps not too objectionable? We’re trying to be accurate."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m not the BBC, but publicly funded is how the BBC describes itself."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. So that would be accurate. If we use the same words that the BBC uses to describe itself, that presumably would be okay. I’m not asking you for a yes or no, since you’re not running BBC per se. It probably seems to pass a reasonable test."
+    },
+    {
+      "role": "interviewer",
+      "text": "So you’re going to change those labels on the BBC Twitter feed and also NPR’s as well?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Publicly funded. Basically we’re trying to be as accurate as possible."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. All right. Fine. First of all, I just want to clear something up. Are you sleeping in the office here?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I sometimes sleep in the office. In the library."
+    },
+    {
+      "role": "interviewer",
+      "text": "Five days a week?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, no."
+    },
+    {
+      "role": "interviewer",
+      "text": "Three days a week?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not here five days a week. But there’s a library that nobody goes to on the seventh floor and there’s a couch there. So I sleep there sometimes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. In terms of the general overview, the reason why I think you’ve agreed to do this is because you wanted to talk about the first six months as Chief Executive Owner of Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Whatever you want to talk about."
+    },
+    {
+      "role": "interviewer",
+      "text": "So how do you think it’s gone?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it’s not been boring. It’s been quite a rollercoaster. Things are going, I think reasonably well. We’re seeing some all-time highs in terms of total user time. So we passed 8 billion user minutes per day, which is a lot of user minutes.\nSo usage is up, growth is good. The site works mostly. You know, apart from a few glitches here and there, but the site is working fairly well. And we’re doing it with a small fraction of the original head count."
+    },
+    {
+      "role": "interviewer",
+      "text": "You mentioned outages, there have been several."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "And we’ve actually spoken to an engineer who works at Twitter and they said that the plumbing is broken here and it’s on fire and there could be problems at any minute. Do you accept that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, there have been a few outages, but not for very long. It’s currently working fine."
+    },
+    {
+      "role": "interviewer",
+      "text": "So it doesn’t keep you up at night that Twitter might go offline again?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "At this point I think we’ve got a pretty good handle on what makes Twitter work. And we’re also doing it with two data centers instead of three. So we used to have three data centers. We shut down one of them. So we actually have roughly two-thirds of the prior compute capability. But we’ve made so many improvements to the core element. In some cases we improved the core algorithm by 80%. So the actual CPU usage or computer usage is dramatically less.\nBut the results speak for themselves. The system, despite being at all time highs of usage, is fast, it’s responsive. It’s more responsive than it was before the takeover. And we’ve also added long form tweets, you can now post videos up to two hours and certain videos of any length. We’re rolling out our subscriber programs so content creators can actually make a living on Twitter by having some of their content behind the paywall.\nAnd we’ve open- sourced the algorithms. So there’s transparency about what tweets get shown, what content gets shown versus not. What are you really going to trust? Are you going to trust some sort of black box algorithm from some other site? Or are you going to trust something that you can actually see and understand?"
+    },
+    {
+      "role": "interviewer",
+      "text": "But do you accept that there are lots of engineers that are looking at the way that Twitter is built, and the lack of engineers because so many have left and are worried about the health of Twitter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, many of these people have predicted that Twitter will cease to function. Their predictions have not turned out to be true. Insert Mark Twain saying, “Rumors of my death are greatly exaggerated.”"
+    },
+    {
+      "role": "interviewer",
+      "text": "Let’s go back six months."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean we’re literally on Twitter right now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. Let’s go back six months and even further back than that. When you put that initial bid in, you then had a wobble. You kind of said, “I actually don’t want to buy Twitter anymore.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean it really is quite entertaining. I mean it’s like a soap opera. Because when I first made the offer, the response was like the board of Dr. Poison Pill. So they were like, “Hell no, you can’t buy Twitter. We’d rather die. We’re like chewing on cyanide before being bought.” That was their initial response."
+    },
+    {
+      "role": "interviewer",
+      "text": "And then you said, “Actually I don’t want to buy it, because-” "
+    },
+    {
+      "role": "elon_musk",
+      "text": "And then they said, “No, you must buy us, gun to the head. You have to buy us.” I’m like, “Are you the same people who said you’d rather die than be bought?”\nDoesn’t that seem odd?"
+    },
+    {
+      "role": "interviewer",
+      "text": "So I guess my question to you is, you said that said that the reason was because of bots because Twitter was filled with bots. Looking back at it now, was there a little bit of you that thought, “Actually maybe I’ve overpaid. Actually maybe I don’t want to do this, I want to get out of this”? Be honest."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. No, no. The problem was that the publicly stated user numbers were in excess of the real user numbers."
+    },
+    {
+      "role": "interviewer",
+      "text": "But I’ve heard you talk about that and you can talk about that lots and lots. But basically looking back at it now, was that the only reason that you wanted to pull out?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, that was literally the issue. It’s like, let’s say you buy a warehouse full of goods and you were told that less than 5% of the goods in the warehouse are broken. But then you actually get the warehouse, you look into the warehouse and turns out actually 25% of the things are broken. You’d be like, “Huh, that’s not what you said.”"
+    },
+    {
+      "role": "interviewer",
+      "text": "And so then you changed your mind again and decided to buy it. Did you do that because-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I kind of had to."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you do that because you thought that a court would make you do that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. That is the reason."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. So you were still trying to get out of it and then you just were advised by lawyers, “Look, you’re going to have to buy this.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Interesting. So you didn’t actually want to purchase it even when you said you were go-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well not at that price. I think the analogy is pretty close. Let’s say there’s a warehouse full of goods. They say less than 5% of what’s in the warehouse is broken. Then you walk into warehouse and say, “Actually it’s 25%.” So you might still want to buy what’s in that warehouse, but probably at a lower price. You’re not buying the stuff that’s broken."
+    },
+    {
+      "role": "interviewer",
+      "text": "So you didn’t have an epiphany, you just thought, “I’m going to have to buy this. I might as well bite the bullet.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "So then you walked-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not super complicated."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. I’m not sure you’ve said that before."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, fair enough."
+    },
+    {
+      "role": "interviewer",
+      "text": "So then you came into Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Cue a whole bunch of court cases.\n“You have said in the BBC interview…”"
+    },
+    {
+      "role": "interviewer",
+      "text": "So you then came into Twitter with a sink. What were your first impressions?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I thought, “Wow, this is a really nice office building.” And…"
+    },
+    {
+      "role": "interviewer",
+      "text": "Expensive."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, very expensive office building, great decor. It’s a lovely place and definitely is spending money like it’s going out of fashion. Which is, it isn’t quite going out of fashion yet.\nSo no, the gravity of the situation is perhaps not well understood. At the point in which the transaction closed, Twitter was tracking to lose over $3 billion a year, and had $1 billion in the bank. So that’s four months to death. So this is your starting position. How would you feel? Pretty tense."
+    },
+    {
+      "role": "interviewer",
+      "text": "You also had to borrow quite a lot of money and pay interest on that too."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well that’s partly why it was a $3 billion loan rate. So in rough numbers, a normal year of Twitter would do, let’s say $4.5 billion in revenue and $4.5 billion in cost. I mean it was really kind of like a non-profit, they’d run it and roughly break even."
+    },
+    {
+      "role": "interviewer",
+      "text": "But that’s not bankruptcy. You’re not saving that company from bankruptcy. If it’s breaking even."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But then the issue is that if you then add $1.5 billion in debt servicing and have a massive drop in revenue, which we did, which was partly cyclic and partly political concerns or whatever.\nSo revenue, call it dropped by over a third. It’s not just Twitter, Facebook and Google have also seen some significant advertising revenue declines. It’s been a little higher on Twitter, but most of the advertisers are coming back. So I think we’ll just be back where there’s a cyclic demand drop, which is still pretty significant.\nBut in rough numbers, revenue dropped from 4.5 billion to 3. And expenses went from 4.5 to 6, creating a $3 billion negative cash flow situation. And Twitter having $1 billion dollars in the bank. That’s four months to live. So unless drastic action was taken immediately, this company was going to die. It would be owned by the banks."
+    },
+    {
+      "role": "interviewer",
+      "text": "Talk about that drastic action because almost immediately you sacked a lot of Twitter workers. And look, I spoke to them, it was very easy to speak to them when it happened. And the way pretty much everyone said is that it felt quite haphazard."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It was."
+    },
+    {
+      "role": "interviewer",
+      "text": "And it felt a little bit uncaring. Do you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I wouldn’t say “uncaring.” The issue is, the company’s either going to go bankrupt if we do not cut costs immediately. So this is not a caring / uncaring situation. It’s like if the whole ship sinks then nobody’s got a job."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. But a lot of people just lost their jobs like that and they didn’t even know they’d lost their jobs often. They were just frozen out of their accounts."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. What would you do?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, you might want to give someone some notice. By the way, I’m not running Twitter, but this is the criticism and this is what actual staff members say. A little bit of notice…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I understand. You’ve got four months to live, 120 days. In 120 days you’re dead. So what do you want to do?"
+    },
+    {
+      "role": "interviewer",
+      "text": "How much are you worth?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know."
+    },
+    {
+      "role": "interviewer",
+      "text": "I mean we’re talking about around the $200 billion mark. I mean, you’re framing it in a way that it had a few months to live. You’re quite a rich man."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I sold a lot of Tesla stock to close this deal. I did not want to sell the Tesla stock."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Do you have any regrets on the way that some of the staff were let go?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean people were given three months of severance, in some cases more. But like I said, the companies need to be run on their own cognizance, and it’s not so easy for me to sell stock as you might think.\nI have to sell stock during certain periods. I can’t sell stock during other periods. So there are only brief windows where I can sell Tesla stock. And then this is often taken as some lack of faith in Tesla. Matter of fact, the Tesla stock sales caused the Tesla stock declinement, which is not good."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you think those two are connected?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the people couldn’t parse the difference between I’m selling Tesla stock because I’ve lost faith in Tesla – which I haven’t. Or that it’s desperately needed for Twitter."
+    },
+    {
+      "role": "interviewer",
+      "text": "And then after you let go of lot of staff, obviously Twitter became slimmed down a lot and then you started making some more policy decisions. One of those policy decisions was to bring Donald Trump back. He hasn’t actually tweeted yet. Do you expect him to come back at any point? Have you spoken to him?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. He may or may not come back. But the point is that Twitter should be a town square that gives equal voice to the whole country. And ideally the whole world. It should not be a partisan politics. And the partisan politics that are the very far left of the spectrum – San Francisco, Berkeley politics -normally is quite niche. But Twitter effectively acted as a megaphone for very niche regional politics and megaphoned that to the world.\nSo in order for something to serve as a Digital Town Square, it must serve all people from all political persuasions provided it’s legal. So close to half the country voted for Trump. I wasn’t one of them. I voted for Biden. But nonetheless, free speech is meaningless unless you allow people you don’t like to say things you don’t like. Otherwise it’s irrelevant. And if at the point of which you lose free speech, it doesn’t come back."
+    },
+    {
+      "role": "interviewer",
+      "text": "I think the issue some people have is that a lot of people were brought back. I mean some people were brought back who were previously banned for spreading things like Q Anon conspiracies. You have people like Andrew Tate who were brought back who were previously banned for things like hate speech. Do you think you prioritize freedom of speech over"
+    },
+    {
+      "role": "interviewer",
+      "text": "… misinformation and hate speech."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, who’s to say that something is misinformation? Who is the arbiter of that? Is it the BBC?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. Are you literally asking me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Who is the arbiter?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, no, you are the arbiter on Twitter because you own Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So I’m saying who is to say that one person’s misinformation is another person’s information? The point at which you say that this is… Who is starting to decide that?"
+    },
+    {
+      "role": "interviewer",
+      "text": "But you accept that misinformation can be dangerous, that it can cause real-world harms, that it can potentially cause-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So the point I’m trying to make is that BBC itself has at times published things that are false. Do you agree that that has occurred?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m quite sure the BBC have said things before that turn out to not be true."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Correct."
+    },
+    {
+      "role": "interviewer",
+      "text": "In its, whatever it is, hundred-year history, I’m quite sure."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Even if you aspire to be accurate, there are times where you will not be."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. But there has-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think in the grand scheme of things, the BBC does aspire to be accurate."
+    },
+    {
+      "role": "interviewer",
+      "text": "But you accept there has to be a line in terms of hate speech. I mean, you are not looking at total 100% unrestricted speech."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I generally… I’m often seen in that view, if the people in a given country are against a certain type of speech, they should talk to their elected representatives and pass a law to prevent it. So for example, you cannot advocate murdering someone. That’s illegal in the United States, everywhere really, I suspect. So there are limits to speech."
+    },
+    {
+      "role": "interviewer",
+      "text": "I mean, I guess taking your argument to a logical conclusion, then, do you accept that there’s more misinformation on the platform if it’s not being policed in the same way?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I actually think there’s less these days because we’ve eliminated so many of the bots which were pushing scams and spam. And previously, previous management turned a blind eye to the bot because their bonuses were tied to user growth. And if your compensation’s tied to user growth, well, you’re not going to look too closely at some of the users. That’s part of the problem. So I think we’ve got less misinformation because we don’t have one problem that we used to do. And we also have given a lot of attention to community notes, which corrects, with community itself, corrects misinformation. It’s been very effective."
+    },
+    {
+      "role": "interviewer",
+      "text": "I mean, I would only just add that we have spoken to people who have been sacked that used to be in content moderation, and we’ve spoken to people very recently who were involved in moderation, and they just say there’s not enough people to police this stuff, particularly around hate speech in the company. Is that something that you want to address?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What hate speech are you talking about? I mean, you use Twitter."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do you see a rise in hate speech? Just your personal anecdote, do you? I don’t."
+    },
+    {
+      "role": "interviewer",
+      "text": "Personally my For You I would see I get more of that kind of content, yeah, personally, but I’m not going to talk to the rest of Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You see more hate speech personally?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I would say I see more hateful content in that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Content you don’t like or hateful? What do you mean? Describe a hateful thing?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. I mean, just content that will solicit a reaction, something that may include something that is slightly racist or slightly sexist. Those kinds of things."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So you think if something as slightly sexist it should be banned?"
+    },
+    {
+      "role": "interviewer",
+      "text": "No, I’m not-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Is that what you’re saying?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m not saying anything. I’m saying-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I’m just curious. I’m trying to understand what you mean by hateful content. And I’m asking for specific examples, and you just said that if something is slightly sexist, that’s hateful content, does that mean that it should be banned?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, you’ve asked me whether my feed, whether it’s got less or more. I’d say it’s got slightly more."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s why I’m asking for examples. Can you name one example?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I honestly don’t use… honestly, I don’t-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You can’t name a single example."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’ll tell you why, because I don’t actually use that For You feed anymore because I just don’t particularly like it. Actually, a lot of people are quite similar. I only look at my following."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You said you’ve seen more hateful content, but you can’t name a single example, not even one."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m not sure I’ve used that feed for the last three or four weeks, and I couldn’t-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then how did you see the hateful content?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Because I’ve been using it. I’ve been using Twitter since you’ve taken it over for the last six months."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, then you must have at some point seen a before you hateful content. I’m asking for one example."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "And you can’t give us a single one."
+    },
+    {
+      "role": "interviewer",
+      "text": "And I’m saying I-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then I say so that you don’t know what you’re talking about."
+    },
+    {
+      "role": "interviewer",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, because you can’t give me a single example of hateful content, not even one tweet. And yet you claimed that the hateful content was high."
+    },
+    {
+      "role": "interviewer",
+      "text": "Well-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s false."
+    },
+    {
+      "role": "interviewer",
+      "text": "No, what I claimed-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "You just lied."
+    },
+    {
+      "role": "interviewer",
+      "text": "No, no. What I claimed was there are many organizations that say that that kind of information is on the rise. Now, whether it has on my feed or not-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Give me one example."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You literally can’t name one."
+    },
+    {
+      "role": "interviewer",
+      "text": "It’s something like the Strategic Dialogue Institute in the UK, they will say that. So you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Look, people will say all sorts of nonsense. I’m literally asking for a single example, and you can’t name one."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. And as I’ve already said, I don’t use that feed. But let’s."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then how do you know that-"
+    },
+    {
+      "role": "interviewer",
+      "text": "I don’t think this is getting anywhere."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You literally said you experienced more hateful content, and then couldn’t name a single example."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. And as I said-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s absurd."
+    },
+    {
+      "role": "interviewer",
+      "text": "I haven’t actually looked at that feed, I would say, for a few weeks."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Then how would you know there’s hateful content?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Because I’m saying that’s what I saw a few weeks ago. I can’t give you an exact example. Let’s move on. We only have a certain amount of time. COVID misinformation, you changed the COVID misinformation rules."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Has BBC changed its COVID misinformation?"
+    },
+    {
+      "role": "interviewer",
+      "text": "The BBC does not set the rules on Twitter, so I’m asking you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I’m talking about the BBC’s misinformation about COVID."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m literally asking you about, you changed the labels, the COVID misinformation labels. There used to be a policy, and then it disappeared. Why do that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, COVID is no longer an issue. Does the BBC hold itself at all responsible for misinformation regarding masking and side effects of vaccinations and not reporting on that at all? And what about the fact that the BBC was put under pressure by the British government to change its editorial policy? Are you aware of that?"
+    },
+    {
+      "role": "interviewer",
+      "text": "This is not an in scoop about the BBC."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, you thought it wasn’t?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I see now why you’ve done Twitter spaces. I am not a representative of the BBC’s editorial policy. I want to make that clear. Let’s talk about something else. You want to talk about the BBC? All right, let’s talk about something else."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You weren’t expecting that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Let’s talk about something else. Narendra Modi, the BBC did a documentary about Narendra Modi and his leadership during the rise in Gujarat. We then believe that some of those content was taken off Twitter. Was that at the behest of the Indian government?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not aware of that particular situation."
+    },
+    {
+      "role": "interviewer",
+      "text": "So you’re not sure?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know about that, what exactly happened with some content situation in India. The rules in India for what can appear on social media are quite strict, and we can’t go beyond the laws of a country."
+    },
+    {
+      "role": "interviewer",
+      "text": "But do you get that if you do that, you’ve incentivize countries around the world to simply pass nor Draconian laws?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. Look, if we have a choice of either our people go to prison or we comply with the laws, we’ll comply with the laws. Same goes for the BBC."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Okay. Since you became CEO, there’s been another story in town."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m not CEO anymore."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. You’re chief twit, or what are you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, my dog, Floki, is the CEO."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "He’s taken over."
+    },
+    {
+      "role": "interviewer",
+      "text": "I saw that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. So TikTok has also been in the news. There’s talk of perhaps the Biden administration wanting to potentially ban it or force a sale. What’s your view of the situation?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t really use TikTok. I mean, one of the reasons that I emphasize that our goal here at Twitter is to maximize unregretted user minutes or unregretted user time is that I hear many people tell me they spent a lot of time on TikTok, but they regret the time spent. And that seems like, “Okay, well, we don’t want to have regretted time. We want the time to be unregretted, where you learned things, you were entertained, amused.” Frankly, I get more laughs out of Twitter than anything else, and many people tell me the same thing, so that’s a good sign. For TikTok itself, like I said, I just don’t know enough about what’s going on there. I can’t say I have a strong opinion on TikTok."
+    },
+    {
+      "role": "interviewer",
+      "text": "So you’d have an opinion on whether it should be banned or not?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m generally against banning things, so I’d probably not be in favor. I mean, it would help Twitter, I suppose, if TikTok was banned, because then people would spend more time on Twitter and less time on TikTok. But even if it would help Twitter, I would be generally against banning of things."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Do you feel sometimes that your many business interests might get in the way of you having an opinion? I mean, for example, Tesla has major connections in China. You wouldn’t have a certain opinion on something or feel uncomfortable about saying something because of your other business interests elsewhere?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do I look uncomfortable? Actually, I do. I look uncomfortable. Yeah. I mean, Tesla’s got activities around the world and so does SpaceX. Once in a while those things do come into conflict, but it’s not like Twitter operates in China. It doesn’t. Twitter is banned in China. So certainly, I’ve received no communication whatsoever from the Chinese government with regard to Twitter."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. In terms of advertising, obviously, Twitter’s not a private company anymore, so we don’t really know how it’s all going. Have all the advertisers come back?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not all, but most. You can see it for yourself on Twitter, even in the For You feed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean in the, sorry, Following."
+    },
+    {
+      "role": "interviewer",
+      "text": "In the Following feed."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not For You because it’s not, frankly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Total hate speech."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s not what I said."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Well, why don’t you use For You? What’s wrong with it?"
+    },
+    {
+      "role": "interviewer",
+      "text": "How is it going? Is Twitter in profit now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, Twitter is… I’d say we’re roughly breakeven at this point."
+    },
+    {
+      "role": "interviewer",
+      "text": "And I think you’ve said before you see a world where you could be in profit. Is there a timeline on that, do you think?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, depending on how things go, if current trends continue, I think we could be profitable, or to be more precise, we could be cashflow positive this quarter if things keep going well."
+    },
+    {
+      "role": "interviewer",
+      "text": "This quarter, as soon as that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Possibly, yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Wow. And do you have a message for the… I mean, can you say which advertisers haven’t come back?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think almost all of them have either come back or said they’re going to come back. There are very few exceptions."
+    },
+    {
+      "role": "interviewer",
+      "text": "Can you say any of the exceptions?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I actually don’t know of anyone who said definitively they’re not coming back, but they’re all sort of trending towards coming back."
+    },
+    {
+      "role": "interviewer",
+      "text": "But there are some that just haven’t?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Jump in, the water’s warm. It’s great."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s your message to the advertisers that haven’t come back?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Look, if Disney feels comfortable advertising their children’s movies and Apple feels comfortable advertising iPhones, those are good indicators that Twitter is a good place to advertise."
+    },
+    {
+      "role": "interviewer",
+      "text": "I want to talk about if you have any regrets, and I think you were booed at a Dave Chappelle concert. I think your own lawyer said-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "A little."
+    },
+    {
+      "role": "interviewer",
+      "text": "A little. Well, some say a little, some say a bit more. I think your own lawyer said you couldn’t get a fair trial in San Francisco because there are lots of people that don’t necessarily like you here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, but I have to say I was wrong. He was wrong, I guess, because I was acquitted by the San Francisco jury unanimously."
+    },
+    {
+      "role": "interviewer",
+      "text": "But I guess, look, do you have any regrets buying Twitter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it was something that needed to be done."
+    },
+    {
+      "role": "interviewer",
+      "text": "You said that you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s been quite difficult. I’d say the pain level of Twitter has been extremely high. This hasn’t been some sort of party, so it’s been really quite a stressful situation for the last several months. Not an easy one, but apart from the pain… So it’s been quite painful, but I think at the end the day it should have been done. I think were there many mistakes made along the way? Of course, but all’s well that ends well. And so I feel like we’re headed to a good place. We’re roughly breakeven, I think we’re trending towards being cash flow positive very soon, literally in a matter of months. The advertisers are returning. I think the quality of recommended tweets has improved significantly, and we’ve taken a lot of feedback from people that have looked at the open source recommendation algorithm, and we’ve made a lot of improvements even since that was made open source and we’re going to keep doing that. So overall, I think the trend is very good."
+    },
+    {
+      "role": "interviewer",
+      "text": "It was actually something I was going to ask you. You mentioned the pain, but you actually tweeted, I think in February. You said, “The last three months have been extremely tough. I wouldn’t wish that pain on anyone.” Are you talking emotionally there?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "I mean, can you explain?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That was a stetted argument."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like some people around here. This is a dangerous type of work we’re in."
+    },
+    {
+      "role": "interviewer",
+      "text": "It is, or it can be. But just can you just talk me through the emotional strain of this?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, look, I’m been under constant attack. I mean, it’s not like I have a stone-cold heart or something like that. If you’re under constant criticism and attack and then that gets fed to you nonstop, including through Twitter, that is rough. Now, at the end of the day, I kind of think that if you do lose your feedback loop, that’s actually not good. So I think it is actually important to get negative feedback. I don’t turn replies off, and I actually got rid of… I removed my entire block list, so I don’t block anyone either. So I get a lot of negative feedback."
+    },
+    {
+      "role": "interviewer",
+      "text": "What’s been your-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s been good to get negative feedback."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. When you talk about the emotional strain, you’ve gone back to feedback. Is that the thing that’s been most difficult to take, the sort of negative feedback?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, if the media’s writing nonstop stories about why you’re a horrible person, it’s hurtful, obviously."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m interested, I’ve written down a lot of these questions, but I haven’t written this one down. But it’s interesting, it feels like you have quite an interesting relationship with the media because in one some ways you’re quite skeptical, quite critical certainly of established media, but also you kind of get hurt by what the media writes and you seem to-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do, but-"
+    },
+    {
+      "role": "interviewer",
+      "text": "But do you get your news still from the BBC, as you’ve already said?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I literally follow the BBC on Twitter."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. So do you feel you have a kind of odd relationship with the media?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Go on. Explain."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it is somewhat of a love-hate relationship, although it might be tilted a bit more towards the hate. But I think that this is sort of part and parcel of having a free media situation, which is that I do take part, in that the media is actually able to trash me on a regular basis in the United States and the UK and whatnot, whereas in a lot of other places, media cannot say mean things to powerful people. But I think it’s better that we have a situation where the media can say mean things to powerful people."
+    },
+    {
+      "role": "interviewer",
+      "text": "If we’re talking about the media, let’s talk about verification labels. You obviously want to create another revenue stream that’s subscription based. Is verification the way to do that? Because we have a kind of situation at the moment where the New York Times doesn’t have a verified badge, whereas anyone else, you can pay whatever few bucks a month can."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Can that be right? Is that what you envisaged when you bought Twitter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I must confess to some delight in removing the verified batch from the New York Times. That was great. Anyway, they’re still alive and well, so they’re doing fine."
+    },
+    {
+      "role": "interviewer",
+      "text": "But on a serious note, it could flame disinformation again, if you have verified accounts that are from anyone who can pay money, they go up to potentially the top of feeds. They get more action on Twitter, and traditional media that may not pay for verification doesn’t. Do you see how that could potentially be a driver of misinformation?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think the media is the driver of misinformation much more than the media would like to admit that they are."
+    },
+    {
+      "role": "interviewer",
+      "text": "I mean, that’s a different question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. But you are sort of saying who knows best, the average citizen or someone who is a journalist? And I think in a lot of cases, it is the average citizen that knows more than the journalist. In fact, very often when I see an article about something that I know a lot about, and I read the article, and it’s like they get a lot wrong. And the best interpretation is there is someone who doesn’t really understand what’s going on in the industry, has only a few facts to play with, has to come up with an article. It’s going to be… It’s not going to hit the bullseye.\nSo then generally, this is how I would explain it, if you read an article that’s something you know about, how accurate is that article? Now, imagine that is how essentially all articles are, they’re an approximation of what’s going on, but not an exact situation. So if somebody’s actually, let’s say, in the fray or an expert in the field and was actually there and writes about their experience of being actually there, I think that actually that’s, in a lot of cases, going to be better than the journalist, because the journalist wasn’t there."
+    },
+    {
+      "role": "interviewer",
+      "text": "I think you said the legacy verified blue ticks are going to go next week? There’ve been a few deadlines on this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "4/20."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah, I see the joke. Is it definitely going to happen?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Number will never leave me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Clearly. It cost you a lot of money."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, fortunately, it didn’t in the trial."
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, yeah, right. But the SEC, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. We’re going to ask for a refund."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Good luck. Let’s move on from that. But blue ticks, in theory, all legacy blue ticks gone next week. And at that point you’ll kind of work out whether this is going to sink or swim."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "What’s your hunch? I mean, you’ve obviously-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it’s going to swim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’ll swim just fine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. What are you looking for in terms of a revenue stream on that? What are your goals?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I don’t think it’s necessarily a giant revenue stream. Even if you have a million people that are subscribed for, let’s say, a hundred dollars a year ish, that’s a hundred million dollars, and that’s a fairly small revenue stream relative to advertising. What we’re really trying to do here with verification is to massively raise the cost of disinformation and bots in general. So my prediction is that any social media company that does not insist on paid verification will simply be overwhelmed by advanced AI bots. I mean, ChatGPT is essentially a zillion instances of ChatGPT. How would you even know?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that really what you want on the platform? Do you want big news organizations being overwhelmed by bots so that they have to pay you some money?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. The point is that you won’t be."
+    },
+    {
+      "role": "interviewer",
+      "text": "If you pay, but a lot of organizations have already said they’re not going to pay, like the New York Times."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, then that’s up to them if they… Can’t make them pay, it’s a small amount of money, so I don’t know what their problem is. But we’re going to treat everyone equally, so what we’re not going to do is say that there’s some anointed class of journalists who are the special ones, who get to tell everyone what they should think, that it should be up to the people what they think. And even if an article is completely accurate and comprehensive and everything, they’re still, in writing that article, the media is choosing the narrative. They’re deciding what to write an article about.\nSo I’m hopeful that this can be more a case of the public choosing the narrative as opposed to the media choosing narrative. But the media can choose narrative… At least a combination of the media and the public choosing the narrative, and the public getting to weigh in on stories if they think that they should add something to it or we’ve got something wrong. And over time, I think if Twitter is the best source of truth, it will succeed. And if we are not the best source of truth, we will fail."
+    },
+    {
+      "role": "interviewer",
+      "text": "Someone comes in and offers you $44 billion for Twitter right now, would you take it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "interviewer",
+      "text": "Would you consider it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "interviewer",
+      "text": "Why?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I take it back. It depends on who. I suppose if I was confident that they would rigorously pursue the truth, then I guess I would be glad to hand it off to someone else. I don’t care about the money, really, but I do want to have some source of truth that I can count on. And I hope that’s our aspiration with Twitter, is to have a source of truth that you can count on. But it’s also real time. It’s an immediate source of truth that you can count on and that gets more accurate with time as people comment on a particular thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, if you don’t care about the money, you could just give it to someone that you think is a good person to run Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Who do you think that might be?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m not the boss of Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. But, well, you might still have an idea."
+    },
+    {
+      "role": "interviewer",
+      "text": "Who could run Twitter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Honestly, I have no idea who could run Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s a hard job."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay, let’s move on. You’ve said that you were going to stand down as the chief executive, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I already have. I keep telling you, I’m not the CEO of Twitter. My dog is the CEO of Twitter."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Have you got any-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s a great dog."
+    },
+    {
+      "role": "interviewer",
+      "text": "Other than the dog-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s very alert, and it’s hard to get anything by him."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. That’s good to know. Other than the dog, have you got any successors in mind?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "He’s got a black turtleneck, what more do you need?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. All right, we’re going down that route. Steve Jobs or Elizabeth Holmes, are you making a reference to?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I guess more Elizabeth Holmes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. I’ve forgotten the question now."
+    },
+    {
+      "role": "elon_musk",
+      "text": "She’s got a husky voice and a black turtleneck. Problem solved."
+    },
+    {
+      "role": "interviewer",
+      "text": "What were we talking about there? Yeah, who would you want? Have you got a successor in mind?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not yet. Hopefully at some point."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. Because you did say you were going to stand down."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I did stand down."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay, let’s move on from that then. All right. What about this office? I’m intrigued about this office. You said it was expensive."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Why do you even need a CEO? You don’t really need a CEO."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Why can’t we be an commune?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I think Jack Dorsey kind of recommended doing that and you kind of ignored it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Was kind of bad, actually."
+    },
+    {
+      "role": "interviewer",
+      "text": "This office, are you thinking about moving out of San Francisco?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not yet."
+    },
+    {
+      "role": "interviewer",
+      "text": "Not yet?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not yet. No, this place is nice and I kind of like this office actually."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. Okay. So you’re not, because I know you’ve talked about there’s been high levels of crime here. You actually said at one point-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, we should do something about the crime."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "People are dying."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "We should take action."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve also talked about how potentially, I think you might have been joking, but you could turn this into a homeless shelter. So then I guess the reason I’m asking is you-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We tried to turn into a homeless shelter but building management group, well, the owner rejected it."
+    },
+    {
+      "role": "interviewer",
+      "text": "You tried to-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, they won’t let us."
+    },
+    {
+      "role": "interviewer",
+      "text": "Which bits have you tried to turn into a homeless shelter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We’re only using one of the buildings and so the other building could be a homeless shelter."
+    },
+    {
+      "role": "interviewer",
+      "text": "And you’ve tried to-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. We would like to do it right now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’re being stopped by who?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "By the building owner."
+    },
+    {
+      "role": "interviewer",
+      "text": "They won’t let you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. In fact, they wouldn’t even let us take the W off the sign."
+    },
+    {
+      "role": "interviewer",
+      "text": "So how were you going to do that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We were quite-"
+    },
+    {
+      "role": "interviewer",
+      "text": "What was your plan for the shelter?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I don’t know. We could just let people stay there. It’s nice."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. Okay. I didn’t know that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They can bring their stuff, bring their tent and whatever."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. And it’s a roof over their head."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, if the building owner lets us, we will do it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. So if the building owner let owner lets you, you would happily do that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. All right. There we go. What’s the most difficult thing you’ve had to do? What’s the hardest thing you’ve had to do?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "In my whole life?"
+    },
+    {
+      "role": "interviewer",
+      "text": "In the last six months? We’re talking about the last six months as Twitter boss, Twitter owner."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, shutting down one of our service centers was quite difficult because it turns out there were, I thought the service centers were redundant, but there were in fact a lot of things that were hard coded to this one server center. And so when we shut it down and we actually, it was quite catastrophic. We lost a lot of functionality, which sort of really rushed to put it back."
+    },
+    {
+      "role": "interviewer",
+      "text": "When was that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That was around late December, early January."
+    },
+    {
+      "role": "interviewer",
+      "text": "So that was the biggest sort of, I’m worried here?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Biggest crisis, yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. And what about hard in terms of emotional? What were the current levels of staff and what are they now?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think we’re around 1,500 people at this point. And there was I think 7,800."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think it was around just under 8,000. We’re about 1,500 right now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. And has it been hard letting that many people go?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Not fun at all. It’s painful."
+    },
+    {
+      "role": "interviewer",
+      "text": "I guess in what way? Do you feel like you need to speak to people when they leave?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s not physically possible to speak to that many people."
+    },
+    {
+      "role": "interviewer",
+      "text": "You talked about that been most technical bit. Has that been sort of the hardest thing emotionally or is it-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s one of the hardest things, certainly. Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. The Nancy Pelosi tweet, go right back to the start-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, people this ."
+    },
+    {
+      "role": "interviewer",
+      "text": "But there have been, as an example of a few, there have been others. Do you feel like you are an impulsive person?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Have I shot myself under foot with tweets multiple times? Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you feel like-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I need bulletproof shoes at this point."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve definitely done that. The issue is that you are now Twitter owner. Do you feel like you should look at your tweets more? You have a higher responsibility when you tweet something out for it to be accurate?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think I should not tweet after 3: 00 AM."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s the rule."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Well, maybe 2 AM."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s the new rule."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, something like that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. So there’s a blanket ban."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I should. I shouldn’t, I shouldn’t."
+    },
+    {
+      "role": "interviewer",
+      "text": "What are your Twitter rules? I’ve heard some people say never tweet when you’ve been drinking or never tweet when angry. What are your Twitter rules?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think those are two good rules. Yeah, don’t tweet if you’re wasted or really upset about something. Yeah. A good friend of mine actually had a good suggestion and it has helped, which is that if you’re going to tweet something that maybe it’s controversial, save it as a draft and look at it the next day and you see if you still want to tweet it. That has been a good rule of thumb. So I’ve got a bunch of things in my folder that I’m glad I didn’t say."
+    },
+    {
+      "role": "interviewer",
+      "text": "I can’t remember whether I’ve asked you. This is my sort of wrapping up at this point. But yeah, do you have any regrets?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What was… Hindsight’s 2020, so a bunch of decisions that could have been made better for sure. But as I said, alls well that ends well. I think it’s gone pretty well. So the grand scheme of things, I can’t complain."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. I’m going to just check my list of things to make sure I’ve actually-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Maybe if this is something that people on the Twitter want to say. We could ask them."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s on you. That’s on you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Wow. There’s 680,000 people listening."
+    },
+    {
+      "role": "interviewer",
+      "text": "There you go."
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s a lot."
+    },
+    {
+      "role": "interviewer",
+      "text": "That is a lot."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s see, how do we see, okay. Let me see who… I’ll just look at my tweet and see what people are saying or what questions they have. Do you like the BBC? Do you like BBC?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Yeah, we’re not going to do this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Can I interview you?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Obviously I work for the BBC, so-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do you like BBC?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I see what you’re doing. I’m not going to respond to that. I think we can finish the interview there. If you want to continue, thank you very much, Elon, for doing this."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Come on. Surely you like BBC. Come on."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m not engaging. All right, Elon, it honestly has been a pleasure talking to you. It really has. And if you want to carry on the answering questions on this then then go for it. But I’m not going to."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Well, I’m just trying to see if there’s like any good… There’s a lot of comments here."
+    },
+    {
+      "role": "interviewer",
+      "text": "I can imagine."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s so many. So anyway, it’s nice to be interviewed by the BBC. I have a lot of respect for the British Broadcasting Corporation."
+    },
+    {
+      "role": "interviewer",
+      "text": "Did you say when the actual label’s going to go public?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, do we still say state media, whatever. It says government funded media currently as opposed to publicly funded media. Well, I guess probably we can make that change tomorrow if you’d like."
+    },
+    {
+      "role": "interviewer",
+      "text": "It’s up up to you. It’s up to you. So we’ll expect that tomorrow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do you have any requests on a personal level or you can’t speak on a personal level?"
+    },
+    {
+      "role": "interviewer",
+      "text": "No, I don’t."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Okay."
+    },
+    {
+      "role": "interviewer",
+      "text": "I think we’ve established that. What questions are people asking you? Go on."
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s like a lot of comments. Let’s see. I’m just literally looking at replies to the fact that I just ."
+    },
+    {
+      "role": "interviewer",
+      "text": "Are there any good questions that I’ve missed out in the last six months? I’m sure there are many."
+    },
+    {
+      "role": "elon_musk",
+      "text": "People generally seem to this interview far as I can tell. Very few negative comments, so generally positive."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s probably bad for me."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m scrolling as fast as I can to sort of see, I guess there’s some complaints about Twitter Spaces needing some improvement. Let’s fix Twitter Spaces is one of the comments. People like the fact that my dog Floki is the CEO. I’m really just scrolling as fast as I can here."
+    },
+    {
+      "role": "interviewer",
+      "text": "I guess my reflection on this interview-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I just want to say I like BBC."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. Okay. You obviously find that very funny."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do find it funny."
+    },
+    {
+      "role": "interviewer",
+      "text": "Honestly, listening to the interview, the answer about misinformation and saying, “Oh, we don’t police misinformation in the same way but-”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We do . Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "… because we try and get bots. Because we try and take down bots, effective at bots. Where there’s actually less misinformation on the platform."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I think that’s a big factor."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’d like to ask you one more question on that. Because a lot of people I think will be listening to this and thinking really, you are arguing you can police content moderation far less and end up with less misinformation. How can you prove that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "First of all, we do have people content moderation. It’s not like we don’t."
+    },
+    {
+      "role": "interviewer",
+      "text": "But I’ve spoken to lots of people who’ve been fired. So lots of people have been let go. You’ve gone from 8,000 to 1,500 people."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, the censorship bureau was let go. I don’t think the sort of putting a thumb on the political scales on the far left has been let go because that’s not right. That’s not what you want for a public square. You’ve got to have equal treatment for people from across the political spectrum.\nSo some of them are going to be upset about that. But like I said, my experience is that there’s less misinformation these days, not more. And that the Community Notes feature is extremely powerful for addressing so-called misinformation."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve had Community Notes placed on your own tweets."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "interviewer",
+      "text": "One of them involving an alleged diamond mine."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Diamond mine?"
+    },
+    {
+      "role": "interviewer",
+      "text": "A mine that your father part owned?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. My father never owned a… So you’re thinking of an emerald mine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Emerald mine."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I’d like to see a picture of the alleged emerald mine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Because you’ve been community noted on that tweet."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Did you know that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, but he never owned a emerald mine. This is total bullshit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Not even a 50% stake?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "interviewer",
+      "text": "Because in Community Notes-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "First of all, do you think something like an emerald mine would have some sort of property register, there’d be like a picture of it? It’s not like you can say, “Oh, that’s my mine.” These things are hotly debated. If you’ve got something valuable, you have to have some property record, like a house. But much more important than a house. And yet there is no property record whatsoever. There is no picture of this mine whatsoever. It doesn’t exist. It’s fake."
+    },
+    {
+      "role": "interviewer",
+      "text": "So that’s a really good example then because there is a Community Note on that tweet that says, you said this thing on the X day, blah, blah, blah. So in that instance, the Community Notes didn’t work. So you’re saying that that’s a way of solving misinformation. But you are literally saying one of those Community Notes is wrong."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The Community Note may be referring to a thing where I went on a trip with my father to Zambia, but I never saw any mine or anything. So there’s no mine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. But at this point, I’m just saying the Community Note says it is. So you are saying it’s this big great panacea, but yet it’s literally on your own tweet the Community Notes, according to you, are wrong."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If they’re referencing an article, then the article may not be wrong, which they’re still… Community Notes is not going to be perfect. The batting average of Community Notes I found to be extremely high."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. So Community Notes plus getting rid of millions and millions of bots every day, I guess. That’s what we’re talking about."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s what you think is tackling misinformation over content moderation. Because I think that’s the bit that a lot of people will go, really?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Really? Yes. Really. But look, the acid test is, people will use the system and find it to be a good source of truth or they don’t. And no system is going to be perfect in its pursuit of the truth. But I think we can be the best, the least inaccurate. That’s our goal. The least inaccurate. And I think we might be there already. If we’re not there, we’ll be there soon."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’ve spoken to people who think this. Do you have a kind of message for people who think that Twitter has been ruined?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, we have all time high usage, so I don’t think it has been."
+    },
+    {
+      "role": "interviewer",
+      "text": "Some people think it has been, I’ll tell you that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. Well, they’re probably the same people who predicted that Twitter would cease to exist and their predictions have turned out to be false."
+    },
+    {
+      "role": "interviewer",
+      "text": "Okay. I’m not going to ask you whether you think it’s been ruined because obviously you’re not going to say it has."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, I think it’s great. It’s way better. Better by a lot."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m done with this interview. It sounds like you don’t want to take any questions from your legions of fans."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I was looking for questions. You got any questions?"
+    },
+    {
+      "role": "speaker_3",
+      "text": "Here’s people that have a question."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "speaker_3",
+      "text": "."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s hear from Doge Designer. Okay, so what do I do?"
+    },
+    {
+      "role": "speaker_3",
+      "text": "Cool."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Do I tap it again?"
+    },
+    {
+      "role": "speaker_3",
+      "text": "Yeah, he’s muted."
+    },
+    {
+      "role": "interviewer",
+      "text": "We’re just getting some technical help for anyone who’s listening."
+    },
+    {
+      "role": "speaker_3",
+      "text": "Doge Designer’s muted."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. How do you unmute?"
+    },
+    {
+      "role": "speaker_3",
+      "text": "He just needs to."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Doge Designer, if you unmute, you can talk."
+    },
+    {
+      "role": "speaker_4",
+      "text": "Hey Elon, what’s up? Can you hear me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Let’s unmute Jason and David as well and us. Definitely Walter Isaacson if he does want to speak."
+    },
+    {
+      "role": "speaker_3",
+      "text": "Bring up Alex too."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, sure. We’ll get a few people going here."
+    },
+    {
+      "role": "interviewer",
+      "text": "I thought we had half an hour for this interview."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I know. It was so good, we keep going."
+    },
+    {
+      "role": "interviewer",
+      "text": "I was told you were very pressed for time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s true."
+    },
+    {
+      "role": "speaker_3",
+      "text": "All right. Alex you can speak."
+    },
+    {
+      "role": "alex",
+      "text": "Hey, what’s going on?\nAll right, that’s better. So my question actually had to do with more privileges or features for long term Twitter Blue subscribers. One of the complaints I hear a lot is people who change just their profile picture and not their display name, how they lose their verification badge. I know there’s an ID verification coming up as well. What are your thoughts for expanding privileges for longtime subscribers so they kind of gain trust with the platform where they might not have to lose their blue check if they just changed their profile picture as opposed to their name and profile picture."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, during this kind of transition period, we’re extra vigilant about impersonation. So I agree that over time if somebody has a trusted track record, they should be able to change their name and profile picture without losing the blue check. During this transition period, we want to be, just like I said, extra vigilant against impersonation. So that’s why we’re being so rigorous in this regard.\nNow, if somebody has organizational affiliation, they can’t change their name or picture without losing the verification check because they’re cross verified with their organization. So I really would encourage people to get organizational verification as much as possible. And then we’re going to add, so you can have multiple organizational affiliations.\nI think this is going to be really powerful for avoiding impersonation. I’ve heard from a lot of people that impersonation is a serious issue, actually more on other platforms than Twitter. And I think that if you can say that you really do belong to… If some organization can say that you really do belong to them, that’s a great way to address impersonation risk."
+    },
+    {
+      "role": "alex",
+      "text": "Yeah, for sure. Thank you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Cool."
+    },
+    {
+      "role": "speaker_5",
+      "text": "Elon, can you hear me?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I can, yes."
+    },
+    {
+      "role": "speaker_5",
+      "text": "How’s it doing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Good. How’s it going?"
+    },
+    {
+      "role": "speaker_5",
+      "text": "All good. I’m flying to US tomorrow. I just have a couple of questions for you. One is like I will be asked why you are here in US. So what should I tell them? I’m here to visit Twitter headquarters or just Titter headquarters?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Well, yeah, I would recommend adding the W for the SRTs."
+    },
+    {
+      "role": "speaker_5",
+      "text": "For sure. For sure. And second question is, will I be able to meet the Twitter CEO there or no?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "speaker_5",
+      "text": "Perfect. Can’t wait. And I just have one message for James, you know the number of people in this Twitter space so you should be a responsible reporter. You are claiming that you are seeing a lot of hate speech, but you could not even give a single example. So I just request you to be a responsible speaker. That’s it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right. Thank you."
+    },
+    {
+      "role": "speaker_5",
+      "text": "Thank you."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So let’s see. David or Jason, I don’t know if you guys can speak, you’re welcome to if you’d like."
+    },
+    {
+      "role": "interviewer",
+      "text": "I just want to clear up what I said there. I believe I said something, has your feed gotten more hateful or something? And I said my For You feed has got a bit more hateful. I didn’t say I was seeing tons of hate speech on it. That’s not what I said."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "interviewer",
+      "text": "You can frame it like that. I didn’t say that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Look, it’s recorded. So it’s not like we don’t have to engage in guess work here, it’s recorded."
+    },
+    {
+      "role": "interviewer",
+      "text": "In terms of your For You feed, you’re trying to get as many videos that are viral to people as possible to get people to stay on the platform? Is that the-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think if we keep people entertained then they’re going to, yeah. If we’re entertaining and informing people, then they’re going to stay on the platform obviously. If we bore people or it’s like somehow uninteresting, then they will leave. Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "There has been this talk that people like you and other senior celebrities, some journalists get favorable treatment on the algorithms."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you’re getting favorable treatment right now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you give yourself favor favorable treatment on the algorithm?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. In fact, the algorithm is open sourced so you can see exactly what’s going on."
+    },
+    {
+      "role": "interviewer",
+      "text": "I believe the For You one is open sourced, is that right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Following is just who you follow. It’s not algorithm, it’s just-"
+    },
+    {
+      "role": "interviewer",
+      "text": "There’s still an algorithm. Yeah, there’s still an algorithm. What you see, you don’t see every single-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, in following, you should see all the tweets of people that you follow. If not, there’s a bug in the system."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. Just sequentially"
+    },
+    {
+      "role": "elon_musk",
+      "text": "When they tweet."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Following is literally the thing they say when they say it. There shouldn’t be any algorithm interaction there. So it’s hard to actually see. I definitely see some room for improvement from a functionality standpoint because when you have a really big spaces, it’s actually hard to even see who’s requesting to speak because there’s so many."
+    },
+    {
+      "role": "speaker_3",
+      "text": "You can add there, but there are people that will request right here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. It’s a long list. It’s a long list."
+    },
+    {
+      "role": "speaker_3",
+      "text": "Max like 60 I think."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, okay."
+    },
+    {
+      "role": "speaker_3",
+      "text": "At a time."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’ve got a question here. Someone’s texted"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What about him?"
+    },
+    {
+      "role": "interviewer",
+      "text": "… texted me."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay."
+    },
+    {
+      "role": "interviewer",
+      "text": "What about ElonJet?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What about him?"
+    },
+    {
+      "role": "interviewer",
+      "text": "That was obviously quite a controversial moment when I think, did you ban his account for a while and then said you could only couldn’t live because he was doxing you?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, real realtime doxing of locations is not okay."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that flexing your muscle overly?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it’s just realtime doxing is not allowed because-"
+    },
+    {
+      "role": "interviewer",
+      "text": "But if I take a picture of someone in the street and then tweet it, is that doxing?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s against their will and you’re following them around, then yeah, that would be doxing."
+    },
+    {
+      "role": "interviewer",
+      "text": "But ElonJet wasn’t following you around. He was just using publicly available information, wasn’t he?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it wasn’t. He actually the thing-"
+    },
+    {
+      "role": "interviewer",
+      "text": "I know there’s debate-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Is that’s actually not true."
+    },
+    {
+      "role": "interviewer",
+      "text": "I know there’s debate about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "He was using non-public information combined with public information."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you think that you gave yourself favorable treatment there? That’s the criticism on that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it’s just realtime doxing is not allowed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right but you literally created that rule after that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, no. It just was unevenly enforced."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So there’s a no doxing rule. It was unevenly enforced. In fact, in general, part of the issue with the prior management of Twitter is they have all these rules, but they’d only enforce them against some people and not against others."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right. You know what doxing generally means, which is revealing someone’s address."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, where they are."
+    },
+    {
+      "role": "interviewer",
+      "text": "Right but as I say, taking a picture is revealing where someone is. It could be in concert and take a picture of lights of people and then tweet it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "If you can’t recognize them, then it’s not a thing."
+    },
+    {
+      "role": "alex",
+      "text": "I think it was clarified where they would say that if it was a public event, like a concert or say a political rally or whatever, that’s a public space rather than somebody’s traveling. I think there’s the distinction there."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah, it’s not someone’s house. If you’re going to somebody’s house and you’re taking a photo of it saying JK Rowling, several people have harassed her at her house, that would be doxing and they have been gotten rid of. So I don’t know where the question is here, James."
+    },
+    {
+      "role": "interviewer",
+      "text": "It was actually a question I’ve got texted to me. It wasn’t on my list. Let’s move on. To be honest, I’m done."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Do you want to leave?"
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m happy to, if you want to carry on doing questions."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, maybe I will."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’re welcome to. This will be the first time the interviewer has ever walked out of an interview."
+    },
+    {
+      "role": "speaker_6",
+      "text": "How the turn tables."
+    },
+    {
+      "role": "interviewer",
+      "text": "How long are you going to sit here for? We’re just going to pack up around you. Is that how it’s going to work?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that sounds good."
+    },
+    {
+      "role": "interviewer",
+      "text": "All right, we’ll Elon, thank you very much for talking to me."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, you’re welcome."
+    },
+    {
+      "role": "speaker_6",
+      "text": "So that was fun, Elon. I enjoyed it thoroughly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sounds good. Well, this has really given me a long list of future improvements that we need for spaces. That’s for sure."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Oh, yeah, I have a bunch of suggestions. Not right now, but I do. Being on Twitter spaces every single day, there are a host of problems. First of all, where’s the desktop app? I want to connect with my nice microphone. And the phone overheats."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s pretty good, but a lot of things need to be improved. That’s for sure."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Oh yeah, there’s a laundry list of things. So how often do you stalk Twitter spaces? I’m sure you have an alt account or something. Do you stalk Twitter spaces?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, not really. And I actually didn’t even have a burner account. I do have a second account at this point because I need to test the app before it goes out so it’s like a beta test account. But no, I don’t have a burner or anything like that. Yeah, never have had."
+    },
+    {
+      "role": "speaker_6",
+      "text": "So also, no, Pierre, what was that guys name?"
+    },
+    {
+      "role": "alex",
+      "text": "Pierre Delecto."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Mitt Romney’s Pierre Delecto. Pierre Delectos and Zaza Demons, none of those? Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Nope. Well, let’s see. Any key points anyone wants to make, otherwise, I’ll sign off in a few minutes."
+    },
+    {
+      "role": "speaker_6",
+      "text": "I don’t know if the other guys do. I think Whole Mars blog is here. Maybe he has some questions."
+    },
+    {
+      "role": "speaker_7",
+      "text": "I had one question about Twitter. Elon, on some media had been reporting today that Twitter bought 10,000 GPUs for some type of generative AI project, and I also noticed that on Twitter there were a couple of people who mentioned working at AI infrastructure, the super computing team at both Tesla and Twitter. I was wondering if you could share anything with us about what Twitter’s working on there and if there’s maybe any synergies, maybe Twitter using Dojo or something like that, or what exactly is going on with this project?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, it seems like everyone and their dog is buying GPUs at this point. It’s kind of getting to the point where you’re going to have to buy GPUs in a back alley. So there’s certainly a lot of people buying GPUs. Twitter and Tesla are certainly buying GPUs and we’re also working on Dojo. So I think there’s a lot of potential there with Dojo that people don’t realize."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Actually I do have a question and well, I guess people keep DMing me. They’re wondering what’s the future of the Twitter files? Do you still have any journalists working on these things or no?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, at a certain point we need to move on from the Twitter files, but I think there’s a few things left, but generally I think there’s not a lot that I’m aware of that’s left. So it’s mostly just like, let’s just move on to the future."
+    },
+    {
+      "role": "speaker_6",
+      "text": "That’s fair, yeah. I think that’s more or less true. What are your thoughts on companies like Facebook, Instagram, TikTok following Twitter’s footsteps? I think Facebook recently did a verification thing for $15, which is double the price. What’s your thoughts on that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, like I said, my opinion is that any social media organization that does not insist on paid verification will be worthless because at this point, take Instagram for example, you can generate an infinite number of thirst pics using Midjourney and for very little. And at this point, modern AI can pass any human verification test. So the only solution that I can think of is to increase the cost of fake accounts. So if somebody’s paying on the order of $8 a month, that’s $100 a year, and they also need to get a credit card and a phone number from a reputable carrier. So then it’s much harder to create a million bots, whereas if you don’t require those things, it’s trivial, frankly, to create a million bots and they’ll all seem very human and will take very little computing effort to do so. So that’s why I think basically any social media that does not require paid verification will basically cease to be relevant."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Makes sense. Speaking of generative content, is it possible for you guys to add a flag that says that, “Hey, this video or this image is…” I make a lot of AI generative content, and a lot of it looks real. I put one of Donald Trump making out with Gavin Newsom, and a lot of people thought it was real-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, God."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah, on the timeline."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You anything, it looks pretty real, including the voice. That can get the voice matched and the video matched. It’s really getting to the point where it’ll be quite easy to generate extremely realistic fake videos, images and so forth and voice. I saw a fake Joe Rogan interview and it really sounded like Joe Rogan’s voice. I sent it to Joe and he was like, “Whoa, this is crazy.” So yeah, I think verification is going to be extremely fundamental in the future. That’s why we’re so focused on it."
+    },
+    {
+      "role": "speaker_6",
+      "text": "So the reason I brought that up is as a content creator, I’d like to keep making those, and I don’t want to necessarily fool people. So would it be possible to, I don’t know, add a flag to it so that content creators can say, “Hey, this is AI generated content. Don’t take it seriously, it’s a parody,”?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think in the tweet, in the post, I think it would be advisable to say that this is not real if it is something that can be potentially misinterpreted."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It was crazy how viral that picture of the Pope with the awesome jacket-"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Balenciaga?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah-"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Oh, there was one of Joe Biden falling off the airplane. I that one."
+    },
+    {
+      "role": "alex",
+      "text": "That was good. You could also add it to the alt description-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Honestly, the best advertising that Balenciaga has ever gotten in their entire which the Harry Potter Balenciaga demon Flying Fox one was genius. That was amazing."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Work of art. He did a new one today, Lord of the Rings, I think."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it’s amazing. And actually, even the AI fashion is great."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Right. If I was a fashion designer, I’d be taking ideas from this because the stuff that makes-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely."
+    },
+    {
+      "role": "speaker_6",
+      "text": "… actually original."
+    },
+    {
+      "role": "elon_musk",
+      "text": "The AI fashion is incredible. So can we just print that somehow or make it, because it’s amazing."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Maybe you should patent the idea, just have an AI fashion generator thing that prints them out and I think there’s craft or something, the clothing manufacturer thing that you can sort of do it at home. Patent that. You can make so much money."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I don’t really believe in patents actually because-"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Okay, make it open store."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But yeah, there’s really some amazing AI generator clothing. It’s really cool. And I really love that one with the Pope and that went viral. A lot of people thought that the Pope actually had that outfit, which is not totally out of the question because there’s a lot of amazing fashion in Italy. So it’s possible that some fashion house made a really epic coat for the Pope. But that was obviously AI generated. We’re headed into a weird world here."
+    },
+    {
+      "role": "speaker_6",
+      "text": "We are, video games."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Where trying to figure out what’s real is super hard."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah, I’ve fooled millions of people with the one of Joe Biden falling off the airplane. So anything’s possible."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well he has stairway a few times on the stairwell, so that’s quite believable in that situation. So a bunch of things very close to the truth, it’s quite reasonable to expect that people would interpret that as possibly true. So yeah, I think just verification that an account is real, that material is real. What is real anymore is an extremely fundamental question."
+    },
+    {
+      "role": "speaker_6",
+      "text": "of the world. That’s what Bill Clinton used to say."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so here at Twitter we’re going to be very focused on figuring out what’s real, and if it’s not real, then trying to address it."
+    },
+    {
+      "role": "speaker_6",
+      "text": "I think has been doing a great job of covering the news four hours ahead of the AP. So that’s a big plus for Twitter that you have citizen journalists now who are able to cover this stuff hours before anybody else."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, if you want the realtime news, this is the best place is Twitter. And like I said, any given source of information is going to have some degree of inaccuracy, and we can just aspire to make that as small as possible and iterate towards being closer to the truth over time. That is our goal."
+    },
+    {
+      "role": "speaker_6",
+      "text": "That’s a good goal."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s a good goal. But we’re definitely not going to assert that everything you see on Twitter is true because it isn’t. I think-"
+    },
+    {
+      "role": "alex",
+      "text": "."
+    },
+    {
+      "role": "elon_musk",
+      "text": "… be very skeptically, any organization that claims to be completely truthful, because they’re not and so that very claim is false. So I think it’s important to reflect on what mistakes we’re making and try to make fewer of them in the future."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Unlike media."
+    },
+    {
+      "role": "speaker_7",
+      "text": "Could you tell us about X Corp? Is this just something that’s a legal thing that you had to do, or is there maybe something more to it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There is something more to it."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah."
+    },
+    {
+      "role": "speaker_7",
+      "text": "You want to tell us what it is?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Like I said, my goal is to create X the everything app. That’s the goal. It’s what we’re working towards."
+    },
+    {
+      "role": "speaker_7",
+      "text": "Nice, and Twitter is, what, a first step?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Twitter is an accelerant to X the everything."
+    },
+    {
+      "role": "speaker_6",
+      "text": "What does that mean?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I guess you’ll have to stay tuned to find out."
+    },
+    {
+      "role": "speaker_7",
+      "text": "Oh, I love it."
+    },
+    {
+      "role": "speaker_6",
+      "text": "For another episode. I’ve canceled my Netflix-"
+    },
+    {
+      "role": "speaker_7",
+      "text": "Tune in next ."
+    },
+    {
+      "role": "speaker_6",
+      "text": "… Twitter. Twitter’s taken my time. Yeah. Thank you for that. It’s very entertaining. Very entertaining."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s very entertaining. I was thinking Twitter does make me miserable at times, but it actually makes me laugh as well. And I think if it’s entertaining and informative, then we’re doing a good job."
+    },
+    {
+      "role": "speaker_6",
+      "text": "There’s the difference between Twitter and TikTok, because TikTok, it’s mostly passive entertainment. You’re just watching videos, but on Twitter, you’re interacting, you’re saying things to people. And when you tweet as a celebrity, there’s a pretty good chance they read your tweets and they get irritated by it. Let’s say you trolling them."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Which is what I do. So it’s good, it’s fun. Having that reaction, it’s like it’s playing a video game, but better."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, yeah. Totally. Exactly. Honestly, Twitter is troll heaven."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Oh, hell yeah. A lot of the media’s going to hate it because they want to control space and -"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s totally troll heaving on Twitter. And the thing is, I even get trolled and I’m like, God, why did I get trolled again? That was really dope."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Right? I get trolled every day and it’s like part and parcel of being on Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, totally."
+    },
+    {
+      "role": "speaker_6",
+      "text": "It is worth it."
+    },
+    {
+      "role": "alex",
+      "text": "On that note, did you see the guy who got charged for a meme on Twitter? What were your thoughts on that? I know you commented on it. I didn’t know if you got to look more into it. His name’s Douglas Mackey."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, that’s the guy who I guess was accused of election interference or something, -"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Isn’t that the counselor from South Park?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "vote or something."
+    },
+    {
+      "role": "alex",
+      "text": "People shouldn’t believe everything that they see online, and I don’t think that should be criminal."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No- I think criminal is over the top there. I would agree with that that they went too far. If that’s the standard for throwing someone in prison, then there should be a lot of people in prison."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah. What are you in prison for? Meme crimes."
+    },
+    {
+      "role": "alex",
+      "text": "Exactly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Meanwhile, there’s like murders running free, so it’s crazy."
+    },
+    {
+      "role": "alex",
+      "text": "Yeah, exactly."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Precisely. Look at San Francisco, right? Pretty good example with the crime. I was in San Francisco, I don’t know, a decade ago. It was fine. And now I look at it and it’s like, I don’t recognize this place anymore."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Really something needs to be done about the crime situation in San Francisco. It’s really ."
+    },
+    {
+      "role": "speaker_7",
+      "text": "The area around Twitter’s headquarters especially is like zombie apocalypse is the perfect way to describe it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, literally. It’s like people think maybe you’re exaggerating. I’m like, no, you can just definitely come here any day of the week, including 10 in the morning or 2 in the afternoon. We’re not talking midnight stuff. Literally mid-morning driving into Twitter, it looks insane. So people can just come here and see it with their own eyes, it’s next level."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Or watch the videos on Twitter because it’s safer."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "speaker_6",
+      "text": "As sad as it is. Man, every single day."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s intense. You’re like, whoa."
+    },
+    {
+      "role": "interviewer",
+      "text": "It can be overplayed too. I spend my time often being outside Twitter with a camera doing lives."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Really?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Outside Twitter?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah."
+    },
+    {
+      "role": "speaker_6",
+      "text": "You’re brave."
+    },
+    {
+      "role": "elon_musk",
+      "text": "What are you doing, pointing camera at the sign or something?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Pointing a camera at me with Twitter behind doing a news story."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Really? Are you serious?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Why? Because it sort of gives an ambiance or something?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah. You must have seen the news, right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I know. Well, I suppose I have seen a few things where there’s people doing interviews with the Twitter sign in the background, and I guess that’s more interesting than just being in a studio or something."
+    },
+    {
+      "role": "interviewer",
+      "text": "Well, next time I do it, you can just invite me in."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay, sure. Just shoot me a note."
+    },
+    {
+      "role": "interviewer",
+      "text": "Great."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But the W is now a background color, so…"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Titter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Look, I held a pole and there was a strong yes on Titter, removing the W."
+    },
+    {
+      "role": "speaker_8",
+      "text": "Right, you’ve got to bit of people, popular Vox Day."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that an exception to the whole as we’ve already established?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, look, I said I would appoint a new CEO and I did, and it’s my dog. I don’t know what people have against dogs? They’re fine. Dogs are great."
+    },
+    {
+      "role": "speaker_6",
+      "text": "They hate dogs."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Only dog haters would be opposed to making the dog a CEO."
+    },
+    {
+      "role": "speaker_6",
+      "text": "I see people saying, oh, you promised to quit and step down. I’m like, “Well, no, the dog’s the CEO. Floki is the CEO.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, the dog’s the CEO. What are you complaining about? It’s great dog."
+    },
+    {
+      "role": "speaker_6",
+      "text": "There are towns where the mayor’s the dog, right? They elect a dog because all the people suck and it’s the same thing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Dog’s always cool."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, he’s got great instincts."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah. Oh, man."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Anyway, I hope people have a good time on Twitter and learn things. And like I said, the acid test is under regretted user time, and if under regretted user time is growing, then we’re doing the right thing."
+    },
+    {
+      "role": "speaker_6",
+      "text": "It’s good. I like to hear that. I love Twitter and good to see things go onward and upward."
+    },
+    {
+      "role": "elon_musk",
+      "text": "All right, sounds good. Well, good talking guys. I’ll head back to work and thanks for all your feedback."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yeah."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Likewise."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for letting-"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Three million people joined this space."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Wow, 3 million?"
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Amazing."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Yeah."
+    },
+    {
+      "role": "alex",
+      "text": "Dang. People really like that part of the interview where you started interviewing them. You should do it more often."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Oh yeah."
+    },
+    {
+      "role": "alex",
+      "text": "You’re good at grilling journals."
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is Elon Musk interviewing the BBC."
+    },
+    {
+      "role": "interviewer",
+      "text": "I’m still here, by the way."
+    },
+    {
+      "role": "speaker_6",
+      "text": "He’s still here. Wait, you can still hear me? Oh, no."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Well, thanks for ."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Fun time."
+    },
+    {
+      "role": "interviewer",
+      "text": "Enjoyed that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for doing it."
+    },
+    {
+      "role": "speaker_6",
+      "text": "The entertainment."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You’re most welcome. All right, thanks. Signing off guys."
+    },
+    {
+      "role": "speaker_6",
+      "text": "Bye-bye."
+    }
+  ]
+}

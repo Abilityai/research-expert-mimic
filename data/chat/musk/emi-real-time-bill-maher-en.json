@@ -1,0 +1,347 @@
+{
+  "src": "https://elon-musk-interviews.com/2023/05/02/real-time-bill-maher-en/",
+  "speakers": [
+    {
+      "id": "bill_maher",
+      "name": "Bill Maher"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "bill_maher",
+      "text": "My first guest is the man who made electric cars a thing, and is currently working on perfecting reusable rockets, space travel, connecting the human brain directly to computers, connecting cities with electromagnetic bullet trains, the Starlink satellite system that’s so important to the war in Ukraine, and then, on Tuesday, is going to work on this tunnel thing, on traffic. He also tweets a lot. Elon Musk, ladies and gentlemen.\n(Elon enters the stage)\nLook at you.Did I get the full order of things that you do in a day there? When I was reading there, I left out the tunnel thing at the end."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I do a lot of jobs."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Do you do all these things every day? Do you work on all of them in a single day?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No. But I do have a long work day. Yeah, so I work a lot."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Well, I’m so thrilled you’re here because, you know, we do a show where we talk about what changes happen in the world. But we just talk. There’s a very few people who actually make change happen. You are one of those people.\n(applause)"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I just want to say I love this audience."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Well, you’re a likable guy. I mean, they attack you a lot."
+    },
+    {
+      "role": "elon_musk",
+      "text": "They do.\n(laughs)"
+    },
+    {
+      "role": "bill_maher",
+      "text": "And you seem to laugh it off, which I think is fantastic. I love it that you have a sense of humor because a guy as important as you who makes changes could use your powers for evil and not good."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely.\n(stares like a villain)"
+    },
+    {
+      "role": "bill_maher",
+      "text": "You could."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Of course, I would never use them for evil.\n(stares like a villain again and laughs)"
+    },
+    {
+      "role": "bill_maher",
+      "text": "No, I know. But the way I know that is because you have a sense of humor. You really do. You like laughing, you like to be funny. As opposed to somebody like Zuckerberg, who I’m not even sure is a real boy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I actually love comedy. You know, like, many years ago, I actually was in the audience here and watched your show. Been a longtime admirer of your show."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Oh, wow, thank you. Let me get back to you being a genius. Okay. It has always been my view that… – as I was a history major, and when you study history, what you realize is that there’s the great man theory, and they talk about kings and princes and queens and presidents – it’s really the people in tech, who changed the world. They’re the people who deal the cards. Whether it’s fire, or electricity, for good or bad, or the cotton gin, or the iPhone, or the atom bomb, those are the cards and the rest of us just play it. Would you agree with that assessment?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think technology is the thing that causes these big step changes in civilization. So obviously, you’ve got things like, say, the Gutenberg Press, before which it was very difficult to get books. They were very rare. Even if you had a thirst for knowledge, you really couldn’t do anything about it because there were very few books to read. And the internet is something beyond the Gutenberg Press, I think. When I first saw the internet coming into being in a way that the general public could use it, it felt like humanity as a whole was developing a nervous system. So previously, the way that information would travel would be via osmosis. One person to another or one person calling another. The access to information was very limited. Now with the Internet, it’s like having a nervous system. It’s like any part of humanity has access to almost all the information of humanity. You could be in the middle of the Amazon jungle with, say, a Starlink terminal and have access to more information than the President did in 1980."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Right, anything on your phone."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Everything."
+    },
+    {
+      "role": "bill_maher",
+      "text": "So you are one of these dealers, these people who deal the cards."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I deal some memes, too."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Yes, you do.\n(laughter, applause)\nSo I think a lot of people thought when you bought Twitter that this is kind of an outlier. Like, that  doesn’t fit with these other things you’re doing. I never thought that because I think you’re dealing with big civilizational issues and problems. And I was right on your page. I think Twitter is one of them. I mean, you have talked about this woke mind virus in really apocalyptic terms. You should explain why you don’t think it’s hyperbole to say things like it’s pushing civilization towards suicide. First of all, what is the woke mind virus, and if we don’t deal with this, nothing else can get done? Tell me why you think that?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, so I think we need to be very cautious about anything that is anti-meritocratic and anything that results in the suppression of free speech. Those are two of the aspects of the woke mind virus that I think are very dangerous – that it’s often anti-meritocratic, and you can’t question things. Even the questioning is bad. So, you know, almost synonymous would be cancel culture. And obviously, people have tried to cancel you many times."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Many times. Every week. From left and right. I’ve had it from both sides. And it’s interesting, you and I are both like in that little group of people – maybe it’s a bigger group now – who are called conservative, who haven’t really changed. I don’t think of you as a conservative."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I at least think of myself as a moderate. I mean, I’ve spent a massive amount of my life energy building sustainable energy, you know, electric vehicles, and batteries and solar and stuff, to help save the environment. That’s not exactly far right."
+    },
+    {
+      "role": "bill_maher",
+      "text": "You drew that diagram once where you’re here. I related to that, and like, the world has changed. I feel the same way. I feel like, very often, wokeness is not building on liberalism. It’s the opposite of liberalism. I can mention many examples where it’s the opposite, including free speech."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Free speech is actually extremely important. And it’s bizarre that we’ve come to this point where… like, free speech used to be a left or liberal value. And yet we see from the, you know, in quotes “left” a desire to actually censor. And that seems crazy. I think we should be extremely concerned about anything that undermines the First Amendment. There’s a reason for the First Amendment, because people came from countries where they could not speak freely and where saying certain things would get you thrown into prison. And they were like, well, we don’t want that here. And by the way, in many parts of the world, including possibly that people might think are relatively similar to the United States, the speech laws are draconian."
+    },
+    {
+      "role": "bill_maher",
+      "text": "England is quite different."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I won’t name any country, but…"
+    },
+    {
+      "role": "bill_maher",
+      "text": "England, why are we protecting them? They have no First Amendment. It’s very easy to prove libel in England. I wouldn’t want to say the wrong thing. You can be sued easier there. I mean, in France, I think if you deny the Holocaust – which I think is abhorrent, but I also think it should be part of free speech – you can be thrown into jail."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I really can’t emphasize this enough, we must protect free speech. And free speech is only relevant when it’s someone you don’t like saying something you don’t like because, obviously, speech that you like, that’s easy. The thing about censorship is that, for those who would advocate it, just remember: At some point, that will be turned on you."
+    },
+    {
+      "role": "bill_maher",
+      "text": "So, this woke mind virus: How did it start? Was it bats? Was it escaped from a lab? I mean, what is your assessment? Because it’s fairly recent. How did it start, and why?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I was trying to figure out where it’s coming from. I think it’s actually been a long time brewing. I think it’s been going on for a while. The amount of indoctrination that’s happening in schools and universities is, I think, far beyond what parents realize. And I only sort of came to realize this somewhat late. The experience that we had in high school and college is not the experience that kids today are having and hasn’t been for, I don’t know, ten years, maybe twenty years."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Aren’t parents themselves also a big part of the problem?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I suppose in some cases. But I think the parents are just generally not aware of what their kids are being taught or what they’re not being taught."
+    },
+    {
+      "role": "bill_maher",
+      "text": "They’re letting the kids think that they’re equal."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, let me give you an example of that a fair man told me. His daughters go to high school in the Bay Area. And he was asking them like: “Well, so who are the first few presidents of United States?” They could name Washington. “So, what do you know about him?” “Well, he was a slave owner.” “What else?” “Nothing.” Maybe you should know more than that."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Yeah. That is the woke mind virus, exactly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. It’s like, you know, slavery is obviously a horrific institution. But we should still know more about George Washington than that."
+    },
+    {
+      "role": "bill_maher",
+      "text": "And by the way, one that was practiced all over the world forever since the beginning of time by every race. Including people of color. I’m sorry to tell you that. It’s huge in the Bible. The Bible loves it. Really."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes, they’re quite strict about, like, you know, don’t take someone else’s slave and that kind of right."
+    },
+    {
+      "role": "bill_maher",
+      "text": "But no one ever says: “Just don’t do it.”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "They don’t. At no point does it say slavery is bad. They did not condemn it at all."
+    },
+    {
+      "role": "bill_maher",
+      "text": "But Twitter is not doing bad, right. I mean, I saw today that Tucker Carlson, recently fired; you were just on his show, and he lost his job. So I hope this isn’t…\n(laughter)\n…you’re not the angel of death."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. I hope I’m not the Typhoid Mary of talk shows. ‘For some reason, people just get fired afterward?’"
+    },
+    {
+      "role": "bill_maher",
+      "text": "His rant yesterday, or today, on Twitter did more than every cable news monologue, something like that. Is that right?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, Twitter has a tremendous audience. So there’s 250 million people that spend an average of half an hour a day on Twitter. So it’s about 120 to 130 million user hours per day, and it’s been increasing. We didn’t do anything. To be clear, we did nothing special whatsoever. I learned about it afterwards that he had posted something on Twitter. It’s just that Twitter has a lot of people’s attention. And it tends to be the people that read a lot or are interested in current events and generally are pretty influential."
+    },
+    {
+      "role": "bill_maher",
+      "text": "But most of the people who tweet are the same people, right? I mean, the people who actually tweet. It’s mostly just reading it. I’ve read this many times. It’s a very, very small percentage of the people on Twitter. See, here’s why I don’t tweet anymore, because you may be the mayor of Tweet Town now."
+    },
+    {
+      "role": "elon_musk",
+      "text": "“I’m the Mayor of Tweet Town.” I’m getting a cap with that."
+    },
+    {
+      "role": "bill_maher",
+      "text": "And I’m glad. I like it that the mayor likes my jokes. But the reason I don’t do it anymore is because the mob of mean girls is still there. And that has not changed. It’s so easy to get canceled. And I don’t even know what pisses them off. They’re so nuts, these kids. I feel like I’m walking on a roof with a blindfold. I could fall off anytime. That was the most innocuous thing, but it’s like, you know, I said, George Washington was a great President. “Well, how dare you?” So, how do you fix that, Mr. Mayor?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly, it has some flaws, but it’s instrumental in the creation of the United States. Well, like, what does ‘canceled’ mean? I mean, yes, people attack you on Twitter. That’s one thing. But frankly, that’s just gonna increase engagement. So, I would just ignore it."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Well, that’s easy for you because they can’t take your job away or any of your main ten jobs. But they could take mine, and they did once, by the way. Yeah. So, I was, like, literally canceled. But okay. So you were in Congress the other day talking with Chuck Schumer about AI. I’m very interested in this because you’ve been on this for years. I’ve always thought you were right about this. I think you’re right about almost everything. I mean, let’s have more babies and raise them on Mars. I don’t get that, but okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think we should be cautious about civilizational decline. And we have plummeting birth rates at most places."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Right. And also plummeting resources."
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, no, resources will be fine."
+    },
+    {
+      "role": "bill_maher",
+      "text": "But they’re not fine now."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Look, I’m not suggesting complacency. We want to move to a sustainable energy economy as quickly as possible, but we’re not in any danger of resource collapse."
+    },
+    {
+      "role": "bill_maher",
+      "text": "But lots of people don’t have enough food or water. Water, we will run out of water; they’re running out of sand."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Earth is 70% water by surface area."
+    },
+    {
+      "role": "bill_maher",
+      "text": "But you can’t drink that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Desalination is absurdly cheap."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Why don’t we do it then? You have a lot of free time."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It is done. There is a lot of desalination done. There’s plenty of water. It’s not an issue. I want to be clear."
+    },
+    {
+      "role": "bill_maher",
+      "text": "All right. But let’s talk about AI. Because you were on this tip ten years ago when nobody else was there. And I always thought he’s right. Why? Because I’ve seen too many movies. Everything that happens in movies that happens in real life. And, you know, if you make things that are way smarter than you, why wouldn’t they become your overlords? So what did you say to Chuck Schumer? And what are we doing about this? I know you want to pause in AI because just in the last six months with chat GPT, which came from a company you started,…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. I mean, a friend of mine has a sort of modification of Occam’s razor, you know, instead of ‘the simplest thing being the most likely’, ‘the most ironic outcome is most likely’."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Right, yes."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, with respect to AI, I just think we should have some sort of regulatory oversight. For anything that is a danger to the public, if it’s sort of aircraft, cars, food, and drug and whatnot, we’ve got some regulatory oversight, like a referee, essentially, and making sure that companies don’t cut corners. So I think if one agrees that AI is a potential risk to the public, then there should be some regulatory body that oversees what companies are doing so that they don’t cut corners and potentially do something very dangerous."
+    },
+    {
+      "role": "bill_maher",
+      "text": "And if we don’t do something – lay out a scenario for me in the next two, five, ten years if nothing is done. Because we’re very good at doing nothing, especially when it comes in the way of profit. And this is a big profit engine now for companies. They’re going to want to just compete with each other. I mean, there are people like Ray Kurzweil who doesn’t think it’s a problem at all."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Actually, Ray Kurzweil’s prediction for artificial superintelligence is 2029. He’s not far wrong."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Right. But he doesn’t think it’s a problem, whereas people like you and Bill Gates and Stephen Hawking thought/think it’s a problem."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it depends if some people want to live forever or for much longer period of time, and they see digital super intelligence as the only thing that can figure out how to get them to live forever. I think Kurzweil is in that category. So he would prefer to have artificial general intelligence than not because it could figure out longevity."
+    },
+    {
+      "role": "bill_maher",
+      "text": "So, are you optimistic? I read in your Rolling Stone article back in the day that you said you can never be happy unless you’re in love."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you can be half happy, I suppose. I mean, there’s two things, I think, to be most happy. If you’re happy in love, and you love your work, then you will be fully happy. If you have one of those two things, you’d be half happy. You know, roughly."
+    },
+    {
+      "role": "bill_maher",
+      "text": "I feel like the theme in a lot of your work that connects all these different things is connecting. Like you want to connect things. You know, you want to connect on the Hyperloop. And you want to connect us to Mars."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Connect Four. I love that game.\n(laughter)"
+    },
+    {
+      "role": "bill_maher",
+      "text": "What?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "This is comedy, right? Let’s throw us some comedy in there."
+    },
+    {
+      "role": "bill_maher",
+      "text": "It’s hard for you because when you bought Twitter, you kind of doing what you did when you started Tesla. You lived at the factory, right? I feel like that’s your pattern. You get into this thing. And then you got to live at the factory to make it work. You moved to Texas, then you went back up to San Francisco because of Twitter."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I was living in the library of Twitter for a while, yes. But I think things are reasonably stabilized right now. It was just on the fast track to bankruptcy after the acquisition. So I had to take drastic action. There wasn’t any choice."
+    },
+    {
+      "role": "bill_maher",
+      "text": "I’m just saying it’s hard for a woman when the guy lives at the factory."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "bill_maher",
+      "text": "That could be a stumbling block."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. But overall, my concern with Twitter was, it is somewhat of the digital town square, and it’s important that there be both the reality and perception of trust for a wide range of viewpoints. And there was a lot of censorship going on. We sort of uncovered a lot of that with the Twitter files, including a lot of government-driven censorship. It seems that that’s got to be a constitutional violation, what was going on there. Since I’m an avid Twitter user, I could detect that something’s not right here. And so that’s really why I did that acquisition. It wasn’t because I thought this was an easy way to make money or something like that. Being mayor of Tweet Town or whatever is definitely like, there’s a lot of arrows pointing at you, flying at you."
+    },
+    {
+      "role": "bill_maher",
+      "text": "Yes, of course. But you seem to handle that okay. I hope you do. Because look, I mean, geniuses are going to be a little quirky sometimes. But your heart is always in the right place. You are trying to fix this world. And look, I could talk to you forever. We can’t today. I’d love to get high with you; I know a great place to do it. But I can’t tell you how much I appreciate you. I know you have a lot of choices and places you can go. Thank you! Elon Musk, ladies and gentlemen! All right, I’ll see you soon, Elon."
+    }
+  ]
+}

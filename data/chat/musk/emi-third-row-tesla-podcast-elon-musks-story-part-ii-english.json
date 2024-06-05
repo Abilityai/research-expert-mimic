@@ -1,0 +1,431 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/06/29/third-row-tesla-podcast-elon-musks-story-part-ii-english/",
+  "speakers": [
+    {
+      "id": "gali",
+      "name": "Gali"
+    },
+    {
+      "id": "kristen",
+      "name": "Kristen"
+    },
+    {
+      "id": "elon",
+      "name": "Elon"
+    },
+    {
+      "id": "vincent",
+      "name": "Vincent"
+    },
+    {
+      "id": "omar",
+      "name": "Omar"
+    },
+    {
+      "id": "sofiaan",
+      "name": "Sofiaan"
+    },
+    {
+      "id": "viv",
+      "name": "Viv"
+    },
+    {
+      "id": "maye",
+      "name": "Maye"
+    }
+  ],
+  "messages": [
+    {
+      "role": "gali",
+      "text": "That’s awesome. Yeah."
+    },
+    {
+      "role": "kristen",
+      "text": "We’re looking forward to that investor day.  ø"
+    },
+    {
+      "role": "elon",
+      "text": "It’s kind of a big deal."
+    },
+    {
+      "role": "vincent",
+      "text": "That’s great. Great to know."
+    },
+    {
+      "role": "elon",
+      "text": "Maxwell has a bunch of technologies that are… well, if they’re applied in the right way, I think can have a very big impact."
+    },
+    {
+      "role": "omar",
+      "text": "Like the dry electrode stuff?"
+    },
+    {
+      "role": "elon",
+      "text": "That would be one of them. That’s a big deal."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Yeah, for sure."
+    },
+    {
+      "role": "elon",
+      "text": "Much bigger deal than it may seem. And there’s a few other things."
+    },
+    {
+      "role": "sofiaan",
+      "text": "With the space that it takes off with the ovens that – you know, for the current technology – you can save all that real estate space now; that’s one aspect. And the cost reduction, the weight savings… I mean, there’s so many pluses."
+    },
+    {
+      "role": "elon",
+      "text": "Yes, there’s many things, but I have to wait until battery day, you know, hopeful in a few months; but I think we have some pretty exciting things to share."
+    },
+    {
+      "role": "omar",
+      "text": "Gali is very excited."
+    },
+    {
+      "role": "gali",
+      "text": "Yeah, it seems like the pace of the innovation of the battery thing has just taken off since you have some more capital and being able to have the Gigafactory be vertically integrated. Just seems like no other car companies making that many batteries. They’re not even thinking about what comes next."
+    },
+    {
+      "role": "vincent",
+      "text": "Not even come close."
+    },
+    {
+      "role": "elon",
+      "text": "It’s true. Other car companies just really want to outsource battery technology, not even making this battery module and cell. They’re obviously outsourcing the cells, but even outsourcing the modules and the packs. Yeah, you know, and it’s like, they’re really not thinking about fundamental chemistry improvements. There’s some pretty deep wizardry at Tesla on this front.\nOn this run, I should say a bit about electric vehicles or sustainable energy in general, you know. I said it was pretty, I think, obvious  not just to me, but to a lot of people – you may even go back 30 years or longer – that we must have a sustainable energy solution. In fact, it’s totally logical; if it’s not sustainable, we must, at some point, find an alternative to it. And so, even if there were no environmental impacts tothat sort of fossil fuel economy, then we’d run out of them. And then we’d have economic collapse and the world’s civilization fall apart.\nSo, that was actually my initial motivation for electric vehicles. It’s like, “Okay, we got to have a solution that does not require mining hydrocarbons, that is sustainable in the long term.” It was not actually initially from an environmental standpoint because I did not realize the gravity of the environmental situation at that time. And I thought, actually, for sure, by now we have electric cars."
+    },
+    {
+      "role": "vincent",
+      "text": "For sure."
+    },
+    {
+      "role": "kristen",
+      "text": "Or be back on the moon."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, totally. Why are we not back on the moon? That’s insane."
+    },
+    {
+      "role": "kristen",
+      "text": "It is insane."
+    },
+    {
+      "role": "elon",
+      "text": "If you told somebody in 69 that we would not be back on the moon in like… 2020, that’d be like… – You probably might have gotten punched, honestly, because they would be like… you’re just… it’s like, it’s so insolently rude to a future (… 33:50). They’d be like, “What is wrong with you?”"
+    },
+    {
+      "role": "kristen",
+      "text": "It’s encouraging… SpaceX is encouraging, though."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. So, it’s like we should have a base on the moon, we should have sent people to Mars. None of that’s occurred. You know, we got to make that happen. Yeah, so on the sustainability front, it was really, like I said, initially not so much from an environmental standpoint, but from a necessity of replacing a finite resource in order to ensure that civilization could continue to grow. And then the urgency of it became much more obvious, like well, we really better do something because the environmental stuff is becoming quite serious.\nThe inertia of large existing companies is just too hard to appreciate. They just want to keep doing the same thing and maybe 5% different every year – maybe 5% difference. The companies hate change. At the time that Tesla was created, you know, there was no one doing electric cars. There weren’t really startups , big car companies weren’t doing it, GM and Toyota canceled their EV programs."
+    },
+    {
+      "role": "vincent",
+      "text": "And now everybody’s doing it right now like…"
+    },
+    {
+      "role": "elon",
+      "text": "Everybody and their mom. Everybody and their mom is doing it."
+    },
+    {
+      "role": "vincent",
+      "text": "We will all like to congratulate about the Gigafactory 3. And I would like to know, like, why China is the best country to build the first foreign Giga factory?"
+    },
+    {
+      "role": "elon",
+      "text": "China is the biggest consumer of cars in the world. That alone would be enough to do it. And also, there was a lot of uncertainty about the tariffs, and, you know, it’s like, we potentially would be unable to sell effectively in China if we did not have a factory locally. Or at least be unable to sell at prices that weren’t extremely high. But those are really the two main reasons.\nI think there’s also a third important reason that there’s just so much talent and drive in China that I think it’s a good place to do a lot of things. And the evidence is there in the incredible progress in the factory, which was built with very high quality in a very short period of time. And the cars coming out of Shanghai are already very high quality."
+    },
+    {
+      "role": "vincent",
+      "text": "I can tell, and the run rate is amazing."
+    },
+    {
+      "role": "sofiaan",
+      "text": "And I love that they use the Chinese badge as well. It’s like a symbol of pride and, you know, ‘made in China’."
+    },
+    {
+      "role": "elon",
+      "text": "That’s cool, super cool."
+    },
+    {
+      "role": "omar",
+      "text": "How did Tesla manage to get the first wholly-owned foreign car company in China? I mean, a factory?"
+    },
+    {
+      "role": "elon",
+      "text": "Well, I went to China many times, and they kept saying that we will have to do this, you know, majority local and venture. And I said, well, you know, we’re a little late to the dance here, you know, so, who would you partner with? You know, there’s nobody left. And also, we’re just a little company. So, you know, because we should get married when we’re young."
+    },
+    {
+      "role": "vincent",
+      "text": "That’s a good example."
+    },
+    {
+      "role": "elon",
+      "text": "And I also was pointing out like, Chinese companies, they’re establishing factories in the US. I mean, there’s Faraday Future and that kind of thing. And the tariffs are owned by them, and so, to be fair, it should be allowed that an American car company should be able to own its factory in China as well. And so we’ve talked to them over a number of years, and they eventually said, okay, well, we’ll change the law. Other companies can do it as well. So it’s not just limited to Tesla."
+    },
+    {
+      "role": "gali",
+      "text": "And how much of that production hell like learnings have really enabled… – because one of the… – I don’t want to bring up capex, but one of my favorite things is the stats in the shareholder letter. It’s so much cheaper, not only faster; but it seems like you guys have learned so much from this – the Fremont factory – and that really enabled kind of a turbocharged build for Shanghai."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, I think the big difference is we are way less dumb than we were. The portions of capital expenditures was very high, and it’s less high now. And then the Shanghai factory, we designed out all of or as much of the foolishness as we could think of that exists at Fremont and Nevada. So we just made a lot of decisions that weren’t smart, and we designed those out, so such the production line is much simpler. It’s much simpler and better implemented.\nAnd then, we also found like, in most cases, the suppliers were more efficient in China as well than in the US. So we’ve also managed to get a lot more output from existing equipment in the US as well. The Model 3 bodyline in Fremont, for example, was only ever meant to do 5,000 cars, Model 3s, a week, and it’s doing 7,000  – and with turning off a bunch of unnecessary things that were being done. There was a lot of foolish things that we’re doing. And we’ve changed some of the designs and made it easier. It’s like hundreds of little things to make it easier to build. And so being able to get 40% more output of the same line, obviously, makes a big difference – and while reducing the marginal cost of production, and I think improving the quality of the car. So it’s all good stuff – the result of a ton of hard work by a lot of people.\nSo yeah, it was kind of necessary in that way that there was… – we didn’t really have a place to put a second Model 3 body line. So it’s like we either make this one go faster, or we will not be able to achieve production. But the Model 3 body line in Shanghai is much, much simpler than the one in – (…41:16) – because it has the same end result. It’s much easier to understand this, just getting rid of unnecessary movement. There’s a lot of unnecessary movement in the Fremont body line, but not in Shanghai."
+    },
+    {
+      "role": "omar",
+      "text": "You guys said in the production letter that you just started battery production in Shanghai too. And I heard that you guys were getting cells from CATL and LG Chem. Are the cells basically kind of a commodity part that you can assemble into your battery packs there, you know, does it make a difference? How do you see that long term?"
+    },
+    {
+      "role": "elon",
+      "text": "I believe these cells are not yet from LG. We do expect to use locally produced cells. To be clear, I don’t always know exactly what’s going on everywhere in the 50,000 person company. Most of the things I say will be correct but maybe occasionally something that’s not. So, that’s my knowledge, we’re not yet using LG Chem cells, we’re using Panasonic cells made in Nevada."
+    },
+    {
+      "role": "omar",
+      "text": "But LG Chem can make pretty much the same cells as Panasonic."
+    },
+    {
+      "role": "elon",
+      "text": "Yes, but pretty much is not the same as same. There’s still a few bugs to work out with the LG Chem cells before we can use them in our module and battery pack production system. The CATL situation will be more of an integrated module than it will be a cell. It’s not super easy to replace these things. But we do expect to use CATL, we do expect to use LG. Currently, we’re using Panasonic. When I say ‘expect’ here, what I mean is like roughly a matter of months. So, by the middle of this year, we’ll probably be using both LG and CATL in volume."
+    },
+    {
+      "role": "kristen",
+      "text": "So, we were talking about a lot of Tesla’s stuff but we kind of wanted to ask you about your personal history because we were saying – you were saying – there’s some misconceptions you would like to make straight. And you know, Ashley Vance wrote a book about you. I just read Maye’s lovely book. And it was really wonderful. I loved it and learned a little bit more history about your family and you. What are some of the misconceptions that you would like to correct?"
+    },
+    {
+      "role": "elon",
+      "text": "You know, most of this just ends up being kind of water under the bridge that people didn’t notice that much. I mean, there’s sort of some stories in there where it sounds like I fired people all of a sudden and arbitrarily, which was not the case. You know, Ashley asked somebody who didn’t know what’s going on, and then that person was suddenly not there, and they didn’t know why. But I definitely do not fire talented people, you know, unless there’s no option. And absolutely not without warning."
+    },
+    {
+      "role": "kristen",
+      "text": "Like, I keep hearing you say ‘we’ like it sounds like you’re always thinking of everybody. I see you as a very selfless person."
+    },
+    {
+      "role": "elon",
+      "text": "Alright, thanks."
+    },
+    {
+      "role": "kristen",
+      "text": "I mean, seriously, I mean, yeah, it’s like, from age 12, it sounds like you’ve been thinking about how to help humanity."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, I mean, I’m not trying to be sort of like some… you know, the sort of savior or something like that. It’s really just that  if it seems like…  I don’t know. If it seems like the obvious thing to do, I’m not sure why you do anything else. We want to maximize happiness to the population and propagate into the future as far as possible and understand the nature of reality. And from that, I think everything else follows."
+    },
+    {
+      "role": "viv",
+      "text": "I saw you on Twitter, like talking about that people are having this rumor that you’ve been wealthy your whole life. And that would be the only reason you became successful. And you’ve debunked that. And can you share more about your upbringing and what led you to go to North America?"
+    },
+    {
+      "role": "elon",
+      "text": "Sure. I was in South Africa, andit seemed like a lot of the advanced technology in the world was being produced in America and in Silicon Valley, especially. So I wanted to be where I could sort of have an impact on technology or be involved in the creation of new technology. So that’s what brought me to go to at first Canada because I could get citizenship in Canada through my mom, and then ultimately to the US. But yeah, I just left South Africa when I was 17 and landed in Montreal. I had like under about $2,000 – Canadian. And I started off staying in a youth hostel for a few days. And then there was… you could buy a ticket to go across the country for 100 bucks and stop along the way. And so I got that and just took a Greyhound across Canada and so all these like little towns…"
+    },
+    {
+      "role": "maye",
+      "text": "(Maye Musk, Elon’s mom, is also there but stays in the back of the room. Unfortunately, I can hardly understand her during the whole interview because of the distance to the microphones.)\n[inaudible] … luggage."
+    },
+    {
+      "role": "elon",
+      "text": "Well, we’re getting… – I didn’t have much. I had a backpack and a suitcase books. The bus company… they unloaded it in one of the cities, and then the bus left without my stuff."
+    },
+    {
+      "role": "kristen",
+      "text": "Oh, that’s nice."
+    },
+    {
+      "role": "elon",
+      "text": "I literally had nothing."
+    },
+    {
+      "role": "kristen",
+      "text": "All your books!"
+    },
+    {
+      "role": "sofiaan",
+      "text": "But your clothes, too?"
+    },
+    {
+      "role": "elon",
+      "text": "Actually, weirdly, I think I might have had the books thing but not my clothes."
+    },
+    {
+      "role": "kristen",
+      "text": "That was priorities."
+    },
+    {
+      "role": "omar",
+      "text": "All you needed."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, because I knew I was sitting in the bus station reading, waiting for the bus to get ready. And I think I had the books, but no clothing. So anyway, but I managed to get to Swift Current in Saskatchewan. And then my…\n(Elon addresses Maye)\nIt’s your cousin?"
+    },
+    {
+      "role": "maye",
+      "text": "My cousin’s son."
+    },
+    {
+      "role": "elon",
+      "text": "Cousin’s son, yeah… has a wheat farm there. I worked on the wheat farm for about six weeks, and I turned 18 in Saskatchewan. It’s a town called Swift Current."
+    },
+    {
+      "role": "sofiaan",
+      "text": "That was summertime, right? It’s June."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah. June 28th."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Because I’ve been there in the winter, and it’s like minus 40. You don’t want to be traveling."
+    },
+    {
+      "role": "kristen",
+      "text": "Did you ice-skate? Did you try ice skating?"
+    },
+    {
+      "role": "elon",
+      "text": "No, it was quite warm."
+    },
+    {
+      "role": "kristen",
+      "text": "Well, I mean in the winter. Did you stay for the winter?"
+    },
+    {
+      "role": "elon",
+      "text": "No, I was there for about six weeks."
+    },
+    {
+      "role": "sofiaan",
+      "text": "Oh, you’re lucky you survived. It’s cold there."
+    },
+    {
+      "role": "elon",
+      "text": "I literally worked on the wheat farm. We did a barn raising, and I cleared out the wheat bins, you know, the grain silos, that kind of thing. And I just worked the vegetable patch. Basically, it’s doing various things."
+    },
+    {
+      "role": "kristen",
+      "text": "Was your mind just thinking of what you’re going to do after that?"
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, sure, I figured what to do next – then what to do. I ended up getting back on the bus and went to Vancouver. I had a half-uncle there who is kind of in the lumber industry. He made lumber equipment."
+    },
+    {
+      "role": "kristen",
+      "text": "Sounds like the Northwest."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, basically. So, I ended up chainsawing logs and working on this lumber mill and cleaning out the… – where they boil a pulp. It was like a crazy sort of boiler rooms. That might be the hardest job I’ve had actually because you had to crawl through this little tunnel in a hazmat suit and then shovel this steaming sand and mulch out ofthe boilers to clean them out. There’s only one entrance or exit, which is like a little tunnel. If you’re claustrophobic, you could reveal it real bad.\nAnd then you shovel the sand and the mulch through the tunnel, and you actually block that tunnel.  And then somebody else would reach in and shovel it out from the outside. So it’s just long enough that if you have a shovel with a long handle… one person on the inside can shovel it far enough that someone on the outside can shovel it out. And then you do rotate every 15 minutes to avoid getting hypothermia."
+    },
+    {
+      "role": "kristen",
+      "text": "Oh, wow.\nAnd about safety, it’s just a man looking out for you."
+    },
+    {
+      "role": "elon",
+      "text": "There’s just two people kind of paired up, so if like one person collapses, and you’re going to call somebody. But it’d be really hard to drag somebody out, I have to say that. It does not seem safe because the channel gets blocked. Trying to get the (… 50:36) out and unblock that tunnel would be very difficult in a short period of time. But it was the highest paying job at the employment office. So I was like, okay, the other jobs were under $8 an hour, and this one was $18 an hour."
+    },
+    {
+      "role": "kristen",
+      "text": "You need to buy your clothes, they’re all gone."
+    },
+    {
+      "role": "elon",
+      "text": "Well, they give you a hazmat suit."
+    },
+    {
+      "role": "sofiaan",
+      "text": "How long did you do that job?"
+    },
+    {
+      "role": "elon",
+      "text": "Like four days – then it was done. It was a short-term thing – cleaning the boiler rooms."
+    },
+    {
+      "role": "gali",
+      "text": "So what was next? We were in boiler rooms – and then?"
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, I meant, literally I was like a lumberjack who’s chainsawing logs, and just doing lumber stuff, basically, for a few months there. And then applied for college, went to Queen’s University in Kingston. I was there for a couple years, and then somebody said I should apply to UPenn. I didn’t think I’d be able to go because I paid my way through university, which is actually not that hard in Canada because the tuition is highly subsidized in Canada. So with basically some… – if you sort of work during the summer semester and take out some loans and get some scholarships, you can pretty much go to any college in Canada, I think.\nBut I met someone who was at UPenn, and they said you should at least apply, and I applied, and they actually gave me quite a big scholarship. That allowed me to go there, and so I did the physics and economics there . And then, that’s what led to the road trip to Stanford with Robin Ren. It was during that summer that I was like, “Okay, I can either spend several years kind of doing a Ph.D. in ….” – Not that I cared about the Ph.D., actually. I just needed a lab. But I could either spend a bunch of years working in a lab and maybe the technology would pan out, or maybe it wouldn’t. But the internet was definitely about to go supernova in 95. So it was like, “Okay, look, I can always come back to working on electric cars, basically,” which I did. “But the internet is not going to wait.”\nSo then I put Stanford on deferment and started up to which was really just … we started off with maps and directions, Yellow Pages, White Pages, that kind of thing. It was – that’s my knowledge – the first map and directions on the internet. So there’s still some patents I have – I don’t know if I have them anymore like I think they lapsed at this point – but for maps and directions and Yellow Pages and advertising and stuff. The whole initial codebase I wrote personally because there wasn’t anyone else. It was just me.\nI only had a few $1,000. My brother joined, and he brought like $5,000, which was a lot. Yeah, at least for the first few months, there was literally only one computer. So, when the website wasn’t working, it was because I was compiling code. And even to get an internet connection was pretty hard. But there was an internet service provider on the floor below us. We more or less squatted in this office because the landlord was always like out of the country or something, and nobody was using it."
+    },
+    {
+      "role": "omar",
+      "text": "So you lived in there?"
+    },
+    {
+      "role": "elon",
+      "text": "Yeah."
+    },
+    {
+      "role": "kristen",
+      "text": "I think I read that you showered at the YMCA then, right?"
+    },
+    {
+      "role": "elon",
+      "text": "That’s right, yeah."
+    },
+    {
+      "role": "kristen",
+      "text": "That’s smart, though. I mean, you’re thrifty, (…54:55) you had to do."
+    },
+    {
+      "role": "elon",
+      "text": "We just like had no money."
+    },
+    {
+      "role": "omar",
+      "text": "What did people think about Zip2 generally? Was it seen as a crazy idea? Or did people even understand the internet back then?"
+    },
+    {
+      "role": "elon",
+      "text": "Most people didn’t understand the internet. Most people didn’t know… even on Sand Hill Road. We tried pitching people to invest in an internet company; most of the VCs we pitch to had never used the internet."
+    },
+    {
+      "role": "omar",
+      "text": "Do you remember some of the VC firms you went to on Sand Hill?"
+    },
+    {
+      "role": "elon",
+      "text": "Most of them wouldn’t take a meeting. And if they did take a meeting, they were pretty bored and not… – They werelike, “Who’s made money in the internet? Like, no one, okay.” But the sea change occurred when Netscape went public. The first thing I tried to do was not to start a company. I tried to get a job at Netscape, but they didn’t reply to me. So I just tried to hang out in the lobby at Netscape. I didn’t know who to talk to. I was really too shy to talk to anyone. So, it’s like, “Okay, I can’t get a job at the only internet company that, you know, does internet software. So then I try writing software.” That’s kind of what happened there.\nAnd as I said, my brother came down and joined. This is all like late 95. And then in January 96, I think it was, there was a lot more interest in the internet stuff following the Netscape IPO. The software was more impressive, I guess. So, then Mohr Davidow invested – their VC firm on Sand Hill Road. And they invested… I think it was like $3 million for effectively 60% of the company, which we thought was crazy. Like, they’re gonna give us money for nothing? They must be mad. Yeah, so that seemed like crazy that they give so much money for a company that consists at the time of about five people – like literally, I think five people at the time . But it worked out well for them in the end.\nWe hired a lot more people. We bought out the service; and we also ended up writing a bunch of software to bring newspapers online, so Knight Ridder, New York Times Company, Hearst (…57:50) became investors and customers. And at one point, Zip2 was responsible for a significant section of the New York Times Company website. Yeah, so I got to know the media industry pretty well.\nWhat really happened with Zip2, effectively there was too much control by the existing media companies. (…58:19) board seats and too much voting control, and that they kept trying to push the company down directions that made no sense. Zip2 actually hadreally good software. That’s a software that’s comparable, in some ways more advanced than, say, Yahoo or Excite at the time, but it was just not being used properly. And it was all being forced through media companies, who would then not use it.\nSo it’s like, we’ve got the best technology, but it’s not been deployed properly. Fortunately, Compaq came along, and they … – Compaq acquired Digital Equipment, and Digital Equipment had AltaVista, which at the time was probably the best search engine. So their idea was they will combine AltaVista with a bunch of other internet companies and try to compete…  create a competitor to Yahoo or Excite. Excite used to be a big thing, amazingly. And Yahoo used to be a big thing."
+    },
+    {
+      "role": "vincent",
+      "text": "Yeah. A long time ago."
+    },
+    {
+      "role": "omar",
+      "text": "Now it’s like owned by Verizon or something."
+    },
+    {
+      "role": "kristen",
+      "text": "And there was AOL."
+    },
+    {
+      "role": "omar",
+      "text": "Yahoo was a crazy story, you know. They failed to acquire Google twice. Microsoft offered them like 40 billion or something. And they turned it down."
+    },
+    {
+      "role": "gali",
+      "text": "And then Ali Baba saved them out of nowhere."
+    },
+    {
+      "role": "omar",
+      "text": "The Ali Baba stake was worth more than the whole company."
+    },
+    {
+      "role": "gali",
+      "text": "Like a huge amount, right. It was basically a proxy for Alibaba (…59:55)."
+    },
+    {
+      "role": "elon",
+      "text": "Yeah, exactly. But I want to point out… I mean, at that time, like if you go back to say 98/99, Yahoo seemed like an unstoppable juggernaut. Yeah. Like literally, this company will, you know, is a behemoth. Nobody could possibly defeat them. But anyway… – And where’s Compaq today? But that was their idea, which is, at least if executed well, could have made sense."
+    }
+  ]
+}

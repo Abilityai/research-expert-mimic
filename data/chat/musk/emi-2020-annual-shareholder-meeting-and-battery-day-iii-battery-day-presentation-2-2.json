@@ -1,0 +1,239 @@
+{
+  "src": "https://elon-musk-interviews.com/2021/04/13/2020-annual-shareholder-meeting-and-battery-day-iii-battery-day-presentation-2-2/",
+  "speakers": [
+    {
+      "id": "drew_baglino",
+      "name": "Drew Baglino"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "drew_baglino",
+      "text": "But wait, there’s more. So, we have a manufacturing system, we’ve got a cell design. What are the active materials we’re going to put in that cell design? Let’s talk about the anode first. Let’s talk about silicon. Why is silicon awesome? It’s awesome because it’s the most abundant element in the Earth’s crust after oxygen, which means it’s everywhere. It’s sand."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sand is silicon dioxide."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And it happens to store nine times more lithium than graphite, which is the typical anode material in lithium-ion batteries today. So why isn’t everybody using it? The main reason is because the challenge with silicon is that it expands four x when fully charged with lithium. And basically, all of that expansion stress on the particle, the particles start cracking, they start electrically isolating, you lose capacity. The energy retention of the battery starts to fade. And it also gumps up with a passivation layer that has to keep reforming as the particles expand."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Basically, with silicon, the cookie crumbles and gets gooey. That’s basically what happens."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Good analogy. And current approaches to solve this, which exist – I mean, we have silicon in the cars that you’re all in right now – involved highly engineered, expensive materials in the scheme of things. Now they’re still great, and they enable some of the benefits of silicon. They just don’t enable all of it, and they’re not scalable enough.\nAnd you can see – some of the things that maybe you’ve heard of, SiO, silicon with carbon, or silicon nanowires – that’s kind of the space right now. What we’re proposing is a step change in capability and a step change in cost.\nAnd what that really is, is to just go to the raw metallurgical silicon itself. Don’t engineer the base metal. Just start with that and design for it to expand in, how you think of the particle in the electrode design, and how you coat it."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. And I’m not sure if you saw this. Basically, a dollar per kilowatt-hour. If you use simple silicon, it’s dramatically less than even the silicon that is currently used in the batteries that are made today, and you can use a lot more of it."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "The anode would cost… yeah, with this silicon, the anode costs $1.20/kWh."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And how does it work? Start with raw metallurgical silicon, stabilize the surface with an elastic ion-conducting polymer coating that is applied through a very scalable approach. No chemical vapor deposition, no highly engineered high capex solutions, and then integrate it into the electrode through a robust network formed out of a highly elastic binder. And in the end, by leveraging this silicon to its potential, we can increase the range of our vehicles by an additional 20%. Just this improvement."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It gets cheaper and longer range. Okay."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. And when we take that anode cost reduction, we’re looking at another 5% $/kWh reduction at the battery pack level. And there’s more.\nLet’s talk about cathodes. What is a battery cathode? Cathodes are like bookshelves where the metal – you know, the nickel, the cobalt, the manganese or aluminum – is like the shelf, and the lithium is the book. And really, what sets apart these different metals is how many books of lithium they can fit on the shelves and how sturdy the shelves are. Cobalt is a-"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sorry, I was going to say it’s tough to exactly figure out what the right analogy is to explain a cathode and anode. But a bookshelf is probably a pretty good one in the sense that you need a stable structure to contain the ions. So you want a structure that does not crumble or get gooey; basically, that that holds its shape in both the cathode and the anode. As you’re moving these ions back and forth, it needs to retain its structure. So if it doesn’t retain a structure, then you lose cycle life, and your battery capacity drops very quickly."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Absolutely. Yeah. I totally agree. And I think people are always talking about, like, oh, what’s the cathode going to be? Is it NCA or whatever? The thing to consider is just fundamentally what the nickel, the metals are capable of. And that’s what we have on the chart here. $/kWh cathode of just the metal using just LME, London Metal Exchange prices, versus the energy density of just the cathode. And you can see, nickel is the cheapest and the highest energy density. And that’s why increasing nickel is a goal of ours and really everybody’s in the battery industry.\nBut one of the reasons why cobalt is even used at all is because it is a very stable bookshelf. And the challenge with going to pure nickel is stabilizing that bookshelf with only nickel. And that’s what we’ve been working on with our high nickel cathode development, which has zero cobalt in it; leveraging novel coatings and dopants, we can get a 15% reduction in cathode $/kWh."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Big deal."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "But it’s not just about nickel."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So, in order to scale, we really need to make sure that we’re not constrained by total nickel availability. I actually spoke with the CEOs of the biggest mining companies in the world and said, “Please make more nickel; this is very important.” And so I think they are going to make more nickel. I think we need to have a kind of a three-tiered approach to batteries starting with iron, that’s kind of like a medium range, and then nickel manganese as sort of a medium plus intermediate and then high nickel for long-range applications like Cybertruck and the Semi.\nFor something like a semi-truck, it’s extremely important to have high energy density in order to get long range. And just to give sort of iron a bit more time, if you look at the watt-hours per kilogram at the cathode level of iron, it looks like nickel’s twice as good. But when you fully consider it at the pack level, everything else taken into account, nickel is about maybe 50 or 60% better than iron.\nSo, iron is a little better than it would seem when you look at it at the pack level fully considered. It’s not as good as nickel, nickel’s like 50 to 60% better, but it’s actually pretty good – good for stationary storage and for medium-range applications where energy density is not paramount. And then, like I said, for intermediate, it’s kind of a nickel manganese, and it’s a relatively straightforward to do a cathode that’s two-thirds nickel, one-third manganese, which would then allow us to make 50% more cell volume with the same amount of nickel."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And with very little energy trade-off. Just enough to have, you still want to use 100% nickel for something like a semi-truck, but really not much of a sacrifice at all."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And beyond the metals – because a lot of people spend time talking about the metals – actually, the cathode process itself is a big target. 35% of the cathode $/kWh is just in transferring it into its final form. And so we see that as a big target. And we decided to take that on.\nHere’s a view of the traditional cathode process. Effectively, if you start at the left and you have the metal from the mine, the first thing that happens is the metal from the mine is changed into an intermediate thing called a metal sulfate, because that just happened to be what chemists wanted a long time ago. And then when you’re making the cathode, you have to take this intermediate thing called the metal sulfate, add chemicals, add a whole bunch of water, a whole bunch of stuff happens in the middle, and at the end, you get that little bit of cathode and a whole bunch of wastewater and by-products."
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s insanely complicated. If you look at the total, it’s a small world journey of, “I am a nickel atom, what happens to me?” And it is crazy. Like, you’re going around the world three times… there’s like the moral equivalent of digging the ditch, filling the ditch, and digging the ditch again. It’s total madness, basically.\nAnd these things just grew up; they’re just kind of like legacy things; it’s like how it was done before, and then they connected the dots but really didn’t think of the whole thing from a first principle standpoint saying, “How do we get from the nickel ore in the ground to the finished nickel product for a battery?” So we’ve looked at the entire value chain and said, “How can we make this as simple as possible?”"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And that’s what we’re proposing here with our process. As you can see, a whole lot less is going on here. We get rid of the intermediate. Metal, water, final product cathode, recirculate the water, no wastewater at all. And when you summarize all of that, it’s a 66% reduction in capex investment, a 76% reduction in process costs, and zero wastewater. Much more scalable solution.\nAnd then when you think about the fact that now we’re actually just directly consuming the raw metal nickel powder, it dramatically simplifies the metal refining part of the whole process. So we can eliminate billions in battery grade nickel intermediate production. It’s not needed at all. And we can also use that same process we showed on the previous page to directly consume the metal powder coming out of recycled electric vehicles and grid storage batteries. So this process enables both simpler mining and simpler recycling.\nAnd now that we have this process, obviously we’re going to go and start building our own cathode facility in North America and leveraging all of the North American resources that exist for nickel and lithium. And just doing that, just localizing our cathode supply chain and production, we can reduce  miles traveled by all the materials that end up in the cathode by 80%, which is huge for cost."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. To be clear, cathode production would be part of the Tesla cell production plant. So it would just be basically raw materials coming from the mine, and from raw materials in the mine outcomes a battery."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And on that note, the way the lithium ends up in the cell is through the cathode. So then we should obviously on-site lithium conversion as well, which is what we will do, using a new process that we’re going to pioneer. That’s a sulfate-free process again – skip the intermediate. 33% reduction in lithium cost, a 100% electric facility co-located with the cathode plant."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So it’s important to note that there is a massive amount of lithium on Earth. So lithium is not like oil. There’s a massive amount of it, pretty much everywhere. In fact, there’s enough lithium in the United States to convert the entire United States fleet to electric – all the cars in the United States, like 300 million or something like that. Every vehicle in the United States can be converted to electric using only lithium that is available in the United States."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Discovered today."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, what we already know does exist."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "People really haven’t even been looking."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, people haven’t been trying because it’s just widely available. But it is important to say, “Okay, what is the smartest way to take the ore and extract the lithium and do so in an environmentally friendly way?” And we actually discovered… Again, looking at it from a first principles physics standpoint, instead of just the way it’s always been done, is we found that we can actually use table salt, sodium chloride, to basically extract the lithium from the ore. Nobody’s done this before; to the best of my knowledge, nobody’s done this. And all the elements are reusable; it’s a very sustainable way of obtaining lithium. And we actually got rights to a lithium clay deposit in Nevada."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Over 10,000 acres."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Over 10,000 acres. And then the nature of the mining is actually also very environmentally sensitive. We sort of take a chunk of dirt out of the ground, remove the lithium, and then put the chunk of dirt back where it was. So it will look pretty much the same as before; it will not look like terrible. And yeah, it’ll be nice."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Simply mix clay with salt, put it in water, salt comes out with the lithium, done."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. It’s pretty crazy."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. So we’re really excited about this, and there really is enough lithium in Nevada alone to electrify the entire US fleet."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, that’s true. Actually, just what’s in Nevada. Basically, there’s so much damn lithium on Earth it’s crazy. It’s one of the most common elements on the planet."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And eventually, as we said at the beginning, when we get to this steady-state  20 TWh per year of production, we will transfer the entire non-renewable fleet of both power plants, home heating, and industry heating and vehicles to electric. And at that point, we have an awesome resource in those batteries to recycle to make new batteries. So we don’t need to do any more mining at that point.\nAnd you can see why. The difference in the value of the material coming back from the vehicle versus the ground, you’d always go to the vehicle. And we recycle a hundred percent of our vehicle batteries today. And actually, we are starting our pilot full-scale recycling production at Gigafactory Reno next quarter to continue to develop this process as our recycling returns grow."
+    },
+    {
+      "role": "elon_musk",
+      "text": "To date, it’s been done by third parties, but we think we can recycle the batteries more effectively, especially since we’re making the same battery as the thing we’re recycling. Whereas third-party recyclers have to consider batteries of all kinds."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah. And just to think about what this actually means: the recycling resource is always 10 or greater years delayed because batteries last a really long time. But eventually, it is the way that all resources will be made available. And that’s why we’re investing in this recycling facility in Nevada."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Long-term, new batteries will come from old batteries once the fleet reaches steady state."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Right. Okay. So we just talked about scaling cathode and recycling. All of the benefits that you just saw are added to this benefit of a 12% reduction in $/kWh at the battery pack level. Almost at our half of the cost goal, but there’s one more section. Take it away, Elon."
+    },
+    {
+      "role": "elon_musk",
+      "text": "So there’s an architecture that we’ve been wanting to do at Tesla for a long time, and we’ve finally  figured it out. And I think it’s the way that all electric cars in the future will ultimately be made. It’s the right way to do things.\nIt starts with having a single piece casting for the front body and the rear body. And in order to do this, we commissioned the largest casting machine that has ever been made. And it’s currently working just over the road at our Fremont plant. It’s pretty sweet. Currently making the entire rear section of the car as a single piece, high-pressure die-cast aluminum.\nAnd in order to do this, we actually had to develop our own alloy because we wanted a high-strength casting alloy that did not require coatings or heat treatment. This is a big deal for castings, especially with a large casting. If you heat treat it afterwards, it tends to deform. It kind of does this like potato chip thing. So it’s very hard to keep a large casting to have its shape.\nSo, in order to achieve this – there was no alloy that existed that could do this – so we developed our own alloy, a special alloy of aluminum that has high strength without heat treat and is very castable. So that’s a great achievement of our materials team. In fact, in general, we’ve got a lot of advanced materials coming for Tesla – new alloys and materials – that have never existed before.\nSo, you’re basically making the front and rear of the car is a single piece, and that then interfaces to what we call the structural battery, where the battery for the first time will have dual use. The battery will both have the use as an energy device and as structure. This is absolutely the way things are done. In the early days of aircraft, they would carry the fuel tanks as cargo. So the fuel tanks actually were quite difficult to carry. They’re basically worse than cargo; you had to kind of bolt them down. It was very difficult.\nAnd then somebody said, “Hey, what if we just make the fuel tank in wing shape?” So all modern airplanes – your wing is just a fuel tank in wing shape. This is absolutely the way to do it. And then the fuel tanks serve this dual structure, and it’s no longer cargo. It’s fundamental to the structure of the aircraft. This was a major breakthrough. We’re doing the same for cars.\nSo this is really quite profound. Effectively the non-cell portion of the battery has negative mass. We saved more mass in the rest of the vehicle than the non-cell portion of the battery. So it’s like, “How do you really minimize the mass of a battery? Make it negative. Make the non-cell portion of battery pack negative.” So it also allows us to pack the cells more densely because we do not have intermediate structure in the battery pack. So instead of having these supports and stabilizers and stringers and structural elements in the battery, we now have a lot more space in the battery because the pack itself is structural.\nWhat we do essentially, instead of having just a filler that is a flame retardant, which is currently what is in the 3 and Y battery packs, we have a filler that is a structural adhesive, as well as flame-retardant. So it effectively glues the cells to the top and bottom sheet. And this allows you to do shear transfer between upper and lower sheet. Just like if you have a formula one craft or a racing boat, and you have carbon fiber face sheets and aluminum honeycomb between them, this gives you incredible stiffness, and it’s really the way that any super fast thing works is you create basically a honeycomb sandwich with two face sheets.\nThis is actually even better than what aircraft do. Because aircraft do not do this. They can’t do this because fuel is liquid. So in our case, the batteries are solid. So we can actually use the steel shell case of the battery to transfer shear from the upper and lower face sheet, which makes for an incredibly stiff structure, even stiffer than a regular car. In fact, if this was a convertible that had no upper structure, that convertible will be stiffer than a regular car. So it’s just really major.\nSo it improves the mass efficiency of the battery. And then, those castings are also quite important because you want to transfer load into the structural battery pack in a very smooth, continuous way. So you don’t put arbitrary point loads into the battery. So you want to sort of feather the load out from the front and rear into the structural battery.\nIt also allows us to move the cells closer to the center of the car because we don’t have the… in the top one, we’ve got all the supports and stuff, so the volumetric efficiency of the structural pack is much better than a non-structural pack. And we’re going to actually bring the cells closer to the center. And because they’re closer to the center, it reduces the probability of a side impact potentially contacting the cells because any kind of side impact has to go further in order to reach the cells.\nIt also proves what’s called the polar moment of inertia which is if you think of when there’s an ice skater arms out or arms in. Arms in, you rotate faster. So if you can bring things closer to the center, you reduce the polar moment of inertia, and that means the car maneuvers better. It just feels better. You won’t know why, but it just feels more agile. So it’s really cool. This is really major. Like I said, so 10% mass reduction in the body of the car, 14% range increase, 370 fewer parts. I really think that, long-term, any cars that do not take this architecture will not be competitive."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And it’s not just at the product level a better product, but in the factory, it’s a massive simplification. You saw the part removal; it’s casting machines, it’s the structural battery pack. So we’re looking at over 50% reduction in investment per GWh, 35% reduction in floor space. And we’ll continue to improve that as we make the vehicle factory of the future."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So, major improvements on all fronts from the cell all the way to the vehicle."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And in addition to the improvements we just said on enabling additional range and improving the structural performance of the vehicle, it is worth another 7% $/kWh reduction at the battery pack level, bring our total reductions now to 56% $/kWh.\nAll right. So, stacking it up. We’re not just talking about cost or range. We’ve got to look at all the facets. So range increase, we’re unlocking up to 54% increase in range for our vehicles and energy density for our energy products. 56% reduction in $/kWh at the battery pack level, and a 69% reduction in investment per GWh, which is the true enabler when we talk back about how do we achieve this scale problem here."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So I think it’s pretty nice that ‘investment per GWh’ reduction is 69%. I mean, who would have thought?"
+    },
+    {
+      "role": "drew_baglino",
+      "text": "Yeah, just happened to come out that way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, 0.420 %, of course.\nSo what this enables us to do is achieve a new trajectory in the reduction of cell cost. And now, to be clear, it will take us probably a year to 18 months to start realizing these advantages and to fully realize the advantages probably it’s about three years or thereabouts. So if we could do this instantly, we would, but it just really bodes well for the future and means that the long-term scaling of Tesla and the sustainable energy products that we make will be massively increased. So, what tends to happen as companies get bigger is things tend to slow down. Actually, they’re going to speed up."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And they have to speed up if we’re going to accelerate the transition to sustainable energy."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Long-term, we want to try to replace at least 1% of the total vehicle fleet on Earth, which is about 2 billion vehicles. So long-term, we want to try and make about 20 million vehicles a year."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "But I think it’s important to point out that when we talked about 3 TWh by 2030, the problem is a 20 TWh problem. So everybody needs to be accelerating their efforts to accomplish these objectives.  It doesn’t matter where you are in the value chain. There is a ton to do; you need to rethink from first principles how you do it so that you can scale to meet all of our objectives."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yep."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And, Elon."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "What does this mean…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "What does this mean for our future products? So we’re confident that long-term, we can design and manufacture a compelling $25,000 electric vehicle. This has always been our dream from the beginning of the company. I even wrote a blog piece about it. Because our first car was an expensive sports car, then it was a slightly less expensive sedan, and then finally sort of a, I don’t know, mass-market premium, like the Model 3 and Model Y. But it really was always our goal to try to make an affordable electric car. And I think probably, like I said, about three years from now, we’re confident we can make a very compelling $25,000 electric vehicle that’s also fully autonomous."
+    },
+    {
+      "role": "drew_baglino",
+      "text": "And when you think about the $25,000 price point, you have to consider how much less expensive it is to own an electric vehicle. So actually, it becomes even more affordable at that $25,000 price point."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. So we have “\nAnd\nExtreme Performance and Range”. And we should probably talk about the Model S Plaid. What about that?\nSo, yeah. Anyway, we took the latest Plaid out to Laguna Seca on Sunday, it got a minute thirty, and we think probably there’s another three seconds or more to take off that time. So we’re confident the Model S Plaid will achieve the best track time of any production vehicle ever, of any kind, two-door or otherwise. And you can order it now. And it’s available basically end of next year."
+    }
+  ]
+}

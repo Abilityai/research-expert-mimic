@@ -1,0 +1,339 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/11/11/advertising-and-the-future/",
+  "speakers": [
+    {
+      "id": "robin_wheeler",
+      "name": "Robin Wheeler"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    },
+    {
+      "id": "eon_musk",
+      "name": "Eon Musk"
+    },
+    {
+      "id": "yoel_roth",
+      "name": "Yoel Roth"
+    },
+    {
+      "id": "david_cohen",
+      "name": "David Cohen"
+    }
+  ],
+  "messages": [
+    {
+      "role": "robin_wheeler",
+      "text": "So. Okay. Right on time. Hello, everybody. Thank you for joining us. My name is Rob Robin Wheeler. And I have been at Twitter for over a decade on the sales team in various roles. And I am excited to be here and joined by Yoel Roth, who is the head of\nTrust and Safety\n, who’s also been at Twitter for a very long time, and Elon Musk, our CEO, new CEO,\nChief Twits\n,\nChief Complaint\nOfficer\n, what else are you calling yourself today?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I’m like a complaint hotline, so listening to concerns and trying to address them."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "And we appreciate that. That’s exactly what today is. I wanted to kick off just by saying to all of our advertising partners, our content partners that are joining today, I want to reiterate that our commitment to all of you has not changed. Our teams are out there, still in place, and are committed and dedicated to providing the service that you’ve learned to love from this platform. So that is true. And our policies around content moderation and brand safety have not changed.\nThat being said, there’s a lot of change at Twitter. And a lot of it is very exciting. And that’s why we want to have Elon here talking to all of you. He’s spent, you know, the last several days talking to partners and answering their questions, and it’s just really critical for him to hear directly from you. Now, I am today representing the advertising and partner community. So we have tons of questions that we’ve been gathering, our teams are gathering, and I will be representing that. That said, we’ve got some speakers that are joining as well, that I’ll call upon directly from the community. Our teams are getting questions in real-time as well that we will be asking. So we want this to be a very open and honest dialogue. And we’re excited. So with that, I want to kick off, Elon,  with a question. You know, it’s been, what, 14 days almost? What has been your biggest learning in that time?"
+    },
+    {
+      "role": "eon_musk",
+      "text": "Well, I think the biggest thing that I’ve come to learn is that there’s tremendous potential that’s untapped for Twitter and that there are a lot of really talented people at Twitter that I think can take the company in a lot of interesting new directions. We really want to be, as I’ve mentioned before, publicly, the sort of the digital town square, where that is as inclusive as possible, meaning like, can we get 80% of humanity on Twitter and talking and maybe in an ideally sort of positive way? Can we, instead of having violence have words, and maybe once in a while, people change their minds?\nYou know, the overarching goal here is like, how can we make Twitter a force for good for civilization. And, you know, just we’ll just keep changing and adapting until that is the outcome achieved. People should look back on Twitter, or consider Twitter, to be a good thing in the world. Like I said, something that furthers civilization, that you’re glad that it exists.\nAs I said in some of my tweets, I think we want to be just in vigorous pursuit of the truth, to be somewhat in the business of truth. Truth can be sometimes a nebulous concept, but we can certainly aspire towards it. And I think, even if we can’t get there completely, at least trying our hardest to get there is a worthwhile endeavor.\nSo this is a big part of why I think it’s important to try to get as many people as possible verified. I want to kind of explain a bit about the sort of blue checkmark verification thing and why I think it is so important, in fact, necessary. I’m struggling with the question of how do you deal with millions of bots and sort of troll farms, including malicious actions by state actors. There’s hundreds of millions of fake accounts that are created every year on Twitter; most of them are blocked, but not all of them.\nThe issue is that creating a fake account is just extremely cheap. It’s maybe as a 10th of a penny or some very small amount of money. By sort of charging $8 a month, it raises the cost of a bot or troll by somewhere between a 1,000 or 10,000. But there’s a detail here, which I think is appreciated by very few people, but that’s also very important, which is, it’s not just the money. Because you could say, well, wouldn’t a state actor have $8 million a day to create a million fake accounts? Well, yes, they’ve got the budget. But here’s the problem: they don’t have a million credit cards, and they don’t have a million phones. That’s the actual kicker. There’s no way to overcome that.\nAnd we will be vigorously pursuing any impersonation, any deception. The high-level principle is, is someone engaged in deception? If someone is engaged in deception, then we will suspend that account at least temporarily. And thinking about this, like sort of an information problem, truth is signal, and falsehood is noise. And we want to improve the signal to noise ratio as much as possible.\nThere’ll be some bumps along the road here. But I think in the long run, this will work out extremely well."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Hey, Elon, can I ask you about some bumps? Like, specifically, you know, representing our advertisers and our partners. Like, we talked about this idea of an official label for accounts, and then I think there was a tweet today that said, you killed it. What’s the update on that? Because I think this is definitely a concern from our partners. There needs to be a way for them to identify their identity aside from just anyone that can pay the eight bucks. This is critical as they think about the future of their representation on the platform."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. The problem with the official is that apart from it being an aesthetic nightmare when looking at Twitter feed, that it was simply another way of creating a two-class system. It wasn’t addressing the core problem of there are too many entities that would be considered official or have sort of legacy blue checkmarks.\nBut I go back to what I said earlier, which is that we’re going to be extremely vigorous about eliminating deception. So if someone tries to impersonate a brand, that account will be suspended, and we’ll keep the eight dollars. And they can keep doing that. We’ll just keep eight dollars gain. “Okay, eight dollars again, great. Do it all day long.” They will stop.\nThe key point here is if someone engaged in trickery, if an account is engaged in trickery, we will suspend it. And they will try, of course, they will try. But it starts to get expensive, and they start to need a lot of credit cards and a lot of phones. And eventually they will stop trying. Yoel, would you like to sort of add to what we’re doing here?"
+    },
+    {
+      "role": "yoel_roth",
+      "text": "Sure. I think the key bit is what Elon just said. We know that bad actors of all sorts of types are going to keep targeting Twitter, whether it’s to try to run cryptocurrency scams or to try to spread misleading content about an election. These are the threads Twitter has had to deal with for years. But what our goal is, is to try to change the cost benefit calculus for some of those bad actors. And there isn’t one universal solution that’s going to instantly solve the problem. That’s not what the changes to verification will do. But they start to add more and more costs to adversaries, they start to give us more and more information. And eventually, they start to turn the tide of what the security landscape on Twitter looks like."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, exactly. I would say, like, just sort of stay tuned. And we’re going to react dynamically to attacks on the system. There will obviously be massive attacks. There will be attempts of impersonation, deception of various kinds, or, just frankly, noise, where it’s simply annoying.\nWe want Twitter to be not just truthful but also interesting and entertaining. And we will stop anything that is not truthful, interesting, or entertaining, or at least relegated to where you don’t really see it much. And over time, maybe not that long time, when you look at mentions and replies and whatnot, the default will be to look at verified. You can still look at unverified, just as in your Gmail or whatever, you can still look at the sort of probable spam folder. But you’ll have your inbox of highly likely to be relevant. And then you can still look at all the others, but it will default to the highly relevant category, which will be verified."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Okay, this is good because you’re starting to go down this path. And this is certainly the biggest topic that’s top of mind for our partners. And it’s this idea of content moderation. And I think everybody believes, all of our partners believe, that Twitter should be a force for good, should be a town square, all voices should be welcome. The concern is what does that mean for content moderation for providing a safe environment. So I guess I’m gonna pair these together like, brand safety. It’s critical to this industry, and it’s been a core tenet and priority for Twitter. How are you thinking about content moderation and brand safety?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, thus far, our moderation policies have not changed, and nor has the enforcement of those policies changed. It stands to reason that if somebody’s advertising, that they do not want super negative information right next to their ad, or a content that may be inappropriate,  or if it’s a sort of family ground, having, you know,\nnot safe for work\ncontent right next to it makes no sense.\nSo we all kind of work hard to make sure that there’s not bad stuff right next to an ad, which really doesn’t serve anyone any good. We’re also working hard to improve the relevance of the ads. So, an ad in the limit is information if it is highly relevant. But if it is irrelevant, it is noise. And if the ad is noise, it does not serve the advertiser or the user. Yeah, so I think brands should rest assured that Twitter is a good place to advertise. And if we see things that are creating a problem in that regard, we will take action to address it."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Okay, that’s great. What about hate speech specifically? When you talk about bad things next to ads?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I don’t think having hate speech next to an ad is great."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Yeah, and I think this is what the concern is exactly of a lot of our partners."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Not to harp too much on this sort of $8 verified thing, but the propensity of someone to engage in hate speech, if they have paid $8 and are risking the suspension of their account is going to be far, far less. I mean, think of it more like, if you, like, how much hate speech do you encounter if you go to a party? Or just, you know, at an event with people…"
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "It depends who’s hosting the party."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, most parties, let’s say. If you meet people in person, how much hate speech do you actually encounter? It’s quite rare. But if someone can create 1,000, 10,000 or 100,000 troll accounts that are anonymous, and where there’s no cost to engaging in harassment or hateful behavior, then you’ll get a very small number of people that seem very loud. In general, I have a lot of faith in humanity, like the vast majority of people, I think, are good, not bad, they’re good. But there’s a small number of people who are not good.\nAnd if those people who want to engage in terrible behavior are allowed to amplify their voice tremendously with fake accounts, then they will do so. This is why I think that the only way for any social media company to solve this is with a mild paywall – a paywall for prominence. And that people will just default to looking at comments and mentions from those that are verified. And you really won’t see much of the rest. I think it’s the only solution. I cannot think of any other path to having a good system."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Thank you. I’m also going to ask Yoel, you’ve sent a bunch of great tweets out recently. Can you just speak to where we stand with policies but also the facts around what we’re seeing on the platform today in terms of toxicity?"
+    },
+    {
+      "role": "yoel_roth",
+      "text": "Absolutely. So first, to again echo Elon, our policies have not changed, and our enforcement continues to be focused on being as proactive as we can do to mitigate harm to the people who are using Twitter. There have definitely been a couple of areas where we have seen people test the limits of what the new Twitter is, even though we haven’t really changed anything at all. One of the most notable being a spike in hateful conduct on our platform. And I’m going to be sharing another update on this in just a little while.\nBut we’ve been focused on protecting the folks who are using our platform, on shutting down hateful conduct wherever it emerges on our platform. And what we’ve seen is not only that we’ve put a stop to the spike in hateful conduct, but that the level of hateful activity on the service is now about 95%, lower than it was before the acquisition. The changes that we’ve made and the proactive enforcement that we’ve carried out are making Twitter safer relative to where it was before. And so my ask of everyone would be, judge us by our results. And the results, the proof that we’re going to be sharing, the data that I’m going to continue to provide, shows us that we’re going to keep investing and making Twitter safer for everyone every day and in delivering on that vision of creating a welcoming platform that Elon talked about."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Thanks. So, I want to bring up David Cohen, who is the CEO of the IAB, the\nInteractive Ad Bureau\n, which is, as we all know, one of the governing bodies of our ad industry, and he’s a very trusted name and partner. Given this is such an important topic, David, what can we answer for you?"
+    },
+    {
+      "role": "david_cohen",
+      "text": "Appreciate that, thank you. I would just want to start by saying that we are rooting for you and for Twitter. So at the risk of that not being obvious. This is not a softball question, and it’s something that we’re hearing from many of our members. So I thought it’d be a good time to ask. We all have a brand. There is the Elon brand and how it shows up on Twitter. And there is Twitter as a platform and business that the world and the marketing community have come to know and love. Those two things can sometimes blur. So the question is, how should we think about the coexistence of those two distinct but obviously related perspectives?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Right. Well, I think if I say that Twitter is doing something, that I mean Twitter, and if I say I, that I mean me. And if there’s any confusion about the two, then just ask me on Twitter, basically. But obviously, Twitter cannot simply be some extension of me because then anyone who doesn’t agree with me will be put off. So Twitter must be as a platform as neutral as possible. That doesn’t mean I am completely neutral. That would be untruthful, I am not neutral. No person is. But it’s important for to have broad acceptance that the platform be neutral and as inclusive as possible to the widest demographic possible. That is the only path to success."
+    },
+    {
+      "role": "david_cohen",
+      "text": "Got it. Could I do a quick follow up? Is that possible? Okay, this is a totally different question. In my experience, and what we hear from our members, 700 plus strong, brands are interested in basically five things: scale, relevance, brand safety and suitability, ability to measure, understand what I put stimulus in the market, what does it do for my bottom line. And then an impactful creative canvas of those five things. Where do you think Twitter is today? And where are you going to spend the majority of your time in the immediate term?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I think we’re probably not doing great on any of them. Doing okay on some. We’re terrible at relevance, I think, and one of the ways we’re going to address that is by integrating ads into recommended tweets. The relevance of recommended tweets is much better than the relevance of the ads. Because they’re two different engines. We need to have them be the same software stack. I’ve reorganized Twitter software from having three different software groups to having one. And that’s occurred just in the past week. So we really need to improve the relevance of the ads. As mentioned earlier, in the limit, if an ad is highly relevant and timely, then actually it’s really information. Like, it’s something you might actually want to buy when you want to buy it, that’s great.\nBut if it’s something you’d never want to buy, then it’s annoying, and it’s spam. And that doesn’t serve the advertiser or the user. That’s incredibly important to improve that. That’s a major priority. And I think you’ll see that get way better in the coming months."
+    },
+    {
+      "role": "david_cohen",
+      "text": "Appreciate it. I’ll pass it back to you, Robin."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, like at a high level, Twitter needs to be useful to advertisers both in the short-term driving demand and in the long term, hence, the brand safety. I mean, in the end of the day, short-term and long-term demand is just kind of what it comes down to. So drive sales in the short term and protect that demand in the long term."
+    },
+    {
+      "role": "david_cohen",
+      "text": "Got it. Thank you."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Well, thanks, David, and feel free to jump in if you have more questions. I would just say, Elon, I like hearing you say, short and long-term. I think we’ve heard a lot about subscriptions. We know that’s important to your strategy. But can you say anything more about long term and the role advertising plays within Twitter, both in the subscriptions piece as well as the non-subscriptions piece?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I just mean that when I hear brand safety, what I think I’m hearing is that we need to make sure that the brand overall is protected reputational in the long term. There may be something that drives short-term sales, but it’s next to hateful content. And that may drive short-term sales, but it’s ultimately detrimental in the long term. If I would put myself in the CEO or CMO position of any advertiser, I’d say, “well, I want to make sure we do drive sales in the short term, but we’re also not doing anything that damages our reputation in the long term.” So we obviously need to address both short and long-term factors."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Right. Okay. One thing that we glossed, that we didn’t dive in enough on when we talked about content moderation, was this idea of your content moderation counsel. I know you tweeted about that last week, I think. Can you say anything else about that? Like, where are we at with it? What is it going to look like? How will it work?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. We want to have an advisory council that represents a diverse set of viewpoints, that is representative of a wide range of viewpoints in the US and internationally. And, in the short term, like… I’ve only got the keys to the building, you know, we could go Friday. So you know, we’re moving pretty fast here. But it takes a moment to completely rewrite the software stack. But I can say that the rate of evolution of Twitter will be an immense step change compared to what it has been in the past.\nYou know, if nothing else, I am a technologist and I can make technology go fast. And that’s what you’ll see happen at Twitter."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Yep, that’s true. And actually, you tweeted earlier today something about there’s gonna be dumb things coming in months. I assume that is…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, obviously, the intent is not to do dumb things. We’re not aspirationally dumb. We’re aspirationally, you know, not dumb. But despite the effort to aspirationally not being dumb, we will still do dumb things. And there’s some element here of “nothing ventured, nothing gained.” If we do not try bold moves, how will we make great improvements? So we have to try, we have to be adventuresome here. And then, I think, we can make some really big leaps and have radical improvements. But these come with some risk. But the key is to be extremely agile if we do make a dumb move, or when we make a dumb move, because we’re not going to always to knock the ball out of the park. But when we make a dumb move, we correct it quickly. That’s what really matters."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Yeah, well, and we’re, for the record, like we’re seeing, you know, record-breaking user growth on the platform since you took the keys. So that’s excellent. And there’s been a lot of conversation around Vine. Can you just talk about some of the stuff you’re really excited about from a product perspective? Aside from, you know, we’ve already talked about subscriptions, but like, what else? You know, you’ve said to me, to the organization before about video and all those kinds of things. So, talk a little bit about that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yep, video is definitely an area where Twitter has been historically weak, and it is an area that we’re going to invest in tremendously. I did ask people like, what if there was Vine. Not that we would want to resurrect Vine in its original state, but just would they want a Vine-like thing. But a reimagined for the future. And people were excited about that.\nOne of the things when if somebody does become sort of paid blue verified is that they will be able to initially use or download 10 minutes of high-def video, which will be expanding to 42 minutes soon. And then several hours, as we sort of fix a bunch of stuff on the back-end servers. There are a bunch of fundamental technology architecture changes that are needed for Twitter in order to support a significant video. So we’ve got to make those core software upgrades, and server upgrades in order to support a large amount of video, but we are absolutely going to do that.\nIt’s kind of a no-brainer. We also need to enable monetization of content for creators. And if we provide creators with the ability to post what they create on our platform, and to monetize it at a rate that is at least competitive with the alternatives, then of course creators will natively post their content on Twitter, why not? So those are kind of no-brainer moves.\nThen also key of verification, paid verified, is now we know that this is someone who has been authenticated by the payment system, by the sort of conventional payment system. Now we can say like, “Okay, you’ve got a balance on your account. Do you want to send money to someone else within Twitter?”\nAnd maybe we prepopulate their account and say, okay, we’re gonna give you 10 bucks, and you can send it anywhere within Twitter. If you want to get it out of the system, then, okay, well, now you send it to your bank account. So now attach an authenticated bank account to your Twitter account. Then the next step would be, let’s offer an extremely compelling money market account, so you get extremely high yield on your balance. Then why not move cash into Twitter? Great, that sounds like good idea. And then add debit cards, checks and whatnot. Just basically make the system as useful as possible. The more useful and entertaining it is, the more people will use it."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "That’s right. Amen to that."
+    },
+    {
+      "role": "david_cohen",
+      "text": "Hey, Robin, I’ve got a follow-up if that’s okay. I’m getting a tsunami of tweets and texts, as you would imagine. So lots of questions out in the world. One of them, I guess the headline is, there’s a challenge with some of your tweets, Elon, and that they leave a lot to interpretation. You had something around truth versus high-quality journalism and news. Can you talk a little bit about kind of how you see those two things as different or the same?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I do think that we should be empowering citizen journalism. If you say like, how is the narrative defined, how’s the Western narrative defined? Right now, I think it is overly defined by a small number of major publications. And that, I think, is not as good as enabling the people to define the narrative as well. It’s elevating citizen journalism.\nI mean, I think we’ve all seen articles in major newspapers where we know a lot about what actually happened, and what we know what actually happened is not what is represented in that article. Now, then, why would you think it’s different for anything else?"
+    },
+    {
+      "role": "david_cohen",
+      "text": "Got it. This is not an either-or, this in your mind. This is in addition to. High quality journalism has a role in the world and on Twitter clearly."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Absolutely. No question. I’m not saying that we should somehow downplay major publications or prominent journalists. I’m simply saying we should elevate the people and give voice to the people.\nVox populi, vox Dei\n."
+    },
+    {
+      "role": "david_cohen",
+      "text": "Understood, thanks."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "What about fact-checking? And, you know, fighting misinformation?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I’m super excited by the\ncommunity notes\nfeature formerly known as\nbirdwatch\n.\nBirdwatch\nsounded a bit too much like “we’re watching you”. I’m like, no, let’s just be chilled\ncommunity notes\n. And, actually, that was the original name of the product. It’s awesome. And we’re gonna really go pedal to the metal on the community notes. The way it works, I think, is actually very exciting. In fact, if Keith not on but maybe he is, but I highly recommend looking at the Community Notes feature, it’s epic.\nThis is really going to help in improving the accuracy of what’s said on a system. It’s analogous to the way sort of page rank works in Google, where the prominence of a web page is proportionate to how much weight other prominent web pages give that webpage. If you just search\nbirdwatch\nor\ncommunity notes\non Twitter, you’ll see how it works. I think it’s a game-changer, in my view."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Okay, great. I’m just getting a ton of questions as well, Elon. This one is specifically about the auto industry, which, you know, you happen to be a member of as well."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I know a little bit about cars."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Yeah, I think you do. What can you share with this community that’s, you know, concerned about data protection, or how, you know, your alternative interests related to Tesla would kind of bleed over into this current role?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I totally would encourage other carmakers to continue advertising on Twitter. And I would also encourage their Twitter handles to be more active, and for their CEOs and CMOs to be more active on the system. In general, I would say for brands, I think, brands should tweet more, executives should tweet more. I would encourage people just to be more adventurous.\nLike, that’s certainly what I’ve done on Twitter with Tesla, and myself and SpaceX, and it’s worked out quite well. But I definitely not going to do anything, which is somehow advantageous to Tesla, because that’s going to totally turn off any automotive advertiser. It has to be a level playing field or we won’t get automotive advertisers. I don’t know what else to say except that, as you know, we’re just going to try to be as fair as possible."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Awesome. Oh, go ahead, David, were you gonna say something?"
+    },
+    {
+      "role": "david_cohen",
+      "text": "Yeah, I got another one. I’m pretty sure as I’m going to ask all these questions this will be the last time I’m invited on to a Spaces, but here it goes nothing. The checkmark used to stand for something. Now, anyone that pays $8 a month can get the check mark. What’s the process by which accounts are verified in this new world?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Someone has to have a phone and a credit card and eight dollars a month. So, that’s the bar. However, we will actively suspend accounts engaged in deception or trickery of any kind. It is a leveling of the playing field here. It will be less special obviously to have a checkmark. But I think this is a good thing. But if there’s impersonation, trickery, deception, we will actively be suspending accounts. So I think it’s gonna be a good world.\nI mean, you know, don’t we believe in\none person one vote\n? I think we do. I actually just don’t the lords and peasants situation where some people have blue checkmarks and some don’t. And this is, you know, at least in the United States, we fought a war to get rid of that stuff. Anyway, that’s just philosophically how I feel. And maybe this is a dumb decision, but we’ll see."
+    },
+    {
+      "role": "david_cohen",
+      "text": "Got it."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "David, were you going to follow up and ask if brands have to pay?"
+    },
+    {
+      "role": "david_cohen",
+      "text": "I mean, obviously, this is a double-edged sword. It’s not clearly black or white. There’s clearly another side to the equation. And, Elon, as you said, you’re gonna try it. And if it doesn’t work, then you’ll quickly pivot. I think that’s a smart approach. But yeah, do brands have to pay, do marketers have to pay?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, I mean, we are trying to be, you know, equal treatment situation."
+    },
+    {
+      "role": "david_cohen",
+      "text": "So yes?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes. If somebody’s really (…) to not pay, I’ll pay it for them."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "All right, we’ll send you the bill. Speaking of being equal, the other question that we keep getting is, do the same rules apply to you, Elon, that apply to everyone else on the platform?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, absolutely. But I think we also are going to be trying to be more forgiving, you know, provided someone is not actively engaged in in fraud. If somebody missteps, then I think we should maybe give them a temporary suspension, but then allow them back on the platform. But if they keep doing it deliberately, then of course, they should be permanently suspended. I think forgiveness is just a very important principle.\nAnd so long as an account takes corrective action and does not do bad things repeatedly, they shouldn’t be suspended permanently. But if they do bad things repeatedly and deliberately, then they should be suspended permanently."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Yoel, do you want to jump in on that? Speak to like how we do it right now?"
+    },
+    {
+      "role": "yoel_roth",
+      "text": "Totally. I mean, let’s kind of take a step back in the history of trust and safety stuff on platforms. For many years, the only thing that Twitter could do was delete tweets and ban accounts. That was our only tool for content moderation. And we did quite a bit of that. We deleted a bunch of tweets, and we banned a bunch of accounts. But one of the directions that we’re trying to build towards is having more tools in our toolbox to be able to reduce the harmful impacts of content, without always having to go to that step of a ban. And in the coming days and weeks, you’re going to see us start to introduce some of these new concepts and frameworks for content moderation. My focus and my team’s focus is how can we enable as much speech as we can, while preventing the potential harmful impacts of that speech. And as Elon said, sometimes the only way to mitigate harm is to ban somebody. But we think there’s a lot of other stuff that we can do, from warning messages to interstitials to reducing the reach of content that we haven’t fully explored in the past. And you’re going to see us move quickly to build some of these new tools, and to integrate that with our policy approach."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Exactly. It’s very well said, Yoel. I pretty much think we want a diversity of viewpoints within Twitter, you know, sort of (…) cabinet, if you will, representing a diversity of viewpoints. So, at the end of the day, the success will be if people like Twitter, they will use it, and they will use it more frequently, and we’ll get more people joining. And if advertisers and brands, if companies like Twitter, they will use it and they will buy advertising, and if they don’t, they won’t. The proof is in the pudding.\nSo I think it will be a good thing. We’re really going to agonize a lot about what is right, what should be done, what is a force for good in the long term? And sometimes we’ll be wrong about that and we’ll, you know, like I said, take corrective action. But really, I think we’ll see like if we’re doing a good job, we’ll see user growth be high, we’ll see advertising interest be strong, if we do a good job, and we will see the opposite if we don’t."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "You talked a little bit about this earlier, I think, just in terms of not wanting, you know, certain types of content. Like being the town square and allowing voices of all shapes and sizes. How are you thinking about choice on the platform? You know, certain people are comfortable with certain content, others are less comfortable. Can you talk a little bit about that vision, and how that’s gonna come to life? And when you think we can see that? Because I think that’s really an important point for folks to understand."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Sure. There’s a big difference between freedom of speech and freedom of reach. At least the United States, we are big believers in freedom of speech. Somebody can say all sorts of things that we don’t agree with and find unsavory. Like, if you’re just would go to Times Square right now, there’s gonna be somebody’s saying something crazy. But we, you know, we don’t throw them in prison for that.\nBut we also don’t put them on a gigantic billboard in Times Square. So, we have to be, I think, tolerant of views we don’t agree with. But those views don’t need to be amplified. That’s the giant difference between freedom of speech and freedom of reach. These are difficult moral concepts to grapple with. Like said, we’ll do our best to do the right thing here, what we think is the right thing, and adjust course, if that does not seem to be working."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Okay, I’m just getting more questions. I know we’re going in different directions here. But some of our retail partners were excited to hear you talk about commerce and everything you just outlined. Can you say how this could come to life? And how it could help merchants of all sizes accelerate their business? Because that’s kind of what they’re hearing."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. I mean, we’ve got a lot to do on the software side, I can’t emphasize that enough. We got to write a lot of code here. And we’re going to change a bunch of the existing code base. But we want advertising to be highly relevant and timely and really try like approach in the limit, how do we get the ad to be as close to content as possible?\nI mean, if you’re shown an opportunity to buy something that you actually want when you want it, that’s great. That’s content. It’s like, well, you just served somebody’s need. That’s awesome. On the other hand, the other side of the spectrum is if you show somebody a product that they would never want it’s not helping the company’s advertising, it’s not helping the user. So we’re going to be super focused on like, how do we make it as relevant and useful as possible.\nWe will also be quite rigorous, or aspire to be rigorous about any product that is… we will not allow products that don’t work or are actually, you know, in some cases, just… I mean, like, I bought a few products based on YouTube ads, that didn’t work. And I felt, dammit, YouTube should really have not allowed that ad. On Twitter, we are going to be like, okay, we need to serve the user, we need to serve the advertiser, and when both are served, we have a good situation.\nAnd then, from a commerce standpoint, if you’re able to buy things quickly, you know, effortlessly on Twitter with one click, that’s great. We don’t want to make buying things inconvenient or require going through many steps. The easier it is to obtain the product or service that you want, the better it is for the user."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Yeah, no one is going to argue with having a more performant product and solution and more relevant ads from our clients and partners. David, where you’re going to speak?"
+    },
+    {
+      "role": "david_cohen",
+      "text": "Yes, I got another one. So clearly, Elon, Twitter and you are moving quickly and decisively. You mentioned a content moderation council, that is going to be put together. I guess the question is, how quickly is that going to materialize? And who is going to be comprised of whom? What kinds of folks do you think?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Man, that’s a hard one to answer. I think it’ll probably take us a few months to put that together. And, I mean, certainly a lot of people want to be on it. But this will be an advisory council, not a command council. It’s basically so that the leaders at Twitter can hear what a lot of people have to say, and just make sure that we’re not sort of being numb to the pain of what people are feeling. You know, basically, are we listening carefully?\nBut just going back to what I mentioned earlier, with respect to the community notes feature, in terms of accuracy and truthfulness, that’s going to be very powerful. It will obviate the need for a lot of the content stuff that currently is in place – I think. And look, I’m open to ideas, if you have thoughts here, that would be good to know. What do you think we should do?"
+    },
+    {
+      "role": "david_cohen",
+      "text": "Yeah, we absolutely do. And we get feedback all the time. So we can absolutely do that offline."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Sounds good. I can just say that the aspiration is very much to do the right thing. And I think the best evidence for us doing the right thing will be that more people are signing up. They’re spending more time in the system. That and that it’s working for advertisers, as well."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Just a quick add-on to the content counsel. Will they also weigh in on account suspension? And how you think about banning folks?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "I think\nweigh in\nis the correct word. You know, at the end of the day, I am the chief twit here. So the responsibility is mine. I think it’s difficult to really say anything… To say anything else would be what I think be disingenuous. It is both. If things go wrong, it’s my fault. Because the buck stops with me. But I would like to hear what people have to say and then we’ll make our decisions accordingly. And obviously, if we make or if I make decisions that people don’t like, then advertisers will leave the system and users will leave the system and we will fail."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "I appreciate you saying that actually, because I would like to know what you would have to say to the brands that are paused or holding on running right now during this transition."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, well, I understand if people wanting to kind of, you know, give it a minute and kind of see how things are evolving. But really, you know, the best way to see how things are evolving is just use Twitter and see how’s your experience. Has your experience changed? Is it better? Is it worse? As you’re always saying, actually, we’ve been more rigorous about clamping down on bad content and bots and trolls, not less.\nSo my observation of Twitter over the past few weeks is that the content is actually improving, not getting worse. But actually, if there’s anyone on the call who would like to speak up, if they think this is actually not the case, please say so."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Okay, well, what I will say is that you have repeatedly said you want feedback and suggestions and thoughts. This community is, as you have seen, not afraid to speak up and has plenty of suggestions and ideas and wants to be engaged with. So, that’s definitely going to be an ongoing as well as a firm next step."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, I can’t emphasize enough to advertisers, brands and, you know,… the best way to understand what’s going on with Twitter is to use Twitter. And if there’s something that you don’t like, reply to one of my tweets, and I’ll do my best to respond. But I think it’s actually getting better, not worse. (…) you just use Twitter and see how it feels to you. I think it’s actually going in a good direction."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Awesome. Okay, I think we’re getting close to the end here. So I’m going to give you the floor to say whatever you want, and then I can wrap it up."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. Well, I’m probably being a bit repetitive here. But like said, the larger goal is to do things that serve the greater interests of civilization, and have Twitter ultimately be a force that is moving civilization in a positive direction where people think it was a good thing for the world. And the evidence for that will be new users signing up, and more people using Twitter for longer. And I think also, if you were to use Twitter for an hour a day that, when you look back, you don’t regret the time. That’s actually also kind of important. You don’t want something that’s, let’s say, hyper addictive, but then you look back and you’re like, man, I kind of regret how I spent that hour.\nYou want to enjoy using Twitter and find it entertaining, informative, funny. And then, when you look back at the time you spent on Twitter, not regret it. I think then we will have succeeded."
+    },
+    {
+      "role": "robin_wheeler",
+      "text": "Amen. Thank you to the entire team at Twitter, to Yoel, to Elon, to everyone on this call, to our partners for asking the tough questions, for pushing us, and to being with us through this transition. As I said in the beginning, you know, we’re here, our team is here. And we are committed to serving you as we have. We are committed to answering your questions and to helping you feel comfortable through this transition. And we want you to continue to push us, to ask questions, and to trust us. And we’ll just continue to communicate the best we can to further build trust in this community. So, with that, thank you everyone for joining and see you out there."
+    }
+  ]
+}

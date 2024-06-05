@@ -1,0 +1,319 @@
+{
+  "src": "https://elon-musk-interviews.com/2022/01/18/lex-fridman-ai-podcast-iii-part-1/",
+  "speakers": [
+    {
+      "id": "lex_fridman",
+      "name": "Lex Fridman"
+    },
+    {
+      "id": "elon_musk",
+      "name": "Elon Musk"
+    }
+  ],
+  "messages": [
+    {
+      "role": "lex_fridman",
+      "text": "The following is a conversation with Elon Musk – his third time on this, the “Lex Fridman Podcast”.\n(to Elon)\nYeah, make yourself comfortable."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Boo."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Oh, wow, okay."
+    },
+    {
+      "role": "elon_musk",
+      "text": "You don’t do the headphone thing?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "No."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Okay. I mean, how close do I need to get this thing?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "The closer you are, the sexier you sound."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Hey babe,\n(singing)\ncan’t get enough of your love, baby…\n(Elon & Lex both laughing)"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I’m gonna clip that out, and any time somebody messages me on my phone, I’ll just respond with that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "(singing)\nIf you want my body – and you think I’m sexy – come right out and tell me so – do do do do do…\n(laughing)"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So good. Okay, serious mode activate. Alright."
+    },
+    {
+      "role": "elon_musk",
+      "text": "(laughing)\nSerious mode. Come on, you’re Russian, you can be serious."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, I know."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Everyone’s serious all the time in Russia.\n(laughing)"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah. We’ll get there, we’ll get there. Allow me to say that the SpaceX launch of human beings to orbit on May 30\nth\n, 2020, was seen by many as the first step in a new era of human space exploration. These human spaceflight missions were a beacon of hope to me and to millions over the past two years, as our world has been going through one of the most difficult periods in recent human history. We see the rise of division, fear, cynicism, and the loss of common humanity, right when it is needed most. So, first, Elon, let me say thank you for giving the world hope and reason to be excited about the future."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, it’s kind of you to say that. I do want to do that. Humanity has, obviously, a lot of issues, and people at times do bad things. But despite all that, I love humanity, and I think we should make sure we do everything we can to have a good future and an exciting future, and one that maximizes the happiness of the people."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Let me ask about Crew Dragon Demo-2. So, that first flight with humans on board, how did you feel leading up to that launch? Were you scared? Were you excited? What was going through your mind? So much was at stake."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, no, that was extremely stressful. No question. We obviously could not let them down in any way. So extremely stressful, I’d say, to say the least. I was confident that, at the time that we launched, that no one could think of anything at all to do that would improve the probability of success. And we racked our brains to think of any possible way to improve the probability of success. We could not think of anything more, and nor could NASA. And so, that’s just the best that we could do. So then we went ahead and launched. Now, I’m not a religious person, but I nonetheless got on my knees and prayed for that mission."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Were you able to sleep?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "How did it feel when it was a success? First, when the launch was a success and when they returned back home, or back to Earth?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There was a great relief. Yeah. For high-stress situations, I find it’s not so much elation as relief. I think as we got more comfortable and proved out the systems because we really… you got to make sure everything works. It was definitely a lot more enjoyable with the subsequent astronaut missions. And I thought the Inspiration Mission was actually very inspiring – the “Inspiration4” mission. I’d encourage people to watch the Inspiration documentary on Netflix; it’s actually really good. And it really isn’t… I was actually inspired by that. So that one I felt, I was kind of able to enjoy the actual mission and not just be super stressed all the time."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So, for people that somehow don’t know, it’s the all civilian, first time all civilian out to space, out to orbit."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, it was, I think, the highest orbit that in like, I don’t know, 30 or 40 years or something. The only one that was higher was this one shuttle, sorry, a Hubble servicing mission. And then, before that, it would have been Apollo in 72. It’s pretty wild. So it’s cool. It’s good. I think as a species, we want to be continuing to do better and reach higher ground. I think it would be tragic, extremely tragic, if Apollo was the high watermark for humanity, and that’s as far as we ever got. It’s concerning that here we are 49 years after the last mission to the Moon – so almost half a century. And we’ve not been back. That’s worrying; it’s like, does that mean we’ve peaked as a civilization or what?\nSo I think we got to get back to the Moon and build a base there, a science base. I think we could learn a lot about the nature of the universe if we have a proper science base on the Moon. We have a science base in Antarctica and many other parts of the world. So that’s what I think the next big thing we’ve got to have like a serious Moonbase. And then get people to Mars and get out there and be a spacefaring civilization."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I’ll ask you about some of those details. But, since you’re so busy with the hard engineering challenges of everything that’s involved, are you still able to marvel at the magic of it all, of space travel, of every time the rocket goes up, especially when it’s a crewed mission? Or are you just so overwhelmed with all the challenges that you have to solve?\nAnd actually, sort of to add to that, the reason I want to ask this question of May 30\nth\n– it’s been some time, so you can look back and think about the impact already. At the time, it was an engineering problem maybe, now it’s becoming a historic moment. Like, it’s a moment that – how many moments will be remembered about the 21st century? To me, that or something like that, maybe Inspiration4, one of those, will be remembered as the early steps of a new age of space exploration."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I mean, during the launches itself,… I think maybe some people will know, but a lot of people don’t know, like, I’m actually the chief engineer of SpaceX. So I’ve signed off on pretty much all the design decisions. So if there’s something that goes wrong with that vehicle, it’s fundamentally my fault. So I’m really just thinking about all the things that… When I see the rocket, I see all the things that could go wrong, and the things that could be better, and the same with the Dragon spacecraft. Other people say, “Oh, this is a spacecraft or a rocket.” and “That looks really cool.” I’m like, I’ve like a readout of these are the risks, these are the problems. That’s what I see. It’s not what other people see when they see the product."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So let me ask you then to analyze Starship in that same way. I know you’ll talk a bit in more detail about Starship in the near future. Perhaps you had that… I don’t know…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "We can talk about it now if you want."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "But just in that same way, like you said, you see… when you see a rocket, you see a sort of a list of risks. In that same way, you said that Starship is a really hard problem. So, there’re many ways I can ask this, but if you magically could solve one problem perfectly, one engineering problem perfectly, which one would it be?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "On Starship?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Sorry, on Starship. So is it maybe related to the efficiency, the engine, the weight of the different components, the complexity of various things, maybe the controls of the crazy thing it has to do to land?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it’s actually, by far the biggest thing absorbing my time is engine production. Not the design of the engine. I have often said prototypes are easy, production is hard. So we have the most advanced rocket engine that’s ever been designed. I say currently the best rocket engine ever is probably the RD-180 or RD-170. That’s the dual Russian engine, basically. And still, I think an engine should only count if it has gotten something to orbit. So our engine has not gotten anything to orbit yet. But it is the first engine that’s actually better than the Russian RD engines, which were amazing design."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So you’re talking about Raptor engine. What makes it amazing? What are the different aspects of it that make it like… what are you the most excited about if the whole thing works, in terms of efficiency, all those kinds of things?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, the Raptor is a full flow staged combustion engine, and it’s operating at a very high chamber pressure. So one of the key figures of merit, perhaps the key figure of merit is what is the chamber pressure at which the rocket engine operate. That’s the combustion chamber pressure. Raptor is designed to operate at 300 bar, possibly, maybe higher, that’s 300 atmospheres. So the record right now for operational engine is the RD-engine that I mentioned, the Russian RD, which is, I believe, around 267 bar.\nAnd the difficulty of the chamber pressure is it increases on a nonlinear basis. 10% more pressure is more like 50% more difficult. But that chamber pressure is… that is what allows you to get a very high power density for the engine, enabling a very high thrust to weight ratio, and a very high specific impulse. Specific impulse is like a measure of the efficiency of a rocket engine. It’s really the effect of exhaust velocity of the gas coming out of the engine. With a very high chamber pressure, you can have a compact engine that nonetheless has a high expansion ratio, which is the ratio between the exit nozzle and the throat. Rocket engines got like sort of an hourglass shape. It’s like a chamber, and then it necks down, and there’s a nozzle. And the ratio of the exit diameter to the throat is expansion ratio."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So why is this such a hard engine to manufacture? At scale?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s very complex."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What does complexity mean? Here’s a lot of components involved?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "There’s a lot of components and a lot of unique materials. We had to invent several alloys that don’t exist in order to make this engine work."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So it’s a materials problem, too?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "It’s\nmaterials problem, and in a staged combustion, that full flow staged combustion, there are many feedback loops in the system. So basically, you’ve got propellants and hot gas flowing simultaneously to so many different places on the engine. And they all have a recursive effect on each other. So you change one thing here has a recursive effect here that changes something over there. It’s quite hard to control. There’s a reason why no one’s made this before. The reason we’re doing a stage combustion full flow is because it has the highest theoretical possible efficiency.\nSo in order to make a fully reusable rocket – that’s really the holy grail of orbital rocketry – everything’s got to be the best. It’s got to be the best engine, the best airframe, the best heat shield, extremely light avionics, very clever control mechanisms. You’ve got to shed mass in any possible way that you can. For example, instead of putting landing legs on the booster and ship, we are going to catch them with a tower to save the weight of the landing legs. I mean, we’re talking about catching the largest flying object ever made on a giant tower with chopstick arms. It’s like “Karate Kid” with the fly, but much bigger. This probably won’t work the first time. So anyway, this is bananas, this is banana stuff."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So, you mentioned that you doubt… well, not you doubt, but there’s days or moments when you doubt that this is even possible. It’s so difficult."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, at this point, I think we will get Starship to work. There’s a question of timing. How long will it take us to do this? How long will it take us to actually achieve full and rapid reusability? Because it will take probably many launches before we’re able to have full and rapid reusability. But I can say that the physics pencils out. At this point, I’d say I’m very confident success is in the set of all possible outcomes. For a while, I was not convinced that success was in the set of possible outcomes. Which is very important, actually."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "You’re saying there’s a chance."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I’m saying there’s a chance Exactly. Just not sure how long it will take. But we have a very talented team. They’re working night and day to make it happen. Like I said, the critical thing to achieve for the revolution in spaceflight and for humanity to be a spacefaring civilization is to have a fully and rapidly reusable rocket, orbital rocket. There’s not even been any orbital rocket that’s been fully reusable ever. And this has always been the holy grail of rocketry. And many smart people, very smart people, have tried to do this before and they’ve not succeeded because it’s such a hard problem."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What’s your source of belief in situations like this? When the engineering problem is so difficult? There’s a lot of experts, many of whom you admire, who have failed in the past."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yes."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And a lot of people, you know, a lot of experts, maybe journalists, the public in general, have a lot of doubts about whether it’s possible. And you yourself know that even if it’s a non-null set, non-empty set of success, it’s still unlikely or very difficult. Where do you go to, both personally, intellectually as an engineer, as a team, for source of strength needed to sort of persevere through this and to keep going with the project, take it to completion?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "A source of strength, hmm… it’s just really not how I think about things. I mean, for me, it’s simply this is something that is important to get done. And we should just keep doing it. Or die trying. I don’t need a source of strength."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So, quitting is not even like…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "That’s not in my nature. And I don’t care about optimism or pessimism. Fuck that, we’re going to get it done."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Gonna get it done. Can you then zoom back into specific problems with Starship or any engineering problems you work on? Can you try to introspect your particular biological neural network, your thinking process and describe how you think through problems, the different engineering and design problems? Is there like a systematic process? You’ve spoken about first principles thinking, but is there a kind of process to it?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, you know, I like saying, physics is law, and everything else is a recommendation. I’ve met a lot of people that can break the law, but I have never met anyone who could break physics. So first, for any kind of technology problem, you have sort of just make sure you’re not violating physics.\nFirst-principles analysis, I think, is something that can be applied to really any walk of life, anything really. It’s really just saying let’s boil something down to the most fundamental principles, the things that we are most confident are true at a foundational level, and that sets your axiomatic base, and then you reason up from there. And then you cross-check your conclusion against the axiomatic truth. Some basics in physics would be like, are you violating conservation of energy or momentum or something like that? Then it’s not going to work. That’s just to establish, is it possible? Another good physics tool is thinking about things in the limit. If you take a particular thing, and you scale it to a very large number or to a very small number, how does things change?"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Both in number of things you manufacture, something like that, and then in time?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, let’s say, take an example of manufacturing, which I think is just a very underrated problem. And like I said, it’s much harder to take an advanced technology part and bring it into volume manufacturing than it is to design it in the first place. More is magnitude. Let’s say you’re trying to figure out, why is this part or product expensive? Is it because of something fundamentally foolish that we’re doing? Or is it because our volume is too low? And so then you say, okay, well, what if our volume was a million units a year? Is it still expensive? That’s what I mean with thinking about things in the limit. If it’s still expensive at a million units a year, then volume is not the reason why your thing is expensive. There’s something fundamental about the design."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And then you can focus on reducing complexity or something like that."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Got to change the design, change the part, to be something that is not fundamentally expensive. That’s a common thing in rocketry because the unit volume is relatively low. And so a common excuse would be, “Well, it’s expensive because our unit volume is low. And if we were in like automotive or something like that, or consumer electronics, then our costs will be lower.” And I’m like, “Okay, so let’s say, now you’re making a million units a year. Is it still expensive?” If the answer is yes, then economies of scale are not the issue."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Do you throw into manufacturing, do you throw like supply chain… You talked about resources and materials and stuff like that – do you throw that into the calculation of trying to reason from first principles? Like, how we’re going to make the supply chain work here?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, yeah."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "And then the cost of materials, things like that? Or is that too much…?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah. Exactly. A good example of thinking about things in the limit is if you take any product, a machine, or whatever, like take a rocket or whatever, and say, if you look at the raw materials in the rocket; so you’re gonna have like aluminum, steel, titanium, Inconel, specialty alloys, copper, and you say, what’s the weight of the constituent elements of each of these elements, and what is their raw material value. And that sets the asymptotic limit for how low the cost of the vehicle can be unless you change the materials.\nAnd then when you do that – I call it like, maybe the magic wand number or something like that – that would be like, if you had just a pile of these raw materials here and you could wave a magic wand and rearrange the atoms into the final shape, that would be the lowest possible cost that you could make this thing for unless you change the materials. And that is always, usually, almost always a very low number. So then, what’s actually causing things to be expensive is how you put the atoms into the desired shape."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, actually, if you don’t mind me taking a tiny tangent. I often talk to Jim Keller, who’s somebody that worked with you as a…"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Oh, yeah. Jim did great work at Tesla."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "So, I suppose he carries the flame of the same kind of thinking that you’re talking about now. And I guess I see that same thing at Tesla and SpaceX. Folks who worked there, they kind of learned this way of thinking, and it kind of becomes obvious almost. But anyway, I had an argument – not argument; he educated me – about how cheap it might be to manufacture a Tesla bot. We had an argument, how can you reduce the cost at scale of producing a robot?\nBecause so far I’ve gotten the chance to interact quite a bit, obviously, in the academic circles with humanoid robots, and then Boston Dynamics and stuff like that, and they’re very expensive to build. And then Jim kind of schooled me on saying like, okay, like this kind of first principles thinking of how can we get the cost of manufacturing down. I suppose you have done that kind of thinking for Tesla Bot and for all kinds of complex systems that are traditionally seen as complex. And you say, “Okay, how can we simplify everything down?”"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Yeah, I think if you are really good at manufacturing, at high volume you can basically make anything for a cost that asymptotically approaches the raw material value of the constituents, plus any intellectual property that you need to license. Anything."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Right."
+    },
+    {
+      "role": "elon_musk",
+      "text": "But it’s hard. That’s a very hard thing to do. But it is possible for anything. Anything in volume can be made, like I said, for a cost that asymptotically approaches its raw material constituents, plus intellectual property license rights. So what will often happen in trying to design a product is, people will start with the tools and parts and methods that they’re familiar with and try to create a product using their existing tools and methods. The other way to think about it is, actually try to imagine the platonic ideal of the perfect product, or technology, whatever it might be. What is the perfect arrangement of atoms? That would be the best possible product. And now let us try to figure out how to get the atoms in that shape."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "I mean, it’s almost like “Rick and Morty” absurd until you start to really think about it. And you really should think about it in this way because everything else is kind of… you might fall victim to the momentum of the way things were done in the past unless you think in this way."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Well, just as a function of inertia, people want to use the same tools and methods that they’re familiar with. That’s what they’ll do by default. And then, that will lead to an outcome of things that can be made with those tools and methods but is unlikely to be the platonic ideal of the perfect product. It’s good to think of things in both directions, like “What can we build with the tools that we have?” but also, “What is the theoretical perfect product look like?”\nAnd that theoretical perfect part is gonna be a moving target because as you learn more, the definition of that perfect product will change. Because you don’t actually know what the perfect product is, but you can successfully approximate a more perfect product. So think about it like that, and then saying, “Okay, now what tools, methods, materials, whatever do we need to create in order to get the atoms in that shape?” But people very rarely think about it that way. But it’s a powerful tool."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "(to the audience)\nI should mention that the brilliant Shivon Zilis is hanging out with us, in case you hear a voice of wisdom from outside, from up above.\nOkay, so let me ask you about Mars. You mentioned, it’d be great for science to put a base on the Moon to do some research. But the truly big leap again, in this category of seemingly impossible, is to put a human being on Mars. When do you think SpaceX will land a human being on Mars?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "Best case is about five years, worst case 10 years."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "What are the determining factors would you say from an engineering perspective? Or is that not the bottlenecks?"
+    },
+    {
+      "role": "elon_musk",
+      "text": "No, it’s fundamentally your engineering the vehicle. I mean, Starship is the most complex and advanced rocket that’s ever been made by, I don’t know, an order of magnitude or something like that. It’s a lot. It’s really next level. And the fundamental optimization of Starship is minimizing cost per ton to orbit and ultimately cost per ton to the surface of Mars. This may seem like a mercantile objective, but it is actually the thing that needs to be optimized. There is a certain cost per tonne to the surface of Mars where we can afford to establish a self-sustaining city. And then, above that, we cannot afford to do it. Right now, you couldn’t fly to Mars for a trillion dollars; no amount of money could get you a ticket to Mars. So we need to get that like something that is actually possible at all. We don’t want to just want to have with Mars flags and footprints and then not come back for a half century like we did with the Moon.\nIn order to pass a very important “great filter”, I think we need to be a multi-planet species. This may sound somewhat esoteric to a lot of people, but eventually, given enough time, there’s something… Earth is likely to experience some calamity. That could be something that humans do to themselves or an external event like what happened to the dinosaurs. And if none of that happens, and somehow magically, we keep going, then the sun will… the sun is gradually expanding and will engulf the Earth. And probably Earth gets too hot for life in about 500 million years. It’s a long time, but that’s only 10% longer than Earth has been around.\nThe current situation is really remarkable and kind of hard to believe, but Earth has been around four and a half billion years, and this is the first time in four and a half billion years that it’s been possible to extend life beyond Earth. And that window of opportunity may be open for a long time, and I hope it is, but it also may be open for a short time. And I think it is wise for us to act quickly, while the window is open, just in case it closes."
+    },
+    {
+      "role": "lex_fridman",
+      "text": "Yeah, the existence of nuclear weapons, pandemics, all kinds of threats should kind of give us some motivation."
+    },
+    {
+      "role": "elon_musk",
+      "text": "I mean, civilization could die with a bang or a whimper. You know, if it dies of demographic collapse, then it’s more of a whimper, obviously. But if it’s World War III, it’s more of a bang. But these are all risks. I mean, it’s important to think of these things and just think of things like probabilities, not certainties. There’s a certain probability that something bad will happen on Earth. I think most likely the future will be good. But there’s like, let’s say for argument’s sake, a 1% chance per century of a civilization-ending event. That was Stephen Hawking’s estimate. I think he might be right about that. We should basically think of us being a multi-planet species. It’s like taking out insurance for life itself – like life insurance for life.\n(both laughing)"
+    },
+    {
+      "role": "lex_fridman",
+      "text": "This turned into an infomercial real quick."
+    },
+    {
+      "role": "elon_musk",
+      "text": "Life insurance for life, yes. And we can bring the creatures – you know, plants and animals – from Earth to Mars and breathe life into the planet and have a second planet with life. That would be great. They can’t bring themselves there, so if we don’t bring them to Mars, then they will just for sure all die when the sun expands anyway, and then that’ll be it."
+    }
+  ]
+}
