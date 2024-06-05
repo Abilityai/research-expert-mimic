@@ -1,0 +1,21 @@
+bitsandbytes
+transformers
+tokenizers
+peft
+accelerate
+trl
+datasets
+sentencepiece
+python-dotenv
+jupyter
+pandas
+beautifulsoup4
+pytest
+torch
+tqdm
+# For using unsloth with RTX3090:
+# pip install "unsloth[cu121-ampere-torch230] @ git+https://github.com/unslothai/unsloth.git"
+# We need to update CUDA to the latest version: https://www.cherryservers.com/blog/install-cuda-ubuntu
+tiktoken
+openai
+aenum
