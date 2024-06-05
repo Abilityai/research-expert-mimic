@@ -4,9 +4,9 @@ from dataclasses import dataclass, field
 
 import dotenv
 from huggingface_hub.hf_api import HfFolder
-from transformers import TrainingArguments, pipeline, logging, AutoTokenizer
+from transformers import TrainingArguments, AutoTokenizer
 from trl import SFTTrainer
-from unsloth import FastLanguageModel, save, get_chat_template
+from unsloth import FastLanguageModel, get_chat_template
 import torch
 from datasets import concatenate_datasets
 
@@ -66,10 +66,60 @@ def get_model_and_tokenizer()->tuple[FastLanguageModel, AutoTokenizer]:
     return model, tokenizer
 
 
+def build_dataset(train_plan: TrainPlan):
+    datasets = []
+    for part in train_plan.parts:
+        for _ in range(train_plan.epochs):
+            ds = read_dataset_messages(PersonsEnum.ElonMusk, part)
+            datasets.append(ds)
+    return concatenate_datasets(datasets)
+
+
+def construct_trainer(model, tokenizer, dataset)->SFTTrainer:
+
+    # Config Trainer
+    trainer = SFTTrainer(
+        model = model,
+        tokenizer = tokenizer,
+        train_dataset = dataset,
+        # dataset_text_field = "messages",
+        max_seq_length = MAX_LEN,
+        dataset_num_proc = 2,
+        packing = False, # Can make training 5x faster for short sequences.
+        args = TrainingArguments(
+            per_device_train_batch_size = 2,
+            gradient_accumulation_steps = 4,
+            warmup_steps = 5,
+            # max_steps = 60,
+            num_train_epochs=1,
+            learning_rate = 2e-4,
+            fp16 = not torch.cuda.is_bf16_supported(),
+            bf16 = torch.cuda.is_bf16_supported(),
+            logging_steps = 1,
+            optim = "adamw_8bit",
+            weight_decay = 0.01,
+            lr_scheduler_type = "linear",
+            seed = 3407,
+            output_dir = "outputs",
+        ),
+    )
+    return trainer
+
+
 def perform_train(train_plan: TrainPlan):
     new_model = new_model_stem + train_plan.experiment_suffix
     print(f'Training model {new_model}')
     model, tokenizer = get_model_and_tokenizer()
+    dataset = build_dataset(train_plan)
+    print(f'Dataset size: {len(dataset)}')
+    trainer = construct_trainer(model, tokenizer, dataset)
+    trainer.train()
+    # push the model and tokenizer
+    print(f'Pushing model and tokenizer {new_model} to HuggingFace')
+    trainer.model.save_pretrained(new_model)
+    trainer.model.push_to_hub(new_model)
+    tokenizer.push_to_hub(new_model, private = False)
+    print(f'Model {new_model} is pushed to HuggingFace')
     
 
 
@@ -92,9 +142,9 @@ def main(experiment_num: int):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
-        description='this script is used to fine-tune the model on the Musk dataset')
+        description='This script is used to fine-tune the model on the Musk dataset')
     parser.add_argument(
-        'experiment_num', type=int,
-        help='experiment number 0..3, default - train all the models', default=-1)
+        'experiment_num', type=int, nargs='?', default=-1,
+        help='experiment number 0..3, default - train all the models')
     args = parser.parse_args()
     main(args.experiment_num)
