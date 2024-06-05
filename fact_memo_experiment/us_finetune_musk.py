@@ -4,6 +4,11 @@ from dataclasses import dataclass, field
 
 import dotenv
 from huggingface_hub.hf_api import HfFolder
+from transformers import TrainingArguments, pipeline, logging, AutoTokenizer
+from trl import SFTTrainer
+from unsloth import FastLanguageModel, save, get_chat_template
+import torch
+from datasets import concatenate_datasets
 
 from data_parsers.dataset_utils import PartsEnum, PersonsEnum, read_dataset_messages
 
@@ -31,9 +36,7 @@ base_model = "mistralai/Mistral-7B-Instruct-v0.3"
 new_model_stem = base_model.split('/')[-1] + f"_musk_fmex_"
 
 
-def perform_train(train_plan: TrainPlan):
-    new_model = new_model_stem + train_plan.experiment_suffix
-    print(f'Training model {new_model}')
+def get_model_and_tokenizer()->tuple[FastLanguageModel, AutoTokenizer]:
     model, tokenizer = FastLanguageModel.from_pretrained(
         model_name=base_model,
         max_seq_length=MAX_LEN,
@@ -55,6 +58,19 @@ def perform_train(train_plan: TrainPlan):
 
     # Set cache to False
     model.config.use_cache = False
+    tokenizer = get_chat_template(
+        tokenizer,
+        chat_template = "mistral", # Supports zephyr, chatml, mistral, llama, alpaca, vicuna, vicuna_old, unsloth, llama-3
+        # mapping = {"role" : "from", "content" : "value", "user" : "human", "assistant" : "gpt"}, # ShareGPT style
+    )
+    return model, tokenizer
+
+
+def perform_train(train_plan: TrainPlan):
+    new_model = new_model_stem + train_plan.experiment_suffix
+    print(f'Training model {new_model}')
+    model, tokenizer = get_model_and_tokenizer()
+    
 
 
 def main(experiment_num: int):
