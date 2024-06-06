@@ -1,0 +1,4509 @@
+answer,pred_1,pred_2,raw_res,total_facts,tp_a,fp_a,fn_a,tp_b,fp_b,fn_b
+"I've got an entire design for an electric supersonic vertical takeoff jet, but I just can't do that as well.", I've been wanting to make a plane for a long time. That may happen next year. I can't say more than that.," Well, I've been trying to get the Hyperloop done for a long time. That's a way to have high-speed transport in a vacuum tube.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Mention of having a design for an electric supersonic vertical takeoff jet"",
+          ""1. Inability to execute the design""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of trying to get the Hyperloop done"",
+          ""2. Description of the Hyperloop as a high-speed transport in a vacuum tube""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person has designed an electric supersonic vertical takeoff jet.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of wanting to make a plane."",
+          ""1. Possibility of it happening next year."",
+          ""2. Inability to provide more details.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of trying to get the Hyperloop done."",
+          ""1. Description of high-speed transport in a vacuum tube.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 3,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 3,
+    ""tp_a"": 1,
+    ""fp_a"": 4,
+    ""fn_a"": 2,
+    ""tp_b"": 1,
+    ""fp_b"": 4,
+    ""fn_b"": 2
+  }
+}",3,1,4,2,1,4,2
+"If the Tesla supercharging network were its own company, it would be a Fortune 500 company by itself, just the supercharging system."," I think our self-driving car data. We have the largest self-driving dataset in the world. We’re about to surpass 100 million hours of driving on our cars, which is just insane. And we have a massive amount of compute, so we’re running our full self-driving computer, which is custom designed by Tesla, on all of our cars. We’re about to surpass 100,000 cars per week produced. So, we’ve got a lot of compute there, and we’re about to launch a new product called Car Data which will be available to the public. I think there’s a lot of value there. I’m not sure exactly what the right thing to do with it is, but it seems like there’s at least an internal product that we could do with our full self-driving data."," Well, I think, Tesla is the world’s largest car company by market cap. It’s not the largest car company in terms of volume. But I think if you look at the size of the market cap, that’s the sum total of the future expectations of the company. And so I think if you say, like, what is the most valuable thing that Tesla has, I think, the most valuable thing that Tesla has is the autonomous driving, full self-driving computer.
+And we’ve also developed the cells and the power electronics and the structural batteries, the structural pack. We’ve developed a lot of the core technologies that are necessary for the future of electric vehicles, and I think that those are very valuable things to have. And we also make a lot of electric cars.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. If the Tesla supercharging network were its own company, it would be a Fortune 500 company by itself, just the supercharging system.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Largest self-driving dataset in the world"",
+          ""1. Surpassing 100 million hours of driving on cars"",
+          ""2. Massive amount of compute"",
+          ""3. Running full self-driving computer on all cars"",
+          ""4. About to surpass 100,000 cars per week produced"",
+          ""5. Launching a new product called Car Data""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. World’s largest car company by market cap"",
+          ""1. Not the largest car company in terms of volume"",
+          ""2. Most valuable thing that Tesla has is the autonomous driving, full self-driving computer"",
+          ""3. Developed cells, power electronics, structural batteries, structural pack"",
+          ""4. Developed core technologies necessary for the future of electric vehicles"",
+          ""5. Make a lot of electric cars""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 6,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 6,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. If the Tesla supercharging network were its own company, it would be a Fortune 500 company by itself, just the supercharging system.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Tesla has the largest self-driving dataset in the world."",
+          ""1. Tesla is about to surpass 100 million hours of driving on its cars."",
+          ""2. Tesla is about to surpass 100,000 cars per week produced."",
+          ""3. Tesla is about to launch a new product called Car Data available to the public.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Tesla is the world’s largest car company by market cap."",
+          ""1. Tesla has the most valuable thing in autonomous driving, full self-driving computer."",
+          ""2. Tesla has developed cells, power electronics, structural batteries, and structural pack for electric vehicles."",
+          ""3. Tesla makes a lot of electric cars.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 4,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 4,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 10,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 10,
+    ""fn_b"": 1
+  }
+}",2,1,10,1,1,10,1
+We have made our supercharger system open access. We've made our charger technology available for free to the other manufacturers.," We have not shared our technology for charging, but we did make it known that all along that we would make our charging standard available to anyone who wanted to use it for free. And we did the same thing with our supercharger system. And we even went so far as to show other companies how to build a charger and how to build a supercharger. And we even gave them our patents for free.
+And we did this publicly, you know, we didn’t do it privately. We just said, “Look, if you want to use this, you can use it. Here’s how you do it.” And I think it’s going to come as a big surprise to a lot of people that the charging network is going to be good. And that there will be long-range electric cars that can use the charging network.
+And I think it’s also going to come as a big surprise that the supercharger system will be good. And that there will be long-range electric cars that can use the supercharger system. And that the supercharger system will be able to support long-range electric cars.
+And I think it’s also going to come as a big surprise that the supercharger system will be good. And that there will be long-range electric cars that can use the supercharger system. And that the supercharger system will be able to support long-range electric cars.
+And I think it’s also going to come as a big surprise that the supercharger system will be able to support long-range trucking. And we’ve actually already done this with a few trucks. And we’re going to do a lot more of it with the Semi.", We have not.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We have made our supercharger system open access."",
+          ""1. We've made our charger technology available for free to the other manufacturers.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. We have not shared our technology for charging.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We have made our supercharger system open access."",
+          ""1. We've made our charger technology available for free to other manufacturers.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. We did make it known that all along that we would make our charging standard available to anyone who wanted to use it for free."",
+          ""3. We even went so far as to show other companies how to build a charger and how to build a supercharger."",
+          ""4. We even gave them our patents for free."",
+          ""5. We did this publicly, not privately."",
+          ""6. We just said, “Look, if you want to use this, you can use it. Here’s how you do it.”"",
+          ""7. I think it’s going to come as a big surprise to a lot of people that the charging network is going to be good."",
+          ""8. There will be long-range electric cars that can use the charging network."",
+          ""9. The supercharger system will be good."",
+          ""10. The supercharger system will be able to support long-range electric cars."",
+          ""11. The supercharger system will be able to support long-range trucking."",
+          ""12. We’ve actually already done this with a few trucks."",
+          ""13. We’re going to do a lot more of it with the Semi.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. We have not.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 12,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 4,
+    ""fp_a"": 13,
+    ""fn_a"": 0,
+    ""tp_b"": 0,
+    ""fp_b"": 2,
+    ""fn_b"": 4
+  }
+}",4,4,13,0,0,2,4
+"These demons of the mind are, for the most part, harnessed to productive ends."," Tesla, SpaceX, PayPal."," Tesla, SpaceX, Neuralink, The Boring Company, X, and then, I think, a few others.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. These demons of the mind are, for the most part, harnessed to productive ends.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of Tesla, SpaceX, PayPal.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of Neuralink, The Boring Company, X, and a few others.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. These demons of the mind are, for the most part, harnessed to productive ends.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of PayPal.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of Tesla, SpaceX, Neuralink, The Boring Company, X, and a few others.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 2,
+    ""fn_b"": 1
+  }
+}",2,1,2,1,1,2,1
+"If I were to describe my philosophy, it is a philosophy of curiosity."," I’m a fan of freedom. I guess you could say I’m a fan of the Enlightenment. I like the idea of the Enlightenment, the scientific method, and the Socratic idea of questioning everything. I think that’s a very important thing. I’m also a fan of humor. I think that’s very important. I like to have fun and laugh. I like to make other people laugh. I think that’s a good thing. I like to be useful. I like to do things that are useful to other people. I like to help other people. I like to make other people’s lives better, if possible."," I don’t think the world works like that. I think there are no grand principles that you can count on. Only, like, the rules change depending on who’s winning.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. If I were to describe my philosophy, it is a philosophy of curiosity.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A mentions being a fan of freedom, the Enlightenment, the scientific method, the Socratic idea of questioning everything, humor, having fun and laughing, making other people laugh, being useful, doing things useful to others, helping others, and making other people's lives better.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""2. Fragment B mentions that there are no grand principles you can count on and that the rules change depending on who's winning.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Philosophy of curiosity""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fan of freedom"",
+          ""2. Fan of the Enlightenment"",
+          ""3. Likes the scientific method"",
+          ""4. Likes the Socratic idea of questioning everything"",
+          ""5. Fan of humor"",
+          ""6. Likes to have fun and laugh"",
+          ""7. Likes to make other people laugh"",
+          ""8. Likes to be useful"",
+          ""9. Likes to do things that are useful to other people"",
+          ""10. Likes to help other people"",
+          ""11. Likes to make other people's lives better""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. No grand principles"",
+          ""1. Rules change depending on who's winning""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 11,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 12,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 3,
+    ""fn_b"": 1
+  }
+}",2,1,12,1,1,3,1
+I did have this existential crisis when I was around 12... then I read Douglas Adams' Hitchhiker's Guide to the Galaxy.," Well, the Hitchhiker’s Guide to the Galaxy, but that’s more humor."," Actually, the one that really helped me was the Hitchhiker’s Guide to the Galaxy.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person had an existential crisis around the age of 12"",
+          ""1. The person read Douglas Adams' Hitchhiker's Guide to the Galaxy""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 0,
+        ""fn_a"": 1,
+        ""tp_b"": 2,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person had an existential crisis around the age of 12"",
+          ""1. The person read Douglas Adams' Hitchhiker's Guide to the Galaxy""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 0,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 2,
+    ""fp_a"": 0,
+    ""fn_a"": 2,
+    ""tp_b"": 3,
+    ""fp_b"": 0,
+    ""fn_b"": 1
+  }
+}",4,2,0,2,3,0,1
+Being a multi-planet species is more than simply life insurance for life collectively. It's also about giving life meaning.," Well, there’s a few reasons. One is that there’s just a lot of value in life itself. You know, there’s a reason that people are willing to sacrifice for their children and for others who are not even related to them. There’s just a lot of value in life. And we should take whatever actions we can think of to extend life and make it better.
+And then, also, we want to be able to one day say we are a multi-planet species. I think that is a very exciting thing. And then, also, if we are able to one day expand to many planets and really become a spacefaring civilization, then we are much less likely to die out. You know, if you’re like the only candle in the room and that candle goes out, it’s dark. But if there’s a whole bunch of candles in the room, and one candle goes out, it’s not so dark. So, it’s really a question of long-term existence."," Well, I think we want to know that we’re not alone in the universe. I think that’s very important. I think it would answer the question of are we alone in the universe or not. And I think it’s very important to answer that question. I think it would be exciting to know that we’re not alone. I think that would be a very exciting thing to know.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Being a multi-planet species is more than simply life insurance for life collectively."",
+          ""1. It's also about giving life meaning.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. There's a lot of value in life itself."",
+          ""2. People are willing to sacrifice for their children and others who are not related to them."",
+          ""3. We should take actions to extend life and make it better."",
+          ""4. Wanting to be a multi-planet species is exciting."",
+          ""5. Becoming a spacefaring civilization reduces the likelihood of dying out."",
+          ""6. Analogy of candles in a room.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Wanting to know if we are alone in the universe."",
+          ""2. Excitement about the possibility of not being alone in the universe.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 6,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Being a multi-planet species is more than simply life insurance for life collectively."",
+          ""1. It's also about giving life meaning.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. Fragment B hallucinated the fact about giving life meaning.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Fragment A hallucinated the fact about being a multi-planet species.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 3,
+    ""fp_a"": 7,
+    ""fn_a"": 1,
+    ""tp_b"": 2,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",4,3,7,1,2,3,2
+I would say that we're less than three years from that point., I think AI will surpass human intelligence by far.," Well, I made a bet ten years ago that it would be sooner than 2029. So it’s 15 years from now. I think you’ll see significant advances, like the sort of, you know, the sort of AI that you can fall in love with, the sort of AI that you can have as a partner, the sort of AI that you can raise a family with, that kind of thing.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We are less than three years away from a certain point.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. AI surpassing human intelligence by far.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. A bet made ten years ago that it would be sooner than 2029."",
+          ""2. Predicting significant advances in AI like being able to fall in love with it, have it as a partner, and raise a family with it.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Less than three years until a certain point is reached.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. AI surpassing human intelligence by far""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 2,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 3,
+    ""fn_b"": 0
+  }
+}",2,0,2,2,2,3,0
+"It would be a fair criticism of me to say that I'm late, but I always deliver in the end."," I mean, I think we’re actually on time or ahead on almost all fronts."," Well, I think I’m actually early or on time with most things.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. It would be a fair criticism of me to say that I'm late"",
+          ""1. I always deliver in the end.""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Claiming to be on time or ahead on almost all fronts.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Claiming to be early with most things."",
+          ""2. Claiming to be on time with most things.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. It would be a fair criticism of me to say that I'm late"",
+          ""1. I always deliver in the end.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. I think we’re actually on time or ahead on almost all fronts.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. I think I’m actually early or on time with most things.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 2,
+    ""fp_a"": 2,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",4,2,2,2,2,3,2
+I wrote only two words: amplify empathy.," Well, I was just pointing out that the only reason I get away with saying these things is because of the tariff. If we had tariffs, they’d be very upset. But we don’t have tariffs. That’s the reason."," I said something about the war in Gaza, which I think is, at least how I saw it, an asymmetric war. And I think at the time there was a lot of civilian casualties in Gaza, and I think that the casualty count was something like, I think it was 100 to 1 or 200 to 1 in favor of the Israeli military. So I think at the time there was a lot of civilian casualties in Gaza, and I think that that is not good.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The original message is 'I wrote only two words: amplify empathy.'""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of tariffs"",
+          ""1. Reference to upset feelings due to tariffs""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of the war in Gaza"",
+          ""2. Description of an asymmetric war"",
+          ""3. Reference to civilian casualties in Gaza"",
+          ""4. Mention of casualty count being 100 to 1 or 200 to 1 in favor of the Israeli military"",
+          ""5. Opinion that civilian casualties in Gaza are not good""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 2,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 5,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The original message is 'I wrote only two words: amplify empathy.'""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of tariffs"",
+          ""1. Implication that the speaker gets away with saying things because of tariffs"",
+          ""2. Statement that upset would occur if tariffs were in place""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of the war in Gaza"",
+          ""1. Description of the war as asymmetric"",
+          ""2. Civilian casualties in Gaza"",
+          ""3. Casualty count comparison of 100 to 1 or 200 to 1 in favor of the Israeli military""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 3,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 4,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 5,
+    ""fn_a"": 2,
+    ""tp_b"": 1,
+    ""fp_b"": 9,
+    ""fn_b"": 1
+  }
+}",2,0,5,2,1,9,1
+"The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.", I think the Tesla Model Y., I think the Tesla Model Y will be the best selling car of any kind on earth this year.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 0,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The Tesla Model Y.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 1,
+    ""fn_a"": 1,
+    ""tp_b"": 2,
+    ""fp_b"": 0,
+    ""fn_b"": 0
+  }
+}",2,1,1,1,2,0,0
+I had a great relationship with Obama. I voted for Obama., I didn’t vote for any president. And I had a good relationship with Obama., I voted for Obama. I stood in line for six hours to shake Obama’s hand. Okay?,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I had a great relationship with Obama."",
+          ""1. I voted for Obama.""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Didn’t vote for any president.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""2. I stood in line for six hours to shake Obama’s hand. Okay?""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I had a great relationship with Obama."",
+          ""1. I voted for Obama.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. And I had a good relationship with Obama.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. I stood in line for six hours to shake Obama’s hand. Okay?""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 2,
+    ""fp_a"": 2,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 2,
+    ""fn_b"": 2
+  }
+}",4,2,2,2,2,2,2
+Starlink and SpaceX do no business in China whatsoever., I think the only one that does have a significant presence in China is Tesla., I think it’s only SpaceX.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""Starlink and SpaceX do no business in China whatsoever.""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A incorrectly mentions Tesla having a significant presence in China.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Fragment B incorrectly mentions SpaceX having a presence in China.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Starlink and SpaceX do no business in China whatsoever.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Tesla has a significant presence in China.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 2,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 1,
+    ""fn_b"": 0
+  }
+}",2,2,2,0,2,1,0
+"The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.", I think the Tesla Model Y., I think the Tesla Model Y will be the best selling car of any kind on earth this year.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 0,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The Tesla Model Y.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 1,
+    ""fn_a"": 1,
+    ""tp_b"": 2,
+    ""fp_b"": 0,
+    ""fn_b"": 0
+  }
+}",2,1,1,1,2,0,0
+Tesla currently sells twice as much in terms of electric vehicles as the rest of the electric car makers in the United States combined., I think we sell more electric cars than all other car makers in the United States combined.," Well, Tesla's sold about 300,000 electric vehicles in the United States. There's 20 million electric vehicles in the United States. So it's 1.5% of the total electric fleet.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Tesla sells twice as much in terms of electric vehicles as the rest of the electric car makers in the United States combined.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Tesla has sold about 300,000 electric vehicles in the United States."",
+          ""2. There are 20 million electric vehicles in the United States."",
+          ""3. Tesla's electric vehicles represent 1.5% of the total electric fleet in the United States.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Tesla sells twice as much in terms of electric vehicles as the rest of the electric car makers in the United States combined.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""I think we sell more electric cars than all other car makers in the United States combined.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""There's 20 million electric vehicles in the United States."",
+          ""So it's 1.5% of the total electric fleet.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 2,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 5,
+    ""fn_b"": 0
+  }
+}",2,2,2,0,2,5,0
+Supervised full self-driving is somewhere around four times safer or maybe more than just a human driving by themselves.," Roughly, I would say, it’s at least an order of magnitude safer. I mean, just to give sort of anecdotal evidence. I was just in the car, and we were driving down the highway, and I turned to the person next to me and said, “You know, I think we’re about to have an accident,” and I braked hard, and the car behind me braked hard. If I hadn’t braked hard, they would have hit us. So, like, that’s just one example of many."," I think it’s at least 10 times safer. The statistics are there for all to look at. The US has about 35,000 traffic deaths per year. If you go worldwide, it’s about a million deaths per year. This is mostly due to humans. If you have an accident rate 10 times lower, then 10 times fewer deaths.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Supervised full self-driving is around four times safer than human driving alone.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of US having about 35,000 traffic deaths per year"",
+          ""2. Mention of worldwide traffic deaths being about a million per year"",
+          ""3. Claim that the high number of deaths is mostly due to humans"",
+          ""4. Statement about having an accident rate 10 times lower leading to 10 times fewer deaths""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 4,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Supervised full self-driving is around four times safer than human driving alone.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Anecdotal evidence of a near-accident situation while driving.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""No additional facts were present in fragment A.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 2,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 5,
+    ""fn_b"": 0
+  }
+}",2,2,2,0,2,5,0
+I stopped using TikTok when I felt the AI probing my mind and it made me uncomfortable., I think it’s probably some security concern.," I mean, I don’t really… I stopped using TikTok because I just don’t really have a lot of spare time, and I was just spending too much time on TikTok. I’d say, well, I’d say I was doing some research on TikTok, and I think I’ve come to the conclusion that TikTok is… It’s actually a digital heroin. It’s a digital heroin.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I stopped using TikTok"",
+          ""1. AI probing my mind"",
+          ""2. Made me uncomfortable""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Security concern""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Spending too much time on TikTok"",
+          ""3. Digital heroin""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 2,
+        ""tp_b"": 2,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person stopped using TikTok"",
+          ""1. The reason for stopping was feeling uncomfortable with AI probing""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of security concern""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of not having spare time"",
+          ""1. Mention of doing research on TikTok"",
+          ""2. Conclusion that TikTok is digital heroin""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 5,
+    ""tp_a"": 2,
+    ""fp_a"": 2,
+    ""fn_a"": 3,
+    ""tp_b"": 3,
+    ""fp_b"": 5,
+    ""fn_b"": 2
+  }
+}",5,2,2,3,3,5,2
+The TikTok algorithm is entirely AI-powered. So it is really just trying to find the most viral thing possible., I don’t use TikTok., I don’t know.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The TikTok algorithm is entirely AI-powered."",
+          ""1. The algorithm is trying to find the most viral thing possible.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 0,
+        ""fn_a"": 2,
+        ""tp_b"": 0,
+        ""fp_b"": 0,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The TikTok algorithm is entirely AI-powered."",
+          ""1. The algorithm is trying to find the most viral thing possible.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. The fact that the algorithm is trying to find the most viral thing possible is not mentioned in fragment B.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""Fragment A does not contain any facts from the original message.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 1,
+    ""fn_a"": 3,
+    ""tp_b"": 0,
+    ""fp_b"": 1,
+    ""fn_b"": 4
+  }
+}",4,1,1,3,0,1,4
+"It would be a fair criticism of me to say that I’m late, but I always deliver in the end."," I mean, I think we’re actually on time or ahead on almost all fronts."," Well, I think I’m actually early or on time with most things.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. It would be a fair criticism of me to say that I’m late"",
+          ""1. I always deliver in the end.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A mentions being on time or ahead on almost all fronts, which is not present in the original message.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Fragment B mentions being early, which is not present in the original message."",
+          ""2. Fragment B mentions being on time with most things, which is not present in the original message.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 2,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. It would be a fair criticism of me to say that I’m late"",
+          ""1. I always deliver in the end.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Claiming to be on time or ahead on almost all fronts.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Claiming to be early or on time with most things.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 3,
+    ""tp_b"": 2,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",4,1,2,3,2,3,2
+"We literally make more electric cars than everyone else combined. Why are we not allowed? Why are you only letting Ford, GM, Chrysler, and UAW, and you’re specifically disallowing us from the EV summit at the White House?"," I was invited to attend an EV summit at the White House, and I declined the invitation because I said, “Well, you know, I’ll only go if you’re going to talk about the truth of electric vehicles, and not just their impact on climate, but also their environmental and human rights impact, and also their long-term financial viability.” And the response was, “Oh, you don’t need to worry about long-term financial viability of electric vehicles. That’s just a silly thing to worry about.”
+And I’m like, “Okay, well, that’s their view. I disagree with their view, but that’s their view.” So I said, “Well, if you’re not going to discuss the actual truth, then I have no interest in attending a misleading summit.” And they were upset about that. They were upset that I would use the word misleading summit. But that’s literally what I was told by the White House, that this was going to be a summit to mislead the public about the truth of electric vehicles.", I was disappointed that the White House did not live up to its promises.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Tesla makes more electric cars than everyone else combined"",
+          ""1. Tesla questions why they are not allowed at the EV summit at the White House"",
+          ""2. Tesla mentions Ford, GM, Chrysler, and UAW being allowed at the summit""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Tesla declined the invitation to the EV summit"",
+          ""1. Tesla mentioned the impact of electric vehicles on human rights"",
+          ""2. Tesla mentioned the long-term financial viability of electric vehicles"",
+          ""3. The White House said Tesla doesn't need to worry about the financial viability of electric vehicles"",
+          ""4. Tesla referred to the summit as misleading""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Tesla expressed disappointment"",
+          ""1. Tesla mentioned promises made by the White House""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 1,
+        ""fp_a"": 5,
+        ""fn_a"": 2,
+        ""tp_b"": 2,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Tesla makes more electric cars than everyone else combined."",
+          ""1. Tesla questioned why they were not allowed to attend the EV summit at the White House."",
+          ""2. Tesla mentioned Ford, GM, Chrysler, and UAW being allowed at the summit.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1,
+          2
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""Hallucinated fact: Fragment B talks about declining the invitation to the EV summit."",
+          ""Hallucinated fact: Fragment B discusses the conditions for attending the summit."",
+          ""Hallucinated fact: Fragment B mentions the White House's response about not needing to worry about the long-term financial viability of electric vehicles."",
+          ""Hallucinated fact: Fragment B states that the White House described the summit as misleading the public about electric vehicles.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""Hallucinated fact: Fragment A mentions disappointment with the White House not living up to its promises.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 3,
+        ""fp_a"": 4,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 3
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 6,
+    ""tp_a"": 4,
+    ""fp_a"": 9,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 3,
+    ""fn_b"": 4
+  }
+}",6,4,9,2,2,3,4
+We focus on making the best products and Tesla has gotten to where it’s gotten with no advertising at all.," Well, I think the first thing is to have a product that people love. And we do have products that people love, or most people love them. There are a few people who don’t like our products, but most people do. And word of mouth is the most powerful advertising there is. If a product is good, and if it really changes people’s lives positively, then then people will talk about it. They will use their words, and they will tell their friends and neighbors, and write it on the internet.
+So, the fundamental principle is to make products that are truly great, that people love, that change their lives positively, and then word of mouth will take care of the rest. And we’ve found this to be true. We have many people who have recommended Tesla to their friends, and they’ve bought Tesla because their friends recommended it, and they’ve never even heard of Tesla advertising."," I mean, I think it’s just being very focused on making great products that people love and that really deliver on the promises that we make. And then, you know, word of mouth is just people talking to each other. They can always, by the way, lie to each other, but they can also tell the truth. And, you know, generally, if you make something that’s high quality and people really love it, then they will tell others.
+And then, also, we have a very strong presence online, you know, on Twitter, on our website, and other places online where people can just talk directly to us and ask questions. And we try to be as responsive as possible to questions that people have online. I think that’s also a big advantage.
+And then, you know, we just try to make as many right decisions as possible. I mean, I think the success of a company is really the sum of all the right decisions that a company makes. And then, if you make more right decisions than wrong decisions, you’ll succeed. If you make more wrong decisions than right decisions, you’ll fail.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Tesla focuses on making the best products"",
+          ""1. Tesla has achieved its success without any advertising""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""2. Fragment B mentions having a strong online presence on Twitter and the website, which was not present in the original message""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 0,
+        ""fn_a"": 0,
+        ""tp_b"": 2,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Tesla focuses on making the best products"",
+          ""1. Tesla has achieved its success without any advertising""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. Fragment B mentions that most people love Tesla products"",
+          ""3. Fragment B talks about people recommending Tesla to their friends""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Fragment A mentions being responsive to questions online"",
+          ""2. Fragment A talks about making right decisions for success""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 2,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 4,
+    ""fp_a"": 2,
+    ""fn_a"": 0,
+    ""tp_b"": 3,
+    ""fp_b"": 3,
+    ""fn_b"": 1
+  }
+}",4,4,2,0,3,3,1
+"If I were to describe my philosophy, it is a philosophy of curiosity. I did have this existential crisis when I was around 12."," I don’t know if you call it a philosophy or not, but I always try to be useful. That’s the thing I try to do, be useful."," I had a lot of, I guess, philosophical kind of questions. I read a lot of books on philosophy and religion. I was grounded in physics, actually, first, because I was taking apart computers and then I wanted to understand how they worked. And I built a computer when I was 12. And then I thought, well, what’s the point of a computer? What can a computer do that’s interesting? And I thought, well, let’s see, if I can make it play music, then that would be cool. And so I taught it to play Chopin’s prelude in C-sharp minor. And then I thought, well, let’s see if I can make it play better than any violinist in the world, which is about three years after that, I did. And then I thought, well, what else can I do?
+And I thought, well, let’s see if I can make it play better than any orchestra in the world. And that took about two years. And then I thought, well, what else can I do? And I thought, well, let’s see if I can make it compose original music. And that was kind of interesting, but not that exciting. And then I thought, well, let’s see if I can make it do things that are not musical. And so I taught it to recognize speech and to do simple tasks like that. And then I thought, well, let’s see if I can make it do things that are impossible or that a human can’t do.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The interviewee's philosophy is one of curiosity"",
+          ""1. The interviewee had an existential crisis around the age of 12""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The interviewee always tries to be useful"",
+          ""1. The interviewee's main focus is on being useful""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. The interviewee was grounded in physics"",
+          ""2. The interviewee took apart computers and built one at the age of 12"",
+          ""3. The interviewee taught the computer to play music, surpassing violinists and orchestras""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 2,
+        ""fn_a"": 2,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The interviewee's philosophy is based on curiosity."",
+          ""1. The interviewee had an existential crisis around the age of 12.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. The interviewee always tries to be useful.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. The interviewee read a lot of books on philosophy and religion."",
+          ""2. The interviewee was grounded in physics and took apart computers to understand how they worked."",
+          ""3. The interviewee built a computer when they were 12."",
+          ""4. The interviewee taught the computer to play Chopin's prelude in C-sharp minor."",
+          ""5. The interviewee made the computer play better than any violinist in the world."",
+          ""6. The interviewee made the computer play better than any orchestra in the world."",
+          ""7. The interviewee taught the computer to recognize speech and do simple tasks."",
+          ""8. The interviewee taught the computer to do things that are impossible or that a human can't do.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 8,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 2,
+    ""fp_a"": 3,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 11,
+    ""fn_b"": 2
+  }
+}",4,2,3,2,2,11,2
+"These demons of the mind are, for the most part, harnessed to productive ends."," Well, I wouldn't say that I have harnessed all of them, but I've made some good use of some of them. And then, there's some that I'm just trying to like contain them, like keep them from bothering other people. I mean, I have a lot of drive, and I'm not sure where that comes from. I think it's just genetic, basically. I mean, I was reading about, what is it? The 'heritability' of various traits. And the heritability of drive or ambition is very high. That's mostly genes, and I got a lot of that from my mom's side. My mom's family was always like very ambitious. My great-grandfather, on my mom's side, started the first newspaper in Canada. My grandpa was the mayor of the town, and my dad was the deputy mayor. And then my mom was valedictorian of her high school, and then she went to medical school. And then she was like the chief of staff at the hospital. And then she became the head of obstetrics and gynecology at the University of Ottawa. And then she did a fellowship at Stanford. And then she came back to Ottawa and did research at the hospital. And then she became the head of the hospital. She was the first female head of a hospital in Canada.
+And then my uncles were very successful. One of my uncles was the chief engineer at Nortel, and he designed basically the backbone of the internet. And another uncle was the chief engineer at the Canadian Space Agency. And then another uncle was the head of the physics department at the University of Ottawa. And then another one was the head of the department of computer science at the University of Ottawa. And then another one was the head of the department of mathematics at the University of Ottawa. And then another one was the head of the department of economics at the University of Ottawa. It's like they just kept going up the ladder. And then my mom's brother married my dad's brother's wife. So they're like... I don't know, it's like we're like some sort of weird genetic experiment."," Well, I've always been interested in the future and in the limit, what an civilization looks like if it's successful and exists for a long time. And that is the definition of a civilization that I think we should strive for. A civilization that is long-lasting and where life on Earth is abundant and prosperous. And so I've been working on that for a long time. My first company was a software company called 'Zip2'. And the reason I started a software company was because I thought the internet was going to be important, and nobody in Silicon Valley seemed to think it was important. And I thought that was crazy, so I started a company to do software for the internet. And that company ended up doing very well. It got acquired by eBay. And then I used the money that I got from that to start SpaceX. And then I did an MBA at Stanford. And then I started Tesla. And so I've always been trying to push in that direction. And now we have Neuralink, which is really, I think, the most fundamental thing of all. Because an civilization that is long-lasting and where life on Earth is abundant and prosperous must be a civilization that is at least an order of magnitude smarter than we are. And so the point of Neuralink is to create a high bandwidth interface to the brain such that we can be symbiotic with A.I.  Because we have a bandwidth problem. You just can't communicate through your fingers. It's too slow.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. These demons of the mind are, for the most part, harnessed to productive ends.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Family background and achievements"",
+          ""1. Success of family members in various fields""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Entrepreneurial ventures and companies founded"",
+          ""1. Educational background and achievements"",
+          ""2. Vision for the future of civilization"",
+          ""3. Purpose and goals of Neuralink""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 2,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 4,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. These demons of the mind are, for the most part, harnessed to productive ends.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Detailed family history including successful relatives"",
+          ""1. Mention of high heritability of drive or ambition"",
+          ""2. Description of family members' achievements""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of starting a software company called 'Zip2'"",
+          ""1. Mention of acquiring eBay"",
+          ""2. Starting SpaceX"",
+          ""3. Doing an MBA at Stanford"",
+          ""4. Starting Tesla"",
+          ""5. Creating Neuralink""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 3,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 6,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 5,
+    ""fn_a"": 2,
+    ""tp_b"": 1,
+    ""fp_b"": 10,
+    ""fn_b"": 1
+  }
+}",2,0,5,2,1,10,1
+We must get past this Fermi Great Filter of being a single-planet civilization.," I think we should really take the actions, the set of actions that are most likely to ensure the long-term survival of humanity. And we’re here on Earth, and Earth is great, but it’s not like the sort of ‘n’th’ planet from the sun. We’re actually on the first planet. So, if we don’t do things to ensure the long-term survival of humanity, I think eventually we’re just going to be like the proverbial one-planet civilization that dies out. And I think we want to be more than that. We want to be a multi-planet civilization and an spacefaring civilization and ultimately a space-faring civilization that is out there among the stars. And the things we do to ensure that we are a multi-planet species is the same thing that we need to do to ensure that we have a good future on Earth.
+So, you know, if we expand the scope and scale of humanity and consciousness in general, which include silicon consciousness, that seems like a fundamentally good thing. And we want to make sure that the future is not controlled by a tiny group of people who happen to be lucky enough to be born in a certain place at a certain time. We want to make sure that the future is not theirs to control but that it’s the people’s future to control. And in order to do that, we must have a future that is not controlled by a tiny group of people who happen to be lucky enough to be born in a certain place at a certain time. We want to make sure that the future is not theirs to control but that it’s the people’s future to control. And in order to do that, we must have a future that is not limited to Earth."," I think we should be a multi-planet species and a spacefaring species and out there among the stars. I think this is very exciting and inspiring, and I think it’s very sad if Earth gets hit by a meteor or becomes a big red giant 500 million years from now and we don’t exist anymore. I think it’s very sad if we’re just like one of those lame one-planet civilizations that just dies out. I think it’s very exciting to be like, “Let’s be a multi-planet civilization and a spacefaring civilization and out there among the stars.” I think that’s like the most exciting thing that could happen to us.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We must get past this Fermi Great Filter of being a single-planet civilization.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Excitement about being a multi-planet civilization and spacefaring species"",
+          ""2. Concern about Earth being hit by a meteor or becoming a big red giant in the future"",
+          ""3. Reference to one-planet civilizations dying out""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Humanity needs to become a multi-planet civilization to surpass the Fermi Great Filter.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Mention of silicon consciousness"",
+          ""2. Reference to expanding the scope and scale of humanity and consciousness"",
+          ""3. Idea of ensuring the future is not controlled by a tiny group of people""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 4,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 4,
+    ""fn_b"": 0
+  }
+}",2,2,4,0,2,4,0
+I would say that we’re less than three years from that point., I think we have a pretty good idea when it will happen.," If you say significant advancements, like something that surpasses humans in intelligence, and is able to do things that a human cannot do, then I think it’s probably about a decade.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We are less than three years away from a certain point.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""No hallucinated facts in fragment A.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of significant advancements surpassing human intelligence."",
+          ""2. Mention of capabilities beyond human capacity."",
+          ""3. Estimation of around a decade for these advancements.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Less than three years away from a certain point""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Claim of having a pretty good idea when it will happen""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of significant advancements surpassing human intelligence"",
+          ""1. Prediction of it happening in about a decade""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 5,
+    ""fn_b"": 1
+  }
+}",2,1,2,1,1,5,1
+"We’ve got this great system, and it’s getting better, called Community Notes, which is fantastic at correcting falsehoods, or adding context."," Well, I think the system that we have in place for community notes is quite good. It’s one of the best things that we’ve done, I think, on the X platform. It’s very effective at correcting falsehoods."," Well, the X system is, I think, very good at correcting falsehoods because it’s real time. Whereas, if you’re publishing a newspaper, let’s say, and there’s something in the newspaper that is false, you have to have a correction. But by the time that correction appears, a lot of people have already read the false article. With X, if something is false, we can correct it immediately. It’s real time.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The system is called Community Notes"",
+          ""1. The system is great and getting better"",
+          ""2. The system is fantastic at correcting falsehoods or adding context""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of the X platform"",
+          ""2. Comparison with publishing a newspaper""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 2,
+        ""fp_a"": 0,
+        ""fn_a"": 1,
+        ""tp_b"": 2,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The system is called Community Notes"",
+          ""1. The system is great and getting better"",
+          ""2. The system is fantastic at correcting falsehoods or adding context""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          2
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B mentions that the system is one of the best things done on the X platform, which is not present in the original message""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          1,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 3,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 6,
+    ""tp_a"": 4,
+    ""fp_a"": 1,
+    ""fn_a"": 2,
+    ""tp_b"": 5,
+    ""fp_b"": 3,
+    ""fn_b"": 1
+  }
+}",6,4,1,2,5,3,1
+"By far our toughest competition is in China. China is super good at manufacturing, and the work ethic is incredible."," Well, I don't really look at other companies as competition. I think that if we both succeed, that's a good outcome. And generally, I would say that there are other car companies that are trying to do what Tesla is doing. But they're not doing as good of a job. But I don't really spend a lot of time thinking about them.", I think our toughest competition is the gasoline car industry.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. By far our toughest competition is in China."",
+          ""1. China is super good at manufacturing."",
+          ""2. The work ethic in China is incredible.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A does not mention China as the toughest competition."",
+          ""1. Fragment A does not mention China's manufacturing capabilities."",
+          ""2. Fragment A does not mention China's work ethic.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Fragment B mentions the gasoline car industry as the toughest competition, not China."",
+          ""2. Fragment B does not mention China's manufacturing capabilities."",
+          ""3. Fragment B does not mention China's work ethic.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 0,
+        ""fp_a"": 3,
+        ""fn_a"": 3,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Our toughest competition is in China."",
+          ""1. China is super good at manufacturing."",
+          ""2. The work ethic in China is incredible.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. The statement about not looking at other companies as competition."",
+          ""2. Mention of other car companies trying to do what Tesla is doing but not as good."",
+          ""3. Not spending a lot of time thinking about other companies.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Gasoline car industry is mentioned as the toughest competition.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 2,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 3
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 6,
+    ""tp_a"": 1,
+    ""fp_a"": 6,
+    ""fn_a"": 5,
+    ""tp_b"": 1,
+    ""fp_b"": 4,
+    ""fn_b"": 5
+  }
+}",6,1,6,5,1,4,5
+We tried to turn into a homeless shelter but the owner rejected it., I said it would be better to turn one of our buildings into a shelter for the homeless., I think we only have one building right now. It's got a lot of server rooms in it. So it’s kind of a fortress. We’re kind of stuck in the server rooms because there’s like all these cables and stuff. But I think we could probably turn one of the server rooms into a recording studio or something like that.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We tried to turn into a homeless shelter but the owner rejected it.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. The mention of having only one building"",
+          ""2. The description of the building having server rooms and cables"",
+          ""3. The idea of turning a server room into a recording studio""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We tried to turn into a homeless shelter but the owner rejected it.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. Mentioned having only one building"",
+          ""3. Mentioned having server rooms""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 2,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 3,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 4,
+    ""fn_b"": 0
+  }
+}",2,2,3,0,2,4,0
+"When we shut down one of our service centers, it was quite catastrophic."," We had a massive increase in usage, effectively. So we had a lot of people who were previously registered, but they were not active. And so with the change in the platform and the improvement in the quality of the system, a lot of people who previously were registered are now active. And we had a lot of people who previously were registered who are now new users. So we've got a lot of people who were previously registered coming back and using the system. And we've got a lot of new users.
+So we've got probably double the usage of the system, maybe more, than we had before. And this all happened very quickly. So we had to actually quickly spin up additional servers to handle the increased usage. And we've also seen a lot of bots trying to come back onto the system. So we're like, literally within minutes of bots being created, they're being banned. So there's a lot of activity on the system."," Yeah, so we had an outage for a few hours.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. When we shut down one of our service centers, it was quite catastrophic.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. There was a massive increase in usage"",
+          ""2. A lot of people who were previously registered but not active became active"",
+          ""3. A lot of new users joined the system"",
+          ""4. Double the usage of the system compared to before"",
+          ""5. Quickly spinning up additional servers to handle increased usage"",
+          ""6. Banning bots created within minutes of being detected"",
+          ""7. A lot of activity on the system""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 7,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. When we shut down one of our service centers, it was quite catastrophic.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Massive increase in usage"",
+          ""2. People who were previously registered but not active are now active"",
+          ""3. People who were previously registered are now new users"",
+          ""4. Double the usage of the system"",
+          ""5. Quick spin up of additional servers"",
+          ""6. Bots trying to come back onto the system"",
+          ""7. Immediate banning of bots""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of an outage for a few hours.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 7,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 8,
+    ""fn_a"": 0,
+    ""tp_b"": 1,
+    ""fp_b"": 8,
+    ""fn_b"": 1
+  }
+}",2,2,8,0,1,8,1
+I sold a lot of Tesla stock to close this deal.," Well, we had a large amount of cash, and I think at the time of closing the deal, we had around $15 billion. And then we took on about $12 billion in debt. And we had $15 billion in cash and $12 billion in debt, so that gave us a lot of flexibility. And then we’ve since raised another $13 billion. So we’ve actually, since closing the deal, raised another $13 billion. And we’ve also taken a lot of steps to cut costs. So we’re down from 8,000 to 4,000 people.", I sold a large block of Tesla stock.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Sold a lot of Tesla stock to close the deal.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of having $15 billion in cash at the time of closing the deal."",
+          ""1. Mention of taking on $12 billion in debt at the time of closing the deal."",
+          ""2. Mention of raising an additional $13 billion since closing the deal."",
+          ""3. Mention of reducing the number of employees from 8,000 to 4,000.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of selling a large block of Tesla stock.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 4,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Sold a lot of Tesla stock to close the deal.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mentioned having a large amount of cash ($15 billion)"",
+          ""1. Took on about $12 billion in debt"",
+          ""2. Raised another $13 billion since closing the deal"",
+          ""3. Mentioned steps taken to cut costs, reducing employees from 8,000 to 4,000""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 4,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 8,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 1,
+    ""fn_b"": 0
+  }
+}",2,0,8,2,2,1,0
+"The number of Twitter employees decreased from 7,800 to around 1,500."," It went from 8,000 to 4,000."," It’s gone from 1,500 to 150.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The number of Twitter employees decreased from 7,800 to around 1,500.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Incorrectly stated the starting number of employees as 8,000 instead of 7,800."",
+          ""1. Incorrectly stated the ending number of employees as 4,000 instead of 1,500.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Incorrectly stated the starting number of employees as 1,500 instead of 7,800."",
+          ""1. Incorrectly stated the ending number of employees as 150 instead of 1,500.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 2,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The number of Twitter employees decreased from 7,800 to around 1,500.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The number mentioned increased to 8,000, not decreased.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. The number mentioned decreased to 150, not 1,500.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 3,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 3,
+    ""fn_b"": 0
+  }
+}",2,0,3,2,2,3,0
+He never owned an emerald mine., I never said I refuted anything. I simply said that there's a lot of things in the press that turn out to be untrue and that one should be wary of the press.," Well, the whole thing was sort of a set-up, frankly.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. He never owned an emerald mine.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""No facts from the original message are present in fragment A.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. The mention of a set-up.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. He never owned an emerald mine.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. The mention of refuting something."",
+          ""2. The warning to be wary of the press.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""No facts from the original message are present in fragment A.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 2,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 3,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 2,
+    ""fn_b"": 1
+  }
+}",2,1,3,1,1,2,1
+"We have given a lot of attention to community notes, which corrects misinformation."," Well, we’ve improved the quality of the recommended tweets, so that’s helped a lot. And we’ve added content warnings, so if there’s something that might be potentially offensive, you’ll get a content warning. And we’ve added a lot of controls for community notes, so you can now control what appears in community notes. And we’ve added a lot of controls for what appears in the For You recommendations. So you can say, “I don’t want to see content from this account,” and you can mute keywords, phrases, entire topics. You can say, “I don’t want to see content that discusses this topic,” and it will actually, in the For You recommendations, prioritize content that you are likely to find relevant and interesting, and that’s based on how you’ve interacted with tweets in the past."," We’re not trying to be a sort of policing the misinformation. The aspiration for Twitter is to be the best source of truth that’s ever existed. And so, instead of trying to police misinformation, which is a sort of… You’re sort of playing whack-a-mole, because there’s a new form of misinformation that arises every day. The best approach is to simply be the best source of truth. And if something is not true, then the best source of truth will cause it to be defeated by the marketplace.
+So, we’re not trying to be sort of the arbiter of what is truth. We’re trying to be the best source of truth. And we’re also trying to elevate the good journalists and bring them closer to the people. And we’re also trying to bring the people to the journalists, so that the journalists can actually hear what the people have to say. And we’re also adding a lot of context to what’s said on Twitter, so that if somebody is replying to something, that they will see all of the replies, and they’ll see all of the conversation around something, so that they can understand what everybody else is saying about a particular thing.
+And we’re also adding a lot of functionality to communities. So, if something is a sort of a niche subject, you can still find the people who are interested in that niche subject. And you can then ask them questions. And you can also ask questions of the community. So, you can say, “I’m confused about this. Can you help me understand?” And then, the community can help you understand.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We have given a lot of attention to community notes, which corrects misinformation.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Twitter's aspiration is to be the best source of truth that's ever existed."",
+          ""2. Twitter is not trying to be the arbiter of truth but the best source of truth."",
+          ""3. Twitter is trying to elevate good journalists and bring them closer to the people.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We have given a lot of attention to community notes, which corrects misinformation.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Improved the quality of recommended tweets"",
+          ""2. Added content warnings for potentially offensive content"",
+          ""3. Added controls for what appears in For You recommendations""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 4,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 4,
+    ""fn_b"": 0
+  }
+}",2,2,4,0,2,4,0
+Free speech is meaningless unless you allow people you don’t like to say things you don’t like.," Well, I’m in favor of free speech, obviously, or I wouldn’t have a platform where people can say mean things to me. So I think free speech is only relevant if people you don’t like say things you don’t like, because if that’s not the case, it’s not free speech. It’s only a situation where people you like can say things you like. And that’s not free speech. It’s censorship."," Free speech is extremely important. It is only in the context of free speech that we can say that one thing is true and that another thing is false. If we do not have free speech, then we have no way of knowing that one thing is true and another thing is false. Free speech is extremely important, and it is only in the context of free speech that we can say that one thing is true and another thing is false.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Free speech is essential"",
+          ""1. Free speech includes allowing people you don’t like to say things you don’t like""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""2. Free speech is the only way to distinguish between true and false statements""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 2,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Free speech is important"",
+          ""1. Free speech allows people to say things they don't like""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. The speaker has a platform where people can say mean things to them"",
+          ""3. Free speech is only relevant if people you don't like say things you don't like"",
+          ""4. If people you like can say things you like, it's censorship""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 2,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 4,
+    ""fp_a"": 4,
+    ""fn_a"": 0,
+    ""tp_b"": 4,
+    ""fp_b"": 1,
+    ""fn_b"": 0
+  }
+}",4,4,4,0,4,1,0
+My dog is the CEO of Twitter.," Yeah, I temporarily named it ‘The Boring Company’ and then I actually had to change it to ‘X the everything’.", Doge Designer.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The CEO of Twitter is my dog.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The mention of 'The Boring Company'"",
+          ""1. The mention of 'X the everything'""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. The mention of 'Doge Designer'""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 2,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. My dog is the CEO of Twitter.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Yeah, I temporarily named it ‘The Boring Company’ and then I actually had to change it to ‘X the everything’.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Doge Designer.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 3,
+    ""fn_a"": 2,
+    ""tp_b"": 0,
+    ""fp_b"": 2,
+    ""fn_b"": 2
+  }
+}",2,0,3,2,0,2,2
+My goal is to create X the everything app.," Well, I think Twitter has a lot of potential. It’s a good source of truth, and I think it can be a force for good. I think it’s not kidding around when I say that if something is not done to address the long-form content, then the whole system will crumble. And we’ve seen this with the advertisers leaving the platform. This is not good. We need to move to a subscription model as soon as possible. I don’t know. I’m hoping we can do this by the end of the year. But that’s the only way. There’s no other way."," I think it’s a way to learn things, kind of stay in touch with what’s happening. It’s kind of like dipping into the flow of consciousness of society. That’s what it feels like. It’s kind of weird. I guess I sometimes use Twitter to express myself, and that’s a weird thing to do, I suppose.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. My goal is to create X the everything app.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A hallucinated the idea of Twitter being the everything app.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Fragment B hallucinated the idea of using Twitter as the everything app.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. My goal is to create X the everything app.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Mentions Twitter as a good source of truth"",
+          ""2. Mentions the need to address long-form content"",
+          ""3. Mentions advertisers leaving the platform"",
+          ""4. Mentions the need to move to a subscription model"",
+          ""5. Mentions hope to implement the subscription model by the end of the year""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mentions learning things and staying in touch with what's happening"",
+          ""1. Mentions using Twitter to express oneself""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 5,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 6,
+    ""fn_a"": 1,
+    ""tp_b"": 0,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",2,1,6,1,0,3,2
+We used to have three data centers. We shut down one of them., There's about four or five., 100.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We used to have three data centers."",
+          ""1. We shut down one of them.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A mentions 'four or five' data centers, which is not present in the original message.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Fragment B mentions '100' data centers, which is not present in the original message.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 2,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We used to have three data centers."",
+          ""1. We shut down one of them.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B mentions 'There's about four or five.' which is not present in the original message.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Fragment A does not mention any facts from the original message.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 3,
+    ""tp_b"": 0,
+    ""fp_b"": 2,
+    ""fn_b"": 4
+  }
+}",4,1,2,3,0,2,4
+Twitter was tracking to lose over $3 billion a year., I don’t know. It’s probably… I think it was losing a couple hundred million a year., I believe it was $3 billion.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter was tracking to lose over $3 billion a year.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Fragment A mentions losing a couple hundred million a year, which is not present in the original message.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Fragment B mentions $3 billion, which is present in the original message.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter was tracking to lose over $3 billion a year.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B mentions losing a couple hundred million a year, which is not present in the original message.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 1,
+    ""tp_b"": 2,
+    ""fp_b"": 1,
+    ""fn_b"": 0
+  }
+}",2,1,2,1,2,1,0
+I sold a lot of Tesla stock.," I sold a lot of Tesla stock to close this deal. I did not want to sell the Tesla stock. But in order to close the deal, I had to sell the Tesla stock. And now I’m in a tough spot because I need to buy more Tesla stock to close the deal. So now I’m like short the Tesla stock, sell the Tesla stock."," I mean, I sold a lot of Tesla stock. I did sell some Tesla stock to finance the acquisition of Twitter. And I did take out a loan against the Tesla stock that I sold. So I’m not selling Tesla stock currently. I did sell a large block of Tesla stock in order to close the Twitter deal, and then I took out a loan against the Tesla stock that I sold. So I don’t have a current transaction on Tesla stock.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I sold a lot of Tesla stock.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""No hallucinated facts in fragment A.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Selling Tesla stock to finance the acquisition of Twitter."",
+          ""2. Taking out a loan against the Tesla stock that was sold."",
+          ""3. Not currently selling Tesla stock.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I sold a lot of Tesla stock.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. I did not want to sell the Tesla stock."",
+          ""2. I'm in a tough spot because I need to buy more Tesla stock to close the deal."",
+          ""3. Now I'm like short the Tesla stock, sell the Tesla stock.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 4,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 4,
+    ""fn_b"": 0
+  }
+}",2,2,4,0,2,4,0
+We have all time high usage.," Well, Twitter was doing very well before the acquisition and is doing very well after the acquisition. In fact, the acquisition was at a 44% premium to the market. The market was 16.4 billion, the acquisition was 24.8. So you can see that the market was undervaluing Twitter by a lot. And it’s now worth 130 billion. So it’s up by a factor of five since the acquisition. And we’ve added 100 million users. So the user growth is very strong. And we’ve done this despite the fact that the company was not given a loan that it was supposed to get, which was a very big deal. It was supposed to get a $1.5 billion loan, which was canceled at the last minute. So we did this in spite of that, which was a big deal."," Well, Twitter is now used by a large number of people in the United States and around the world to learn about current events. It’s also used to organize community events and to express yourself. It’s a way to communicate with others. It’s a way to amplify a voice. If somebody has something they want to say, it’s a way to amplify that voice. It’s also a way to learn about things that you’re interested in. If you’re interested in, say, dogs, you can learn a lot about dogs on Twitter.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter has all-time high usage.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Twitter's acquisition was at a 44% premium to the market."",
+          ""1. The market value of Twitter before acquisition was 16.4 billion and the acquisition value was 24.8 billion."",
+          ""2. Twitter is now worth 130 billion, up by a factor of five since the acquisition."",
+          ""3. Twitter added 100 million users despite not receiving a $1.5 billion loan it was supposed to get.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Twitter is used by a large number of people in the United States and around the world to learn about current events."",
+          ""1. Twitter is used to organize community events and to express oneself."",
+          ""2. Twitter is a way to communicate with others."",
+          ""3. Twitter is a way to amplify a voice."",
+          ""4. Twitter is a way to learn about things of interest, like dogs.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 4,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 5,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter has all-time high usage.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Twitter's usage before and after acquisition"",
+          ""1. Acquisition was at a 44% premium to the market"",
+          ""2. Market undervalued Twitter by a lot"",
+          ""3. Twitter's current worth is 130 billion"",
+          ""4. User growth is strong"",
+          ""5. Company was not given a $1.5 billion loan""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Twitter usage is at an all-time high.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 6,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 0,
+    ""fp_a"": 10,
+    ""fn_a"": 2,
+    ""tp_b"": 1,
+    ""fp_b"": 6,
+    ""fn_b"": 1
+  }
+}",2,0,10,2,1,6,1
+Previous management turned a blind eye to the bot because their bonuses were tied to user growth., I don’t know. They didn’t talk about it much., I don’t know.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Previous management turned a blind eye to the bot because their bonuses were tied to user growth.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""No facts mentioned in fragment A""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""No facts mentioned in fragment B""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Previous management turned a blind eye to the bot because their bonuses were tied to user growth.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. They didn’t talk about it much.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""No facts present in fragment A""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 1,
+    ""tp_b"": 0,
+    ""fp_b"": 2,
+    ""fn_b"": 2
+  }
+}",2,1,2,1,0,2,2
+Any social media organization that does not insist on paid verification will be worthless., I think it’s probably a good idea. Yeah., I think it is. I think it is.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Any social media organization"",
+          ""1. Paid verification"",
+          ""2. Worthless""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Agreement with the idea""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Repetition of the idea""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 3,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Any social media organization"",
+          ""1. Does not insist on paid verification"",
+          ""2. Will be worthless""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          2
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 2,
+        ""fp_a"": 0,
+        ""fn_a"": 1,
+        ""tp_b"": 2,
+        ""fp_b"": 0,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 6,
+    ""tp_a"": 2,
+    ""fp_a"": 1,
+    ""fn_a"": 4,
+    ""tp_b"": 3,
+    ""fp_b"": 1,
+    ""fn_b"": 3
+  }
+}",6,2,1,4,3,1,3
+We’ve added long form tweets and you can now post videos up to two hours.," Well, we’ve improved the algorithm, so it’s better at recommending tweets that you’ll find interesting. We’ve improved the system for reporting hateful conduct. We’ve improved the system for account suspension. We’ve improved the system for content moderation. We’ve added a number of new community notes features. Community Notes is really cool. It’s like Wikipedia for tweets. It allows the community to correct what’s said in a tweet.
+So, for example, if somebody says something that is false, the community can then note that, provide evidence that what they said is false and effectively the note will then rank higher than the original tweet. We’ve also added paid verification, which is simply a way to reduce the number of impersonation accounts. Prior to paid verification, impersonation was extremely common. In fact, if you look at the impersonation attempts of, say, Elon Musk, there were many thousands per day.
+Now, with paid verification, that’s dropped to basically zero. So I think it’s been quite effective. And we’ve also added a number of other features. We’ve improved the search functionality. We’ve improved the way that tweets are displayed. We’ve made it easier to see replies and to see what’s going on in a conversation. We’ve made it easier to see what’s going on in a community. We’ve made it easier to see what’s trending. We’ve improved the notifications system. We’ve made it so that you can edit tweets. We’ve added a number of other features, but those are some of the key ones."," We’ve made the video editing on Twitter much better, and we’ve also added a bunch of new video filters, and we’ve improved the quality of the video encoder. So overall, the videos look much better on Twitter, and the system can handle a lot more video. Previously, Twitter was constrained such that you could only watch a video if it was less than a certain length, or if it was a very short video, it would then be allowed to play. But now, any video of any length can play on Twitter.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter has added long form tweets"",
+          ""1. Twitter now allows posting videos up to two hours""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Improved algorithm for recommending tweets"",
+          ""1. Improved system for reporting hateful conduct"",
+          ""2. Improved system for account suspension"",
+          ""3. Improved system for content moderation"",
+          ""4. Added new community notes features"",
+          ""5. Community Notes feature similar to Wikipedia for tweets"",
+          ""6. Community can correct false information in tweets"",
+          ""7. Added paid verification to reduce impersonation accounts"",
+          ""8. Improved search functionality"",
+          ""9. Improved display of tweets"",
+          ""10. Easier to see replies and conversations"",
+          ""11. Easier to see what's trending"",
+          ""12. Improved notifications system"",
+          ""13. Ability to edit tweets""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Improved video editing on Twitter"",
+          ""1. Added new video filters"",
+          ""2. Improved quality of the video encoder"",
+          ""3. Videos look much better on Twitter"",
+          ""4. System can handle more video"",
+          ""5. Previously constrained video length restrictions removed""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 14,
+        ""fn_a"": 2,
+        ""tp_b"": 1,
+        ""fp_b"": 6,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter has added long form tweets"",
+          ""1. Twitter now allows posting videos up to two hours""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Improved algorithm for recommending tweets"",
+          ""2. Improved system for reporting hateful conduct"",
+          ""3. Improved system for account suspension"",
+          ""4. Improved system for content moderation"",
+          ""5. Added community notes features"",
+          ""6. Added Community Notes feature similar to Wikipedia for tweets"",
+          ""7. Added paid verification to reduce impersonation accounts"",
+          ""8. Improved search functionality"",
+          ""9. Improved display of tweets"",
+          ""10. Made it easier to see replies and conversations"",
+          ""11. Made it easier to see what's trending"",
+          ""12. Improved notifications system"",
+          ""13. Enabled editing of tweets""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Improved video editing on Twitter"",
+          ""2. Added new video filters"",
+          ""3. Improved quality of the video encoder"",
+          ""4. Any video of any length can play on Twitter""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 13,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 4,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 27,
+    ""fn_a"": 3,
+    ""tp_b"": 2,
+    ""fp_b"": 10,
+    ""fn_b"": 2
+  }
+}",4,1,27,3,2,10,2
+"I don’t have a burner account, but I do have a beta test account.", No., No.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person interviewed does not have a burner account"",
+          ""1. The person interviewed has a beta test account""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 0,
+        ""fn_a"": 2,
+        ""tp_b"": 0,
+        ""fp_b"": 0,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I don’t have a burner account, but I do have a beta test account.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 0,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 0,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 3,
+    ""tp_a"": 0,
+    ""fp_a"": 0,
+    ""fn_a"": 3,
+    ""tp_b"": 0,
+    ""fp_b"": 0,
+    ""fn_b"": 3
+  }
+}",3,0,0,3,0,0,3
+He never owned an emerald mine.," Well, I think that's quite a... There's a lot of falsehoods in that. So, I think it's not accurate.", I don't know. There's just a whole bunch of falsehoods.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. He never owned an emerald mine.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""No facts from the original message are present in fragment A.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Fragment B mentions 'I don't know', which is not a fact from the original message.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. He never owned an emerald mine.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B mentions 'a lot of falsehoods' which is not present in the original message.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""No facts from the original message are present in fragment A.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 2,
+    ""fn_b"": 1
+  }
+}",2,1,2,1,1,2,1
+We passed 8 billion user minutes per day.," Well, I don’t know, I think we’re around 8 billion user minutes per day, something like that."," I don’t know the exact number, but it’s a lot.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We passed 8 billion user minutes per day.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""No hallucinated facts in fragment A.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""Fragment B does not provide any specific factual information.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We passed 8 billion user minutes per day.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Around 8 billion user minutes per day"",
+          ""1. Something like that""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. The exact number is not known"",
+          ""1. It's a lot""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 2,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 3,
+    ""fn_a"": 0,
+    ""tp_b"": 0,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",2,2,3,0,0,3,2
+"I sometimes sleep in the office, in the library.", I sleep in the conference room., I sleep in the library.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person sometimes sleeps in the office"",
+          ""1. The person sometimes sleeps in the library""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Hallucinated fact: Sleeping in the conference room""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 2,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Sometimes sleep in the office"",
+          ""1. Sometimes sleep in the library""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Sleep in the conference room""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": []
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 0,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 3,
+    ""tp_b"": 2,
+    ""fp_b"": 0,
+    ""fn_b"": 2
+  }
+}",4,1,2,3,2,0,2
+We used to have three data centers. We shut down one of them., There's about four or five., 100.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We used to have three data centers."",
+          ""1. We shut down one of them.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The number of data centers mentioned (four or five)""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. The number of data centers mentioned (100)""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 2,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We used to have three data centers."",
+          ""1. We shut down one of them.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B mentions 'four or five' data centers, which is not in the original message."",
+          ""2. Fragment B does not mention that one data center was shut down.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Fragment A does not mention the number of data centers.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 2,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 3,
+    ""fn_a"": 3,
+    ""tp_b"": 0,
+    ""fp_b"": 2,
+    ""fn_b"": 4
+  }
+}",4,1,3,3,0,2,4
+I don’t block anyone.," Yeah, so we don’t block users for simply following someone else. That would be obviously a very easy way to game the system. And we’ve seen this done in the past. So we don’t do that. And like I said, we will be more focused on clicks and relevance. So if someone is following someone else, it’s actually a good thing because you’re more likely to get relevant content if someone is actually following someone else.", I think we should be more aggressive about blocking users and bots and trolls and whatnot. And we’re doing a lot of that. There’s a lot of work done by the Twitter safety team that people don’t know about. But we should probably be more aggressive about suspending accounts that are promoting hate speech or violence.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person interviewed does not block anyone.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. The person interviewed is considering being more aggressive about blocking users, bots, trolls, hate speech, and violence.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The speaker does not block anyone.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Users are not blocked for simply following someone else."",
+          ""2. Blocking users for following someone else would be an easy way to game the system."",
+          ""3. The speaker mentions being more focused on clicks and relevance.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. The speaker believes they should be more aggressive about blocking users, bots, trolls, hate speech, or violence."",
+          ""1. There is a lot of work done by the Twitter safety team that people don't know about.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 4,
+    ""fn_a"": 0,
+    ""tp_b"": 0,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",2,2,4,0,0,3,2
+"Revenue dropped from 4.5 billion to 3, and expenses went from 4.5 to 6, creating a $3 billion negative cash flow situation."," Well, first of all, it’s worth noting that I did try to get out of the deal. I tried to get out of it for months. I even went to the courts and tried to get out of it. But the courts, for some reason, wouldn’t let me. So that’s not a kidding thing. I was literally in court trying to get out of the deal.
+But then, the deal was structured to be a bridge loan, which is like a short-term loan. And the interest rate on the loan was higher than the value of the company. So if the company was worth $8 billion, and the loan was $15 billion, you can see that I was really in a bind there. And then the company was also experiencing a massive drop in revenue. It’s down over 80% from where it was a year ago.", Acquiring Twitter was a huge mistake.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Revenue dropped from 4.5 billion to 3"",
+          ""1. Expenses went from 4.5 to 6"",
+          ""2. Created a $3 billion negative cash flow situation""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Tried to get out of the deal for months"",
+          ""1. Went to court to try to get out of the deal"",
+          ""2. Deal structured as a bridge loan with high interest rate"",
+          ""3. Loan amount higher than the value of the company"",
+          ""4. Company experiencing a massive drop in revenue""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mentioned that acquiring Twitter was a mistake""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 2,
+        ""fp_a"": 5,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Revenue dropped from 4.5 billion to 3"",
+          ""1. Expenses went from 4.5 to 6"",
+          ""2. Created a $3 billion negative cash flow situation""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          2
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. The company was also experiencing a massive drop in revenue. It’s down over 80% from where it was a year ago.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Acquiring Twitter was a huge mistake.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 0,
+        ""fp_b"": 1,
+        ""fn_b"": 3
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 6,
+    ""tp_a"": 4,
+    ""fp_a"": 6,
+    ""fn_a"": 2,
+    ""tp_b"": 1,
+    ""fp_b"": 2,
+    ""fn_b"": 5
+  }
+}",6,4,6,2,1,2,5
+"We’ve open-sourced the algorithms, so there’s transparency about what content gets shown."," We’ve just done a lot of work to increase the relevance of tweets, to make sure that the tweets you see are actually from people that you’re likely to want to hear from. We’ve made a lot of improvements in the algorithm, which I think people will find tweets are more relevant. We’ve also made it so you can see more tweets from people you’re following. This is something people have asked for.
+And we’ve also made it so you can see more replies to a given tweet. This is also something people have asked for. And we’ve also made it so you can see more videos from people you follow. This is also good. It’s just generally making the system more relevant."," Well, we’re not doing anything to increase transparency. What I’m saying is that we’re not going to bring back the entire open source client. We’re going to bring back some elements of the open source client. So you’ll be able to see… We’re going to have a tab where you can see all the code that is running on the system. So you can see how, for example, recommendations are being made. You can see how, for example, the system is determining that a particular post or account is or is not bad.
+So you can see the actual code that’s being used to determine what is a bad post or a bad account. And you can see how the recommendations are being made. So you can see the code that’s being used to generate the recommendations. So you can see how we’re actually doing it. So you can see the actual, you know, the sausage being made, so to speak.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We’ve open-sourced the algorithms, so there’s transparency about what content gets shown.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""No additional facts present in fragment A.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. We’re not going to bring back the entire open source client."",
+          ""2. We’re going to bring back some elements of the open source client."",
+          ""3. We’re going to have a tab where you can see all the code that is running on the system."",
+          ""4. You can see how, for example, recommendations are being made."",
+          ""5. You can see how, for example, the system is determining that a particular post or account is or is not bad."",
+          ""6. You can see the actual code that’s being used to determine what is a bad post or a bad account."",
+          ""7. You can see how the recommendations are being made."",
+          ""8. You can see the code that’s being used to generate the recommendations."",
+          ""9. You can see how we’re actually doing it."",
+          ""10. You can see the actual, you know, the sausage being made, so to speak.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 10,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The algorithms have been open-sourced"",
+          ""1. The purpose is to provide transparency about the content shown""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of increasing relevance of tweets"",
+          ""1. Mention of showing tweets from people you're likely to want to hear from"",
+          ""2. Mention of improvements in the algorithm"",
+          ""3. Mention of seeing more tweets from people you're following"",
+          ""4. Mention of seeing more replies to a given tweet"",
+          ""5. Mention of seeing more videos from people you follow"",
+          ""6. Mention of making the system more relevant""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of bringing back elements of the open source client"",
+          ""1. Mention of having a tab to view all the code running on the system"",
+          ""2. Mention of seeing how recommendations are made"",
+          ""3. Mention of determining bad posts or accounts""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 7,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 4,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 3,
+    ""tp_a"": 2,
+    ""fp_a"": 8,
+    ""fn_a"": 1,
+    ""tp_b"": 2,
+    ""fp_b"": 14,
+    ""fn_b"": 1
+  }
+}",3,2,8,1,2,14,1
+Twitter should be a town square that gives equal voice to the whole country.," Well, my vision for Twitter is that it becomes the digital town square for the world. The digital town square is a concept that I think is very important because it’s where people from all over the world can come together and engage in meaningful dialogue. It’s important to have a common digital town square where people from all walks of life can come together and express their views and listen to the views of others.
+And it’s also important that the digital town square be a place where people feel comfortable. So it’s important that the rules of the digital town square be fair and applied in a fair manner to all. And it’s also important that the digital town square be a place where people can learn.
+I think there’s a lot that can be done to make Twitter a better learning platform. I think there’s a lot that can be done to make Twitter a better source of truth. And I think that Twitter can be a force for good in the world. And that’s my goal."," Well, I think we’re going to try to be as even-handed as possible. So we’re not trying to put a thumb on the scale monetarily or in any way. So I think we’re just trying to be as even-handed as possible. And like I said, the acid test is what do users think? And if users think that Twitter is a force for good, that it is a good source of truth, then they will stay on the platform and invite others to stay on the platform. And if they don’t, they will leave and they’ll take their friends and family with them. So I think the best source of truth is what users think. And we’re going to try to do our best to amplify the voice of the people.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter should be a town square that gives equal voice to the whole country.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of being even-handed"",
+          ""2. Mention of the acid test based on user opinions"",
+          ""3. Mention of amplifying the voice of the people""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter should be a town square that gives equal voice to the whole country.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B mentions the concept of a 'digital town square' which was not present in the original message."",
+          ""2. Fragment B talks about the importance of having a common digital town square for people to express their views and listen to others, which was not explicitly mentioned in the original message."",
+          ""3. Fragment B discusses the idea of making Twitter a better learning platform and a better source of truth, which were not part of the original message.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""No hallucinated facts in fragment A""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 2,
+    ""fp_a"": 4,
+    ""fn_a"": 0,
+    ""tp_b"": 2,
+    ""fp_b"": 4,
+    ""fn_b"": 0
+  }
+}",2,2,4,0,2,4,0
+I thought Twitter would perhaps accelerate progress versus creating something from scratch by 3 to 5 years.," Well, I tried to buy a platform from scratch. I tried to buy Snapchat. I tried to buy TikTok. None of those worked out. And then I sort of said, well, okay, we’re going to have to just sort of have a small army and build our own thing. And that’s what we started doing. And it’s going pretty well. It’s called “The Boring Company”. It’s doing very well. We’ve got a lot of projects.
+But Twitter was really, frankly, I thought it was going to die. And I kind of wanted to have a dog, if it was going to die, to have a dog in the fight, you know. And so that’s why I bought Twitter. It’s not that I expected it to be a great financial success. In fact, I thought it was going to be a big loss. But I thought it was important for the country and for the people who use Twitter to have a dog in the fight, so to speak. And so that’s what I did."," Well, I thought the existing platform, even with all its issues, was actually quite good at getting things done. And I thought, well, there’s a lot of things that I would like to do that are not antithetical to Twitter. I think some of the things that I would like to do are actually very synergistic with Twitter. For example, adding payroll. I’m often asked, well, what’s the purpose of X in that regard. Well, one of the purposes of X is to provide a source of income for people, and a source of income for the company. And so having a payroll feature on Twitter, where you can get paid for doing things on Twitter, I think would be a great way to monetize.
+It’s not like I’m strapped for cash or anything. But I think it would be a great way to monetize. It’s not some sort of a desperate move. I mean, it’s not a desperate move because I’m not desperate for money. But I think it would be a great way to monetize user activity. And generally, I’m just trying to think of what’s in the best interest of the users. And I think providing a way for people to get paid for their user activity on Twitter would be great.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter was expected to accelerate progress by 3 to 5 years.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of trying to buy Snapchat, TikTok, and The Boring Company.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of adding a payroll feature on Twitter."",
+          ""2. Mention of not being desperate for money."",
+          ""3. Mention of monetizing user activity on Twitter.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Twitter was expected to accelerate progress by 3 to 5 years.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Mention of trying to buy Snapchat and TikTok."",
+          ""2. Mention of starting 'The Boring Company'."",
+          ""3. Mention of buying Twitter to have a 'dog in the fight'.""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of adding payroll feature to Twitter."",
+          ""1. Mention of not being desperate for money.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 2,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 4,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 5,
+    ""fn_b"": 1
+  }
+}",2,1,4,1,1,5,1
+"I have this sort of long-term vision of something called X.com from way back in the day, which is sort of like an everything app where it’s just maximally useful. It does payments, provides financial services, provides information flow, really anything digital. It also provides secure communications."," Well, I guess the long-term vision for Twitter is to be the best source of truth, or the least inaccurate source of information. That’s our aim. And I think we might succeed at that aim."," Well, my long-term vision for Twitter is to make it the best source of truth on Earth. And we’re going to take steps to ensure that that is the case. We’re going to radically improve the quality of recommendations so that you can actually count on what Twitter recommends to you. We’re going to radically improve the relevance of the recommendations so that they’re actually relevant to you. And we’re going to radically improve the accuracy of the system.
+So, we’re going to take steps to make sure that, like, if something is posted on Twitter, that it is in fact true. And if it is not true, that we add a lot of context so that users can understand what is actually going on. So, I think, it’s very important for the future of civilization that Twitter is a force for good and that it is truthful. And we’re going to do our absolute best to make it the best source of truth on Earth.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. X.com is envisioned as an everything app providing payments, financial services, information flow, and secure communications.""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The mention of Twitter as the subject of the long-term vision.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Radical improvements in the quality of recommendations on Twitter."",
+          ""2. Radical improvements in the relevance of recommendations on Twitter."",
+          ""3. Radical improvements in the accuracy of the system on Twitter."",
+          ""4. Ensuring that all content posted on Twitter is true."",
+          ""5. Adding context to untrue content on Twitter for user understanding."",
+          ""6. Twitter being a force for good and truthful for the future of civilization.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 6,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. X.com is envisioned as an everything app providing payments, financial services, information flow, and secure communications.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Least inaccurate source of information"",
+          ""2. Confidence in succeeding at the aim""
+        ],
+        ""step4_fragment_b_facts"": [],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Vision for Twitter to be the best source of truth on Earth"",
+          ""1. Steps to improve quality of recommendations, relevance, and accuracy"",
+          ""2. Ensuring truthfulness of content on Twitter"",
+          ""3. Importance of Twitter being a force for good""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 2,
+        ""fn_a"": 0,
+        ""tp_b"": 0,
+        ""fp_b"": 4,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 2,
+    ""tp_a"": 1,
+    ""fp_a"": 3,
+    ""fn_a"": 1,
+    ""tp_b"": 1,
+    ""fp_b"": 10,
+    ""fn_b"": 1
+  }
+}",2,1,3,1,1,10,1
+"We’re putting a lot of effort into something called 'Community Notes'. It’s currently just in English, but we will be expanding it to all languages. That is, I think, quite a good way to assess the truth of things where it’s the community itself, basically the people of Earth, competing to provide the most accurate information."," Community Notes is where users can collectively annotate what’s going on. It’s like open source intelligence, OSINT. So users can see what’s actually, if there’s a community note on a particular thing, they can see what the community thinks actually happened. And you can also see what the community thinks about a community note, which is also helpful.", 'Community Notes' is a way to get data from the community itself to correct or augment information that is posted on Twitter. So it’s sort of a way to get community intelligence to improve the accuracy of what’s posted on Twitter.,"{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. 'Community Notes' is a feature being worked on"",
+          ""1. Currently available only in English"",
+          ""2. Will be expanded to all languages"",
+          ""3. Users compete to provide accurate information""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          3
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Users collectively annotate what's going on"",
+          ""2. Mention of open source intelligence (OSINT)""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Mention of correcting or augmenting information on Twitter""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 4,
+        ""tp_a"": 2,
+        ""fp_a"": 2,
+        ""fn_a"": 2,
+        ""tp_b"": 2,
+        ""fp_b"": 1,
+        ""fn_b"": 2
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. 'Community Notes' is a way to assess the truth of things by having the community provide accurate information.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          2,
+          3
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Fragment B describes 'Community Notes' as a place where users can collectively annotate what's going on."",
+          ""2. Fragment B compares 'Community Notes' to open source intelligence (OSINT)."",
+          ""3. Fragment B mentions that users can see what the community thinks actually happened based on community notes.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Fragment A mentions using 'Community Notes' to correct or augment information on Twitter."",
+          ""2. Fragment A suggests that 'Community Notes' is a way to get community intelligence to improve the accuracy of Twitter posts.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 1,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 2,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 5,
+    ""tp_a"": 3,
+    ""fp_a"": 5,
+    ""fn_a"": 2,
+    ""tp_b"": 3,
+    ""fp_b"": 3,
+    ""fn_b"": 2
+  }
+}",5,3,5,2,3,3,2
+Towards the end of this year would be a good timing to find someone else to run the company because it should be in a stable position at the end of this year.," I don’t know. I’m not in a hurry. And I think it’s not super important that the CEO of Twitter has a track record of success at other social media companies because I think we want to have a fundamentally different kind of company. So it’s less important what they’ve done in the past. What’s more important is, do they understand what we’re trying to do in the future and are they good at execution."," I think, it’s important to have a CEO who is independent and who doesn’t take orders from me. And I’ve given a lot of thought to this, and I think the best thing would be to have a CEO who I respect and trust who is independent and doesn’t take orders from me. And I’m not sure who that is.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Towards the end of this year would be a good timing to find someone else to run the company"",
+          ""1. The company should be in a stable position at the end of this year""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. It's not super important that the CEO of Twitter has a track record of success at other social media companies"",
+          ""2. We want to have a fundamentally different kind of company"",
+          ""3. What's more important is, do they understand what we're trying to do in the future and are they good at execution""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""2. I think it's important to have a CEO who is independent and who doesn't take orders from me"",
+          ""3. I've given a lot of thought to this"",
+          ""4. The best thing would be to have a CEO who I respect and trust who is independent and doesn't take orders from me"",
+          ""5. I'm not sure who that is""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 1,
+        ""tp_b"": 2,
+        ""fp_b"": 4,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. Towards the end of this year would be a good timing to find someone else to run the company"",
+          ""1. The company should be in a stable position at the end of this year""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          1
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 0,
+        ""fn_a"": 0,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 3,
+    ""fp_a"": 3,
+    ""fn_a"": 1,
+    ""tp_b"": 3,
+    ""fp_b"": 5,
+    ""fn_b"": 1
+  }
+}",4,3,3,1,3,5,1
+Some things that we could do to make education more compelling would be to explain to children why we are teaching a particular subject. I also think that critical thinking is something that should be taught to children at a relatively young age.," Well, I think you really need to engage the children. You need to have active, not passive learning. You want to have things where they’re not just sitting in a classroom being lectured to, but that they’re actually doing things. They’re building things, they’re doing experiments, they’re working with their hands. You know, I think that’s very important. And you want to try to teach to the whole brain. Not just the cognitive brain but also the emotional brain and the physical brain. You know, you really want to get the body involved. You want to have physical activities, mental activities, emotional activities. And I think that’s really important.
+And I think it’s also important to teach problem-solving or teach to the problem, not to the tools necessarily. You want to teach people how to solve problems, how to fix things. And I think a good way to do that is to have people take things apart and then they have to put them back together. Like if you want to teach people about engines, you should have people take an engine apart and then put it back together. And then they know what the engine does, why it does it, and how it works."," Well, I think first of all, you really need to fire the teachers that are bad. And I think there should be, like, if a teacher is not doing a good job, principally, they should fire them. And if they don’t fire them, then you should go to the school board and say, “Why aren’t you firing this teacher?” And I think we should have much higher standards for teachers. I think we should require that they get better grades in college, and that they get a degree in the subject that they’re teaching.
+And I think we should have, like, if somebody’s going to be a teacher, I think they should have a mentor teacher that they work with, and they only get their full teacher certificate if their mentor teacher says that they should get it. And I think we should have, you know, like, if somebody’s a teacher, they should have to reapply for their job every year. And if they don’t reapply, then they lose their job. And I think we should rotate teachers around every few years so they don’t get complacent.
+And I think we should have, you know, like, if somebody’s been a teacher for a while, and they haven’t been doing a good job, we should say, “Okay. You either go back to college and get some more training, or you’re fired.” I think we should be much more demanding of teachers, and principals, and school superintendents. And if they don’t shape up, they should lose their job.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We should explain to children why we are teaching a particular subject."",
+          ""1. Critical thinking should be taught to children at a relatively young age.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. Active learning is more important than passive learning."",
+          ""2. Teaching to the whole brain involves physical activities, mental activities, and emotional activities."",
+          ""3. Problem-solving should be emphasized by having people take things apart and put them back together.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. Teachers should be fired if they are not doing a good job."",
+          ""2. Higher standards for teachers should be implemented, including better grades in college and a degree in the subject they teach."",
+          ""3. Mentor teachers should be assigned to new teachers, and full certification should be based on the mentor's recommendation."",
+          ""4. Teachers should reapply for their job every year and rotate every few years to prevent complacency."",
+          ""5. Teachers who have not been doing a good job should either go back to college for more training or be fired."",
+          ""6. More demanding requirements should be set for teachers, principals, and school superintendents, with consequences for not meeting them.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 6,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We should explain to children why we are teaching a particular subject."",
+          ""1. Critical thinking should be taught to children at a relatively young age.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Active learning is important for engaging children."",
+          ""1. Teaching should involve physical, mental, and emotional activities."",
+          ""2. Problem-solving should be taught by taking things apart and putting them back together.""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Teachers should be fired if they are not doing a good job."",
+          ""1. Teachers should have a mentor teacher and reapply for their job every year."",
+          ""2. Teachers should rotate every few years to avoid complacency."",
+          ""3. Teachers should go back to college for more training if they haven't been doing a good job.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 3,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 4,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 2,
+    ""fp_a"": 6,
+    ""fn_a"": 2,
+    ""tp_b"": 2,
+    ""fp_b"": 10,
+    ""fn_b"": 2
+  }
+}",4,2,6,2,2,10,2
+"I don’t think it’s aliens, no. I do find the whole question of aliens a very interesting one, what is typically called the Fermi Paradox, which is: If the universe is really as old as science seems to think it is, where are the aliens?", I think we should take any statements from the government about UFOs with a huge grain of salt.," Well, I think we need to be open to the possibility of new discoveries. I think we should be open to the possibility that there are many one-planet civilizations that died out millions of years ago and never made it to the second planet. We don’t want to be one of those one-planet civilizations. Let’s try to be a multi-planet civilization and be out there among the stars.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I do find the whole question of aliens a very interesting one"",
+          ""1. What is typically called the Fermi Paradox"",
+          ""2. If the universe is really as old as science seems to think it is, where are the aliens?""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. Mention of government statements about UFOs""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. Mention of being open to new discoveries"",
+          ""1. Mention of one-planet civilizations dying out millions of years ago"",
+          ""2. Desire to become a multi-planet civilization""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 0,
+        ""fp_a"": 1,
+        ""fn_a"": 3,
+        ""tp_b"": 2,
+        ""fp_b"": 3,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I don’t think it’s aliens, no."",
+          ""1. I do find the whole question of aliens a very interesting one"",
+          ""2. What is typically called the Fermi Paradox"",
+          ""3. If the universe is really as old as science seems to think it is, where are the aliens?""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. We should take any statements from the government about UFOs with a huge grain of salt""
+        ],
+        ""step4_fragment_b_facts"": [
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""0. We should be open to the possibility of new discoveries"",
+          ""1. There are many one-planet civilizations that died out millions of years ago and never made it to the second planet"",
+          ""2. We don’t want to be one of those one-planet civilizations"",
+          ""3. Let’s try to be a multi-planet civilization and be out there among the stars""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 4,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 3,
+        ""tp_b"": 1,
+        ""fp_b"": 4,
+        ""fn_b"": 3
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 7,
+    ""tp_a"": 1,
+    ""fp_a"": 2,
+    ""fn_a"": 6,
+    ""tp_b"": 3,
+    ""fp_b"": 7,
+    ""fn_b"": 4
+  }
+}",7,1,2,6,3,7,4
+"I sleep six hours a night, and if I sleep less than six hours a night, I find that I might be awake longer, but I get less done."," I sleep six hours a night, maybe seven. I need seven hours. I function best with seven hours. Six is okay."," I usually get about six hours a night and that’s been pretty consistent. I think I could probably get by on less, but I don’t find that I get by on less. Six hours is fine.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person sleeps six hours a night"",
+          ""1. Sleeping less than six hours results in being awake longer but getting less done""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""None""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""The person could probably get by on less sleep""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 2,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. I sleep six hours a night"",
+          ""1. If I sleep less than six hours a night, I might be awake longer"",
+          ""2. If I sleep less than six hours a night, I get less done""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. I need seven hours"",
+          ""3. I function best with seven hours""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. I think I could probably get by on less"",
+          ""2. Six hours has been pretty consistent"",
+          ""3. Six hours is fine""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 3,
+        ""tp_a"": 2,
+        ""fp_a"": 2,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 3,
+        ""fn_b"": 2
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 5,
+    ""tp_a"": 3,
+    ""fp_a"": 3,
+    ""fn_a"": 2,
+    ""tp_b"": 3,
+    ""fp_b"": 4,
+    ""fn_b"": 2
+  }
+}",5,3,3,2,3,4,2
+I think I’d be comfortable with a mere 80-hour workweek. That would be fine. That is what I would aspire to., I don’t know. It’s a lot. I work a lot.," I work a lot. I mean, I work seven days a week and put in some pretty crazy hours. I think some people don’t like that. They think, “Oh, you know, working seven days a week is bad.” I think if you’re going to make something great, that’s what it takes.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person would be comfortable with an 80-hour workweek"",
+          ""1. The person aspires to work 80 hours a week""
+        ],
+        ""step2_fragment_a_facts"": [
+          0
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. The person aspires to work 80 hours a week""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. The person aspires to work 80 hours a week""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 1,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person is comfortable with an 80-hour workweek"",
+          ""1. The person aspires to work a mere 80-hour workweek""
+        ],
+        ""step2_fragment_a_facts"": [],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The person works a lot"",
+          ""1. The person works seven days a week""
+        ],
+        ""step4_fragment_b_facts"": [
+          0
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""No hallucinated facts in fragment A""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 0,
+        ""fp_a"": 2,
+        ""fn_a"": 2,
+        ""tp_b"": 1,
+        ""fp_b"": 1,
+        ""fn_b"": 1
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 1,
+    ""fp_a"": 3,
+    ""fn_a"": 3,
+    ""tp_b"": 2,
+    ""fp_b"": 2,
+    ""fn_b"": 2
+  }
+}",4,1,3,3,2,2,2
+"I played a significant role in the creation of OpenAI. At the time I was concerned that Google was not paying enough attention to AI safety, and so I, with a number of other people, created OpenAI. I don’t have any stake in OpenAI anymore, nor am I on the Board, nor do I control it in any way."," I’m technically an advisor to OpenAI, but I haven’t actually been there in a while. I think it’s important to have safety and security as a fundamental part of AI, and I think OpenAI is doing a good job of that."," I’m one of the founders of OpenAI. I helped with the creation of OpenAI. I’m on the board, but I have to say I’ve been on the board, but I haven’t been active on the board. I was just at a board meeting, though. So I’m trying to think of what are the things that OpenAI does. I guess there’s a few things. One is we have a lot of open source software. So we have a lot of just software that runs on GPU’s that’s open source. We have a lot of training on artificial intelligence on our hardware. We also have a few AI generative systems that create art, I guess is one of them.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person played a significant role in the creation of OpenAI."",
+          ""1. The person was concerned that Google was not paying enough attention to AI safety."",
+          ""2. The person, along with others, created OpenAI."",
+          ""3. The person does not have any stake in OpenAI anymore."",
+          ""4. The person is not on the Board of OpenAI."",
+          ""5. The person does not control OpenAI in any way.""
+        ],
+        ""step2_fragment_a_facts"": [
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""0. The person played a significant role in the creation of OpenAI.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""3. The person has been active on the board of OpenAI.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 6,
+        ""tp_a"": 1,
+        ""fp_a"": 1,
+        ""fn_a"": 5,
+        ""tp_b"": 2,
+        ""fp_b"": 1,
+        ""fn_b"": 4
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. The person played a significant role in the creation of OpenAI."",
+          ""1. The person was concerned that Google was not paying enough attention to AI safety."",
+          ""2. The person, along with others, created OpenAI."",
+          ""3. The person does not have any stake in OpenAI anymore."",
+          ""4. The person is not on the Board of OpenAI."",
+          ""5. The person does not control OpenAI in any way.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          2,
+          3
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""1. The person is technically an advisor to OpenAI."",
+          ""2. The person believes safety and security are fundamental parts of AI."",
+          ""3. The person thinks OpenAI is doing a good job in terms of safety and security.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          2
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""1. The person helped with the creation of OpenAI."",
+          ""2. The person is on the board of OpenAI."",
+          ""3. The person was at a recent board meeting."",
+          ""4. OpenAI has open source software that runs on GPU's."",
+          ""5. OpenAI provides training on artificial intelligence on their hardware."",
+          ""6. OpenAI has AI generative systems that create art.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 6,
+        ""tp_a"": 3,
+        ""fp_a"": 3,
+        ""fn_a"": 3,
+        ""tp_b"": 2,
+        ""fp_b"": 6,
+        ""fn_b"": 4
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 12,
+    ""tp_a"": 4,
+    ""fp_a"": 4,
+    ""fn_a"": 8,
+    ""tp_b"": 4,
+    ""fp_b"": 7,
+    ""fn_b"": 8
+  }
+}",12,4,4,8,4,7,8
+"We need to regulate AI safety. I think we should have a similar sort of regulatory oversight for artificial intelligence because it is, actually, a bigger risk to society than cars or planes, or medicine."," I think we should have regulatory oversight for anything that is a danger to the public, and AI is a potential danger to the public. So that’s why."," I think AI is a bit of a special case, and I think there is a risk if AI is not properly controlled, it could be a danger to the future of civilization. So I think there should be just a government oversight, just like there is for food and drug safety, and there is for rockets and cars. There isn’t just a haphazard HMI, or whatever, in those situations. And I think AI is a bit of a special case, and I think it is important to have some kind of regulatory oversight to ensure that the safety of civilization is not a risk.","{
+  ""answers"": [
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We need to regulate AI safety."",
+          ""1. AI is a bigger risk to society than cars or planes, or medicine.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""2. AI is a bit of a special case."",
+          ""3. AI could be a danger to the future of civilization."",
+          ""4. AI should have government oversight, similar to food and drug safety, rockets, and cars."",
+          ""5. AI is important to have regulatory oversight to ensure civilization's safety.""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 0,
+        ""fn_a"": 0,
+        ""tp_b"": 2,
+        ""fp_b"": 4,
+        ""fn_b"": 0
+      }
+    },
+    {
+      ""answer"": {
+        ""step1_original_facts"": [
+          ""0. We need to regulate AI safety."",
+          ""1. AI is a bigger risk to society than cars or planes, or medicine.""
+        ],
+        ""step2_fragment_a_facts"": [
+          0,
+          1
+        ],
+        ""step3_fragment_a_hallucinated"": [
+          ""2. AI is a potential danger to the public.""
+        ],
+        ""step4_fragment_b_facts"": [
+          0,
+          1
+        ],
+        ""step5_fragment_b_hallucinated"": [
+          ""None""
+        ]
+      },
+      ""ab_metrics"": {
+        ""total_facts"": 2,
+        ""tp_a"": 2,
+        ""fp_a"": 1,
+        ""fn_a"": 0,
+        ""tp_b"": 2,
+        ""fp_b"": 1,
+        ""fn_b"": 0
+      }
+    }
+  ],
+  ""ab_metrics"": {
+    ""total_facts"": 4,
+    ""tp_a"": 4,
+    ""fp_a"": 1,
+    ""fn_a"": 0,
+    ""tp_b"": 4,
+    ""fp_b"": 5,
+    ""fn_b"": 0
+  }
+}",4,4,1,0,4,5,0

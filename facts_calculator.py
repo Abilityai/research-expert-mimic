@@ -11,9 +11,7 @@ from tqdm import tqdm
 import openai as oai
 
 from style_calculator import load_data_jsonl, combine_predictions
-from metrics_utils import remove_prediction_artifacts, compare_predictions_style, \
-    compare_predictions_facts, compare_predictions_facts_cot, compare_predictions_facts_cot_json
-from metrics_utils.cleanup_utils import remove_repetitions
+from metrics_utils import compare_predictions_facts_cot_json, remove_repetitions
 
 
 def store_stats(df: pd.DataFrame, root: Path, stat_fn_stem: str, ds1: str, ds2: str):

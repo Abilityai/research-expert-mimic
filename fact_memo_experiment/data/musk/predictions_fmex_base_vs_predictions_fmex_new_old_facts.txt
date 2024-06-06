@@ -1,0 +1,11 @@
+
+Predictions A: fact_memo_experiment\data\musk\predictions_fmex_base.jsonl
+Predictions B: fact_memo_experiment\data\musk\predictions_fmex_new_old.jsonl
+
+Facts comparison:
+Total facts: 203
+A: TP=107, FP=548, FN=96
+B: TP=100, FP=314, FN=103
+
+A: Precision=0.163, Recall=0.527, F1=0.249
+B: Precision=0.242, Recall=0.493, F1=0.324
