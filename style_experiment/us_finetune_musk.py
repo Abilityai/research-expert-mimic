@@ -8,7 +8,7 @@ from transformers import TrainingArguments, AutoTokenizer
 from trl import SFTTrainer
 from unsloth import FastLanguageModel, get_chat_template
 import torch
-from datasets import concatenate_datasets
+from datasets import concatenate_datasets, Dataset
 from aenum import StrEnum
 
 from data_parsers.dataset_utils import PartsEnum, PersonsEnum, read_dataset_messages
@@ -78,7 +78,7 @@ def build_dataset(train_plan: TrainPlan):
     if train_plan.fraction == Fraction.OneHalf or train_plan.fraction == Fraction.AndAHalf:
         ds = read_dataset_messages(
             PersonsEnum.ElonMusk, PartsEnum.train, dialog_length=5, randomize_length=True)
-        ds = ds[::2]
+        ds = Dataset.from_dict(ds[::2])
         datasets.append(ds)
     if (train_plan.fraction == Fraction.Full or train_plan.fraction == Fraction.AndAHalf or
             train_plan.fraction == Fraction.Double):
