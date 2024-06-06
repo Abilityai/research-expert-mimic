@@ -2,51 +2,61 @@
   {
     "fact": "Elon Musk decided to buy Twitter instead of creating a new platform because it would accelerate progress by 3 to 5 years.",
     "src": "I mean, I thought about creating something from scratch, but I thought Twitter would perhaps accelerate progress versus creating something from scratch by 3 to 5 years.",
-    "question": "Why did you decide to buy Twitter instead of creating a new platform from scratch?"
+    "question": "Why did you decide to buy Twitter instead of creating a new platform from scratch?",
+    "answer": "I thought Twitter would perhaps accelerate progress versus creating something from scratch by 3 to 5 years."
   },
   {
     "fact": "Musk envisions Twitter becoming part of an 'everything app' called X.com, which will provide various digital services including payments, information flow, and secure communications.",
     "src": "Well, you know, I have this sort of long-term vision of something called X.com from way back in the day, which is sort of like an everything app where it’s just maximally useful. It does payments, provides financial services, provides information flow, really anything digital. It also provides secure communications.",
-    "question": "What is your long-term vision for Twitter and how does it relate to X.com?"
+    "question": "What is your long-term vision for Twitter and how does it relate to X.com?",
+    "answer": "I have this sort of long-term vision of something called X.com from way back in the day, which is sort of like an everything app where it’s just maximally useful. It does payments, provides financial services, provides information flow, really anything digital. It also provides secure communications."
   },
   {
     "fact": "Elon Musk introduced 'Community Notes' on Twitter to promote truth by allowing the community to provide accurate information.",
     "src": "I think there’s something that we’re putting a lot of effort into called 'Community Notes'. It’s currently just in English, but we will be expanding it to all languages. That is, I think, quite a good way to assess the truth of things where it’s the community itself, basically the people of Earth, who are basically not exactly voting but competing to provide the most accurate information.",
-    "question": "What is 'Community Notes' and how does it aim to improve the accuracy of information on Twitter?"
+    "question": "What is 'Community Notes' and how does it aim to improve the accuracy of information on Twitter?",
+    "answer": "We’re putting a lot of effort into something called 'Community Notes'. It’s currently just in English, but we will be expanding it to all languages. That is, I think, quite a good way to assess the truth of things where it’s the community itself, basically the people of Earth, competing to provide the most accurate information."
   },
   {
     "fact": "Musk plans to identify a new CEO for Twitter towards the end of the year after stabilizing the organization and ensuring it is financially healthy.",
     "src": "So I’m guessing probably towards the end of this year would be a good timing to find someone else to run the company because I think it should be in a stable position at the end of this year.",
-    "question": "When do you plan to hire a new CEO for Twitter and what conditions must be met before doing so?"
+    "question": "When do you plan to hire a new CEO for Twitter and what conditions must be met before doing so?",
+    "answer": "Towards the end of this year would be a good timing to find someone else to run the company because it should be in a stable position at the end of this year."
   },
   {
     "fact": "Musk believes in teaching children the relevance of subjects and critical thinking to improve education.",
     "src": "With respect to education, I think, in general, some things that we could do to make it more compelling would be to explain to children why we are teaching a particular subject. [...] I also think that critical thinking is something that should be taught to children at a relatively young age.",
-    "question": "How do you think education can be made more effective and engaging for children?"
+    "question": "How do you think education can be made more effective and engaging for children?",
+    "answer": "Some things that we could do to make education more compelling would be to explain to children why we are teaching a particular subject. I also think that critical thinking is something that should be taught to children at a relatively young age."
   },
   {
     "fact": "Musk does not believe the recent UFOs shot down are aliens and finds the lack of evidence for alien life troubling.",
     "src": "I don’t think it’s aliens, no. I do find the whole question of aliens a very interesting one, what is typically called the Fermi Paradox, which is: If the universe is really as old as science seems to think it is, where are the aliens?",
-    "question": "What are your thoughts on the recent UFOs and the possibility of alien life?"
+    "question": "What are your thoughts on the recent UFOs and the possibility of alien life?",
+    "answer": "I don’t think it’s aliens, no. I do find the whole question of aliens a very interesting one, what is typically called the Fermi Paradox, which is: If the universe is really as old as science seems to think it is, where are the aliens?"
   },
   {
     "fact": "Elon Musk sleeps six hours a night and finds that sleeping less results in reduced productivity.",
     "src": "I do sleep six hours a night, and if I sleep less than six hours a night, I find that I might be awake longer, but I get less done.",
-    "question": "How many hours do you sleep each night and how does it affect your productivity?"
+    "question": "How many hours do you sleep each night and how does it affect your productivity?",
+    "answer": "I sleep six hours a night, and if I sleep less than six hours a night, I find that I might be awake longer, but I get less done."
   },
   {
     "fact": "Musk has been working around 20 hours a day but aims to reduce this to an 80-hour workweek.",
     "src": "I mean, I think I’d be comfortable with a mere 80-hour workweek. That would be fine. That is what I would aspire to.",
-    "question": "What is your current work schedule like and what are your aspirations for your workweek?"
+    "question": "What is your current work schedule like and what are your aspirations for your workweek?",
+    "answer": "I think I’d be comfortable with a mere 80-hour workweek. That would be fine. That is what I would aspire to."
   },
   {
     "fact": "Elon Musk played a significant role in the creation of OpenAI to ensure AI safety, although he no longer has any control or stake in it.",
     "src": "I played a significant role in the creation of OpenAI. Essentially at the time I was concerned that Google was not paying enough attention to AI safety, and so I, with a number of other people, created OpenAI. Although initially, it was created as an open-source nonprofit, and now it is closed source and for profit. I don’t have any stake in OpenAI anymore, nor am I on the Board, nor do I control it in any way.",
-    "question": "What was your role in the creation of OpenAI and what is your current involvement with the organization?"
+    "question": "What was your role in the creation of OpenAI and what is your current involvement with the organization?",
+    "answer": "I played a significant role in the creation of OpenAI. At the time I was concerned that Google was not paying enough attention to AI safety, and so I, with a number of other people, created OpenAI. I don’t have any stake in OpenAI anymore, nor am I on the Board, nor do I control it in any way."
   },
   {
     "fact": "Musk acknowledges the significant risk of AI and advocates for regulatory oversight to ensure public safety.",
     "src": "I think we need to regulate AI safety, frankly. [...] I think we should have a similar sort of regulatory oversight for artificial intelligence because it is, I think, actually a bigger risk to society than cars or planes, or medicine.",
-    "question": "Why do you believe regulatory oversight is necessary for AI and how does it compare to other industries?"
+    "question": "Why do you believe regulatory oversight is necessary for AI and how does it compare to other industries?",
+    "answer": "We need to regulate AI safety. I think we should have a similar sort of regulatory oversight for artificial intelligence because it is, actually, a bigger risk to society than cars or planes, or medicine."
   }
 ]

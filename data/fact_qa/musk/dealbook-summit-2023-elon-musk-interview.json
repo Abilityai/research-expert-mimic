@@ -2,136 +2,163 @@
   {
     "fact": "Elon Musk has designed an electric supersonic vertical takeoff jet but hasn't been able to develop it.",
     "src": "Elon Musk (24:43): I've got an entire design for an electric supersonic vertical takeoff jet, but I just can't do that as well. I've had that for 10 years.",
-    "question": "What innovative design have you had for over 10 years that you haven't been able to develop?"
+    "question": "What innovative design have you had for over 10 years that you haven't been able to develop?",
+    "answer": "I've got an entire design for an electric supersonic vertical takeoff jet, but I just can't do that as well."
   },
   {
     "fact": "The Tesla supercharging network alone could be a Fortune 500 company.",
     "src": "Elon Musk (27:10): If the Tesla supercharging network were its own company, it would be a Fortune 500 company by itself, just the supercharging system.",
-    "question": "What aspect of Tesla could stand alone as a Fortune 500 company?"
+    "question": "What aspect of Tesla could stand alone as a Fortune 500 company?",
+    "answer": "If the Tesla supercharging network were its own company, it would be a Fortune 500 company by itself, just the supercharging system."
   },
   {
     "fact": "Tesla has made its supercharger technology available for free to other manufacturers.",
     "src": "Elon Musk (38:29): At Tesla, we have made our supercharger system open access. We've made our charger technology available for free to the other manufacturers.",
-    "question": "How has Tesla shared its supercharger technology with other manufacturers?"
+    "question": "How has Tesla shared its supercharger technology with other manufacturers?",
+    "answer": "We have made our supercharger system open access. We've made our charger technology available for free to the other manufacturers."
   },
   {
     "fact": "Musk believes SpaceX, Tesla, and PayPal have harnessed his 'demons of the mind' to productive ends.",
     "src": "Elon Musk (27:10): These demons of the mind are, for the most part, harnessed to productive ends.",
-    "question": "Which companies does Musk mention as examples of harnessing his 'demons of the mind' to productive ends?"
+    "question": "Which companies does Musk mention as examples of harnessing his 'demons of the mind' to productive ends?",
+    "answer": "These demons of the mind are, for the most part, harnessed to productive ends."
   },
   {
     "fact": "Elon Musk values the philosophy of curiosity.",
     "src": "Elon Musk (29:14): If I were to describe my philosophy, it is a philosophy of curiosity.",
-    "question": "How would you describe your personal philosophy?"
+    "question": "How would you describe your personal philosophy?",
+    "answer": "If I were to describe my philosophy, it is a philosophy of curiosity."
   },
   {
     "fact": "Musk had an existential crisis at age 12 and found solace in Douglas Adams' 'Hitchhiker's Guide to the Galaxy'.",
     "src": "Elon Musk (29:14): I did have this existential crisis when I was around 12... then I read Douglas Adams' Hitchhiker's Guide to the Galaxy.",
-    "question": "What book helped you during your existential crisis at age 12?"
+    "question": "What book helped you during your existential crisis at age 12?",
+    "answer": "I did have this existential crisis when I was around 12... then I read Douglas Adams' Hitchhiker's Guide to the Galaxy."
   },
   {
     "fact": "Elon Musk believes being a multi-planet species is more than just life insurance; it gives life meaning.",
     "src": "Elon Musk (32:40): Being a multi-planet species is more than simply life insurance for life collectively. It's also about giving life meaning.",
-    "question": "Why do you believe being a multi-planet species is important beyond just life insurance?"
+    "question": "Why do you believe being a multi-planet species is important beyond just life insurance?",
+    "answer": "Being a multi-planet species is more than simply life insurance for life collectively. It's also about giving life meaning."
   },
   {
     "fact": "Musk thinks AI will surpass human intelligence in less than three years.",
     "src": "Elon Musk (53:22): I would say that we're less than three years from that point.",
-    "question": "How soon do you believe AI will surpass human intelligence?"
+    "question": "How soon do you believe AI will surpass human intelligence?",
+    "answer": "I would say that we're less than three years from that point."
   },
   {
     "fact": "Elon Musk has publicly admitted to being optimistic about timelines and often being late, but always delivering in the end.",
     "src": "Elon Musk (01:31:53): It would be a fair criticism of me to say that I'm late, but I always deliver in the end.",
-    "question": "How do you respond to criticisms about being optimistic with timelines and often being late?"
+    "question": "How do you respond to criticisms about being optimistic with timelines and often being late?",
+    "answer": "It would be a fair criticism of me to say that I'm late, but I always deliver in the end."
   },
   {
     "fact": "Elon Musk tweeted 'amplify empathy' on November 11th.",
     "src": "Andrew Ross Sorkin (01:31:53): You took to Twitter and you wrote only two words. You said amplify empathy.",
-    "question": "What did you tweet on November 11th that took people aback?"
+    "question": "What did you tweet on November 11th that took people aback?",
+    "answer": "I wrote only two words: amplify empathy."
   },
   {
     "fact": "Elon Musk believes the Tesla Model Y will be the best-selling car of any kind on earth this year.",
     "src": "Elon Musk (01:16:13): The Tesla model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.",
-    "question": "Which car do you predict will be the best-selling car of any kind on earth this year?"
+    "question": "Which car do you predict will be the best-selling car of any kind on earth this year?",
+    "answer": "The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise."
   },
   {
     "fact": "Musk had a great relationship with Obama and voted for him.",
     "src": "Elon Musk (01:05:57): And by the way, I had a great relationship with Obama. I voted for Obama.",
-    "question": "Which US president did you have a great relationship with and vote for?"
+    "question": "Which US president did you have a great relationship with and vote for?",
+    "answer": "I had a great relationship with Obama. I voted for Obama."
   },
   {
     "fact": "Starlink and SpaceX do no business in China.",
     "src": "Elon Musk (44:05): Well, first of all, Starlink and SpaceX do no business in China whatsoever.",
-    "question": "Which of your companies do no business in China?"
+    "question": "Which of your companies do no business in China?",
+    "answer": "Starlink and SpaceX do no business in China whatsoever."
   },
   {
     "fact": "The Tesla Model Y is predicted to be the best-selling car of any kind on earth in 2023.",
     "src": "Elon Musk (01:16:13): The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise.",
-    "question": "Which car do you predict will be the best-selling car of any kind on earth this year?"
+    "question": "Which car do you predict will be the best-selling car of any kind on earth this year?",
+    "answer": "The Tesla Model Y will be the best selling car of any kind on earth this year, of any kind, gasoline or otherwise."
   },
   {
     "fact": "Tesla sells twice as many electric vehicles as the rest of the electric car makers in the United States combined.",
     "src": "Elon Musk (14:53): Tesla currently sells twice as much in terms of electric vehicles, as rest of electric car makers in the United States combined.",
-    "question": "How does Tesla's electric vehicle sales compare to the rest of the electric car makers in the United States?"
+    "question": "How does Tesla's electric vehicle sales compare to the rest of the electric car makers in the United States?",
+    "answer": "Tesla currently sells twice as much in terms of electric vehicles as the rest of the electric car makers in the United States combined."
   },
   {
     "fact": "Musk believes that the self-driving beta is around four times safer than a human driving by themselves.",
     "src": "Elon Musk (01:30:42): The data is unequivocal that supervised full self-driving is somewhere around four times safer or maybe more, than just a human driving by themselves.",
-    "question": "How much safer do you believe supervised full self-driving is compared to human driving?"
+    "question": "How much safer do you believe supervised full self-driving is compared to human driving?",
+    "answer": "Supervised full self-driving is somewhere around four times safer or maybe more than just a human driving by themselves."
   },
   {
     "fact": "Musk does not personally use TikTok and stopped using it when he felt the AI probing his mind.",
     "src": "Elon Musk (01:02:33): I don’t personally use it, but for teenagers and people in their 20s, they seem almost religiously addicted to TikTok. I stopped using TikTok when I felt the AI probing my mind and it made me uncomfortable.",
-    "question": "Why did you stop using TikTok?"
+    "question": "Why did you stop using TikTok?",
+    "answer": "I stopped using TikTok when I felt the AI probing my mind and it made me uncomfortable."
   },
   {
     "fact": "Musk thinks the TikTok algorithm is designed to find the most viral content possible.",
     "src": "Elon Musk (01:03:26): The TikTok algorithm is entirely AI-powered. So it is really just trying to find the most viral thing possible.",
-    "question": "What do you think the TikTok algorithm is designed to do?"
+    "question": "What do you think the TikTok algorithm is designed to do?",
+    "answer": "The TikTok algorithm is entirely AI-powered. So it is really just trying to find the most viral thing possible."
   },
   {
     "fact": "Musk acknowledges that people criticize him for being late but asserts that he always delivers in the end.",
     "src": "Elon Musk (01:31:53): It would be a fair criticism of me to say that I’m late, but I always deliver in the end.",
-    "question": "How do you respond to criticisms about being optimistic with timelines and often being late?"
+    "question": "How do you respond to criticisms about being optimistic with timelines and often being late?",
+    "answer": "It would be a fair criticism of me to say that I’m late, but I always deliver in the end."
   },
   {
     "fact": "Musk expressed frustration with the Biden Administration for excluding Tesla from an electric vehicle summit.",
     "src": "Elon Musk (01:05:45): We literally make more electric cars than everyone else combined. Why are we not allowed? Why are you only letting Ford, GM, Chrysler, and UAW, and you’re specifically disallowing us from the EV summit at the White House?",
-    "question": "What was your frustration with the Biden Administration regarding an electric vehicle summit?"
+    "question": "What was your frustration with the Biden Administration regarding an electric vehicle summit?",
+    "answer": "We literally make more electric cars than everyone else combined. Why are we not allowed? Why are you only letting Ford, GM, Chrysler, and UAW, and you’re specifically disallowing us from the EV summit at the White House?"
   },
   {
     "fact": "Musk believes in making the best products and that this approach has helped Tesla succeed without advertising.",
     "src": "Elon Musk (14:44): We focus on making the best products and Tesla has gotten to where it’s gotten with no advertising at all.",
-    "question": "What approach do you believe has helped Tesla succeed without advertising?"
+    "question": "What approach do you believe has helped Tesla succeed without advertising?",
+    "answer": "We focus on making the best products and Tesla has gotten to where it’s gotten with no advertising at all."
   },
   {
     "fact": "Musk has a philosophy of curiosity and had an existential crisis at age 12.",
     "src": "Elon Musk (29:14): If I were to describe my philosophy, it is a philosophy of curiosity. I did have this existential crisis when I was around 12.",
-    "question": "How would you describe your personal philosophy and what existential crisis did you have at age 12?"
+    "question": "How would you describe your personal philosophy and what existential crisis did you have at age 12?",
+    "answer": "If I were to describe my philosophy, it is a philosophy of curiosity. I did have this existential crisis when I was around 12."
   },
   {
     "fact": "Musk has harnessed his 'demons of the mind' to productive ends, resulting in successful companies like SpaceX, Tesla, and PayPal.",
     "src": "Elon Musk (27:10): These demons of the mind are, for the most part, harnessed to productive ends.",
-    "question": "How have you harnessed your 'demons of the mind' to productive ends and what companies resulted from this?"
+    "question": "How have you harnessed your 'demons of the mind' to productive ends and what companies resulted from this?",
+    "answer": "These demons of the mind are, for the most part, harnessed to productive ends."
   },
   {
     "fact": "Musk believes in extending life beyond Earth to pass the Fermi Great Filter and give life meaning.",
     "src": "Elon Musk (32:40): We must get past this Fermi Great Filter of being a single-planet civilization.",
-    "question": "Why do you believe it is important to extend life beyond Earth and what philosophical concept supports this?"
+    "question": "Why do you believe it is important to extend life beyond Earth and what philosophical concept supports this?",
+    "answer": "We must get past this Fermi Great Filter of being a single-planet civilization."
   },
   {
     "fact": "Musk is optimistic about AI timelines, predicting significant advancements within three years.",
     "src": "Elon Musk (53:22): I would say that we’re less than three years from that point.",
-    "question": "How soon do you predict significant advancements in AI will occur?"
+    "question": "How soon do you predict significant advancements in AI will occur?",
+    "answer": "I would say that we’re less than three years from that point."
   },
   {
     "fact": "Musk values the Community Notes system on X for adding context and correcting falsehoods.",
     "src": "Elon Musk (01:12:25): We’ve got this great system, and it’s getting better, called Community Notes, which is fantastic at correcting falsehoods, or adding context.",
-    "question": "What system do you value on X for adding context and correcting falsehoods?"
+    "question": "What system do you value on X for adding context and correcting falsehoods?",
+    "answer": "We’ve got this great system, and it’s getting better, called Community Notes, which is fantastic at correcting falsehoods, or adding context."
   },
   {
     "fact": "Musk believes that China is Tesla's toughest competition and praises their manufacturing capabilities.",
     "src": "Elon Musk (01:16:49): By far our toughest competition is in China. China is super good at manufacturing, and the work ethic is incredible.",
-    "question": "Which country do you believe is Tesla's toughest competition and why?"
+    "question": "Which country do you believe is Tesla's toughest competition and why?",
+    "answer": "By far our toughest competition is in China. China is super good at manufacturing, and the work ethic is incredible."
   }
 ]
