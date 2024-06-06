@@ -93,12 +93,13 @@ def main():
 
     for model_name in tqdm(model_names, desc="Predicting per model"):
         preds = make_predictions(model_name, test_dataset)
-        model_suffix = model_name.split("fme_")[-1] if "fme_" in model_name else "base"
+        model_suffix = model_name.split("fmex_")[-1] if "fmex_" in model_name else "base"
         predictions[f'pred'] = preds
         results_df = pd.DataFrame(predictions)
         results_df['answer'] = test_dataset['answer']
+        results_df['fact'] = test_dataset['fact']
         results_df["messages"] = test_dataset["messages"]
-        results_df.to_json(reports_root / f"predictions_fme_{model_suffix}.jsonl",
+        results_df.to_json(reports_root / f"predictions_fmex_{model_suffix}.jsonl",
                            orient='records', lines=True, force_ascii=False)
 
 
