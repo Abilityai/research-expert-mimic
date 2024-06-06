@@ -1,6 +1,6 @@
 import json
 from dataclasses import dataclass, field
-from enum import StrEnum
+from aenum import StrEnum
 from pathlib import Path
 import random
 
