@@ -1,0 +1,7 @@
+
+Predictions A: style_experiment\data\musk\predictions_stex_f_1.0.jsonl
+Predictions B: style_experiment\data\musk\predictions_stex_f_1.5.jsonl
+
+Style comparison:
+  Winner: A
+  'A':172, 'B':159, '=':7
