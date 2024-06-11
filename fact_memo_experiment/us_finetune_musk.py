@@ -70,7 +70,7 @@ def build_dataset(train_plan: TrainPlan):
     datasets = []
     for part in train_plan.parts:
         for _ in range(train_plan.epochs):
-            ds = read_dataset_messages(PersonsEnum.ElonMusk, part, dialog_length=5, randomize_length=True)
+            ds = read_dataset_messages(PersonsEnum.ElonMusk, part)
             datasets.append(ds)
     return concatenate_datasets(datasets)
 
