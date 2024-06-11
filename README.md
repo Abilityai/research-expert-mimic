@@ -10,10 +10,11 @@ To install the required packages, run the following command:
 pip install -r requirements.txt
 ```
 
-In addition, you need to install the unsloth package. It's installation depends on
+In addition, you need to install the unsloth package. Its installation depends on 
 the hardware you are using. Please refer to the 
 [official documentation](https://github.com/unslothai/unsloth?tab=readme-ov-file#-installation-instructions)
 for more information.
+
 
 This code was tested with Python 3.11 and two GPUs: NVIDIA GeForce RTX 3090 on the 
 local Ubuntu machine and L4 on the [LightningStudio](https://lightning.ai/) platform.
@@ -25,9 +26,10 @@ environment variables. You can use the '.env.example' file as a template.
 ### Datasets
 
 * [ChatML dataset](data/chat) - a dataset of interviews with chatbots. Files starting 
-with underscore treat as a test set.
+with an underscore should be treated as a test set.
 * [Fact Q/A dataset](data/fact_qa) - a dataset with facts and questions about them 
-for 3 the newest interviews (that contains "2023" in the filename).
+for the three newest interviews (those containing "2023" in the filename).
+
 
 ### Style experiment
 To perform the style experiment, we need to make 3 steps:
@@ -52,7 +54,7 @@ python3 style_calculator.py {path_to_file_a.jsonl} {path_to_file_b.jsonl}
 ```
 This script generates the reports for the pairwise comparison of the responses. This
 report contains two files:
-- CVS with per-sample results for debugging
+- CSV with per-sample results for debugging
 - TXT with the final result
 
 Reports are saved to the folder of the first file with the name pattern 
@@ -78,8 +80,8 @@ every pair you want to compare:
 python3 facts_calculator.py {path_to_file_a.jsonl} {path_to_file_b.jsonl}
 ```
 This script generates the reports for the pairwise comparison of the responses. This
-report contains two files with the same names as in the style experiment. But the
-reports contains another metrics as it described in the paper.
+report contains two files with the same names as in the style experiment. However, the 
+reports contain different metrics as described in the paper.
 
 ### Models
 The trained models are available in the Hugging Face Hub:
